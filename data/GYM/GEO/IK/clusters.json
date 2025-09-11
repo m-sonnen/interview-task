@@ -1,0 +1,2380 @@
+[
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_06",
+        "name": "3.5.2.6 Entwicklungen in der Anthroposph\u00e4re",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.2.6 Entwicklungen in der Anthroposph\u00e4re\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die raum-zeitliche Entwicklung der Weltbev\u00f6lkerung darstellen. Sie k\u00f6nnen die weltweiten Verflechtungen und Raumwirksamkeit des Globalisierungsprozesses erl\u00e4utern.",
+        "path": [
+            "02",
+            "06"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_06_a",
+                "name": "3.5.2.6 Entwicklungen in der Anthroposph\u00e4re",
+                "path": [
+                    "02",
+                    "06"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_06_01",
+                        "content": "die raum-zeitliche Entwicklung der Weltbev\u00f6lkerung sowie ihre alters- und geschlechtsspezifische Struktur erl\u00e4utern und daraus resultierende Herausforderungen darstellen (Weltbev\u00f6lkerung, Bev\u00f6lkerungsentwicklung, Modell des demografischen \u00dcbergangs, Herausforderungen, zum Beispiel Bev\u00f6lkerungsdichte, Altersstruktur, Migrationsprozess)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_06_02",
+                        "content": "die Ver\u00e4nderung der Raumstrukturen in ausgew\u00e4hlten Wirtschaftsregionen als Ergebnis wirtschaftlichen Handelns im Globalisierungsprozess erkl\u00e4ren (Standortfaktor, Global Player, Global City, Freihandelszone, Globalisierung, Welthandel, Protektionismus, Freihandel, internationale Arbeitsteilung, Kommunikationstechnologie)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_02",
+                    "BTV_01",
+                    "BNE_01",
+                    "BNE_02",
+                    "BTV_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+        "name": "3.5.2.2 Prozesse in der Atmosph\u00e4re",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.2.2 Prozesse in der Atmosph\u00e4re\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Dynamik lokaler und globaler atmosph\u00e4rischer Prozesse erkl\u00e4ren und in ihrer Auspr\u00e4gung charakterisieren. Sie k\u00f6nnen f\u00fcr ausgew\u00e4hlte Lebensr\u00e4ume die \u00f6kologische Bedeutung des Klimas beurteilen.",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02_a",
+                "name": "3.5.2.2 Prozesse in der Atmosph\u00e4re",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02_01",
+                        "content": "lokale Wetterereignisse und Wetterlagen anhand von Wetterkarten und Satellitenbildern erkl\u00e4ren und Wetterprognosen erstellen (Wetter, Witterung, Klima, Wetterfaktoren, trockenadiabatisch, feuchtadiabatisch, Advektion, Konvektion, Kondensation, Wolkenbildung, Wolkentyp, Mikroklima, Makroklima, Luftdruck, Isobare, Wind, lokales Windsystem, regionales Windsystem, F\u00f6hn, Land-Seewind-System, Zyklone, Antizyklone, Warmfront, Kaltfront, Okklusion, Bodenwetterkarte, H\u00f6henwetterkarte, Satellitenbilder)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02_02",
+                        "content": "die Vielfalt der Klimate als Folge solarer Einstrahlung und atmosph\u00e4rischer Prozesse erkl\u00e4ren (solare Einstrahlung, Albedo, globale atmosph\u00e4rische Zirkulation, ITC, Passatzirkulation, Monsun, Coriolisablenkung, Jetstream, au\u00dfertropische Westwindzone, polare Ostwindzone, Tageszeitenklima, Jahreszeitenklima, Kontinentalit\u00e4t, Maritimit\u00e4t, Meeresstr\u00f6mung, Gebirgsklima)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02_03",
+                        "content": "anhand einer Klimaklassifikation das Klima in seiner r\u00e4umlichen Differenzierung darstellen (Klimaklassifikation)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02_04",
+                        "content": "ein gro\u00dfr\u00e4umig oszillierendes ozeanographisch-meteorologisches System erkl\u00e4ren und dessen Auswirkungen darstellen (zum Beispiel El-Ni\u00f1o-Southern-Oscillation (ENSO), North-Atlantic-Oscillation (NAO))"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02_05",
+                        "content": "das spezifische Klima eines ausgew\u00e4hlten Lebensraumes (Hochgebirge oder W\u00fcste) erkl\u00e4ren \u2013 Hochgebirge: Berg-Tal-Wind-System, Fallwind, F\u00f6hn, H\u00f6henstufen, Baumgrenze, Schneegrenze \u2013 W\u00fcste: Binnenw\u00fcste, K\u00fcstenw\u00fcste, Wendekreisw\u00fcste, Meeresstr\u00f6mung"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BO_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_02",
+        "name": "3.3.1.2 Endogene und exogene Prozesse",
+        "subject": "GEO",
+        "grades": [
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.1.2 Endogene und exogene Prozesse\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Gestaltung der Erdoberfl\u00e4che durch endogene und exogene Prozesse erkl\u00e4ren.",
+        "path": [
+            "01",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_02_a",
+                "name": "3.3.1.2 Endogene und exogene Prozesse",
+                "path": [
+                    "01",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_02_01",
+                        "content": "die innere Struktur der Erde darstellen (Schalenbau der Erde, Erdkruste, Lithosph\u00e4re, Asthenosph\u00e4re, Erdmantel, Erdkern)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_02_02",
+                        "content": "plattentektonische Prozesse und deren Auswirkungen erkl\u00e4ren (Plattentektonik, Subduktion, Ozeanbodenspreizung / Seafloor Spreading, Horizontalverschiebung, Grabenbildung, Gebirgsbildung, Tiefseerinnenbildung, Vulkanismus, Erdbeben, Seebeben, Tsunami)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_02_03",
+                        "content": "den Kreislauf der Gesteine ausgehend von regionalen Beispielen erl\u00e4utern (Verwitterung, Erosion, Sedimentation, Metamorphose, Kristallisation, Mineral, Sedimentit, Metamorphit, Magmatit, Gestein, Basalt, Granit, Gneis, Kalkstein, Sandstein, Kies)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "MB_03",
+                    "MB_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_03_04_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_01",
+        "name": "3.2.3.1 Ph\u00e4nomene der globalen Verst\u00e4dterung",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.1 Ph\u00e4nomene der globalen Verst\u00e4dterung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Ursachen des Wachstums von St\u00e4dten sowie daraus resultierende Folgen darstellen.",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_01_a",
+                "name": "3.2.3.1 Ph\u00e4nomene der globalen Verst\u00e4dterung",
+                "path": [
+                    "03",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_01_01",
+                        "content": "das weltweite Ph\u00e4nomen der Verst\u00e4dterung darstellen (Verst\u00e4dterung, Megacity)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_01_02",
+                        "content": "anhand eines Beispiels aus Afrika, Lateinamerika oder dem tropischen Asien Ursachen und Folgen der Verst\u00e4dterung darstellen (Push- und Pull-Faktoren, Infrastruktur, Armutsviertel, Fl\u00e4chenbedarf, Umweltbelastung)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_01",
+        "name": "3.3.4.1 Analyse ausgew\u00e4hlter Meeresr\u00e4ume",
+        "subject": "GEO",
+        "grades": [
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4.1 Analyse ausgew\u00e4hlter Meeresr\u00e4ume\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen komplexe Wechselwirkungen zwischen dem Natur- und dem Wirtschaftsraum Meer erl\u00e4utern sowie nachhaltige Nutzungsm\u00f6glichkeiten des Meeres er\u00f6rtern.",
+        "path": [
+            "04",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_01_a",
+                "name": "3.3.4.1 Analyse ausgew\u00e4hlter Meeresr\u00e4ume",
+                "path": [
+                    "04",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_01_01",
+                        "content": "das submarine Relief in Grundz\u00fcgen beschreiben (Tiefseerinne, Ozeanischer R\u00fccken, Insel, Schelf)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_01_02",
+                        "content": "Eigenschaften und dynamische Prozesse des Systems Meer erl\u00e4utern (Salzgehalt, thermohaline Zirkulation, W\u00e4rmespeicher, Kohlenstoffdioxidsenke, Wellen, Meeresstr\u00f6mung, Gezeiten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_01_03",
+                        "content": "die Ver\u00e4nderungen der Ozeane in Folge des Klimawandels sowie Gegen- und Schutzma\u00dfnahmen erl\u00e4utern (Meerwassererw\u00e4rmung, Meeresspiegelanstieg, W\u00e4rmetransport, Meereisbedeckung, Versauerung, K\u00fcstenver\u00e4nderung, K\u00fcstenschutz)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_01_04",
+                        "content": "ausgehend von Gef\u00e4hrdungen des Meeres durch den Menschen M\u00f6glichkeiten einer nachhaltigen Nutzung anhand eines der folgenden Beispiele er\u00f6rtern: \u2013 \u00dcberfischung durch Fischerei \u2013 Verschmutzung durch Abfallentsorgung, Rohstoff- und Energiewirtschaft \u2013 Ver\u00e4nderung von \u00d6kosystemen durch Tourismus (Wechselwirkungen, \u00dcberfischung, Verschmutzung, Ver\u00e4nderung von \u00d6kosystemen)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_03",
+                    "BNE_01",
+                    "BNE_02",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02",
+        "name": "3.1.2.2 Klimazonen Europas",
+        "subject": "GEO",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.2.2 Klimazonen Europas\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Klimazonen Europas charakterisieren sowie ihre unterschiedliche land- und forstwirtschaftliche Nutzung erkl\u00e4ren.",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02_a",
+                "name": "3.1.2.2 Klimazonen Europas",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "5",
+                    "6"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02_01",
+                        "content": "die Klimazonen Europas anhand von Temperatur, Niederschlag und Vegetation im \u00dcberblick charakterisieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02_02",
+                        "content": "Zusammenh\u00e4nge zwischen Klima, Vegetation und land- oder forstwirtschaftlicher Nutzung f\u00fcr Nordeuropa, Mitteleuropa und S\u00fcdeuropa erkl\u00e4ren (Golfstrom, Tundra, borealer Nadelwald, Forstwirtschaft, H\u00f6henstufe, Laubwald, Mischwald, Hartlaubvegetation, Regenfeldbau, Bew\u00e4sserungsfeldbau, Almwirtschaft)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03",
+        "name": "3.5.2.3 Prozesse in der Hydrosph\u00e4re",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.2.3 Prozesse in der Hydrosph\u00e4re\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die grundlegenden Prozesse in der Hydrosph\u00e4re in ihren Auswirkungen auf verschiedenen Ma\u00dfstabsebenen erkl\u00e4ren.",
+        "path": [
+            "02",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03_a",
+                "name": "3.5.2.3 Prozesse in der Hydrosph\u00e4re",
+                "path": [
+                    "02",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03_01",
+                        "content": "den Wasserkreislauf und seine grundlegenden Prozesse charakterisieren (Wasserhaushalt, Oberfl\u00e4chenwasser, Grundwasser, Niederschlag, Evaporation, Transpiration, Versickerung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03_02",
+                        "content": "das lokal, regional und global unterschiedliche Wasserdargebot erkl\u00e4ren (Meer, Salzwasser, S\u00fc\u00dfwasser, Wasserdargebot, Wasserverf\u00fcgbarkeit, Wasserbedarf, Wasserverbrauch, Wasserqualit\u00e4t, Wassergewinnung, Klimawandel)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_07",
+                    "BNE_02",
+                    "VB_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_03_01",
+        "name": "3.1.3.1 Lebensraum Stadt",
+        "subject": "GEO",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.1 Lebensraum Stadt\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ausgehend von ihrer Lebenswirklichkeit die Lage, Ausstattung und Funktion von St\u00e4dten analysieren.",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_03_01_a",
+                "name": "3.1.3.1 Lebensraum Stadt",
+                "path": [
+                    "03",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "5",
+                    "6"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_03_01_01",
+                        "content": "den Lebensraum Stadt in seiner Ausstattung und Funktion im Vergleich zum l\u00e4ndlichen Raum analysieren (Stadt, Bev\u00f6lkerungsdichte, Stadtviertel, Dorf, Verkehr, Pendler)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_03",
+                    "BTV_01",
+                    "PG_08"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_E1_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_F1_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_01",
+        "name": "3.2.2.1 Globale Wetter- und Klimaph\u00e4nomene",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.1 Globale Wetter- und Klimaph\u00e4nomene\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen raumspezifische Wetterereignisse im Zusammenspiel der jeweiligen Klimafaktoren und Klimaelemente darstellen.",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_01_a",
+                "name": "3.2.2.1 Globale Wetter- und Klimaph\u00e4nomene",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_01_01",
+                        "content": "typische Wetterabl\u00e4ufe der immerfeuchten Tropen im Vergleich zu Mitteleuropa beschreiben (Wetter, Luftfeuchtigkeit, Luftdruck, tropischer Mittagsregen, Tageszeitenklima, Westwindzone, Tiefdruckgebiet (Zyklone), Jahreszeitenklima)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_01_02",
+                        "content": "ein ausgew\u00e4hltes Wetterextrem sowie daraus resultierende Bedrohungen darstellen (zum Beispiel Orkan, tropischer Wirbelsturm, Tornado, Blizzard, D\u00fcrre, Starkniederschlag)"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_04_01",
+        "name": "3.1.4.1 Wechselwirkungen zwischen wirtschaftlichem Handeln und Naturraum",
+        "subject": "GEO",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.4.1 Wechselwirkungen zwischen wirtschaftlichem Handeln und Naturraum\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die wirtschaftliche Nutzung von R\u00e4umen an Beispielen darstellen.",
+        "path": [
+            "04",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_04_01_a",
+                "name": "3.1.4.1 Wechselwirkungen zwischen wirtschaftlichem Handeln und Naturraum",
+                "path": [
+                    "04",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "5",
+                    "6"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_04_01_01",
+                        "content": "anhand eines Betriebsbeispiels den Zusammenhang von landwirtschaftlicher Produktion, naturr\u00e4umlicher Ausstattung und Markt erl\u00e4utern (Landwirtschaft, zum Beispiel Ackerbau, Gr\u00fcnlandwirtschaft, Sonderkultur, Boden, regionales Produkt, saisonales Produkt)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_04_01_02",
+                        "content": "anhand eines Industriestandorts Voraussetzungen und Auswirkungen industrieller Produktion erl\u00e4utern (Industrie, Standort, Arbeitskr\u00e4fte, Fl\u00e4chenbedarf, Verkehrsweg, Rohstoff)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_04_01_03",
+                        "content": "anhand eines ausgew\u00e4hlten Wirtschaftsstandortes oder einer ausgew\u00e4hlten Region Europas die Wirkung des Dienstleistungsbereichs auf den Raum altersgem\u00e4\u00df er\u00f6rtern und M\u00f6glichkeiten einer nachhaltigen Nutzung darstellen (Nachhaltigkeit, Dienstleistung: Tourismus oder Handel oder Einzelhandel)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BO_01",
+                    "MB_05",
+                    "VB_06",
+                    "BO_02",
+                    "MB_05",
+                    "VB_07",
+                    "BO_02",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_03",
+        "name": "3.2.2.3 Ph\u00e4nomene des Klimawandels",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.3 Ph\u00e4nomene des Klimawandels\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Ursachen des Klimawandels und ausgehend vom Beispiel der Polarr\u00e4ume dessen Folgen erl\u00e4utern.",
+        "path": [
+            "02",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_03_a",
+                "name": "3.2.2.3 Ph\u00e4nomene des Klimawandels",
+                "path": [
+                    "02",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_03_01",
+                        "content": "den nat\u00fcrlichen und den anthropogen verst\u00e4rkten Treibhauseffekt in Grundz\u00fcgen darstellen (Atmosph\u00e4re, nat\u00fcrlicher Treibhauseffekt, anthropogener Treibhauseffekt, Kohlenstoffdioxid, Emission)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_03_02",
+                        "content": "Auswirkungen des Klimawandels in den Polarr\u00e4umen darstellen (Arktis, Antarktis, Meereis, Inlandeis, Permafrost, Klimawandel, Temperaturanstieg, Meeresspiegelanstieg)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_03_03",
+                        "content": "globale Auswirkungen des Klimawandels im \u00dcberblick erl\u00e4utern (\u00dcberschwemmungen, D\u00fcrre, Meeresspiegelanstieg, Temperaturanstieg)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_03_04",
+                        "content": "M\u00f6glichkeiten zur Reduktion von Treibhausgasen als zentrale Ma\u00dfnahme gegen die Erderw\u00e4rmung darstellen (Treibhausgas, Kohlenstoffdioxid)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "MB_03",
+                    "BNE_01",
+                    "MB_03",
+                    "MB_05",
+                    "VB_07",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_PH_IK_9-10_03_00_07",
+                    "BP2016BW_ALLG_GYM_PH_IK_9-10_03_00_08",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01",
+                    "BP2016BW_ALLG_GYM_PH_IK_9-10_03_00_09"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01",
+        "name": "3.1.2.1 Grundlagen von Wetter und Klima",
+        "subject": "GEO",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.2.1 Grundlagen von Wetter und Klima\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ausgehend von eigenen Beobachtungen grundlegende Wetter- und Klimaph\u00e4nomene charakterisieren.",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01_a",
+                "name": "3.1.2.1 Grundlagen von Wetter und Klima",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "5",
+                    "6"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01_01",
+                        "content": "das Wetter anhand von Wetterelementen charakterisieren (Temperatur, Wind, Niederschlag, Bew\u00f6lkung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01_02",
+                        "content": "anhand von einfachen Versuchen zwei Wetterelemente analysieren (zum Beispiel Niederschlag, Temperatur)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01_03",
+                        "content": "den Unterschied zwischen Wetter und Klima beschreiben (Wetter, Klima, Klimadiagramm)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01_04",
+                        "content": "typische Wetter- und Klimaph\u00e4nomene charakterisieren (Steigungsregen, maritimes Klima, kontinentales Klima)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_01",
+        "name": "3.3.1.1 Digitale Orientierung",
+        "subject": "GEO",
+        "grades": [
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.1.1 Digitale Orientierung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Nutzung von digitalen Medien und von Informationen aus der Fernerkundung zur Raumanalyse darstellen.",
+        "path": [
+            "01",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_01_a",
+                "name": "3.3.1.1 Digitale Orientierung",
+                "path": [
+                    "01",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_01_01_01",
+                        "content": "mithilfe von Informationen aus der Fernerkundung und aus Web-GIS R\u00e4ume analysieren (Fernerkundung, Web-GIS, Geodaten, Satellitenbild, Luftbild)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_01_01",
+        "name": "3.2.1.1 Grundlegende exogene Prozesse",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.1 Grundlegende exogene Prozesse\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Gestaltung der Erdoberfl\u00e4che durch exogene Prozesse erkl\u00e4ren.",
+        "path": [
+            "01",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_01_01_a",
+                "name": "3.2.1.1 Grundlegende exogene Prozesse",
+                "path": [
+                    "01",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_01_01_01",
+                        "content": "Verwitterung, Abtragung, Transport und Ablagerung als grundlegende exogene Prozesse an einem Raumbeispiel aus den Tropen oder den Trockenr\u00e4umen oder den Polarr\u00e4umen erkl\u00e4ren (Verwitterung, Abtragung, Transport, Ablagerung)"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_01_00",
+        "name": "3.4.1 Das System Erde",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.1 Das System Erde\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Vernetzungen zwischen den Geosph\u00e4ren und den dominanten Einfluss des Menschen auf das System Erde darstellen.",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_01_00_a",
+                "name": "3.4.1 Das System Erde",
+                "path": [
+                    "01",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_01_00_01",
+                        "content": "die Geosph\u00e4ren des Systems Erde charakterisieren und in ihrer Vernetzung beschreiben (Lithosph\u00e4re, Reliefsph\u00e4re, Atmosph\u00e4re, Hydrosph\u00e4re, Biosph\u00e4re, Pedosph\u00e4re, Anthroposph\u00e4re, Vernetzung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_01_00_02",
+                        "content": "das Anthropoz\u00e4n-Konzept darstellen (Anthropoz\u00e4n)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_02",
+                    "BNE_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03",
+        "name": "3.5.3.3 Globale Herausforderung: St\u00e4dte unter dem Einfluss gesellschaftlicher und naturr\u00e4umlicher Ver\u00e4nderungen",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.3 Globale Herausforderung: St\u00e4dte unter dem Einfluss gesellschaftlicher und naturr\u00e4umlicher Ver\u00e4nderungen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen St\u00e4dte als vom Menschen geschaffene Geo\u00f6kosysteme in ihren Ursache-Wirkungszusammenh\u00e4ngen analysieren und zukunftsorientierte Strategien unter dem Aspekt der Nachhaltigkeit beurteilen.",
+        "path": [
+            "03",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03_a",
+                "name": "3.5.3.3 Globale Herausforderung: St\u00e4dte unter dem Einfluss gesellschaftlicher und naturr\u00e4umlicher Ver\u00e4nderungen",
+                "path": [
+                    "03",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03_01",
+                        "content": "den urbanen Lebensraum mithilfe von r\u00e4umlichen, funktionalen und sozialen Merkmalen charakterisieren (geographischer Stadtbegriff, Lage, innere Differenzierung, Zentralit\u00e4t, st\u00e4dtisches \u00d6kosystem, Versorgung, Entsorgung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03_02",
+                        "content": "Ursachen und Dimensionen weltweiter Verst\u00e4dterung anhand unterschiedlicher Erkl\u00e4rungsans\u00e4tze \u00fcberpr\u00fcfen (Modell, Theorie, Ursachen unter anderem Bev\u00f6lkerungswachstum, Migration, Push- und Pull-Faktoren, Industrialisierung, Globalisierung, Agglomeration, Megapolisierung, Megacity, Shrinking City, Urbanisierung, Verst\u00e4dterungsgrad, Verst\u00e4dterungsrate)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03_03",
+                        "content": "Ver\u00e4nderung st\u00e4dtischer Strukturen in einer globalisierten Welt erl\u00e4utern (Citybildung, Terti\u00e4risierung, Quart\u00e4risierung, Suburbanisierung, Reurbanisierung, Gentrifizierung, Fragmentierung, Segregation, Gated Community, Marginalisierung, Marginalsiedlung, Global City)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03_04",
+                        "content": "die Besonderheiten des Stadtklimas analysieren und die Vulnerabilit\u00e4t von st\u00e4dtischen Lebensr\u00e4umen im Klimawandel darstellen (Stadtklima, st\u00e4dtische W\u00e4rmeinsel, Flurwind, Feinstaubbelastung, Lebensqualit\u00e4t, Gesundheit, Vulnerabilit\u00e4t)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03_05",
+                        "content": "Strategien einer nachhaltigen Stadtentwicklung er\u00f6rtern (nachhaltige Stadtentwicklung, Lokale Agenda 21, Zukunftswerkstatt, Green City, Versorgung, Entsorgung)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_02",
+                    "BTV_08",
+                    "BTV_06",
+                    "BTV_07",
+                    "BTV_04",
+                    "BTV_03",
+                    "BNE_01",
+                    "BNE_02",
+                    "PG_01",
+                    "BNE_04",
+                    "BNE_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_05",
+        "name": "3.5.2.5 Prozesse in der Pedosph\u00e4re",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.2.5 Prozesse in der Pedosph\u00e4re\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen das \u00d6kosystem Boden als Lebensgrundlage und Lebensraum erl\u00e4utern und die Notwendigkeit einer nachhaltigen Bodennutzung begr\u00fcnden.",
+        "path": [
+            "02",
+            "05"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_05_a",
+                "name": "3.5.2.5 Prozesse in der Pedosph\u00e4re",
+                "path": [
+                    "02",
+                    "05"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_05_01",
+                        "content": "grundlegende Bodenbildungsprozesse darstellen und den Boden als dynamisches \u00d6kosystem erl\u00e4utern (Bodenart, Korngr\u00f6\u00dfe, Bodenluft, Bodenwasser, Bodenlebewesen, Tonmineral, Mineralsalz, Mineralisierung, Humifizierung, Mineralsalzkreislauf, N\u00e4hrstoffhaushalt)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_05_02",
+                        "content": "an drei verschiedenen Bodentypen (Braunerde, Parabraunerde, Schwarzerde, Rendzina, Podsol Gley oder tropischem Latosol) die Ausbildung charakteristischer Bodenhorizonte in Abh\u00e4ngigkeit von den Bodenbildungsfaktoren erkl\u00e4ren sowie deren r\u00e4umliche Verbreitung erl\u00e4utern (Bodentyp: Braunerde, Parabraunerde, Schwarzerde, Rendzina, Podsol, Gley oder tropischer Latosol"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_05_03",
+                        "content": "an drei verschiedenen Bodentypen (zum Beispiel Braunerde, Parabraunerde, Schwarzerde, Rendzina, Podsol, Gley oder tropischer Latosol) die Bodeneigenschaften charakterisieren und ihre landwirtschaftliche Nutzbarkeit unter dem Aspekt der Nachhaltigkeit beurteilen (Bodenfruchtbarkeit, Kationenaustauschkapazit\u00e4t, Ton-Humus-Komplex, Wasserhaushalt)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_02",
+                    "VB_07",
+                    "BNE_01",
+                    "BNE_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04",
+        "name": "3.5.3.4 Globale Herausforderung: Disparit\u00e4re Entwicklungen",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.4 Globale Herausforderungen: Disparit\u00e4re Entwicklungen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Ursachen f\u00fcr disparit\u00e4re Entwicklungen in der Einen Welt und deren Auswirkungen erl\u00e4utern sowie Ma\u00dfnahmen der Entwicklungszusammenarbeit bewerten.",
+        "path": [
+            "03",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04_a",
+                "name": "3.5.3.4 Globale Herausforderung: Disparit\u00e4re Entwicklungen",
+                "path": [
+                    "03",
+                    "04"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04_01",
+                        "content": "R\u00e4ume unterschiedlichen Entwicklungsstandes im Globalisierungsprozess von Wirtschaft und Gesellschaft in ihren Grundz\u00fcgen analysieren (Disparit\u00e4t, R\u00e4ume unterschiedlichen Entwicklungsstandes, Entwicklungsindikatoren, unter anderem Bruttonationaleinkommen, Human Development Index, Human Sustainable Development Index)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04_02",
+                        "content": "Ursachen und Folgen disparit\u00e4rer Entwicklungen in der Einen Welt und daraus abgeleitete Entwicklungstheorien und Entwicklungsstrategien erl\u00e4utern (endogene Ursache, exogene Ursache, Migration, Chancengerechtigkeit, Menschenrecht, Land Grabbing; Entwicklungstheorien, unter anderem Dependenztheorie, Modernisierungstheorie, Fragmentierungstheorie; Entwicklungsstrategien, unter anderem Dissoziationsstrategie, nachholende Entwicklung, Befriedigung der Grundbed\u00fcrfnisse, nachhaltige Entwicklung, nachhaltige Entwicklungsziele / Sustainable Development Goals)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04_03",
+                        "content": "zwei Projekte der Entwicklungszusammenarbeit vor dem Hintergrund von Entwicklungsstrategien bewerten (Entwicklungszusammenarbeit, Teilhabe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04_04",
+                        "content": "eigene Handlungsm\u00f6glichkeiten im Rahmen der Entwicklungszusammenarbeit \u00fcberpr\u00fcfen"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_01",
+                    "BNE_02",
+                    "BNE_01",
+                    "BTV_05",
+                    "BTV_05",
+                    "MB_03",
+                    "MB_04",
+                    "BTV_06",
+                    "BNE_04",
+                    "BTV_07",
+                    "BTV_04",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_06",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_03",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_04_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_02",
+        "name": "3.3.4.2 Analyse von Weltwirtschaftsregionen (*)",
+        "subject": "GEO",
+        "grades": [
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4.2 Analyse von Weltwirtschaftsregionen (*)\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Ressourcenausstattung von Weltwirtschaftsregionen anhand ausgew\u00e4hlter Beispiele analysieren.",
+        "path": [
+            "04",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_02_a",
+                "name": "3.3.4.2 Analyse von Weltwirtschaftsregionen (*)",
+                "path": [
+                    "04",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_02_01",
+                        "content": "die r\u00e4umliche Verflechtung der Weltwirtschaftsregionen durch den Welthandel beschreiben (Welthandel, Globalisierung, Export, Import)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_02_02",
+                        "content": "die Bedeutung der Ressourcenausstattung f\u00fcr zwei Weltwirtschaftsregionen (USA, ein BRICS-Staat) analysieren (Ressourcen, zum Beispiel Klima, Boden, Rohstoffe, Infrastruktur, Kapital, Bildung)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BTV_06",
+                    "BTV_01",
+                    "MB_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_9-10_03_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04",
+        "name": "3.4.2.4 Globale Herausforderung: Disparit\u00e4re Entwicklungen",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.2.4 Globale Herausforderung: Disparit\u00e4re Entwicklungen \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Ursachen f\u00fcr disparit\u00e4re Entwicklungen in der Einen Welt und deren Auswirkungen erl\u00e4utern sowie Ma\u00dfnahmen der Entwicklungszusammenarbeit beurteilen.",
+        "path": [
+            "02",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04_a",
+                "name": "3.4.2.4 Globale Herausforderung: Disparit\u00e4re Entwicklungen",
+                "path": [
+                    "02",
+                    "04"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04_01",
+                        "content": "unterschiedliche Entwicklungsst\u00e4nde von R\u00e4umen analysieren (Globalisierung, Disparit\u00e4t, R\u00e4ume unterschiedlichen Entwicklungsstandes, Entwicklungsindikatoren, unter anderem Bruttonationaleinkommen, Human Development Index, Human Sustainable Development Index)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04_02",
+                        "content": "Ursachen und Folgen disparit\u00e4rer Entwicklungen in der Einen Welt und daraus abgeleitete Entwicklungsstrategien erl\u00e4utern (endogene Ursache, exogene Ursache, Migration, Chancengerechtigkeit, Menschenrecht, Land Grabbing; Entwicklungsstrategien, unter anderem Dissoziationsstrategie, nachholende Entwicklung, Befriedigung der Grundbed\u00fcrfnisse, nachhaltige Entwicklung, nachhaltige Entwicklungsziele / Sustainable Development Goals)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04_03",
+                        "content": "eigene Handlungsm\u00f6glichkeiten im Rahmen der Entwicklungszusammenarbeit anhand eines Projekts \u00fcberpr\u00fcfen"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_01",
+                    "BNE_02",
+                    "BTV_05",
+                    "MB_03",
+                    "MB_04",
+                    "BNE_04",
+                    "BTV_07",
+                    "BTV_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_03",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_04_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02",
+        "name": "3.1.1.2 Gestaltung der Erdoberfl\u00e4che durch naturr\u00e4umliche Prozesse in Deutschland und Europa",
+        "subject": "GEO",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.1.2 Gestaltung der Erdoberfl\u00e4che durch naturr\u00e4umliche Prozesse in Deutschland und Europa\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen erl\u00e4utern, wie die Erdoberfl\u00e4che durch naturr\u00e4umliche Prozesse geformt wird. Ausgehend von aktuellen Beispielen k\u00f6nnen sie Zusammenh\u00e4nge zwischen Naturereignissen und menschlichem Handeln darstellen.",
+        "path": [
+            "01",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02_a",
+                "name": "3.1.1.2 Gestaltung der Erdoberfl\u00e4che durch naturr\u00e4umliche Prozesse in Deutschland und Europa",
+                "path": [
+                    "01",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "5",
+                    "6"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02_01",
+                        "content": "charakteristische Oberfl\u00e4chenformen in Europa an folgenden Raumbeispielen erl\u00e4utern: \u2013 eine Landschaft in Baden-W\u00fcrttemberg: Oberrheinisches Tiefland, Schwarzwald, Schw\u00e4bische Alb, Alpenvorland oder eine andere Landschaft \u2013 eine deutsche K\u00fcstenlandschaft: Nordseek\u00fcste oder Ostseek\u00fcste \u2013 die Alpen und \u2013 ein weiterer europ\u00e4ischer Raum (Arbeitsbegriffe der geomorphologischen Formen abh\u00e4ngig von den gew\u00e4hlten Raumbeispielen: Grabenbruch, Gestein, Grundgebirge, Deckgebirge, Schichtstufe, Zeugenberg Karsth\u00f6hle, Doline, Tropfstein, Trockental Flachk\u00fcste, Steilk\u00fcste, Watt Mittelgebirge, Hochgebirge Gletscher, Zungenbeckensee, Mor\u00e4ne Fjord, Vulkan)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02_02",
+                        "content": "Talbildung als charakteristischen Prozess der Landschaftsgestaltung in Europa erl\u00e4utern (Fluss, Abtragung, Tal)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02_03",
+                        "content": "Boden als eine nat\u00fcrliche Lebensgrundlage darstellen (Boden, Bodenlebewesen, Humus, Ausgangsgestein)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02_04",
+                        "content": "mindestens zwei Naturereignisse, daraus resultierende Bedrohungen und geeignete Schutzma\u00dfnahmen darstellen (Naturereignis, Naturkatastrophe zum Beispiel Sturm, Hochwasser, Sturmflut, Lawine, Erdbeben, Vulkanausbruch)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_04_01_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01",
+        "name": "3.1.5.1 Analyse ausgew\u00e4hlter R\u00e4ume in Deutschland und Europa",
+        "subject": "GEO",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.5.1 Analyse ausgew\u00e4hlter R\u00e4ume in Deutschland und Europa\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen einfache Wechselwirkungen zwischen dem Naturraum und der Vielfalt menschlichen Handelns erkl\u00e4ren und daraus resultierende, nachhaltige Handlungsperspektiven darstellen.",
+        "path": [
+            "05",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01_a",
+                "name": "3.1.5.1 Analyse ausgew\u00e4hlter R\u00e4ume in Deutschland und Europa",
+                "path": [
+                    "05",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "5",
+                    "6"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01_01",
+                        "content": "die naturr\u00e4umliche Gliederung Baden-W\u00fcrttembergs, Deutschlands und Europas beschreiben (K\u00fcste, Tiefland, Mittelgebirge, Alpenvorland, Hochgebirge, Fluss, See, Meer, Halbinsel, Insel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01_02",
+                        "content": "Zusammenh\u00e4nge zwischen naturr\u00e4umlicher Ausstattung und menschlicher Nutzung an folgenden Raumbeispielen erkl\u00e4ren sowie an mindestens einem Raumbeispiel Vorteile einer nachhaltigen Nutzung altersgem\u00e4\u00df beurteilen: \u2013 eine Landschaft in Baden-W\u00fcrttemberg: Oberrheinisches Tiefland, Schwarzwald, Schw\u00e4bische Alb, Alpenvorland oder eine andere Landschaft \u2013 eine deutsche K\u00fcstenlandschaft: Nordseek\u00fcste oder Ostseek\u00fcste \u2013 die Alpen und \u2013 ein weiterer europ\u00e4ischer Gro\u00dfraum: Nordeuropa, S\u00fcdeuropa, Osteuropa, Westeuropa oder ein anderer Gro\u00dfraum"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "MB_05",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_5-6_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02",
+        "name": "3.2.2.2 Klimazonen der Erde",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.2 Klimazonen der Erde\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Klimazonen der Erde charakterisieren und Zusammenh\u00e4nge zwischen Klima, Vegetation und agrarischer sowie forstwirtschaftlicher Nutzung erkl\u00e4ren.",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02_a",
+                "name": "3.2.2.2 Klimazonen der Erde",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02_01",
+                        "content": "typische Merkmale der Klimazonen der Erde als Ergebnis der solaren Einstrahlung erl\u00e4utern (Klimadiagramm, Schr\u00e4gstellung der Erdachse, Beleuchtungszone, Temperaturzone, \u00c4quator, Wendekreis, Polarkreis, Polartag, Polarnacht, Jahreszeiten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02_02",
+                        "content": "die tropische Zirkulation erkl\u00e4ren (Luftdruck, Hochdruckgebiet, Tiefdruckgebiet, ITC, subtropisch-randtropische Hochdruckzone, Zenitalregen, Wind, Passatkreislauf, Passat, Regenzeit, Trockenzeit, arid, humid)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02_03",
+                        "content": "den Zusammenhang zwischen Klima und nat\u00fcrlicher Vegetation im globalen \u00dcberblick erkl\u00e4ren (Vegetationszone, Klimazone)"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_01",
+                    "BP2016BW_ALLG_GYM_BIO_IK_9-10_03_00",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01",
+        "name": "3.4.2.1 Globale Herausforderungen und Zukunftssicherung",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.2.1 Globale Herausforderungen und Zukunftssicherung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen aktuelle globale Herausforderungen charakterisieren sowie die Leitidee \u201eNachhaltige Entwicklung\u201c im Sinne einer Probleml\u00f6sungs- und Zukunftsorientierung erl\u00e4utern.",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01_a",
+                "name": "3.4.2.1 Globale Herausforderungen und Zukunftssicherung",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01_01",
+                        "content": "\u201eGlobale Herausforderungen\u201c charakterisieren (Globale Herausforderungen, zum Beispiel Klimawandel, Ressourcenknappheit, Stadtentwicklung, Disparit\u00e4ten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01_02",
+                        "content": "die Leitidee \u201eNachhaltige Entwicklung\u201c erl\u00e4utern (Nachhaltige Entwicklung, Probleml\u00f6sungsorientierung, Zukunftsorientierung, nachhaltige Entwicklungsziele / Sustainable Development Goals)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_02",
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02",
+        "name": "3.4.2.2 Globale Herausforderung: Klimawandel",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.2.2 Globale Herausforderung: Klimawandel\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Auswirkungen des Klimawandels im System Erde beurteilen.",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02_a",
+                "name": "3.4.2.2 Globale Herausforderung: Klimawandel",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02_01",
+                        "content": "Ursachen und Dimensionen des Klimawandels auf der Grundlage aktueller wissenschaftlicher Erkenntnisse erl\u00e4utern (Treibhausgas, Treibhauseffekt, globale Durchschnittstemperatur, Tipping Point / Kippschalter)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02_02",
+                        "content": "aktuelle Ma\u00dfnahmen gegen und Anpassungsstrategien an den Klimawandel unter dem Aspekt einer nachhaltigen Entwicklung bewerten (Klimaziele, Klimaschutz, Reduktion der Treibhausgase, Kohlenstoffdioxid-Senke, Geo-Engineering, Anpassungsstrategie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02_03",
+                        "content": "klimaneutrale Lebens- und Arbeitsweisen auf der lokalen Ebene beschreiben und eigene Handlungsans\u00e4tze dazu entwickeln (Lokale Agenda 21, Klimaneutralit\u00e4t, \u00f6kologischer Fu\u00dfabdruck)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "MB_03",
+                    "BNE_03",
+                    "VB_02",
+                    "BNE_04",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_03",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02",
+        "name": "3.5.3.2 Globale Herausforderung: Klimawandel",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.2 Globale Herausforderung: Klimawandel\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Auswirkungen des Klimawandels im System Erde beurteilen.",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02_a",
+                "name": "3.5.3.2 Globale Herausforderung: Klimawandel",
+                "path": [
+                    "03",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02_01",
+                        "content": "Ursachen und Dimensionen des Klimawandels auf der Grundlage aktueller wissenschaftlicher Erkenntnisse erl\u00e4utern (Klimawandel, Treibhausgas, nat\u00fcrlicher Treibhauseffekt, anthropogener Treibhauseffekt, globale Durchschnittstemperatur)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02_02",
+                        "content": "Auswirkungen des Klimawandels und zu erwartende Szenarien anhand von zwei Raumbeispielen aus unterschiedlichen Klimaregionen darlegen (Klimaszenario, Tipping Point / Kippschalter)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02_03",
+                        "content": "aktuelle Ma\u00dfnahmen gegen und Anpassungsstrategien an den Klimawandel unter dem Aspekt einer nachhaltigen Entwicklung auf unterschiedlichen Ma\u00dfstabsebenen bewerten (Klimaziel, Klimaschutz, Reduktion der Treibhausgase, Kohlenstoffdioxid-Senke, Geo-Engineering, Anpassungsstrategie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02_04",
+                        "content": "klimaneutrale Lebens- und Arbeitsweisen auf der lokalen Ebene beschreiben und eigene Handlungsans\u00e4tze dazu entwickeln (Lokale Agenda 21, Klimaneutralit\u00e4t, \u00f6kologischer Fu\u00dfabdruck)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "MB_03",
+                    "BNE_01",
+                    "BNE_02",
+                    "BNE_03",
+                    "VB_02",
+                    "BNE_04",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_03",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_04",
+        "name": "3.5.2.4 Wirkungszusammenh\u00e4nge in der Biosph\u00e4re",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.2.4 Wirkungszusammenh\u00e4nge in der Biosph\u00e4re\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Wirkungszusammenh\u00e4nge des Teilsystems Biosph\u00e4re und seine Bedeutung f\u00fcr den Menschen erl\u00e4utern. Sie k\u00f6nnen f\u00fcr ausgew\u00e4hlte \u00d6kosysteme die Folgen menschlicher Eingriffe er\u00f6rtern.",
+        "path": [
+            "02",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_04_a",
+                "name": "3.5.2.4 Wirkungszusammenh\u00e4nge in der Biosph\u00e4re",
+                "path": [
+                    "02",
+                    "04"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_04_01",
+                        "content": "die Verbreitung der \u00d6kosysteme in Abh\u00e4ngigkeit von Klima, Relief und H\u00f6henlage charakterisieren (Tundra, borealer Nadelwald, sommergr\u00fcner Laub- und Mischwald, subtropisches Hartlaubgew\u00e4chs, Steppe, Savanne, Halbw\u00fcste, W\u00fcste, tropischer Regenwald, Mangrove, H\u00f6henstufe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_04_02",
+                        "content": "die Folgen menschlicher Eingriffe in \u00d6kosysteme in ihren Wirkungszusammenh\u00e4ngen darstellen und Konzepte einer nachhaltigen Nutzung an einem der folgenden R\u00e4ume er\u00f6rtern: \u2013 Mittelmeerraum \u2013 Sahelzone"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_02",
+                    "BTV_06"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_03_01",
+        "name": "3.3.3.1 Globale Herausforderung: Ressourcenverf\u00fcgbarkeit und Ressourcenmanagement (*)",
+        "subject": "GEO",
+        "grades": [
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.3.1 Globale Herausforderung: Ressourcenverf\u00fcgbarkeit und Ressourcenmanagement (*)\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Nutzung und Bedeutung nat\u00fcrlicher Ressourcen f\u00fcr die Existenz des Menschen unter dem Aspekt der Nachhaltigkeit beurteilen.",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_03_01_a",
+                "name": "3.3.3.1 Globale Herausforderung: Ressourcenverf\u00fcgbarkeit und Ressourcenmanagement (*)",
+                "path": [
+                    "03",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_03_01_01",
+                        "content": "Verf\u00fcgbarkeit von S\u00fc\u00dfwasser, agrarisch nutzbarer B\u00f6den sowie eines ausgew\u00e4hlten metallischen, mineralischen, agrarischen Rohstoffs oder Energierohstoffs im weltweiten \u00dcberblick erl\u00e4utern (Vorkommen, Lagerst\u00e4tte, Ressource, Reserve, Verf\u00fcgbarkeit, Knappheit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_03_01_02",
+                        "content": "an einem Raumbeispiel f\u00fcr eine der folgenden Ressourcen \u00f6kologische, \u00f6konomische, soziale und politische Auswirkungen von Gewinnung und Nutzung er\u00f6rtern sowie eine Strategie nachhaltigen Ressourcenmanagements beurteilen:"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "MB_02",
+                    "BNE_01",
+                    "VB_03",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01",
+        "name": "3.5.2.1 Formen und Prozesse der Reliefsph\u00e4re",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.2.1 Formen und Prozesse der Reliefsph\u00e4re\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Reliefformen als Ergebnis endogener und exogener Prozesse charakterisieren und erkl\u00e4ren. Sie k\u00f6nnen die gesellschaftliche Bedeutung geodynamischer Prozesse an Beispielen darstellen.",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_a",
+                "name": "3.5.2.1 Formen und Prozesse der Reliefsph\u00e4re",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_01",
+                        "content": "Theorien zur Entstehung und Verteilung der Kontinente und Ozeane vergleichen (Wegeners Theorie der Kontinentverschiebung, Theorie der Plattentektonik, Wilson-Zyklus, Hot Spot-Theorie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_02",
+                        "content": "seismische Prozesse erkl\u00e4ren (seismische Wellen, Epizentrum, Hypozentrum)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_03",
+                        "content": "physikalische, chemische und biogene Verwitterung darstellen und deren Bedeutung f\u00fcr die Oberfl\u00e4chenformen charakterisieren (physikalische Verwitterung, chemische Verwitterung, biogene Verwitterung, Verwitterungsprozess, Insolationsverwitterung, Frostsprengung, L\u00f6sungsverwitterung, Salzsprengung, Hydratation, Hydrolyse, Oxidation, Kohlens\u00e4ureverwitterung, Wurzelsprengung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_04",
+                        "content": "die Landschaftsgenese S\u00fcdwestdeutschlands in Grundz\u00fcgen darstellen (Pal\u00e4ozoikum, Mesozoikum, K\u00e4nozoikum, Grundgebirge, Deckgebirge, Grabenbruch, Schichtstufenlandschaft, Molassebecken, Glaziallandschaft)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_05",
+                        "content": "charakteristische Oberfl\u00e4chenformen von zwei ausgew\u00e4hlten Landschaften (Vulkan\u2011, Fluss\u2011, Glazial\u2011, K\u00fcsten\u2011, Schichtstufen- oder Karstlandschaft ) als Ergebnis endogener und/oder exogener Prozesse erkl\u00e4ren \u2013 Vulkanlandschaft (explosiver Vulkanismus, effusiver Vulkanismus, Hot Spot, vulkanische F\u00f6rderprodukte, Vulkanform, Schichtvulkan, Schildvulkan, vulkanische Decke, Maar, Caldera) \u2013 Flusslandschaft (Talform, Klamm, Schlucht, Kerbtal, Muldental, Sohlental, Terrassental, Trogtal, Canyon, \u00c4stuar, Delta, Erosion, Sedimentation, Akkumulation, Denudation, Gleithang, Prallhang, M\u00e4ander, Antezedenz, Epigenese, Flussanzapfung, Wasserfall, Trockental) \u2013 Glaziallandschaft (Kaltzeit, Warmzeit, Permafrost, Periglazial, Postglazial, Altmor\u00e4ne, Jungmor\u00e4ne, Inlandeis, Eisstromnetz, N\u00e4hrgebiet, Zehrgebiet, Kar, Talgletscher, Trogtal, subglaziale Rinnen, glaziale Serie, Grundmor\u00e4ne, Seitenmor\u00e4ne, Endmor\u00e4ne, Zungenbecken, Sander, Urstromtal, Drumlin, Rundh\u00f6cker, Findling, Toteisloch, L\u00f6ss, Solifluktion) \u2013 K\u00fcstenlandschaft (Flachk\u00fcste, Steilk\u00fcste, Brandung, Abrasion, Gezeiten, Watt, Priel, Marsch, Geest, Boddenk\u00fcste, Ausgleichsk\u00fcste, Nehrung, Haff, Fjord, F\u00f6rde, Sch\u00e4re, \u00c4stuar, Delta, Sturmflut, K\u00fcstenschutz) \u2013 Schichtstufenlandschaft (Deckgebirge, Petrovarianz, Schichtlagerung, Stufenbildner, Sockelbildner, Quellhorizont, r\u00fcckschreitende Erosion, Trauf, Landterrasse, Zeugenberg, Reliefumkehr) \u2013 Karstlandschaft (Korrosion, Sinterbildung, Doline, H\u00f6hle, Karren, Karstquelle, Karstwasserspiegel, Trockental, Polje, Ponor, Tropfstein, Stalaktit, Stalagmit, Sinterterrassen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_06",
+                        "content": "die Bildung unterschiedlicher Lagerst\u00e4tten als Folge von endogenen und/oder exogenen Prozessen erkl\u00e4ren (prim\u00e4re Erzlagerst\u00e4tte, sekund\u00e4re Erzlagerst\u00e4tte, Kohlelagerst\u00e4tte, Erd\u00f6llagerst\u00e4tte, Erdgaslagerst\u00e4tte, Salzlagerst\u00e4tte, anthropogene Lagerst\u00e4tte)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_01_07",
+                        "content": "die Verwundbarkeit von R\u00e4umen durch Naturgefahren erl\u00e4utern (Risiko, Hazard, Verwundbarkeit/Vulnerabilit\u00e4t, Widerstandsf\u00e4higkeit/Resilienz)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "VB_03",
+                    "BNE_01",
+                    "BNE_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_PH_IK_11-12-BF-QUANTEN_04_00",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_01_00",
+        "name": "3.5.1 Das System Erde",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.1 Das System Erde\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Vernetzungen zwischen den Geosph\u00e4ren und den dominanten Einfluss des Menschen auf das System Erde darstellen.",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_01_00_a",
+                "name": "3.5.1 Das System Erde",
+                "path": [
+                    "01",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_01_00_01",
+                        "content": "die Geosph\u00e4ren des Systems Erde charakterisieren und in ihrer Vernetzung beschreiben (Lithosph\u00e4re, Reliefsph\u00e4re, Pedosph\u00e4re, Hydrosph\u00e4re, Biosph\u00e4re, Atmosph\u00e4re, Anthroposph\u00e4re, Vernetzung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_01_00_02",
+                        "content": "das Anthropoz\u00e4n-Konzept darstellen (Anthropoz\u00e4n)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_02",
+                    "BNE_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_02_01",
+        "name": "3.3.2.1 Zukunftsf\u00e4hige Gestaltung von R\u00e4umen",
+        "subject": "GEO",
+        "grades": [
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.2.1 Zukunftsf\u00e4hige Gestaltung von R\u00e4umen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die zukunftsf\u00e4hige Gestaltung eines Raumes beurteilen.",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_02_01_a",
+                "name": "3.3.2.1 Zukunftsf\u00e4hige Gestaltung von R\u00e4umen",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_9-10_02_01_01",
+                        "content": "die Entwicklung eines l\u00e4ndlichen Raumes unter dem Aspekt der Zukunftsf\u00e4higkeit beurteilen (zum Beispiel Landwirtschaft, Industrie, Dienstleistungen, Infrastruktur, Energiewirtschaft, Handel, Tourismus, Naturschutzgebiet, Nationalpark)"
+                    }
+                ],
+                "guidelines": [
+                    "BO_02",
+                    "BNE_02",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_01",
+        "name": "3.1.1.1 Grundlagen der Orientierung",
+        "subject": "GEO",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.1.1 Grundlagen der Orientierung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ausgehend von eigenen Beobachtungen grundlegende Bewegungen von Sonne, Erde und Mond in ihren Auswirkungen erkl\u00e4ren. Sie k\u00f6nnen sich auf der Erdoberfl\u00e4che orientieren.",
+        "path": [
+            "01",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_01_a",
+                "name": "3.1.1.1 Grundlagen der Orientierung",
+                "path": [
+                    "01",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "5",
+                    "6"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_01_01",
+                        "content": "die Bewegungen von Erde und Mond charakterisieren sowie die Entstehung von Tag und Nacht erkl\u00e4ren (Sonne, Erde, Mond, Erdrevolution, Erdrotation, Erdachse)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_01_02",
+                        "content": "Lage, Gr\u00f6\u00dfe und Form der Kontinente und Ozeane darstellen (Kontinent, Ozean, \u00c4quator, Nordhalbkugel, S\u00fcdhalbkugel, Pole, Gradnetz, Breitenkreis, L\u00e4ngenhalbkreis/Meridian, Globus als Modell)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_01_03",
+                        "content": "die politische Gliederung Deutschlands und Europas beschreiben (Landeshauptstadt, Bundesland, Bundeshauptstadt, Hauptstadt, Staat, Europ\u00e4ische Union) Hinweis: ausgew\u00e4hlte Staaten Europas mit Hauptst\u00e4dten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_5-6_01_01_04",
+                        "content": "die Nutzung analoger und digitaler Hilfsmittel zur Orientierung darstellen (Karte, digitale Karte, Legende, Ma\u00dfstab, H\u00f6henlinie, Kompass, Himmelsrichtung, Navigationssystem, GPS)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "MB_03",
+                    "MB_08",
+                    "MB_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_03",
+                    "BP2016BW_ALLG_GYM_M_IK_5-6_04_00",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_01",
+                    "BP2016BW_ALLG_GYM_E1_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_F1_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_M_IK_5-6_04_00",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_04_01",
+        "name": "3.2.4.1 Raumwirksamkeit wirtschaftlichen Handelns",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.4.1 Raumwirksamkeit wirtschaftlichen Handelns\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Wechselwirkungen zwischen Raum und wirtschaftlichem Handeln darstellen.",
+        "path": [
+            "04",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_04_01_a",
+                "name": "3.2.4.1 Raumwirksamkeit wirtschaftlichen Handelns",
+                "path": [
+                    "04",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_04_01_01",
+                        "content": "die Produktion und den Handel eines Welthandelsguts hinsichtlich der Raumwirksamkeit unter dem Aspekt der Nachhaltigkeit darstellen und die eigene Position als Konsument \u00fcberpr\u00fcfen (globale Warenstr\u00f6me, Welthandelsgut, Konsument, nachhaltige Produktion, Fairer Handel)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "VB_03",
+                    "BO_01",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_03_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_05_01",
+        "name": "3.2.5.1 Analyse ausgew\u00e4hlter R\u00e4ume in unterschiedlichen Geozonen",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.5.1 Analyse ausgew\u00e4hlter R\u00e4ume in unterschiedlichen Geozonen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Wechselwirkungen zwischen menschlichem Handeln und dem Naturraum sowie daraus resultierende, nachhaltige Handlungsperspektiven darstellen.",
+        "path": [
+            "05",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_05_01_a",
+                "name": "3.2.5.1 Analyse ausgew\u00e4hlter R\u00e4ume in unterschiedlichen Geozonen",
+                "path": [
+                    "05",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_05_01_01",
+                        "content": "Zusammenh\u00e4nge zwischen naturr\u00e4umlicher Ausstattung und menschlicher Nutzung sowie Vorteile einer nachhaltigen Nutzung an mindestens einem Raumbeispiel aus den Tropen oder den Trockenr\u00e4umen oder den Polarr\u00e4umen darstellen"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "MB_05",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02",
+        "name": "3.2.3.2 Ph\u00e4nomene globaler Disparit\u00e4ten",
+        "subject": "GEO",
+        "grades": [
+            "7",
+            "8"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.2 Ph\u00e4nomene globaler Disparit\u00e4ten\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen disparit\u00e4re Entwicklungen in der Einen Welt darstellen, Migration als eine Folge dieser Entwicklungen erkl\u00e4ren sowie Ma\u00dfnahmen f\u00fcr eine nachhaltige Entwicklung beurteilen.",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02_a",
+                "name": "3.2.3.2 Ph\u00e4nomene globaler Disparit\u00e4ten",
+                "path": [
+                    "03",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "7",
+                    "8"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02_01",
+                        "content": "Entwicklung und r\u00e4umliche Verteilung der Weltbev\u00f6lkerung darstellen (Bev\u00f6lkerungswachstum, Bev\u00f6lkerungsdichte, Bev\u00f6lkerungsprognose, Altersstruktur, Geburtenrate, Sterberate, Wachstumsrate)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02_02",
+                        "content": "Disparit\u00e4ten in der Einen Welt am Beispiel von Ern\u00e4hrung, Gesundheit, Bildung oder Einkommen analysieren (Disparit\u00e4t, Human Development Index)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02_03",
+                        "content": "wirtschaftliche, politische, religi\u00f6se oder \u00f6kologische Ursachen und Folgen der Migration an einem Raumbeispiel darstellen (Migration, Flucht, Migrationsursachen, Menschenrechte, Umweltflucht, Land-Stadt-Wanderung, Armutsviertel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_7-8_03_02_04",
+                        "content": "ein (Schul\u2011)Projekt der Entwicklungszusammenarbeit hinsichtlich der Verbesserung der Lebensverh\u00e4ltnisse anhand ausgew\u00e4hlter nachhaltiger Entwicklungsziele (SDG) beurteilen (Entwicklungszusammenarbeit, nachhaltige Entwicklung, nachhaltige Entwicklungsziele / Sustainable Development Goals)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_01",
+                    "BTV_03",
+                    "BNE_04",
+                    "BTV_03",
+                    "BO_03",
+                    "MB_04",
+                    "PG_02",
+                    "BNE_05",
+                    "PG_01",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_06",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_01_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_01",
+        "name": "3.5.3.1 Globale Herausforderungen und Zukunftssicherung",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.1 Globale Herausforderungen und Zukunftssicherung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen aktuelle globale Herausforderungen charakterisieren sowie die Leitidee \u201eNachhaltige Entwicklung\u201c im Sinne einer Probleml\u00f6sungs- und Zukunftsorientierung erl\u00e4utern.",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_01_a",
+                "name": "3.5.3.1 Globale Herausforderungen und Zukunftssicherung",
+                "path": [
+                    "03",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_01_01",
+                        "content": "\u201eGlobale Herausforderungen\u201c charakterisieren (Globale Herausforderung, zum Beispiel: Klimawandel, Ressourcenknappheit, Stadtentwicklung, Disparit\u00e4t)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_01_02",
+                        "content": "die Leitidee \u201eNachhaltige Entwicklung\u201c erl\u00e4utern (Nachhaltige Entwicklung, Probleml\u00f6sungsorientierung, Zukunftsorientierung, nachhaltige Entwicklungsziele / Sustainable Development Goals)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_02",
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_05",
+                    "BP2016BW_ALLG_GYM_GEO_PK_01_03",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03",
+        "name": "3.4.2.3 Globale Herausforderung: St\u00e4dte unter dem Einfluss gesellschaftlicher und naturr\u00e4umlicher Ver\u00e4nderungen",
+        "subject": "GEO",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.2.3 Globale Herausforderung: St\u00e4dte unter dem Einfluss gesellschaftlicher und naturr\u00e4umlicher Ver\u00e4nderungen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen St\u00e4dte als vom Menschen geschaffene Geo\u00f6kosysteme in ihren Ursache-Wirkungszusammenh\u00e4ngen analysieren und zukunftsorientierte Strategien unter dem Aspekt der Nachhaltigkeit beurteilen.",
+        "path": [
+            "02",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03_a",
+                "name": "3.4.2.3 Globale Herausforderung: St\u00e4dte unter dem Einfluss gesellschaftlicher und naturr\u00e4umlicher Ver\u00e4nderungen",
+                "path": [
+                    "02",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03_01",
+                        "content": "den urbanen Lebensraum mithilfe von r\u00e4umlichen, funktionalen und sozialen Merkmalen charakterisieren (Stadt, Lage, innere Differenzierung, Zentralit\u00e4t, st\u00e4dtisches \u00d6kosystem, Versorgung, Entsorgung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03_02",
+                        "content": "Ver\u00e4nderungen von St\u00e4dten in einer globalisierten Welt erl\u00e4utern (Bev\u00f6lkerungswachstum, Migration, Metropolisierung, Agglomeration, Terti\u00e4risierung, Quart\u00e4risierung, Suburbanisierung, Reurbanisierung, Shrinking City, Segregation, Gentrifizierung, Gated Community, Marginalisierung, Fragmentierung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03_03",
+                        "content": "die Besonderheiten des Stadtklimas und die Vulnerabilit\u00e4t von st\u00e4dtischen Lebensr\u00e4umen im Klimawandel darstellen (Stadtklima, st\u00e4dtische W\u00e4rmeinsel, Feinstaubbelastung, Lebensqualit\u00e4t, Vulnerabilit\u00e4t, zum Beispiel Meeresspiegelanstieg, Wassermangel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03_04",
+                        "content": "ein Konzept der nachhaltigen Stadtentwicklung an einem Beispiel er\u00f6rtern (nachhaltige Stadtentwicklung, Lokale Agenda 21, Green City, Versorgung, Entsorgung)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_08",
+                    "BTV_06",
+                    "BTV_07",
+                    "BTV_04",
+                    "BTV_03",
+                    "BNE_01",
+                    "BNE_02",
+                    "PG_01",
+                    "BTV_05",
+                    "BTV_06",
+                    "BNE_04",
+                    "BNE_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_06",
+                    "BP2016BW_ALLG_GYM_GEO_PK_05_04",
+                    "BP2016BW_ALLG_GYM_GEO_PK_04_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_03",
+                    "BP2016BW_ALLG_GYM_GEO_PK_03_04"
+                ]
+            }
+        ],
+        "info": []
+    }
+]

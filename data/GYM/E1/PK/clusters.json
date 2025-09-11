@@ -1,0 +1,30 @@
+[
+    {
+        "id": "BP2016BW_ALLG_GYM_E1_PK_02",
+        "name": "2.2 Sprachlernkompetenz",
+        "subject": "E1",
+        "grades": [],
+        "school_type": "GYM",
+        "type": "PK",
+        "description": "Die Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen das eigene Sprachenlernen weitgehend selbstst\u00e4ndig analysieren und gestalten. Dabei greifen sie auf ihr mehrsprachiges Wissen (Erstsprache, gegebenenfalls Zweitsprache, Fremdsprachen) und auf individuelle Sprachlernerfahrungen zuru\u0308ck, zum Beispiel indem sie Gemeinsamkeiten, Unterschiede und Beziehungen zwischen verschiedenen Sprachen reflektieren und f\u00fcr ihr Sprachenlernen gewinnbringend einsetzen. Zur Erweiterung ihrer sprachlichen Kompetenzen nutzen sie vielf\u00e4ltige \u2013 direkte, medial vermittelte, simulierte und authentische \u2013 Begegnungen mit der Fremdsprache, auch an au\u00dferschulischen Lernorten. Sie verf\u00fcgen \u00fcber ein angemessenes Repertoire an sprachbezogenen Lernmethoden und Strategien, die sie ebenso wie digitale Hilfsmittel zielgerichtet und eigenst\u00e4ndig anwenden. Die Sch\u00fclerinnen und Sch\u00fcler sch\u00e4tzen ihre Sprachlernprozesse und \u2011ergebnisse eigenverantwortlich ein und ziehen Konsequenzen f\u00fcr ihr sprachliches Handeln und die Gestaltung weiterer Lernschritte.",
+        "path": [
+            "02"
+        ],
+        "competences": [],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_E1_PK_01",
+        "name": "2.1 Sprachbewusstheit",
+        "subject": "E1",
+        "grades": [],
+        "school_type": "GYM",
+        "type": "PK",
+        "description": "Die Sch\u00fclerinnen und Sch\u00fcler reflektieren beim Erwerb der sprachlichen Mittel die spezifischen Auspr\u00e4gungen des Englischen auch im Vergleich zu anderen Sprachen. Sie nutzen die Ausdrucksmittel des Englischen zielgerichtet, setzen dabei Stil, Register sowie kulturell bestimmte Formen des Sprachgebrauchs, zum Beispiel Formen der H\u00f6flichkeit, sensibel ein und gestalten auch interkulturelle Kommunikationssituationen verantwortungsbewusst. Ihrem Gegen\u00fcber begegnen sie respektvoll und tolerant, unabh\u00e4ngig davon, ob dessen Identit\u00e4t anders gepr\u00e4gt ist als ihre eigene. Die Sch\u00fclerinnen und Sch\u00fcler erkennen sprachliche Kommunikationsprobleme und sind in der Lage, Kompensationsstrategien variabel und adressatengerecht anzuwenden. Dar\u00fcber hinaus reflektieren sie die Rolle und Verwendung von Sprachen in der Welt, zum Beispiel im Kontext kultureller und politischer Gegebenheiten. In der Auseinandersetzung mit fiktionalen und nichtfiktionalen Texten erkennen, analysieren und bewerten sie \u00fcber Sprache gesteuerte Beeinflussungsstrategien. Die Begegnung mit Literatur erm\u00f6glicht es ihnen dar\u00fcber hinaus in besonderem Ma\u00dfe, Sprache in ihrer \u00e4sthetischen Dimension und als Mittel sch\u00f6pferischen Ausdrucks zu erfahren. Auf diese Weise entwickeln sie Sensibilit\u00e4t f\u00fcr Sprache und sprachlich vermittelte Kommunikation.",
+        "path": [
+            "01"
+        ],
+        "competences": [],
+        "info": []
+    }
+]

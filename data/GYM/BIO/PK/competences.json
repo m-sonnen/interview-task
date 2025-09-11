@@ -1,0 +1,209 @@
+[
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BIO_PK_03_a",
+            "name": "biologische Sachverhalte einordnen",
+            "path": [
+                "03",
+                "a"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_03_01",
+                    "content": "in ihrer Lebenswelt biologische Sachverhalte erkennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_03_02",
+                    "content": "Bez\u00fcge zu anderen Unterrichtsf\u00e4chern herstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_03_03",
+                    "content": "die Aussagekraft von Darstellungen in Medien bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_03_04",
+                    "content": "zwischen naturwissenschaftlichen und ethischen Aussagen unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_03_05",
+                    "content": "Aussagen zu naturwissenschaftlichen Themen kritisch pr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_03_06",
+                    "content": "die Wirksamkeit von L\u00f6sungsstrategien bewerten"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_BIO_PK_03_b",
+            "name": "Anwendungen und Folgen biologischer Forschungsergebnisse ethisch bewerten",
+            "path": [
+                "03",
+                "b"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BIO_PK_02_a",
+            "name": "Informationen beschaffen und aufarbeiten",
+            "path": [
+                "02",
+                "a"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_02_01",
+                    "content": "zu biologischen Themen in unterschiedlichen analogen und digitalen Quellen recherchieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_02_02",
+                    "content": "Informationen zu biologischen Fragestellungen zielgerichtet auswerten und verarbeiten, hierzu nutzen sie auch au\u00dferschulische Lernorte"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_02_03",
+                    "content": "Informationen aus Texten, Bildern, Tabellen, Diagrammen oder Grafiken entnehmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_02_04",
+                    "content": "biologische Sachverhalte unter Verwendung der Fachsprache beschreiben oder erkl\u00e4ren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_02_05",
+                    "content": "Zusammenh\u00e4nge zwischen Alltagssituationen und biologischen Sachverhalten herstellen und dabei bewusst die Fachsprache verwenden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_02_06",
+                    "content": "den Verlauf und die Ergebnisse ihrer Arbeit dokumentieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_02_07",
+                    "content": "komplexe biologische Sachverhalte mithilfe von Schemata, Grafiken, Modellen oder Diagrammen anschaulich darstellen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_BIO_PK_02_b",
+            "name": "Informationen austauschen",
+            "path": [
+                "02",
+                "b"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BIO_PK_01_a",
+            "name": "biologische Arbeitstechniken anwenden",
+            "path": [
+                "01",
+                "a"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_01",
+                    "content": "ein Mikroskop bedienen, mikroskopische Pr\u00e4parate herstellen und darstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_02",
+                    "content": "Morphologie und Anatomie von Lebewesen und Organen untersuchen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_03",
+                    "content": "Lebewesen kriteriengeleitet vergleichen und klassifizieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_04",
+                    "content": "mit Bestimmungshilfen h\u00e4ufig vorkommende Arten bestimmen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_BIO_PK_01_b",
+            "name": "Experimente planen, durchf\u00fchren und auswerten",
+            "path": [
+                "01",
+                "b"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_05",
+                    "content": "Fragestellungen und begr\u00fcndete Vermutungen zu biologischen Ph\u00e4nomenen formulieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_06",
+                    "content": "Beobachtungen und Versuche durchf\u00fchren und auswerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_07",
+                    "content": "Arbeitsger\u00e4te benennen und sachgerecht damit umgehen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_08",
+                    "content": "Hypothesen formulieren und zur \u00dcberpr\u00fcfung geeignete Experimente planen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_09",
+                    "content": "qualitative und einfache quantitative Experimente durchf\u00fchren, protokollieren und auswerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BIO_PK_01_10",
+                    "content": "aus Versuchsergebnissen allgemeine Aussagen ableiten"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_BIO_PK_01_c",
+            "name": "mit Modellen arbeiten",
+            "path": [
+                "01",
+                "c"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ]
+]

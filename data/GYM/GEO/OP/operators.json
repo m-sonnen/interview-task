@@ -1,0 +1,137 @@
+[
+    [
+        {
+            "name": "analysieren",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Materialien oder Sachverhalte systematisch untersuchen und auswerten",
+            "difficulty": "II"
+        },
+        {
+            "name": "begr\u00fcnden",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Aussagen (zum Beispiel eine Behauptung, eine Position) durch Argumente st\u00fctzen, die durch Beispiele oder andere Belege untermauert werden",
+            "difficulty": "II"
+        },
+        {
+            "name": "beschreiben",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte schl\u00fcssig wiedergeben",
+            "difficulty": "I"
+        },
+        {
+            "name": "beurteilen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Aussagen, Vorschl\u00e4ge oder Ma\u00dfnahmen untersuchen, die dabei zugrunde gelegten Kriterien benennen und ein begr\u00fcndetes Sachurteil formulieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "bewerten",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Aussagen, Vorschl\u00e4ge oder Ma\u00dfnahmen beurteilen, ein begr\u00fcndetes Werturteil formulieren und die dabei zugrunde gelegten Wertma\u00dfst\u00e4be offenlegen",
+            "difficulty": "III"
+        },
+        {
+            "name": "bezeichnen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte (insbesondere bei nichtlinearen Texten wie zum Beispiel Tabellen, Schaubildern, Diagrammen oder Karten) begrifflich pr\u00e4zise formulieren.",
+            "difficulty": "I"
+        },
+        {
+            "name": "charakterisieren",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte mit ihren typischen Merkmalen und in ihren Grundz\u00fcgen bestimmen",
+            "difficulty": "II"
+        },
+        {
+            "name": "darstellen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte strukturiert und zusammenh\u00e4ngend verdeutlichen",
+            "difficulty": "II"
+        },
+        {
+            "name": "ein\u2011, zuordnen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte schl\u00fcssig in einen vorgegebenen Zusammenhang stellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "entwickeln",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "zu einer vorgegebenen oder selbst entworfenen Problemstellung einen begr\u00fcndeten L\u00f6sungsvorschlag entwerfen",
+            "difficulty": "III"
+        },
+        {
+            "name": "erkl\u00e4ren",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte schl\u00fcssig aus Kenntnissen in einen Zusammenhang stellen (zum Beispiel Theorie, Modell, Gesetz, Regel, Funktions\u2011, Entwicklungs- und/oder Kausalzusammenhang)",
+            "difficulty": "II"
+        },
+        {
+            "name": "erl\u00e4utern",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte mit Beispielen oder Belegen veranschaulichen",
+            "difficulty": "II"
+        },
+        {
+            "name": "er\u00f6rtern",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "zu einer vorgegebenen These oder Problemstellung durch Abw\u00e4gen von Pro- und Contra-Argumenten ein begr\u00fcndetes Ergebnis formulieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "erstellen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte (insbesondere in grafischer Form) unter Verwendung fachsprachlicher Begriffe strukturiert aufzeigen",
+            "difficulty": "II"
+        },
+        {
+            "name": "gestalten",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "zu einer vorgegebenen oder selbst entworfenen Problemstellung ein Produkt rollen- beziehungsweise adressatenorientiert herstellen",
+            "difficulty": "III"
+        },
+        {
+            "name": "herausarbeiten",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte unter bestimmten Gesichtspunkten aus vorgegebenem Material entnehmen, wiedergeben und/oder gegebenenfalls berechnen",
+            "difficulty": "II"
+        },
+        {
+            "name": "nennen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Sachverhalte in knapper Form anf\u00fchren",
+            "difficulty": "I"
+        },
+        {
+            "name": "\u00fcberpr\u00fcfen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Aussagen, Vorschl\u00e4ge oder Ma\u00dfnahmen an Sachverhalten auf ihre sachliche Richtigkeit hin untersuchen und ein begr\u00fcndetes Ergebnis formulieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "GEO",
+            "school_type": "GYM",
+            "description": "Vergleichskriterien festlegen, Gemeinsamkeiten und Unterschiede gewichtend einander gegen\u00fcberstellen sowie ein Ergebnis formulieren",
+            "difficulty": "II"
+        }
+    ]
+]

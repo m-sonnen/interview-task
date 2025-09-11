@@ -1,0 +1,217 @@
+[
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_a",
+            "name": "physikalische Arbeitsweisen reflektieren",
+            "path": [
+                "03",
+                "a"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_01",
+                    "content": "bei Experimenten relevante von nicht relevanten Einflussgr\u00f6\u00dfen unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_02",
+                    "content": "Ergebnisse von Experimenten bewerten (Messfehler, Genauigkeit, Ausgleichsgerade, mehrfache Messung und Mittelwertbildung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_03",
+                    "content": "Hypothesen anhand der Ergebnisse von Experimenten beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_04",
+                    "content": "Grenzen physikalischer Modelle an Beispielen erl\u00e4utern"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_b",
+            "name": "Informationen bewerten",
+            "path": [
+                "03",
+                "b"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_05",
+                    "content": "Informationen aus verschiedenen Quellen auf Relevanz pr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_06",
+                    "content": "Darstellungen in den Medien anhand ihrer physikalischen Erkenntnisse kritisch betrachten (zum Beispiel Filme, Zeitungsartikel, pseudowissenschaftliche Aussagen)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_03_c",
+            "name": "Chancen und Risiken diskutieren",
+            "path": [
+                "03",
+                "c"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_02_a",
+            "name": "Erkenntnisse verbalisieren",
+            "path": [
+                "02",
+                "a"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_02_01",
+                    "content": "zwischen alltagssprachlicher und fachsprachlicher Beschreibung unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_02_02",
+                    "content": "funktionale Zusammenh\u00e4nge zwischen physikalischen Gr\u00f6\u00dfen verbal beschreiben (\u201eje-desto\u201c-Aussagen) und physikalische Formeln erl\u00e4utern (Ursache-Wirkungs-Aussagen, unbekannte Formeln)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_02_03",
+                    "content": "sich \u00fcber physikalische Erkenntnisse und deren Anwendungen unter Verwendung der Fachsprache und fachtypischer Darstellungen austauschen (unter anderem Unterscheidung von Gr\u00f6\u00dfe und Einheit, Nutzung von Pr\u00e4fixen und Normdarstellung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_02_04",
+                    "content": "physikalische Vorg\u00e4nge und technische Ger\u00e4te beschreiben (zum Beispiel zeitliche Abl\u00e4ufe, kausale Zusammenh\u00e4nge)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_02_b",
+            "name": "Erkenntnisse dokumentieren und pr\u00e4sentieren",
+            "path": [
+                "02",
+                "b"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_a",
+            "name": "zielgerichtet experimentieren",
+            "path": [
+                "01",
+                "a"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_01",
+                    "content": "Ph\u00e4nomene und Experimente zielgerichtet beobachten und ihre Beobachtungen beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_02",
+                    "content": "Hypothesen zu physikalischen Fragestellungen aufstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_03",
+                    "content": "Experimente zur \u00dcberpr\u00fcfung von Hypothesen planen (unter anderem vermutete Einflussgr\u00f6\u00dfen getrennt variieren)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_04",
+                    "content": "Experimente durchf\u00fchren und auswerten, dazu gegebenenfalls Messwerte erfassen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_05",
+                    "content": "Messwerte auch digital erfassen und auswerten (unter anderem Messwerterfassungssystem, Tabellenkalkulation)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_b",
+            "name": "modellieren und mathematisieren",
+            "path": [
+                "01",
+                "b"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_06",
+                    "content": "mathematische Zusammenh\u00e4nge zwischen physikalischen Gr\u00f6\u00dfen herstellen, \u00fcberpr\u00fcfen und modellieren (auch mithilfe digitaler Werkzeuge)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_07",
+                    "content": "aus proportionalen Zusammenh\u00e4ngen Gleichungen entwickeln"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_08",
+                    "content": "mathematische Umformungen zur Berechnung physikalischer Gr\u00f6\u00dfen durchf\u00fchren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_09",
+                    "content": "zwischen realen Erfahrungen und konstruierten, idealisierten Modellvorstellungen unterscheiden (unter anderem Unterschied zwischen Beobachtung und Erkl\u00e4rung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_10",
+                    "content": "Analogien beschreiben und zur L\u00f6sung von Problemstellungen nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_11",
+                    "content": "mithilfe von Modellen Ph\u00e4nomene erkl\u00e4ren und Hypothesen formulieren"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GYM_PH.V2_PK_01_c",
+            "name": "Wissen erwerben und anwenden",
+            "path": [
+                "01",
+                "c"
+            ],
+            "subject": "GYM",
+            "grades": [],
+            "school_type": "GYM",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ]
+]

@@ -1,0 +1,2019 @@
+[
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03",
+        "name": "3.2.2.3 Energetische Aspekte chemischer Reaktionen",
+        "subject": "CH",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.3 Energetische Aspekte chemischer Reaktionen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler beschreiben chemische Reaktionen als Zusammenspiel von Stoffumwandlung und Energieumsatz. Sie k\u00f6nnen vom beobachteten Ph\u00e4nomen auf den energetischen Verlauf der Reaktion schlie\u00dfen. Sie beschreiben M\u00f6glichkeiten, den Ablauf chemischer Reaktionen zu beeinflussen.",
+        "path": [
+            "02",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_a",
+                "name": "3.2.2.3 Energetische Aspekte chemischer Reaktionen",
+                "path": [
+                    "02",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_01",
+                        "content": "energetische Erscheinungen bei chemischen Reaktionen mit der Umwandlung eines Teils der in Stoffen gespeicherten Energie in andere Energieformen erkl\u00e4ren (Lichtenergie, thermische Energie, Schallenergie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_02",
+                        "content": "die Begriffe exotherm und endotherm erkl\u00e4ren und entsprechenden Ph\u00e4nomenen zuordnen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_03",
+                        "content": "energetische Zust\u00e4nde der Edukte und Produkte exothermer und endothermer Reaktionen vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_04",
+                        "content": "ein Experiment zur Elektrolyse einer Metallsalz-L\u00f6sung durchf\u00fchren und auswerten (Prinzip eines elektrochemischen Energiespeichers)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_05",
+                        "content": "die Zufuhr von Energie als Voraussetzung zum Start chemischer Reaktionen erkl\u00e4ren (Aktivierungsenergie) und mit der Energiezufuhr bei endothermen Reaktionen vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_06",
+                        "content": "den Einfluss von Katalysatoren auf die Aktivierungsenergie beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_07",
+                        "content": "Modellexperimente zur Brandbek\u00e4mpfung durchf\u00fchren und Ma\u00dfnahmen zum Brandschutz begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_08",
+                        "content": "die Verwendung von Erd\u00f6l als Rohstoff und als Brennstoff vergleichen und bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_03_09",
+                        "content": "die Kohlenstoffdioxidbilanz und die Reaktionsenergie bei der Verbrennung verschiedener Brennstoffe vergleichen, um die Verwendung verschiedener Energietr\u00e4ger zu bewerten (Wasserstoff, Methan, Benzin)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BNE_01",
+                    "PG_08",
+                    "BNE_01",
+                    "MB_03",
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                    "BP2016BW_ALLG_GYM_PH_IK_7-8_03_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_02_02_04",
+                    "BP2016BW_ALLG_GYM_PH_IK_7-8_03_00_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_03",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_09"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00",
+        "name": "3.4.6 Kunststoffe",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.6 Kunststoffe\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler erlangen am Beispiel der Entwicklung von Kunststoffen mit gezielt geplanten Eigenschaften ein differenziertes Verst\u00e4ndnis von Struktur-Eigenschaften-Beziehungen. Sie beschreiben die drei wichtigsten Reaktionstypen zur Kunststoffsynthese und k\u00f6nnen an einem Beispiel einen Reaktionsmechanismus erl\u00e4utern. Auf diese Weise vertiefen sie ihre Kenntnisse im Bereich \u201eChemische Reaktion\u201c. Sie kennen die wichtigsten Massenkunststoffe und stellen Anforderungen an eine zukunftssichere Entwicklung, Verwendung und Entsorgung von Kunststoffen an Beispielen differenziert und detailliert dar.",
+        "path": [
+            "06",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_a",
+                "name": "3.4.6 Kunststoffe",
+                "path": [
+                    "06",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_01",
+                        "content": "den Zusammenhang zwischen den Eigenschaften von Kunststoffen und ihrer Struktur erl\u00e4utern (Thermoplaste, Duromere, Elastomere, Vernetzungsgrad, kristalline und amorphe Bereiche)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_02",
+                        "content": "die Prinzipien wichtiger Kunststoffsynthesen mithilfe chemischer Formeln darstellen (Polymerisation, Polykondensation, Polyaddition)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_03",
+                        "content": "Strukturformeln der Monomere und sinnvolle Strukturformelausschnitte der Polymere darstellen und benennen (Polyethen, Polypropen, Polyvinylchlorid, Polystyrol, Polyethylenterephthalat, Polymilchs\u00e4ure, Polyamide, Polyurethane)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_04",
+                        "content": "den Reaktionsmechanismus der radikalischen Polymerisation beschreiben (Radikalbildung, Kettenstart, Kettenwachstum, Kettenabbruch)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_05",
+                        "content": "einen Versuch zur Herstellung eines Polymerisats und eines Polykondensats planen und durchf\u00fchren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_06",
+                        "content": "M\u00f6glichkeiten zur Beeinflussung der Eigenschaften eines Kunststoffs begr\u00fcnden (Wahl der Monomere, Weichmacher, Reaktionsbedingungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_07",
+                        "content": "die Verarbeitungsm\u00f6glichkeiten von Kunststoffen beschreiben (Spritzgie\u00dfen, Tiefziehen, Kalandrieren, Extrudieren)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_08",
+                        "content": "die unterschiedlichen Verwertungsm\u00f6glichkeiten f\u00fcr Kunststoffabf\u00e4lle bewerten (Werkstoffrecycling, Rohstoffrecycling, energetische Verwertung, Kompostierung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00_09",
+                        "content": "die Nutzung nachwachsender Rohstoffe zur Herstellung von Kunststoffen erl\u00e4utern"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "MB_03",
+                    "BNE_04",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_02",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00",
+        "name": "3.3.2 Naturstoffe",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.2 Naturstoffe \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler erkennen in den Kohlenhydraten, Proteinen und Fetten wichtige Bestandteile der belebten Natur. Sie sind in der Lage, die Struktur der Fettmolek\u00fcle zu beschreiben sowie die wesentlichen Bausteine der Kohlenhydrate und Proteine wiederzugeben und zu gr\u00f6\u00dferen Molek\u00fclen zu verkn\u00fcpfen. Sie erlangen Kenntnisse \u00fcber die biologische Bedeutung einzelner Naturstoffe und erkl\u00e4ren deren wirtschaftliche Verwendung.",
+        "path": [
+            "02",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00_a",
+                "name": "3.3.2 Naturstoffe",
+                "path": [
+                    "02",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00_01",
+                        "content": "die Struktur von Fettmolek\u00fclen beschreiben (ges\u00e4ttigte und unges\u00e4ttigte Fetts\u00e4uren, Glycerin, Ester)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00_02",
+                        "content": "die Molek\u00fclstruktur von Monosacchariden und Aminos\u00e4uren erkl\u00e4ren (Chiralit\u00e4t, Fischer- und Haworth-Projektionsformeln)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00_03",
+                        "content": "die Verkn\u00fcpfung von Monomeren zu einem Disaccharid beziehungsweise einem Dipeptid sowie zu den entsprechenden Makromolek\u00fclen erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00_04",
+                        "content": "Kohlenhydrate und Proteine mit Nachweismethoden untersuchen (GOD-Test, Benedict-Probe, Biuret- und Ninhydrin-Reaktion)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00_05",
+                        "content": "Biomolek\u00fcle anhand ihrer Struktur den Stoffklassen der Fette, Kohlenhydrate, Proteine und Nukleins\u00e4uren zuordnen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00_06",
+                        "content": "Funktionen der Fette, Kohlenhydrate, Proteine und Nukleins\u00e4uren f\u00fcr den menschlichen Organismus beschreiben"
+                    }
+                ],
+                "guidelines": [
+                    "MB_05",
+                    "VB_07",
+                    "PG_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_02_00_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00",
+        "name": "3.4.7 Elektrochemie",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.7 Elektrochemie\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler wenden das Donator-Akzeptor-Prinzip auf Redoxreaktionen an. Sie verstehen Redoxreaktionen als umkehrbare elektrochemische Vorg\u00e4nge und wenden deren Grundprinzipien auf die Gewinnung und Speicherung von Energie an. Dabei stellen sie Beziehungen zwischen der Theorie und den Anwendungen der Chemie her und erkennen ihre Bedeutung in der modernen Energieversorgung.",
+        "path": [
+            "07",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_a",
+                "name": "3.4.7 Elektrochemie",
+                "path": [
+                    "07",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_01",
+                        "content": "das Donator-Akzeptor-Prinzip auf Reaktionen mit Elektronen\u00fcbergang anwenden (Oxidation, Reduktion, Redoxpaare)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_02",
+                        "content": "Reaktionen zwischen Metallen und Metallsalzl\u00f6sungen durchf\u00fchren und das Reduktions- beziehungsweise das Oxidationsverm\u00f6gen der Teilchen vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_03",
+                        "content": "Oxidationszahlen zur Identifizierung von Redoxreaktionen und zur Formulierung von Reaktionsgleichungen von Redoxreaktionen anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_04",
+                        "content": "den Aufbau einer galvanischen Zelle (Daniell-Element) und einer Elektrolysezelle beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_05",
+                        "content": "Zellspannungen galvanischer Zellen experimentell ermitteln"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_06",
+                        "content": "die wesentlichen Prozesse in galvanischen Zellen und Elektrolysezellen darstellen und vergleichen (Elektrodenreaktionen, Anode, Kathode, Zellspannung, Zersetzungsspannung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_07",
+                        "content": "die Zellspannung mithilfe von Gleichgewichtsbetrachtungen an den elektrochemischen Doppelschichten erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_08",
+                        "content": "den Aufbau und die Funktion der Standard-Wasserstoff-Halbzelle erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_09",
+                        "content": "Standardpotenziale zur Vorhersage von elektrochemischen Reaktionen und zur Berechnung von Zellspannungen unter Standardbedingungen anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_10",
+                        "content": "die Abh\u00e4ngigkeit der Zellspannung von den Ionen-Konzentrationen in galvanischen Zellen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_11",
+                        "content": "das Ph\u00e4nomen der \u00dcberspannung beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_12",
+                        "content": "M\u00f6glichkeiten und Probleme der elektrochemischen Speicherung von Energie in Batterien und Akkumulatoren (Bleiakkumulator) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_07_00_13",
+                        "content": "aktuelle Entwicklungen bei elektrochemischen Stromquellen unter dem Aspekt der Nachhaltigkeit diskutieren (Brennstoffzellen)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "PG_08",
+                    "VB_07",
+                    "MB_03",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00",
+        "name": "3.3.1 Chemische Gleichgewichte",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.1 Chemische Gleichgewichte\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler entwickeln eine Vorstellung \u00fcber die Einstellung eines chemischen Gleichgewichts und verstehen den Gleichgewichtszustand als dynamischen Prozess. Sie wenden ihre Kenntnisse auf S\u00e4ure-Base-Gleichgewichte und gro\u00dftechnische Verfahren an.",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_a",
+                "name": "3.3.1 Chemische Gleichgewichte",
+                "path": [
+                    "01",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_01",
+                        "content": "die Umkehrbarkeit einer Reaktion als Voraussetzung f\u00fcr die Einstellung eines Gleichgewichts nennen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_02",
+                        "content": "am Beispiel eines Ester-Gleichgewichts die Einstellung und den Zustand eines chemischen Gleichgewichts erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_03",
+                        "content": "ein Modellexperiment zur Gleichgewichtseinstellung auswerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_04",
+                        "content": "die Lage homogener Gleichgewichte mit dem Massenwirkungsgesetz beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_05",
+                        "content": "die Beeinflussung der Lage chemischer Gleichgewichte experimentell untersuchen und mithilfe des Prinzips von Le Chatelier erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_06",
+                        "content": "die Wahl der Reaktionsbedingungen (Temperatur, Druck, Konzentration, Katalysator) bei der gro\u00dftechnischen Ammoniaksynthese unter dem Aspekt der Erh\u00f6hung der Ammoniakausbeute begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_07",
+                        "content": "die Leistungen von Haber und Bosch darstellen und die gesellschaftliche Bedeutung der Ammoniaksynthese erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_08",
+                        "content": "S\u00e4ure-Base-Reaktionen mithilfe der Theorie von Br\u00f8nsted beschreiben (Donator-Akzeptor-Prinzip)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_09",
+                        "content": "die Definition des pH-Werts nennen und den Zusammenhang zwischen pH-Wert und Autoprotolyse des Wassers erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_01_00_10",
+                        "content": "pH-Werte von L\u00f6sungen einprotoniger, starker S\u00e4uren ermitteln"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_07",
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_M_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01",
+        "name": "3.2.1.1 Stoffe und ihre Eigenschaften",
+        "subject": "CH",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.1 Stoffe und ihre Eigenschaften\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler erweitern und vertiefen ihre in Biologie, Naturph\u00e4nomene und Technik (BNT) erworbenen Kenntnisse \u00fcber Stoffe und deren Eigenschaften. Sie beschreiben Stoffe anhand ihrer Stoffeigenschaften und sind in der Lage, ausgew\u00e4hlte anorganische und organische Stoffe nach ihren Eigenschaftskombinationen sowie nach fachsystematischen Kriterien zu ordnen. Mithilfe ihrer Kenntnisse \u00fcber Stoffeigenschaften entwickeln sie Trennverfahren f\u00fcr Gemische und k\u00f6nnen ihr Vorgehen begr\u00fcnden.",
+        "path": [
+            "01",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_a",
+                "name": "3.2.1.1 Stoffe und ihre Eigenschaften",
+                "path": [
+                    "01",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_01",
+                        "content": "Stoffeigenschaften experimentell untersuchen und beschreiben (Farbe, Geruch, Verformbarkeit, Dichte, Magnetisierbarkeit, elektrische Leitf\u00e4higkeit, Schmelztemperatur, Siedetemperatur, L\u00f6slichkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_02",
+                        "content": "Kombinationen charakteristischer Eigenschaften ausgew\u00e4hlter Stoffe nennen (Luft, Stickstoff, Sauerstoff, Kohlenstoffdioxid, Wasser, Wasserstoff, Chlor, Eisen, Kupfer, Silber, Magnesium, Natrium, Natriumchlorid, Natriumhydroxid, Magnesiumoxid, Salzs\u00e4ure)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_03",
+                        "content": "die Bedeutung der Gefahrenpiktogramme nennen und daraus das Gefahrenpotenzial eines Stoffes f\u00fcr Mensch und Umwelt ableiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_04",
+                        "content": "ein Experiment zur Trennung eines Gemisches planen und durchf\u00fchren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_05",
+                        "content": "an einem ausgew\u00e4hlten Stoff den Weg von der industriellen Gewinnung aus Rohstoffen bis zur Verwendung darstellen (zum Beispiel Kochsalz, Eisen, Kupfer, Benzin)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_06",
+                        "content": "ein sinnvolles Ordnungsprinzip zur Einteilung der Stoffe darstellen und anwenden (Element, Verbindung, Metall, Nichtmetall, Salz, fl\u00fcchtiger/molekularer Stoff, Reinstoff, homogenes und heterogenes Gemisch, L\u00f6sung, Legierung, Suspension, Emulsion, Rauch, Nebel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_07",
+                        "content": "die \u00c4nderung der Stoffeigenschaften in Abh\u00e4ngigkeit von der Partikelgr\u00f6\u00dfe an einem Beispiel beschreiben (Nanopartikel, Verh\u00e4ltnis Oberfl\u00e4che zu Volumen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_08",
+                        "content": "die Eigenschaften w\u00e4ssriger L\u00f6sungen (elektrische Leitf\u00e4higkeit, sauer, alkalisch, neutral) untersuchen und die Fachbegriffe sauer, alkalisch und neutral der pH-Skala zuordnen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_09",
+                        "content": "Beispiele f\u00fcr alkalische und saure L\u00f6sungen nennen und deren Verwendung im Alltag beschreiben (Natronlauge, Ammoniak-L\u00f6sung, Salzs\u00e4ure, kohlensaure L\u00f6sung, verd\u00fcnnte Essigs\u00e4ure)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_10",
+                        "content": "die Zusammensetzung der Luft nennen und die Ver\u00e4nderungen des Kohlenstoffdioxidanteils hinsichtlich ihrer globalen Auswirkungen bewerten (Volumenanteile von Stickstoff, Sauerstoff, Edelgasen und Kohlenstoffdioxid)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_11",
+                        "content": "organische Stoffe mithilfe typischer Eigenschaften beschreiben (Methan, Heptan, Ethen, Ethanol, Propanal, Propanon, Ethans\u00e4ure, Glucose, Ethans\u00e4ureethylester)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_12",
+                        "content": "die Verwendung ausgew\u00e4hlter organischer Stoffe aufgrund ihrer Eigenschaften in Alltag und Technik erl\u00e4utern (Methan, Ethen, Benzin, Ethanol, Propanon/Aceton, Ethans\u00e4ure/Essigs\u00e4ure)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_13",
+                        "content": "die Gefahren und den Nutzen von Ethanol beschreiben (Alkoholkonsum, Desinfektionsmittel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_14",
+                        "content": "\u00c4nderungen von Stoffeigenschaften innerhalb einer homologen Reihe beschreiben (homologe Reihe der Alkane und Alkanole)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_01_15",
+                        "content": "ausgew\u00e4hlte organische Stoffklassen bez\u00fcglich ihrer Stoffeigenschaften vergleichen (Siedetemperatur und Wasserl\u00f6slichkeit von Alkanen, Alkanolen, Alkans\u00e4uren und Estern)"
+                    }
+                ],
+                "guidelines": [
+                    "PG_01",
+                    "VB_07",
+                    "PG_08",
+                    "VB_06",
+                    "VB_07",
+                    "PG_08",
+                    "VB_07",
+                    "BNE_01",
+                    "MB_05",
+                    "VB_07",
+                    "VB_03",
+                    "MB_03",
+                    "PG_06"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_03_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03",
+        "name": "3.2.1.3 Bindungs- und Wechselwirkungsmodelle",
+        "subject": "CH",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.3 Bindungs- und Wechselwirkungsmodelle\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler beschreiben Bindungen innerhalb von Stoffteilchen und Wechselwirkungen zwischen den Atomen, Molek\u00fclen und Ionen und erkl\u00e4ren damit wesentliche Eigenschaften der Stoffe. Sie grenzen die verschiedenen Bindungs- und Wechselwirkungstypen gegeneinander ab.",
+        "path": [
+            "01",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_a",
+                "name": "3.2.1.3 Bindungs- und Wechselwirkungsmodelle",
+                "path": [
+                    "01",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_01",
+                        "content": "die Ionenbindung erkl\u00e4ren und typische Eigenschaften der Salze und Salzl\u00f6sungen begr\u00fcnden (Ionengitter, Spr\u00f6digkeit, hohe Schmelztemperatur, elektrische Leitf\u00e4higkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_02",
+                        "content": "die Metallbindung erkl\u00e4ren und damit typische Eigenschaften der Metalle begr\u00fcnden (Duktilit\u00e4t, elektrische Leitf\u00e4higkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_03",
+                        "content": "die Molek\u00fclbildung durch Elektronenpaarbindung unter Anwendung der Edelgasregel erl\u00e4utern (bindende und nichtbindende Elektronenpaare, Lewis-Schreibweise, Einfach- und Mehrfach-Bindungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_04",
+                        "content": "polare und unpolare Elektronenpaarbindungen vergleichen (Elektronegativit\u00e4t)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_05",
+                        "content": "den r\u00e4umlichen Bau von Molek\u00fclen mithilfe eines Modells erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_06",
+                        "content": "den Zusammenhang zwischen Bindungstyp, r\u00e4umlichem Bau und Dipol-Eigenschaft bei Molek\u00fclen darstellen (H2, HCl, CO2, H2O, NH3)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_07",
+                        "content": "Reinstoffen aufgrund ihrer Stoffeigenschaften Stoffteilchen und Bindungstypen zuordnen (Elektronenpaarbindung, Ionenbindung, Metallbindung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_08",
+                        "content": "zwischenmolekulare Wechselwirkungen erkl\u00e4ren (Wechselwirkungen zwischen tempor\u00e4ren Dipolen, Wechselwirkungen zwischen permanenten Dipolen, Wasserstoffbr\u00fccken)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_09",
+                        "content": "aus der Struktur zweier Molek\u00fcle m\u00f6gliche zwischenmolekulare Wechselwirkungen ableiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_10",
+                        "content": "die besonderen Eigenschaften von Wasser erkl\u00e4ren (Dichteanomalie, hohe Siedetemperatur, r\u00e4umlicher Bau des Wassermolek\u00fcls, Wasserstoffbr\u00fccken)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_11",
+                        "content": "ausgehend von den zwischenmolekularen Wechselwirkungen ausgew\u00e4hlte Eigenschaften von Stoffen erkl\u00e4ren (Siedetemperatur, L\u00f6slichkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_03_12",
+                        "content": "den L\u00f6sungsvorgang von Salzen auf der Teilchenebene beschreiben (Hydratation)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_05",
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_PH_IK_7-8_05_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_PH_IK_7-8_05_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00",
+        "name": "3.3.4 Elektrische Energie und Chemie",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4 Elektrische Energie und Chemie\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler wenden das Donator-Akzeptor-Prinzip auf elektrochemische Redoxreaktionen an. Sie erkl\u00e4ren die Prozesse in der Elektrolysezelle als erzwungene und in der galvanischen Zelle als freiwillig ablaufende Redoxreaktionen. Dabei lernen sie Batterien und Akkumulatoren kennen, anhand derer sie elektrochemische Vorg\u00e4nge zur Umwandlung und Speicherung von Energie beschreiben. Ausgehend von der Brennstoffzelle diskutieren die Sch\u00fclerinnen und Sch\u00fcler Probleme und L\u00f6sungen der Energiebereitstellung und des Energietransports.",
+        "path": [
+            "04",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_a",
+                "name": "3.3.4 Elektrische Energie und Chemie",
+                "path": [
+                    "04",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_01",
+                        "content": "Elektrolysen als erzwungene Redoxreaktionen erkl\u00e4ren (Elektronen\u00fcbergang, Donator-Akzeptor-Prinzip)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_02",
+                        "content": "den Aufbau einer galvanischen Zelle am Beispiel des Daniell-Elements beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_03",
+                        "content": "die wesentlichen Prozesse in galvanischen Zellen darstellen (Elektrodenreaktionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_04",
+                        "content": "Redoxreaktionen beschreiben, die der Umwandlung von chemischer Energie in elektrische Energie dienen (eine Batterie, ein Akkumulator, Brennstoffzelle)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_04_00_05",
+                        "content": "die Bedeutung einer Brennstoffzelle f\u00fcr die zuk\u00fcnftige Energiebereitstellung erl\u00e4utern"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BNE_04",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00",
+        "name": "3.3.3 Kunststoffe",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.3 Kunststoffe\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler vertiefen ihre Kenntnisse \u00fcber den Zusammenhang von Struktur und Eigenschaft. Sie wenden dabei Vorkenntnisse zu funktionellen Gruppen und Reaktionen von organischen Molek\u00fclen an und ziehen Parallelen zu den nat\u00fcrlichen Makromolek\u00fclen. Sie bewerten Kunststoffe aus Sicht ihrer Alltags- und Zukunftsbedeutung.",
+        "path": [
+            "03",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00_a",
+                "name": "3.3.3 Kunststoffe",
+                "path": [
+                    "03",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00_01",
+                        "content": "Kunststoffe anhand ihrer thermischen und mechanischen Eigenschaften in Gruppen klassifizieren (Thermoplaste, Duromere, Elastomere) und den Gruppen entsprechende Molek\u00fclstrukturen zuordnen (lineare, eng- und weitmaschig vernetzte Makromolek\u00fcle)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00_02",
+                        "content": "die Prinzipien wichtiger Kunststoffsynthesen darstellen (Polymerisation, Polykondensation)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00_03",
+                        "content": "ein Experiment zur Herstellung eines Kunststoffs planen und durchf\u00fchren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00_04",
+                        "content": "die Verwendung von Massenkunststoffen aus wirtschaftlicher, \u00f6kologischer und gesundheitlicher Sicht bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00_05",
+                        "content": "Trends bei der Entwicklung moderner Kunststoffe beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_03_00_06",
+                        "content": "die unterschiedlichen Verwertungsm\u00f6glichkeiten f\u00fcr Kunststoffabf\u00e4lle bewerten (Werkstoffrecycling, Rohstoffrecycling, energetische Verwertung, Kompostierung)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BNE_04",
+                    "MB_03",
+                    "VB_07",
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_09"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02",
+        "name": "3.2.2.2 Quantitative Aspekte chemischer Reaktionen",
+        "subject": "CH",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.2 Quantitative Aspekte chemischer Reaktionen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler entwickeln ein zunehmend differenziertes Verst\u00e4ndnis f\u00fcr die Aussagen von chemischen Formeln und von Reaktionsgleichungen. Sie nutzen Gr\u00f6\u00dfen und Einheiten, die Teilchen, Stoffportionen oder Stoffgemische quantitativ beschreiben, um st\u00f6chiometrische Berechnungen durchzuf\u00fchren. Diese Kompetenzen erwerben sie schrittweise, innerhalb passender fachwissenschaftlicher beziehungsweise alltagsbezogener Kontexte, sowie im Zusammenhang mit den entsprechenden mathematischen Fertigkeiten.",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_a",
+                "name": "3.2.2.2 Quantitative Aspekte chemischer Reaktionen",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_01",
+                        "content": "den Zusammenhang zwischen Massen- und Atomanzahlerhaltung bei chemischen Reaktionen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_02",
+                        "content": "Experimente zur Massenerhaltung bei chemischen Reaktionen und zur Ermittlung eines Massenverh\u00e4ltnisses durchf\u00fchren und unter Anleitung auswerten (Gesetz von der Erhaltung der Masse, Verh\u00e4ltnisformel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_03",
+                        "content": "Reaktionsgleichungen aufstellen (Formelschreibweise)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_04",
+                        "content": "Verh\u00e4ltnis- und Molek\u00fclformeln mithilfe der Edelgasregel aufstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_05",
+                        "content": "den Informationsgehalt einer chemischen Formel erl\u00e4utern (Verh\u00e4ltnisformel, Molek\u00fclformel, Strukturformel, r\u00e4umliche Darstellung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_06",
+                        "content": "eine S\u00e4ure-Base-Titration durchf\u00fchren und auswerten (Neutralisation)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_02_07",
+                        "content": "Berechnungen durchf\u00fchren und dabei Gr\u00f6\u00dfen und Einheiten korrekt nutzen (Atommasse, Teilchenzahl, Masse, Dichte, Stoffmenge, molare Masse, molares Volumen, Massenanteil, Stoffmengenkonzentration)"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_M_IK_5-6_02_00_08",
+                    "BP2016BW_ALLG_GYM_M_IK_7-8_01_00_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_08_00",
+        "name": "3.4.8 Chemie in Wissenschaft, Forschung und Anwendung",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.8 Chemie in Wissenschaft, Forschung und Anwendung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler erweitern und vertiefen an ausgew\u00e4hlten Beispielen ihre Vorstellungen zum Atombau und zur chemischen Bindung. Dabei nutzen sie Modelle, die dem aktuellen wissenschaftlichen Erkenntnisstand angen\u00e4hert sind und den Einstieg in ein naturwissenschaftliches Studium erleichtern. Sie erwerben Grundlagenkenntnisse zu einem Arbeitsgebiet innovativer Forschung, in dem sich die Wissenschaft Chemie Zukunftsthemen zuwendet. Dabei werden sowohl wissenschaftshistorische Aspekte als auch aktuelle Forschungstrends unter alltagsbezogenen, \u00f6konomischen und \u00f6kologisch-nachhaltigen Gesichtspunkten betrachtet.",
+        "path": [
+            "08",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_08_00_a",
+                "name": "3.4.8 Chemie in Wissenschaft, Forschung und Anwendung",
+                "path": [
+                    "08",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_08_00_01",
+                        "content": "den energetischen Zustand der Elektronen in der Atomh\u00fclle mithilfe des Orbitalmodells beschreiben und dieses Modell auf die chemische Bindung in einfachen Molek\u00fclen anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_08_00_02",
+                        "content": "anwendungsorientierte Forschung und Entwicklung am Beispiel einer ausgew\u00e4hlten Stoffgruppe aus wissenschaftshistorischer, aktueller und zukunftsorientierter Perspektive erl\u00e4utern (zum Beispiel Farbstoffe, Waschmittel, Pharmazeutika, Nanomaterialien, Komplexverbindungen, Silikone)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "VB_02",
+                    "BO_01",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_08"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_05_00",
+        "name": "3.4.5 Aromaten",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.5 Aromaten\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler lernen mit den Aromaten eine neue Stoffgruppe mit hoher Alltagsbedeutung kennen und vertiefen ihre Kenntnisse zum Gesundheits- und Arbeitsschutz beim Umgang mit Gefahrstoffen. Am Beispiel der chemischen Bindung in Aromaten erweitern sie ihre Vorstellungen \u00fcber das Wesen naturwissenschaftlicher Modelle.",
+        "path": [
+            "05",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_05_00_a",
+                "name": "3.4.5 Aromaten",
+                "path": [
+                    "05",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_05_00_01",
+                        "content": "Eigenschaften, Vorkommen und Verwendung von Benzol beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_05_00_02",
+                        "content": "am Beispiel aromatischer Verbindungen die m\u00f6gliche Gesundheitsgef\u00e4hrdung durch einen Stoff beschreiben (Expositions-Risiko-Beziehung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_05_00_03",
+                        "content": "Grenzen bisher erarbeiteter Bindungsmodelle und unerwartete Eigenschaften des Benzols aus der besonderen Molek\u00fclstruktur erkl\u00e4ren (Kekul\u00e9, delokalisiertes Elektronenringsystem, Mesomeriestabilisierung, Substitution statt Addition)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_05_00_04",
+                        "content": "die Bedeutung beziehungsweise Verwendung weiterer wichtiger Aromaten in Natur, Alltag und Technik beschreiben sowie die Strukturformeln dieser Aromaten darstellen (unter anderem Benzoes\u00e4ure, Styrol, Terephthals\u00e4ure, Phenylalanin)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "PG_08",
+                    "VB_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_09",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_06_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02",
+        "name": "3.2.1.2 Stoffe und ihre Teilchen",
+        "subject": "CH",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.2 Stoffe und ihre Teilchen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler begr\u00fcnden die Vielfalt der Stoffe mithilfe unterschiedlicher Stoffteilchen. Anhand eines Stoffteilchenmodells beschreiben sie wahrnehmbare Ph\u00e4nomene auf der Teilchenebene. Sie erl\u00e4utern den Aufbau der Stoffteilchen aus Atomen beziehungsweise Ionen. Die Sch\u00fclerinnen und Sch\u00fcler nutzen hierbei das Periodensystem als Informationsquelle. Sie sind in der Lage, die Gr\u00f6\u00dfe von Teilchen einzuordnen.",
+        "path": [
+            "01",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_a",
+                "name": "3.2.1.2 Stoffe und ihre Teilchen",
+                "path": [
+                    "01",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_01",
+                        "content": "Atome, Molek\u00fcle und Ionengruppen als Stoffteilchen beschreiben und entsprechenden Reinstoffen zuordnen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_02",
+                        "content": "Stoffe anhand ihrer Stoffteilchen ordnen (Metalle, Edelgase, fl\u00fcchtige/molekulare Stoffe, Salze)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_03",
+                        "content": "mithilfe eines geeigneten Teilchenmodells (Stoffteilchen) Aggregatzust\u00e4nde, L\u00f6sungsvorg\u00e4nge, Diffusion und Brownsche Bewegung beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_04",
+                        "content": "die Gr\u00f6\u00dfenordnungen von Teilchen (Atome, Molek\u00fcle, Makromolek\u00fcle), Teilchengruppen (Nanopartikel) und makroskopischen Objekten vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_05",
+                        "content": "mit Atommodellen den Aufbau von Atomen und Ionen erl\u00e4utern (Proton, Elektron, Neutron, Kern-H\u00fclle-Modell, Schalen\u2011/Energiestufenmodell, Au\u00dfenelektron, Ionenbildung, Ionisierungsenergie, Edelgaskonfiguration)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_06",
+                        "content": "den Rutherfordschen Streuversuch beschreiben und die Versuchsergebnisse im Hinblick auf die Entwicklung des Kern-H\u00fclle-Modells erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_07",
+                        "content": "den Zusammenhang zwischen Atombau und Stellung der Atome im Periodensystem der Elemente erkl\u00e4ren (Atomsymbole, Ordnungszahl, Protonenanzahl, Elektronenanzahl, Neutronenanzahl, Massenzahl, Au\u00dfenelektronen, Hauptgruppe, Periode, Vorhersagen von Mendelejew)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_08",
+                        "content": "sauren und alkalischen L\u00f6sungen die entsprechenden Teilchen zuordnen (Oxonium- und Hydroxid-Ionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_09",
+                        "content": "das Aufbauprinzip von Polymeren an einem Beispiel erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_10",
+                        "content": "organische Kohlenstoffverbindungen mithilfe von Strukturelementen und funktionellen Gruppen ordnen (Einfach- und Mehrfachbindungen zwischen Kohlenstoffatomen, Hydroxyl\u2011, Aldehyd\u2011, Keto\u2011, Carboxyl- und Estergruppe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_01_02_11",
+                        "content": "die Nomenklaturregeln nach IUPAC nutzen, um organische Molek\u00fcle zu benennen (Alkane, Alkanole, Alkanale, Alkanone, Carbons\u00e4uren)"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_PH_IK_9-10_04_00_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_PH_IK_9-10_04_00_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00",
+        "name": "3.4.4 Naturstoffe",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.4 Naturstoffe\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler erweitern anhand der Kohlenhydrate, Fette und Proteine ihre Kenntnisse in der organischen Chemie. Sie vertiefen ihr Wissen \u00fcber den r\u00e4umlichen Bau von Molek\u00fclen sowie den Zusammenhang zwischen Molek\u00fclstruktur und Eigenschaften der Stoffe. Sie kennen die biologische Funktion einzelner Naturstoffe und bewerten deren Verwendung als Rohstoffe und Nahrungsmittelbestandteile.",
+        "path": [
+            "04",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_a",
+                "name": "3.4.4 Naturstoffe",
+                "path": [
+                    "04",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_01",
+                        "content": "die Chiralit\u00e4t eines Molek\u00fcls mit dem Vorhandensein eines asymmetrisch substituierten Kohlenstoffatoms erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_02",
+                        "content": "die r\u00e4umliche Struktur geeigneter Molek\u00fcle in der Fischer-Projektion darstellen und benennen (D- und L- Form)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_03",
+                        "content": "den Ringschluss bei Monosacchariden als Halbacetalbildung erkl\u00e4ren und den Zusammenhang zwischen Fischer-Projektionsformeln und Haworth-Projektionsformeln darstellen (Glucose, Fructose, \u03b1-Form, \u03b2-Form)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_04",
+                        "content": "D-Glucose, D-Fructose und Saccharose auf ihre reduzierende Wirkung untersuchen (Benedict-Probe oder Tollens-Probe) und die Untersuchungsergebnisse erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_05",
+                        "content": "den Glucosenachweis durchf\u00fchren und beschreiben (GOD-Test)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_06",
+                        "content": "die Bildung und die r\u00e4umliche Struktur von Di\u2011, Oligo- und Polysacchariden erkl\u00e4ren (Saccharose, Maltose, ein Cyclodextrin, St\u00e4rke, Cellulose, Acetalbildung, glycosidische Verkn\u00fcpfung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_07",
+                        "content": "Vorkommen von Mono\u2011, Di- und Polysacchariden nennen und ihre Eigenschaften erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_08",
+                        "content": "Eigenschaften und Verwendung von Cyclodextrinen beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_09",
+                        "content": "die Verwendung von Kohlenhydraten als nachwachsende Rohstoffe bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_10",
+                        "content": "die Struktur von Fettmolek\u00fclen beschreiben (ges\u00e4ttigte und unges\u00e4ttigte Fetts\u00e4uren, Glycerin, Ester)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_11",
+                        "content": "die Eigenschaften von Fetten erkl\u00e4ren (L\u00f6slichkeit, Konsistenz, Addition von Halogenen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_12",
+                        "content": "Fette und Kohlenhydrate als Energietr\u00e4ger in Lebewesen vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_13",
+                        "content": "die Struktur von L-\u03b1-Aminos\u00e4uren beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_14",
+                        "content": "die Bildung und Hydrolyse einer Peptidbindung beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_15",
+                        "content": "Nachweise f\u00fcr Aminos\u00e4uren und Proteine durchf\u00fchren und beschreiben (Ninhydrin- und Biuret-Reaktion)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_16",
+                        "content": "die Prim\u00e4r\u2011, Sekund\u00e4r\u2011, Terti\u00e4r- und Quart\u00e4rstruktur von Proteinen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00_17",
+                        "content": "Versuche zur Denaturierung von Proteinen durchf\u00fchren und auswerten"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BNE_01",
+                    "MB_03",
+                    "VB_07",
+                    "PG_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_02_00_03",
+                    "BP2016BW_ALLG_GYM_BIO_IK_11-12-LF_02_01_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00",
+        "name": "3.4.2 Chemisches Gleichgewicht",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.2 Chemisches Gleichgewicht\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler erlangen ein vertieftes Verst\u00e4ndnis des Konzepts des chemischen Gleichgewichts und erweitern so ihre Vorstellungen zur chemischen Reaktion. Sie nutzen experimentelle Befunde und Betrachtungen auf der Modellebene zur mathematischen Beschreibung. Sie erfassen die Bedeutung des chemischen Gleichgewichts f\u00fcr die Gestaltung von Reaktionsbedingungen bei gro\u00dftechnischen Prozessen.",
+        "path": [
+            "02",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_a",
+                "name": "3.4.2 Chemisches Gleichgewicht",
+                "path": [
+                    "02",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_01",
+                        "content": "die Umkehrbarkeit einer Reaktion als Voraussetzung f\u00fcr die Einstellung eines Gleichgewichts nennen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_02",
+                        "content": "die Einstellung des chemischen Gleichgewichts aufgrund der Angleichung der Reaktionsgeschwindigkeiten der Hin- und R\u00fcckreaktion erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_03",
+                        "content": "Gleichgewichtskonzentrationen experimentell ermitteln"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_04",
+                        "content": "ein Modellexperiment zur Gleichgewichtseinstellung durchf\u00fchren und auswerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_05",
+                        "content": "mithilfe des Massenwirkungsgesetzes Berechnungen zur Lage von homogenen Gleichgewichten durchf\u00fchren (Gleichgewichtskonstante Kc, Gleichgewichtskonzentration)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_06",
+                        "content": "M\u00f6glichkeiten zur Beeinflussung der Lage von chemischen Gleichgewichten mit dem Prinzip von Le Chatelier erkl\u00e4ren (Konzentrations\u2011, Druck- und Temperatur\u00e4nderung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_07",
+                        "content": "die Reaktionsbedingungen (Temperatur, Druck, Konzentration, Katalysator) bei der gro\u00dftechnischen Ammoniaksynthese unter dem Aspekt der Erh\u00f6hung der Ammoniakausbeute diskutieren und die Leistungen von Haber und Bosch darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00_08",
+                        "content": "die gesellschaftliche Bedeutung der Ammoniaksynthese erl\u00e4utern"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_08"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01",
+        "name": "3.2.2.1 Qualitative Aspekte chemischer Reaktionen",
+        "subject": "CH",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.1 Qualitative Aspekte chemischer Reaktionen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler beschreiben prinzipielle Abl\u00e4ufe chemischer Reaktionen auf Stoff- und Teilchenebene. Sie k\u00f6nnen chemische Reaktionen nach Reaktionstypen klassifizieren und nutzen gezielt chemische Reaktionen zum Nachweis ausgew\u00e4hlter Stoffe und Teilchen.",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_a",
+                "name": "3.2.2.1 Qualitative Aspekte chemischer Reaktionen",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_01",
+                        "content": "beobachtbare Merkmale chemischer Reaktionen beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_02",
+                        "content": "ausgew\u00e4hlte Experimente zu chemischen Reaktionen unter Beteiligung von Sauerstoff, Schwefel, Wasserstoff, Kohlenstoff und ausgew\u00e4hlten Metallen planen, durchf\u00fchren, im Protokoll darstellen und in Fach- und Alltagskontexte einordnen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_03",
+                        "content": "die chemische Reaktion als Ver\u00e4nderung von Atomen, Molek\u00fclen und Ionen beziehungsweise als Neuanordnung von Atomen oder Ionen durch das L\u00f6sen und Kn\u00fcpfen von Bindungen erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_04",
+                        "content": "die Umkehrbarkeit von chemischen Reaktionen beispielhaft beschreiben (Synthese und Analyse)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_05",
+                        "content": "das Donator-Akzeptor-Prinzip erkl\u00e4ren und auf Redoxreaktionen (Oxidation, Reduktion, Elektronen\u00fcbergang) und S\u00e4ure-Base-Reaktionen (Protonen\u00fcbergang, Neutralisation) anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_06",
+                        "content": "Nachweise f\u00fcr ausgew\u00e4hlte Stoffe, Ionen, Strukturelemente und funktionelle Gruppen durchf\u00fchren und beschreiben (Sauerstoff, Kohlenstoffdioxid, Wasserstoff, Wasser, Oxonium- und Hydroxid-Ionen, Chlorid-Ionen, Mehrfachbindungen zwischen Kohlenstoffatomen, Aldehydgruppe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_07",
+                        "content": "den Zerteilungsgrad als M\u00f6glichkeit zur Steuerung chemischer Reaktionen beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_08",
+                        "content": "Indikatoren zur Identifizierung neutraler, saurer und alkalischer L\u00f6sungen nutzen (ein Pflanzenfarbstoff, Universalindikator, Thymolphthalein-L\u00f6sung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_09",
+                        "content": "ausgew\u00e4hlte chemische Reaktionen dem jeweiligen organischen Reaktionstyp zuordnen (Substitution an einem Alkan, Addition an ein Alken, Kondensation am Beispiel der Veresterung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_10",
+                        "content": "die Oxidation organischer Molek\u00fcle mithilfe von Strukturformeln und Reaktionsgleichungen darstellen (Alkanol \u00fcber Alkanal zur Alkans\u00e4ure und Alkanol zu Alkanon, Oxidationszahlen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_8-9-10_02_01_11",
+                        "content": "einen Kohlenstoffatomkreislauf in der belebten Natur als System chemischer Reaktionen beschreiben und Auswirkungen durch Eingriffe des Menschen bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BNE_01",
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_11",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01",
+                    "BP2016BW_ALLG_GYM_BIO_IK_9-10_03_00_08",
+                    "BP2016BW_ALLG_GYM_GEO_IK_7-8_02_03",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_01_00_02",
+                    "BP2016BW_ALLG_GYM_NWT_IK_8-9-10_03_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_09",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_09"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00",
+        "name": "3.4.1 Chemische Energetik",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.1 Chemische Energetik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler nutzen energetische Betrachtungen, um das Zustandekommen, den Verlauf und den energetischen Nutzen chemischer Reaktionen zu erkl\u00e4ren. Dazu ermitteln sie Energieums\u00e4tze chemischer Reaktionen experimentell und \u00fcberpr\u00fcfen ihre Ergebnisse anhand der Berechnung von Reaktionsenthalpien. Sie lernen die freie Reaktionsenthalpie als Ma\u00df f\u00fcr die Freiwilligkeit einer chemischen Reaktion kennen. Anhand von Beispielen erfassen sie die Grenzen der energetischen Betrachtungsweise.",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_a",
+                "name": "3.4.1 Chemische Energetik",
+                "path": [
+                    "01",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_01",
+                        "content": "Merkmale offener, geschlossener und isolierter Systeme beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_02",
+                        "content": "chemische Reaktionen unter stofflichen und energetischen Aspekten (exotherm, endotherm, Brennwert, Heizwert) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_03",
+                        "content": "eine kalorimetrische Messung planen, durchf\u00fchren und auswerten (Reaktionsenthalpie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_04",
+                        "content": "den Satz von der Erhaltung der Energie bei der Berechnung von Reaktionsenthalpien und Bildungsenthalpien anwenden (Satz von Hess)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_05",
+                        "content": "die Entropie als Ma\u00df f\u00fcr die Anzahl von Realisierungsm\u00f6glichkeiten eines Zustands beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_06",
+                        "content": "\u00c4nderungen der Entropie bei chemischen Reaktionen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_07",
+                        "content": "Berechnungen mithilfe der Gibbs-Helmholtz-Gleichung durchf\u00fchren, um chemische Reaktionen energetisch zu klassifizieren (freie Reaktionsenthalpie, exergonische und endergonische Reaktionen, Einfluss der Temperatur)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_01_00_08",
+                        "content": "an Beispielen die Grenzen der energetischen Betrachtungsweise diskutieren (metastabiler Zustand und unvollst\u00e4ndig ablaufende Reaktionen)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_11"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_5-6_01_00",
+        "name": "3.1.1 Hinweis zu den Klassen 5/6",
+        "subject": "CH",
+        "grades": [
+            "5",
+            "6"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.1 Hinweis zu den Klassen 5/6\n\n\n\nDer Erwerb chemiespezifischer Kompetenzen beginnt in Klasse 5 mit den integrativen Themenbereichen im F\u00e4cherverbund Biologie, Naturph\u00e4nomene und Technik (BNT). Diese Themenbereiche beinhalten neben grundlegenden naturwissenschaftlichen Denk- und Arbeitsweisen unter anderem auch einen prop\u00e4deutischen Zugang zur chemischen Reaktion \u00fcber den Vorgang der Verbrennung sowie Grundlagen zur Ermittlung von Stoffeigenschaften und zur Trennung von Gemischen.",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00",
+        "name": "3.4.3 S\u00e4ure-Base-Gleichgewichte",
+        "subject": "CH",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.4.3 S\u00e4ure-Base-Gleichgewichte\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler wenden das Donator-Akzeptor-Prinzip auf das S\u00e4ure-Base-Gleichgewicht an. Mithilfe der S\u00e4urekonstanten beschreiben sie S\u00e4ure-Base-Gleichgewichte quantitativ. Sie deuten den pH-Wert als Ma\u00df f\u00fcr die Konzentration der Oxonium-Ionen in sauren und alkalischen L\u00f6sungen. Sie beschreiben die Funktionsweise von Indikatoren und Puffersystemen.",
+        "path": [
+            "03",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_a",
+                "name": "3.4.3 S\u00e4ure-Base-Gleichgewichte",
+                "path": [
+                    "03",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_01",
+                        "content": "S\u00e4ure-Base-Reaktionen mithilfe der Theorie von Br\u00f8nsted beschreiben (Donator-Akzeptor-Prinzip)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_02",
+                        "content": "das Konzept des chemischen Gleichgewichts auf S\u00e4ure-Base-Reaktionen mit Wasser anwenden (HCl, HNO3, H2SO4, H2CO3, NH3, korrespondierende S\u00e4ure-Base-Paare, Wassermolek\u00fcl als amphoteres Teilchen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_03",
+                        "content": "die S\u00e4urekonstante Ks aus dem Massenwirkungsgesetz ableiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_04",
+                        "content": "S\u00e4uren und Basen mithilfe der pKS-Werte (S\u00e4urest\u00e4rke) beziehungsweise pKB-Werte (Basenst\u00e4rke) klassifizieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_05",
+                        "content": "die Definition des pH-Werts nennen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_06",
+                        "content": "die Autoprotolyse des Wassers und ihren Zusammenhang mit dem pH-Wert des Wassers erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_07",
+                        "content": "pH-Werte von L\u00f6sungen starker einprotoniger S\u00e4uren und von Hydroxid-L\u00f6sungen rechnerisch ermitteln"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_08",
+                        "content": "im N\u00e4herungsverfahren pH-Werte f\u00fcr L\u00f6sungen schwacher S\u00e4uren und Basen rechnerisch ermitteln"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_09",
+                        "content": "S\u00e4ure-Base-Titrationen zur Konzentrationsbestimmung planen, durchf\u00fchren und auswerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_10",
+                        "content": "die Titration von Salzs\u00e4ure und verd\u00fcnnter Essigs\u00e4ure mit Natronlauge durchf\u00fchren und die Ver\u00e4nderung des pH-Werts w\u00e4hrend der Titration erkl\u00e4ren (Titrationskurve)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_11",
+                        "content": "das Konzept des S\u00e4ure-Base-Gleichgewichts auf Indikatoren anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_12",
+                        "content": "eine D\u00fcnnschichtchromatografie zur Ermittlung von Bestandteilen des Universalindikators durchf\u00fchren und beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_03_00_13",
+                        "content": "die Wirkungsweise von Puffersystemen und deren Bedeutung an Beispielen erkl\u00e4ren"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_CH_PK_01_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_M_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_01",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_M_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_12",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_03",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_06",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_10",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_07",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_08",
+                    "BP2016BW_ALLG_GYM_CH_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_01_02",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_04",
+                    "BP2016BW_ALLG_GYM_CH_PK_02_05",
+                    "BP2016BW_ALLG_GYM_CH_PK_03_01"
+                ]
+            }
+        ],
+        "info": []
+    }
+]

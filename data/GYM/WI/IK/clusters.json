@@ -1,0 +1,795 @@
+[
+    {
+        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00",
+        "name": "3.1.3 Globale G\u00fcterm\u00e4rkte",
+        "subject": "WI",
+        "grades": [
+            "11",
+            "12"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3 Globale G\u00fcterm\u00e4rkte\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Bedeutung globaler Nachfrager- und Anbieterentscheidungen beurteilen (I) und Tauschverh\u00e4ltnisse zwischen Konsumenten und Produzenten auf dem globalen Markt bewerten (II). Sie k\u00f6nnen die Funktionsf\u00e4higkeit globaler M\u00e4rkte beurteilen und politische Steuerungsm\u00f6glichkeiten auf globalen M\u00e4rkten bewerten (III).",
+        "path": [
+            "03",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_a",
+                "name": "3.1.3 Globale G\u00fcterm\u00e4rkte",
+                "path": [
+                    "03",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_01",
+                        "content": "globales Konsumverhalten analysieren (zum Beispiel Theorie der globalen Homogenisierung, Kreolisierungsthese)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_02",
+                        "content": "Gr\u00fcnde f\u00fcr die Internationalisierung von Unternehmen beschreiben und eine Wertsch\u00f6pfungskette darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_03",
+                        "content": "Gr\u00fcnde f\u00fcr internationalen Handel mithilfe von Theorien erkl\u00e4ren (eine klassische und eine moderne Au\u00dfenhandelstheorie) und deren Aussagekraft beurteilen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_04",
+                        "content": "internationalen Handel anhand von Leistungsbilanzen analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_05",
+                        "content": "Formen von \u201eFairem Handel\u201c beschreiben und dessen Auswirkungen auf verschiedene Akteure er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_06",
+                        "content": "die Bedeutung Transnationaler Unternehmen auf globalen M\u00e4rkten erl\u00e4utern (Marktformen, Marktmacht, Innovationsanreiz)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_07",
+                        "content": "Chancen und Risiken von Regionalisierung (zum Beispiel EU-Binnenmarkt, Freihandelsabkommen) er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_08",
+                        "content": "M\u00f6glichkeiten und Grenzen internationaler Ordnungspolitik beurteilen (Neue Welthandelsordnung, WTO, NGOs)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_09",
+                        "content": "die Wirkung eines internationalen Umwelt- beziehungsweise Sozialabkommens im Hinblick auf verschiedene Akteure analysieren (zum Beispiel Paris-Abkommen, ILO-Regelwerk )"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BTV_08",
+                    "VB_01",
+                    "BO_01",
+                    "PG_05",
+                    "BNE_04",
+                    "VB_06",
+                    "BTV_03",
+                    "BO_01",
+                    "BNE_02",
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_E1_IK_11-12-LF_01_00_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_03_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_03_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04",
+                    "BP2016BW_ALLG_GYM_M_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_05",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_07",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04",
+                    "BP2016BW_ALLG_GYM_REV_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_RRK_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_WI_PK_03_04",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_03",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_05",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_01",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_04",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_04",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_06",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_03",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_08"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00",
+        "name": "3.1.2 Grundlagen der Betriebswirtschaft",
+        "subject": "WI",
+        "grades": [
+            "11",
+            "12"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.2 Grundlagen der Betriebswirtschaft \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Unternehmen als produktive, soziale, sich wandelnde und komplexe Systeme beurteilen (I). Sie k\u00f6nnen die Bedeutung von Anspruchsgruppen f\u00fcr den Erfolg eines Unternehmens \u00fcberpr\u00fcfen (II). Sie k\u00f6nnen den Stellenwert von politisch-gesellschaftlichen Rahmenbedingungen f\u00fcr Unternehmen und die Bedeutung von Unternehmen f\u00fcr die Volkswirtschaft beurteilen (III).",
+        "path": [
+            "02",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_a",
+                "name": "3.1.2 Grundlagen der Betriebswirtschaft",
+                "path": [
+                    "02",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_01",
+                        "content": "die betriebswirtschaftliche Situation eines Unternehmens anhand von Kennzahlen aus Bilanz und GuV (Liquidit\u00e4t, Rentabilit\u00e4t, Sicherheit, zum Beispiel Eigenkapitalquote) sowie weiteren Analyseinstrumenten (unter anderem SWOT-Analyse) beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_02",
+                        "content": "den Einfluss strategischer Entscheidungen (Strategietypen, zum Beispiel Wachstumsstrategie nach Ansoff, Wettbewerbsstrategie nach Porter, Rechtsform, Standort eines Unternehmens, Make-or-Buy-Entscheidung) auf den nachhaltigen Erfolg eines Unternehmens \u00fcberpr\u00fcfen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_03",
+                        "content": "Instrumente des Marketing-Mix erl\u00e4utern sowie eine Marketingstrategie beurteilen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_04",
+                        "content": "eine preispolitische Strategie auch unter Ber\u00fccksichtigung der Kostenrechnung (Deckungsbeitrag, Break-Even-Analyse) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_05",
+                        "content": "Optimierungsm\u00f6glichkeiten betrieblicher Abl\u00e4ufe (zum Beispiel Kaizen, Lean-Production, Just-in-Sequence) darstellen und Voraussetzungen f\u00fcr Innovation im Unternehmen beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_06",
+                        "content": "Finanzierungsm\u00f6glichkeiten (Au\u00dfen\u2011, Innenfinanzierung) einer Investition vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_07",
+                        "content": "Ziele von Anspruchsgruppen (Stakeholder) mit den Zielen eines Unternehmens vergleichen und Zielbeziehungen beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_08",
+                        "content": "die Bedeutung der betrieblichen Mitbestimmung (gesetzliche Regelungen) beurteilen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_09",
+                        "content": "Wechselwirkungen von Unternehmenskultur (zum Beispiel Werte, Normen, Rituale) und Mitarbeiterzufriedenheit darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_10",
+                        "content": "Entlohnungsformen aus Arbeitgeber- und Arbeitnehmersicht bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_11",
+                        "content": "Wechselwirkungen zwischen Customer Relationship Management und Konsumentensouver\u00e4nit\u00e4t (unter anderem informationelle Selbstbestimmung) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_12",
+                        "content": "das Handeln von Unternehmen anhand unternehmensethischer Ans\u00e4tze \u00fcberpr\u00fcfen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_13",
+                        "content": "den Einfluss von gesellschaftlichem und technologischem Wandel (zum Beispiel Digitalisierung) auf unternehmerische Entscheidungen erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_14",
+                        "content": "Wechselwirkungen zwischen wirtschaftspolitischen Rahmenbedingungen und unternehmerischen Interessen und Entscheidungen beurteilen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_15",
+                        "content": "die \u00f6konomische, soziale und \u00f6kologische Bedeutung und Verantwortung von Unternehmen f\u00fcr Volkswirtschaften darstellen"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_02",
+                    "BO_01",
+                    "BTV_02",
+                    "BTV_06",
+                    "BNE_06",
+                    "BO_01",
+                    "BTV_06",
+                    "BO_04",
+                    "BNE_05",
+                    "BTV_03",
+                    "PG_01",
+                    "BNE_03",
+                    "MB_07",
+                    "BNE_04",
+                    "BTV_03",
+                    "BO_02",
+                    "MB_08",
+                    "BNE_01",
+                    "BNE_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_M_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_06",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_05",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_03",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_07",
+                    "BP2016BW_ALLG_GYM_M_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_05",
+                    "BP2016BW_ALLG_GYM_M_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_04",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_04",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_07",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_02",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_03",
+                    "BP2016BW_ALLG_GYM_WI_PK_03_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_09",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_03",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_07",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_06",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_05",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_07_00",
+        "name": "3.1.7 \u00d6konomie und Kultur",
+        "subject": "WI",
+        "grades": [
+            "11",
+            "12"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.7 \u00d6konomie und Kultur\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen anhand mindestens eines der genannten Themenbereiche das Wechselspiel von \u00d6konomie und Kultur analysieren.",
+        "path": [
+            "07",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_07_00_a",
+                "name": "3.1.7 \u00d6konomie und Kultur",
+                "path": [
+                    "07",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_07_00_01",
+                        "content": "Filme (zum Beispiel Dokumentationen, fiktionale Filme, Dokutainment) unter Aspekten der \u00f6konomischen Bildung analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_07_00_02",
+                        "content": "literarische Texte unter \u00f6konomischen Kategorien analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_07_00_03",
+                        "content": "\u00f6konomische Sachb\u00fccher analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_07_00_04",
+                        "content": "Handlungsempfehlungen f\u00fcr \u00f6konomisches Verhalten in einer Darstellungsform (zum Beispiel Film, Szenisches Spiel, Ausstellung, Webseite) gestalten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_07_00_05",
+                        "content": "historische Prozesse (zum Beispiel Phasen des interkulturellen und \u2011regionalen Austauschs, Aufstieg und Niedergang von Machtzentren) \u00f6konomisch analysieren"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_02",
+                    "MB_02",
+                    "BO_03",
+                    "MB_05",
+                    "PG_02",
+                    "BNE_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_03",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_01",
+                    "BP2016BW_ALLG_GYM_BK_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_03",
+                    "BP2016BW_ALLG_GYM_BK_IK_11-12_04_01",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_05",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_06_00",
+        "name": "3.1.6 Fallstudie",
+        "subject": "WI",
+        "grades": [
+            "11",
+            "12"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.6 Fallstudie\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen auf der Grundlage der drei Dimensionen (I-III) eine komplexe \u00f6konomische Situation analysieren und L\u00f6sungen beziehungsweise L\u00f6sungsm\u00f6glichkeiten bewerten.",
+        "path": [
+            "06",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_06_00_a",
+                "name": "3.1.6 Fallstudie",
+                "path": [
+                    "06",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_06_00_01",
+                        "content": "anhand eines aktuellen \u00f6konomischen Falls (zum Beispiel eine W\u00e4hrungskrise) Interdependenzen zwischen mindestens zwei globalen M\u00e4rkten darstellen, deren Auswirkungen auf verschiedene Akteure beurteilen und m\u00f6gliche Szenarien beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_06_00_02",
+                        "content": "die M\u00f6glichkeiten von Staaten und/oder internationalen Organisationen zur Probleml\u00f6sung im vorliegenden Fall er\u00f6rtern und eigene Vorschl\u00e4ge gestalten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_06_00_03",
+                        "content": "reale Probleml\u00f6sungen beziehungsweise L\u00f6sungsvorschl\u00e4ge im untersuchten Fall mit dem eigenen Vorschlag vergleichen und bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_04",
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_E1_IK_11-12-LF_01_00_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_05",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_03_04",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02_01",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_08",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00",
+        "name": "3.1.1 Grundlagen der \u00d6konomie",
+        "subject": "WI",
+        "grades": [
+            "11",
+            "12"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.1 Grundlagen der \u00d6konomie \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen das Verhalten verschiedener Akteure in \u00f6konomischen Situationen (I) und daraus resultierende Dilemmata bewerten (I, II). Sie k\u00f6nnen erkl\u00e4ren, wie M\u00e4rkte funktionieren, und deren Effizienz beurteilen (III). Sie k\u00f6nnen die M\u00f6glichkeiten bewerten, eine Volkswirtschaft zu gestalten und den Zustand einer Volkswirtschaft sowie wirtschaftspolitische Ziele einer Gesellschaft beurteilen (III).",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_a",
+                "name": "\u00d6konomisches Verhalten",
+                "path": [
+                    "01",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_01",
+                        "content": "Einflussfaktoren auf \u00f6konomisches Verhalten (Handeln nach Pr\u00e4ferenzen, Reagieren auf Anreize und Restriktionen) anhand verschiedener Erkl\u00e4rungsans\u00e4tze (Rationalit\u00e4tshypothese beziehungsweise begrenzte Rationalit\u00e4t) beschreiben und deren Aussagekraft beurteilen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_02",
+                        "content": "\u00f6konomische Entscheidungen privater Haushalte mithilfe von Opportunit\u00e4tskosten, Einkommen und Grenznutzen analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_03",
+                        "content": "sowohl individuelle als auch gesellschaftliche Dilemmasituationen (Gefangenendilemma, Trittbrettfahrersituation) erkl\u00e4ren und das Verhalten der Akteure in diesen Situationen bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "VB_03",
+                    "BNE_03",
+                    "BTV_02",
+                    "BNE_03",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_11",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_11",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_05",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_05",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_08",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_01"
+                ]
+            },
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_a",
+                "name": "Marktmodell und Preisbildung",
+                "path": [
+                    "01",
+                    "00",
+                    "b"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_04",
+                        "content": "den Prozess der Preisbildung auf dem vollkommenen Markt mithilfe des Preis-Mengen-Diagramms (Ver\u00e4nderungen der Bestimmungsfaktoren von Angebot und Nachfrage, Auswirkungen auf die Gesamtwohlfahrt, Elastizit\u00e4ten) erkl\u00e4ren und damit die Preisfunktionen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_05",
+                        "content": "Ursachen f\u00fcr Marktversagen (zum Beispiel Marktmacht, Externalit\u00e4ten, Informationsasymmetrien) darstellen und L\u00f6sungsm\u00f6glichkeiten erl\u00e4utern"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_WI_PK_01_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_05",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_04",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_06"
+                ]
+            },
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_a",
+                "name": "Ist- und Ziel-Analyse",
+                "path": [
+                    "01",
+                    "00",
+                    "c"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_06",
+                        "content": "die wirtschaftliche Lage Deutschlands anhand von Konjunkturindikatoren analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_07",
+                        "content": "die Soziale Marktwirtschaft mit einer anderen realen Wirtschaftsordnung vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_08",
+                        "content": "wirtschaftspolitische Zielsetzungen (unter anderem Preisniveaustabilit\u00e4t, Wirtschaftswachstum und \u00f6kologische Nachhaltigkeit (Artikel 20a GG)) bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06",
+                    "BNE_05",
+                    "BNE_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_05",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_14",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_08",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_03",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_14",
+                    "BP2016BW_ALLG_GYM_E1_IK_11-12-LF_01_00_01",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_06",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_09"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00",
+        "name": "3.1.4 Arbeitsm\u00e4rkte",
+        "subject": "WI",
+        "grades": [
+            "11",
+            "12"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.4 Arbeitsm\u00e4rkte\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Bedeutung von Arbeit f\u00fcr den Einzelnen er\u00f6rtern (I) und die Interessen und Beschr\u00e4nkungen der Akteure auf Arbeitsm\u00e4rkten analysieren (II). Sie k\u00f6nnen Arbeitsm\u00e4rkte hinsichtlich ihrer Funktionsf\u00e4higkeit beurteilen und die Rolle des Staates bei der Gestaltung des Arbeitsmarktes und zur Bew\u00e4ltigung konjunktureller Instabilit\u00e4ten er\u00f6rtern (III).",
+        "path": [
+            "04",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_a",
+                "name": "3.1.4 Arbeitsm\u00e4rkte",
+                "path": [
+                    "04",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_01",
+                        "content": "den individuellen und gesellschaftlichen Stellenwert der Arbeit bewerten (Arbeitsgesellschaft, T\u00e4tigkeitsgesellschaft)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_02",
+                        "content": "individuelle Ursachen f\u00fcr Arbeitslosigkeit herausarbeiten und Konsequenzen f\u00fcr die eigene Erwerbsbiografie er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_03",
+                        "content": "individuelle, soziale und wirtschaftliche Folgen von Arbeitslosigkeit f\u00fcr den Einzelnen erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_04",
+                        "content": "unterschiedliche Interessen von Anbietern und Nachfragern auf dem Arbeitsmarkt darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_05",
+                        "content": "Erkl\u00e4rungsans\u00e4tze f\u00fcr Arbeitslosigkeit (Mismatch\u2011, konjunkturelle und strukturelle Arbeitslosigkeit) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_06",
+                        "content": "Folgen der Arbeitslosigkeit f\u00fcr Staat und Gesellschaft erl\u00e4utern und einen hohen Besch\u00e4ftigungsstand als wirtschaftspolitische Zielsetzung begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_07",
+                        "content": "staatliche Rahmenbedingungen (Tarifautonomie, Arbeitsrecht und Transferleistungen) und Ausgestaltungen auf dem deutschen Arbeitsmarkt darstellen (zum Beispiel Zeitarbeit, Niedriglohnsektor, Mindestl\u00f6hne)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_08",
+                        "content": "angebots- und nachfrageorientierte sowie arbeitsmarktpolitische Ma\u00dfnahmen zur F\u00f6rderung der Besch\u00e4ftigung bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_09",
+                        "content": "Folgen des freien Personenverkehrs auf dem EU-Arbeitsmarkt er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_04_00_10",
+                        "content": "den Arbeitsmarkt (Struktur, staatliche Regulierung) eines ausgew\u00e4hlten Landes beschreiben und mit dem deutschen Arbeitsmarkt vergleichen"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "PG_01",
+                    "BO_01",
+                    "BTV_05",
+                    "PG_02",
+                    "BO_07",
+                    "BNE_05",
+                    "BNE_02",
+                    "BNE_05",
+                    "BNE_03",
+                    "BO_01",
+                    "BO_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_REV_IK_11-12-BF_01_00",
+                    "BP2016BW_ALLG_GYM_RRK_IK_11-12-BF_01_00",
+                    "BP2016BW_ALLG_GYM_WI_PK_03_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_03_03",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_09",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_07",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_08",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_02",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_06",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_08",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_10",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_06",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_02_00_14",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_04",
+                    "BP2016BW_ALLG_GYM_E1_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00",
+        "name": "3.1.5 Internationale Finanzm\u00e4rkte",
+        "subject": "WI",
+        "grades": [
+            "11",
+            "12"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.5 Internationale Finanzm\u00e4rkte\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen die Interessen von Finanzmarktakteuren bewerten (I). Sie k\u00f6nnen Auswirkungen von Interessenkonflikten zwischen den Finanzmarktakteuren (II) sowie die gesamtwirtschaftlichen Funktionen des Finanzmarktes bewerten (III). Sie k\u00f6nnen die Bedeutung eines Ordnungsrahmens f\u00fcr die Stabilisierung der globalen Finanzm\u00e4rkte und f\u00fcr die Gestaltung effizienter und gerechter Welthandelsbeziehungen beurteilen (III).",
+        "path": [
+            "05",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_a",
+                "name": "3.1.5 Internationale Finanzm\u00e4rkte",
+                "path": [
+                    "05",
+                    "00"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_01",
+                        "content": "die Motive von Akteuren (Verhaltens\u00f6konomik) auf Finanzm\u00e4rkten (Geld\u2011, Kapital- und Devisenm\u00e4rkte) erl\u00e4utern und verschiedene Anlageformen (Anleihen, Devisen, Derivate) darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_02",
+                        "content": "die Funktionen der Finanzm\u00e4rkte f\u00fcr die Volkswirtschaften erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_03",
+                        "content": "die Funktionsmechanismen von Devisenm\u00e4rkten in unterschiedlichen Wechselkurssystemen (feste und flexible Wechselkurse, Auf- und Abwertung) erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_04",
+                        "content": "Ursachen von Fehlallokationen und Instabilit\u00e4ten auf Finanzm\u00e4rkten (zum Beispiel Deregulierung, Ausfall von Staatsanleihen, Intransparenz und Fehlbewertungen von Finanzprodukten) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_05",
+                        "content": "Wechselwirkungen zwischen Finanzmarkt und G\u00fcter- und Arbeitsmarkt erl\u00e4utern (zum Beispiel Folgen von Auf- und Abwertungen, Zinsniveau\u00e4nderungen, B\u00f6rsencrashs beziehungsweise von Arbeitslosigkeit, Leistungsbilanzdefizit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_06",
+                        "content": "Ziele und Anforderungen einer W\u00e4hrungsunion am Beispiel des Euro charakterisieren und die Heterogenit\u00e4t der nationalen Volkswirtschaften als Herausforderung f\u00fcr die Stabilit\u00e4t einer gemeinsamen W\u00e4hrung erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_07",
+                        "content": "die Bedeutung geldpolitischer Instrumente der Europ\u00e4ischen Zentralbank f\u00fcr die Stabilit\u00e4t des W\u00e4hrungsraums analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_WI_IK_11-12_05_00_08",
+                        "content": "institutionelle Ma\u00dfnahmen zur Stabilisierung von Finanzm\u00e4rkten beurteilen (zum Beispiel Eigenkapitalanforderungen, Bankenabgabe, Finanztransaktionssteuer, Verstaatlichung und Finanzhilfen des IWF)"
+                    }
+                ],
+                "guidelines": [
+                    "VB_04",
+                    "BNE_01",
+                    "VB_05",
+                    "BNE_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_04",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_01_02",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_01",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_05",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_01",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00_05",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_04_05",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_03",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00_09",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_04",
+                    "BP2016BW_ALLG_GYM_WI_PK_02_03"
+                ]
+            }
+        ],
+        "info": []
+    }
+]

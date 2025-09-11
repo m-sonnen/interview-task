@@ -1,0 +1,617 @@
+[
+    [
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_a",
+            "name": "Texte planen",
+            "path": [
+                "02",
+                "a"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_01",
+                    "content": "Arbeitsschritte festlegen: Informationen sammeln, ordnen, erg\u00e4nzen; dabei Schreibanlass, Text-funktion und Aufgabenstellung auf der Basis der jeweiligen Operatoren beachten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_02",
+                    "content": "einen Schreibplan erstellen: Texte zielgerecht, adressaten- und situationsbezogen konzipieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_03",
+                    "content": "eine Stoffsammlung erstellen, ordnen und eine Gliederung anfertigen; hierf\u00fcr Informationsquellen gezielt nutzen (Nachschlagewerke, Internet, auch an au\u00dferschulischen Lernorten, zum Beispiel Bibliotheken) und Informationen zielgerichtet bewerten und ausw\u00e4hlen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_b",
+            "name": "Texte formulieren",
+            "path": [
+                "02",
+                "b"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_04",
+                    "content": "elementare Anforderungen des Schreibens erf\u00fcllen (Regeln der Rechtschreibung, Zeichensetzung und Grammatik)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_05",
+                    "content": "in einem angemessenen Zeitrahmen Texte in (auch handschriftlich) gut lesbarer Form anfertigen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_06",
+                    "content": "Textverarbeitungs- und Pr\u00e4sentationsprogramme nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_07",
+                    "content": "strukturiert, verst\u00e4ndlich und stilistisch stimmig formulieren; dabei einen differenzierten Wortschatz (auch Fachsprache, Fremdw\u00f6rter (E)) verwenden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_08",
+                    "content": "Texte dem Zweck entsprechend und adressatengerecht gestalten und strukturieren (Blattaufteilung, Rand, Abs\u00e4tze)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_09",
+                    "content": "\u00dcbernahmen aus fremden Texten klar kennzeichnen (Zitat, indirekte Rede) und in den eigenen Text integrieren, Quellen benennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_10",
+                    "content": "formalisierte lineare beziehungsweise nichtlineare Texte verfassen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_c",
+            "name": "verschiedene Schreibformen nutzen",
+            "path": [
+                "02",
+                "c"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_11",
+                    "content": "Schreibformen unterscheiden und funktional verwenden"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_d",
+            "name": "informieren",
+            "path": [
+                "02",
+                "d"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_12",
+                    "content": "von Ereignissen berichten, Gegenst\u00e4nde, Vorg\u00e4nge, Orte, Bilder und Personen beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_13",
+                    "content": "den Inhalt auch l\u00e4ngerer Texte knapp, eigenst\u00e4ndig und adressatenorientiert wiedergeben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_14",
+                    "content": "Informationen aus linearen und nichtlinearen Texten zusammenfassen und koh\u00e4rent darstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_15",
+                    "content": "eigenes Wissen \u00fcber literarische, sprachliche und weitere Sachverhalte geordnet darstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_16",
+                    "content": "Formen der Informationsverschriftlichung anwenden (z.\u202fB. Notiz, Exzerpt, Protokoll)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_17",
+                    "content": "in sachlichem Stil verst\u00e4ndlich formulieren"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_e",
+            "name": "argumentieren",
+            "path": [
+                "02",
+                "e"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_18",
+                    "content": "differenzierte (E) abw\u00e4gende wie meinungsbildende Texte strukturieren und formulieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_19",
+                    "content": "Thesen formulieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_20",
+                    "content": "Argumente mit plausibler Begr\u00fcndung formulieren und durch geeignete Belege, Beispiele und Beweise st\u00fctzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_21",
+                    "content": "Argumente zu einer Argumentationskette verkn\u00fcpfen und gewichten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_22",
+                    "content": "Gegenargumente formulieren, pr\u00fcfen und einbeziehen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_23",
+                    "content": "eigenst\u00e4ndige (E) Schlussfolgerungen ziehen und begr\u00fcndet Stellung nehmen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_f",
+            "name": "appellieren",
+            "path": [
+                "02",
+                "f"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_24",
+                    "content": "sach- und adressatenspezifisch formulierte appellative Texte verfassen und dabei deren Wirkungsabsicht ber\u00fccksichtigen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_g",
+            "name": "analysieren und interpretieren",
+            "path": [
+                "02",
+                "g"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_25",
+                    "content": "die formale und sprachlich stilistische Gestaltungsweise von Texten und deren Wirkung an Beispielen darstellen (zum Beispiel sprachliche Bilder deuten, Dialoge analysieren (E))"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_26",
+                    "content": "Textdeutungen begr\u00fcnden und belegen; Texte analytisch interpretieren und dabei auch gattungs- und epochenspezifische (E) Merkmale einbeziehen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_27",
+                    "content": "gestaltend interpretieren und dabei die Ergebnisse einer Textuntersuchung nutzen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_h",
+            "name": "kreativ und produktiv gestalten",
+            "path": [
+                "02",
+                "h"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_28",
+                    "content": "sprachliche Mittel gezielt einsetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_29",
+                    "content": "anschaulich erz\u00e4hlen und nacherz\u00e4hlen, Erz\u00e4hltechniken anwenden, auf die Erz\u00e4hllogik achten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_30",
+                    "content": "nach Mustern schreiben: Textsortenspezifika und deren stilistische Merkmale im eigenen Text nachahmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_31",
+                    "content": "nach Impulsen schreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_32",
+                    "content": "produktionsorientiertes Schreiben als Mittel der Textaneignung und Interpretation nutzen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_i",
+            "name": "expressiv schreiben",
+            "path": [
+                "02",
+                "i"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_33",
+                    "content": "Emotionen und Befindlichkeiten ausdr\u00fccken und dabei angemessene sprachliche Mittel nutzen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_j",
+            "name": "explorativ schreiben",
+            "path": [
+                "02",
+                "j"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_34",
+                    "content": "Begriffe kl\u00e4ren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_02_35",
+                    "content": "essayistisch schreiben (E)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_02_k",
+            "name": "Texte \u00fcberarbeiten",
+            "path": [
+                "02",
+                "k"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_03_a",
+            "name": "Lesetechniken und Lesestrategien anwenden",
+            "path": [
+                "03",
+                "a"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_01",
+                    "content": "unterschiedliche Lesetechniken anwenden und nutzen (zum Beispiel diagonal, selektiv, navigierend (E))"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_02",
+                    "content": "fl\u00fcssig und sinnbezogen lesen und vorlesen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_03",
+                    "content": "Lesestrategien und Methoden der Texterschlie\u00dfung anwenden (markieren, Verstehensbarrieren identifizieren, Verst\u00e4ndnisfragen formulieren, Texte strukturieren, Wortbedeutungen und Fachbegriffe kl\u00e4ren, Nachschlagewerke in verschiedenen Medien verwenden)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_03_b",
+            "name": "literarische Texte verstehen",
+            "path": [
+                "03",
+                "b"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_04",
+                    "content": "ihre Leseerwartung an einen Text formulieren und reflektieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_05",
+                    "content": "Zusammenh\u00e4nge zwischen Teilaspekten und Textganzem herstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_06",
+                    "content": "Deutungshypothesen entwickeln, begr\u00fcnden, am Text belegen und \u00fcberpr\u00fcfen (E)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_07",
+                    "content": "Interpretations- und Analysemethoden anwenden, reflektieren und f\u00fcr ihr Textverst\u00e4ndnis nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_08",
+                    "content": "sprachliche Gestaltungsmittel in ihren Wirkungszusammenh\u00e4ngen erkennen, dabei die \u00e4sthetische Qualit\u00e4t eines Textes erfassen und ihn als gestaltetes Produkt begreifen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_09",
+                    "content": "die Perspektivgebundenheit von Texten erkennen und beschreiben und dabei gegebenenfalls den historischen und medialen Kontext ber\u00fccksichtigen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_10",
+                    "content": "sich mit der Darstellung von Lebensentw\u00fcrfen und Lebenswirklichkeiten in Texten auseinandersetzen (zum Beispiel mit unterschiedlichen kulturellen, historischen, religi\u00f6sen Hintergr\u00fcnden oder unterschiedlichen geschlechtlichen Identit\u00e4ten und sexuellen Orientierungen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_11",
+                    "content": "Vergleiche zwischen Texten anstellen, Vergleichsaspekte herausarbeiten (E) und f\u00fcr das Textverstehen nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_12",
+                    "content": "Mehrdeutigkeit als Merkmal literarischer Texte erkennen (E)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_13",
+                    "content": "szenische und produktionsorientierte Verfahren als Textzugang und zur Textdeutung und zur Texterschlie\u00dfung anwenden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_14",
+                    "content": "sich mit Zeugnissen der literarischen \u00dcberlieferung an au\u00dferschulischen Lernorten auseinandersetzen, zum Beispiel in Literaturmuseen, literarischen Gedenkst\u00e4tten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_15",
+                    "content": "sich mit unterschiedlichen literarischen und theatralen Ausdrucksformen auch an au\u00dferschulischen Lernorten auseinandersetzen (zum Beispiel Theater, Lesungen)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_03_c",
+            "name": "Sach- und Gebrauchstexte verstehen",
+            "path": [
+                "03",
+                "c"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_16",
+                    "content": "verschiedene Textsorten \u2013 auch nichtlineare Texte \u2013 in ihren Funktionen (informieren, appellieren, regulieren, instruieren) erkennen; die Zuordnung von Texten zu Textformen und Textsorten reflektieren (E)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_17",
+                    "content": "Thesen, Argumente und Beispiele in Texten unterscheiden und bestimmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_18",
+                    "content": "die Problemstellung, den inhaltlichen Zusammenhang (E) und die Positionen in argumentierenden Texten erfassen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_19",
+                    "content": "Vergleiche zwischen Texten anstellen, Vergleichsaspekte herausarbeiten (E) und f\u00fcr das Textverstehen nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_20",
+                    "content": "Information und Wertung in Texten unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_21",
+                    "content": "begr\u00fcndete Schlussfolgerungen aus Sach- und Gebrauchstexten ziehen und dabei auch konkurrierende Informationen ber\u00fccksichtigen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_03_22",
+                    "content": "nichtlineare Texte auswerten sowie komplexe Analysen von Texten durchf\u00fchren (E); die Ergebnisse f\u00fcr eine Argumentation sowie f\u00fcr interpretatorische Schlussfolgerungen (E) nutzen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_03_d",
+            "name": "Textverstehen reflektieren",
+            "path": [
+                "03",
+                "d"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_01_a",
+            "name": "funktional und situationsangemessen sprechen",
+            "path": [
+                "01",
+                "a"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_01",
+                    "content": "einen differenzierten, situations- und adressatengerechten Wortschatz verwenden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_02",
+                    "content": "sich standardsprachlich ausdr\u00fccken und den Unterschied zwischen m\u00fcndlichem und schriftlichem Sprachgebrauch sowie Merkmale umgangssprachlichen Sprechens erkennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_03",
+                    "content": "inhaltlich pr\u00e4zise, sprachlich pr\u00e4gnant und klar strukturiert formulieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_04",
+                    "content": "ihre Redeweise (Artikulation, K\u00f6rpersprache) situations- sowie adressatengerecht anwenden und deren Wirkung reflektieren"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_01_b",
+            "name": "dialogisch sprechen",
+            "path": [
+                "01",
+                "b"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_05",
+                    "content": "verschiedene Gespr\u00e4chsformen (zum Beispiel Diskussion, Streitgespr\u00e4ch, Debatte) praktizieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_06",
+                    "content": "Gespr\u00e4che beobachten, moderieren, reflektieren, dabei Merkmale unangemessener Kommunikation erkennen und darauf hinweisen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_07",
+                    "content": "durch gezieltes Fragen Informationen beschaffen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_08",
+                    "content": "in verschiedenen Kommunikations- und Gespr\u00e4chssituationen sicher und konstruktiv agieren, eigene Positionen vertreten, auf Gegenpositionen sachlich und argumentierend eingehen sowie situationsangemessen auf (non)verbale \u00c4u\u00dferungen ihres Gegen\u00fcbers reagieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_09",
+                    "content": "auch im interkulturellen Dialog eigene und fremde Wahrnehmungen unterscheiden und kulturelle Unterschiede wahrnehmen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_01_c",
+            "name": "monologisch sprechen",
+            "path": [
+                "01",
+                "c"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_10",
+                    "content": "wesentliche Aussagen auch komplexer gesprochener Texte bestimmen und wiedergeben, dabei systematisch vorgehen und auch Texterschlie\u00dfungsmethoden und Mitschreibetechniken nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_11",
+                    "content": "Redebeitr\u00e4ge transparent strukturieren, dabei Redestrategien einsetzen und die Wirkung eines Redebeitrags reflektieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_12",
+                    "content": "freie Redebeitr\u00e4ge leisten, Sachinhalte verst\u00e4ndlich referieren (E), Kurzdarstellungen (zum Beispiel Buchpr\u00e4sentationen) und Referate frei vortragen (gegebenenfalls mithilfe von Stichw\u00f6rtern oder einer Gliederung); dabei verschiedene Medien nutzen (zum Beispiel Folie, Plakat, Pr\u00e4sentationsprogramme)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_13",
+                    "content": "verschiedene Formen m\u00fcndlicher Darstellung verwenden: erz\u00e4hlen, nacherz\u00e4hlen, schildern, informieren, berichten, beschreiben, appellieren, argumentieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_14",
+                    "content": "Texte sinngebend und gestaltend vorlesen und (auch frei) vortragen (zum Beispiel Gedichte)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_01_d",
+            "name": "in szenischem Spiel und Rollenspiel sprechen",
+            "path": [
+                "01",
+                "d"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_15",
+                    "content": "unterschiedliche Sprechsituationen gestalten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_SEK1_D_PK_01_16",
+                    "content": "Texte, Situationen und eigene Erfahrungen szenisch gestalten"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_SEK1_D_PK_01_e",
+            "name": "verstehend zuh\u00f6ren",
+            "path": [
+                "01",
+                "e"
+            ],
+            "subject": "SEK1",
+            "grades": [],
+            "school_type": "SEK1",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ]
+]

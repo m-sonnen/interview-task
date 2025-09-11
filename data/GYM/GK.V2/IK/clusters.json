@@ -1,0 +1,3711 @@
+[
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02",
+        "name": "3.2.2.2 Politische Teilhabe",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.2 Politische Teilhabe\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie politische Herrschaft in Deutschland legitimiert wird, ob die Teilhabem\u00f6glichkeiten der B\u00fcrger erweitert werden sollen (Macht und Entscheidung), welchen Beitrag die Beteiligungsverfahren zum demokratischen und gewaltfreien L\u00f6sen von Interessenkonflikten leisten und wie die Demokratie weiterentwickelt und gesichert werden kann (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_a",
+                "name": "3.2.2.2 Politische Teilhabe",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_01",
+                        "content": "das Wahlsystem zum Bundestag mit reinen Mehrheits- und Verh\u00e4ltniswahlsystemen in anderen Staaten vergleichen (Legitimation, Repr\u00e4sentation, Regierungsbildung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_02",
+                        "content": "das Wahlsystem zum Bundestag bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_03",
+                        "content": "Ursachen des Nichtw\u00e4hlens (Protest, Politikferne, Zufriedenheit) beschreiben und m\u00f6gliche Folgen einer geringen Wahlbeteiligung (fehlende Legitimation, Interessendurchsetzung wahlaktiver Minderheiten) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_04",
+                        "content": "den Zusammenhang von sozialem Status (Milieuzugeh\u00f6rigkeit, Bildung) und der Partizipation der B\u00fcrger erkl\u00e4ren sowie die Folgen f\u00fcr die Demokratie bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_05",
+                        "content": "die Bedeutung der Medien f\u00fcr die politische Teilhabe erl\u00e4utern (zum Beispiel Meinungs- und Pressefreiheit, Medienkonsum, Medialisierung der Wahlk\u00e4mpfe, Medialisierung der Politik)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_06",
+                        "content": "die Erweiterung der Partizipationsm\u00f6glichkeiten um dialogorientierte Partizipationsformen und B\u00fcrgerbeteiligung er\u00f6rtern (zum Beispiel Zukunftswerkstatt, Mediation, Beteiligungshaushalt, Beteiligungsportale)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_07",
+                        "content": "M\u00f6glichkeiten der B\u00fcrger, ihre Interessen in der repr\u00e4sentativen Demokratie Deutschlands in den politischen Entscheidungsprozess einzubringen, bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_05",
+                    "BNE_05",
+                    "BNE_05",
+                    "MB_01",
+                    "MB_03",
+                    "MB_01",
+                    "BNE_05",
+                    "BNE_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_08",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03_17",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03_18",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02",
+        "name": "3.3.2.2 PolitischeTeilhabe",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.2.2 Politische Teilhabe\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie politische Herrschaft in Deutschland legitimiert wird, ob die Teilhabem\u00f6glichkeiten der B\u00fcrger erweitert werden sollen (Macht und Entscheidung), welchen Beitrag die Beteiligungsverfahren zum demokratischen und gewaltfreien L\u00f6sen von Interessenkonflikten leisten und wie die Demokratie weiterentwickelt und gesichert werden kann (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_a",
+                "name": "3.3.2.2 PolitischeTeilhabe",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_01",
+                        "content": "das Wahlsystem zum Bundestag mit reinen Mehrheits- und Verh\u00e4ltniswahlsystemen in anderen Staaten vergleichen (Legitimation, Repr\u00e4sentation, Regierungsbildung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_02",
+                        "content": "das Wahlsystem zum Bundestag bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_03",
+                        "content": "Wahlverhalten anhand der Rational-Choice\u2011, der soziologischen und der individualpsychologischen Theorie erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_04",
+                        "content": "Ursachen des Nichtw\u00e4hlens (Protest, Politikferne, Zufriedenheit) beschreiben und m\u00f6gliche Folgen einer geringen Wahlbeteiligung (fehlende Legitimation, Interessendurchsetzung wahlaktiver Minderheiten) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_05",
+                        "content": "den Zusammenhang von sozialem Status (Milieuzugeh\u00f6rigkeit, Bildung) und Partizipation der B\u00fcrger erkl\u00e4ren sowie die Folgen f\u00fcr die Demokratie bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_06",
+                        "content": "die Bedeutung der Medien f\u00fcr die politische Teilhabe erl\u00e4utern (zum Beispiel Meinungs- und Pressefreiheit, Medienkonsum, Medialisierung der Wahlk\u00e4mpfe, Medialisierung der Politik)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_07",
+                        "content": "die Entstehung von Parteien und die Struktur des Parteiensystems anhand eines Modells erkl\u00e4ren (zum Beispiel Cleavage-Modell)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_08",
+                        "content": "Kritik am Einfluss der Parteien auf Staat und Gesellschaft er\u00f6rtern (Besetzung von \u00c4mtern, Einflussnahme auf die Medien)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_09",
+                        "content": "die Erweiterung der Partizipationsm\u00f6glichkeiten um dialogorientierte Partizipationsformen und B\u00fcrgerbeteiligung er\u00f6rtern (zum Beispiel Zukunftswerkstatt, Mediation, Beteiligungshaushalt, Beteiligungsportale)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_10",
+                        "content": "das politische System der Schweiz als halbdirekte Demokratie charakterisieren und eine Erweiterung des repr\u00e4sentativen Systems Deutschlands durch plebiszit\u00e4re Elemente bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_11",
+                        "content": "M\u00f6glichkeiten der B\u00fcrger, ihre Interessen in der repr\u00e4sentativen Demokratie Deutschlands in den politischen Entscheidungsprozess einzubringen, bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_05",
+                    "BNE_05",
+                    "BNE_05",
+                    "MB_01",
+                    "MB_03",
+                    "MB_01",
+                    "BNE_05",
+                    "BNE_05",
+                    "BNE_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_08",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03_17",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03_18",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05",
+        "name": "3.1.3.5 Kontrolle politischer Herrschaft in Deutschland",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.5 Kontrolle politischer Herrschaft in Deutschland\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, wie staatliche Macht in Deutschland kontrolliert wird und wie die Judikative auf den Gesetzgebungsprozess einwirkt (Macht und Entscheidung).",
+        "path": [
+            "03",
+            "05"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_a",
+                "name": "3.1.3.5 Kontrolle politischer Herrschaft in Deutschland",
+                "path": [
+                    "03",
+                    "05"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_01",
+                        "content": "die Kontrolle politischer Herrschaft durch Medien erl\u00e4utern (zum Beispiel investigativer Journalismus)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_02",
+                        "content": "verfassungsrechtliche Stellung und Aufgaben des Bundesverfassungsgerichts beschreiben (Normenkontrolle, Verfassungsbeschwerde, Parteienverbot, Organstreitigkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_03",
+                        "content": "die Legitimation von Bundesverfassungsgericht und Bundestag vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_04",
+                        "content": "die Kontrollfunktion des Bundesverfassungsgerichts erl\u00e4utern und den Einfluss des Bundesverfassungsgerichts auf die Gesetzgebung des Bundestags mithilfe von Material \u00fcberpr\u00fcfen"
+                    }
+                ],
+                "guidelines": [
+                    "MB_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_07"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03",
+        "name": "3.3.1.3 Politik der Chancengleichheit",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.1.3 Politik der Chancengleichheit\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie sich Ungleichheit in Deutschland entwickelt und wie sich die Gesellschaft zusammensetzt (Ordnung und Struktur), ob der Staat Einkommen und Verm\u00f6gen umverteilen soll (Knappheit und Verteilung) und inwieweit es dem Staat gelingt, Chancengleichheit herzustellen (Interessen und Gemeinwohl).",
+        "path": [
+            "01",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_a",
+                "name": "Verteilungspolitik",
+                "path": [
+                    "01",
+                    "03",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_01",
+                        "content": "die Entwicklung der vertikalen Ungleichheit bei Einkommen und Verm\u00f6gen mithilfe von Material analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_02",
+                        "content": "politische, gesellschaftliche und wirtschaftliche Folgen ungleicher Einkommens- und Verm\u00f6gensverteilung erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_03",
+                        "content": "Ma\u00dfnahmen der Umverteilung durch den Staat erl\u00e4utern (Steuern, Transferzahlungen, sozial gestaltetes \u00f6ffentliches G\u00fcterangebot)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_04",
+                        "content": "die Einkommensbesteuerung beschreiben (Grundfreibetrag, Progression, Kinderfreibetrag, Spitzensteuersatz, Durchschnittssteuersatz) und deren Ausgestaltung bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_05",
+                        "content": "er\u00f6rtern, ob durch staatliche Ma\u00dfnahmen die Verm\u00f6gensunterschiede in einer Gesellschaft reduziert werden sollen (zum Beispiel Erbschaftssteuer, Verm\u00f6genssteuer, Verm\u00f6gensabgabe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_06",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit durch Umverteilungspolitik gleiche Chancen zur politischen, gesellschaftlichen und wirtschaftlichen Teilhabe gew\u00e4hrleistet werden"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_05",
+                    "BTV_06",
+                    "BTV_03",
+                    "BTV_06",
+                    "BTV_03",
+                    "BTV_06",
+                    "BTV_03",
+                    "BNE_05",
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06"
+                ]
+            },
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_a",
+                "name": "Migrations- und Integrationspolitik",
+                "path": [
+                    "01",
+                    "03",
+                    "b"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_07",
+                        "content": "Migrationsbewegungen innerhalb der EU und die Zusammensetzung der Bev\u00f6lkerung in Deutschland und der EU mithilfe von Material analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_08",
+                        "content": "politische, gesellschaftliche und wirtschaftliche Folgen von Zuwanderung erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_09",
+                        "content": "Ma\u00dfnahmen staatlicher Migrations- und Integrationspolitik (Regulierung der Zuwanderung, Zugang zum Arbeitsmarkt, Sprach- und Bildungsf\u00f6rderung, Abbau kultureller Barrieren, Staatsangeh\u00f6rigkeitsrecht) und zivilgesellschaftliche Initiativen zur Integrationsf\u00f6rderung erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_10",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit durch Integrationspolitik gleiche Chancen zur politischen, gesellschaftlichen und wirtschaftlichen Teilhabe gew\u00e4hrleistet werden"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_05",
+                    "BTV_08",
+                    "BTV_03",
+                    "BNE_05",
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06"
+                ]
+            },
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_a",
+                "name": "Bildungspolitik",
+                "path": [
+                    "01",
+                    "03",
+                    "c"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_11",
+                        "content": "die Entwicklung der Teilnahme an Bildung und die Entwicklung der Bildungsabschl\u00fcsse sowie die Einflussfaktoren darauf (soziale Herkunft, Migrationshintergrund, Geschlecht) mithilfe von Material analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_12",
+                        "content": "politische, gesellschaftliche und wirtschaftliche Folgen von ungleichen Bildungschancen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_13",
+                        "content": "Ma\u00dfnahmen staatlicher Bildungspolitik und gesellschaftliche Initiativen zur Bildungsf\u00f6rderung erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_14",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit durch Bildungspolitik gleiche Bildungschancen gew\u00e4hrleistet werden"
+                    }
+                ],
+                "guidelines": [
+                    "BO_04",
+                    "BNE_05",
+                    "BNE_05",
+                    "BO_04",
+                    "BNE_05",
+                    "BTV_03",
+                    "BO_04",
+                    "BNE_05",
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04",
+        "name": "3.3.4.4 Deutsche Au\u00dfenpolitik",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4.4 Deutsche Au\u00dfenpolitik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, inwieweit Normen die deutsche Au\u00dfenpolitik bestimmen (Interessen und Gemeinwohl), welche rechtlichen Regelungen die deutsche Au\u00dfenpolitik bestimmen (Regeln und Recht) und welche Rolle Deutschland in internationalen Organisationen spielt (Macht und Entscheidung).",
+        "path": [
+            "04",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04_a",
+                "name": "3.3.4.4 Deutsche Au\u00dfenpolitik",
+                "path": [
+                    "04",
+                    "04"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04_01",
+                        "content": "Grundlagen der deutschen Sicherheitspolitik beschreiben (Pr\u00e4ambel, Art. 24, 26 GG, Parlamentsarmee)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04_02",
+                        "content": "die Mitwirkung Deutschlands in NATO und UNO beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04_03",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit die deutsche Au\u00dfenpolitik dem Zivilmachtskonzept entspricht (Einhegung milit\u00e4rischer Gewalt, Umsetzung international akzeptierter Normen, Entwicklung internationaler Institutionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04_04",
+                        "content": "Anti-Terror-Gesetze im Spannungsfeld von Freiheit und Sicherheit bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_07",
+                    "BNE_03",
+                    "BNE_07",
+                    "BNE_07",
+                    "BNE_03",
+                    "BTV_08",
+                    "BTV_05",
+                    "BNE_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_05",
+        "name": "3.3.4.5 Globales Regieren",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4.5 Globales Regieren\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, welche unterschiedlichen Formen des Regierens die internationalen Beziehungen bestimmen (Macht und Entscheidung), welche Entwicklungen die internationale Politik zeigt (Ordnung und Struktur) und welche Bedeutung die UNO f\u00fcr die internationale Politik hat (Interessen und Gemeinwohl).",
+        "path": [
+            "04",
+            "05"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_05_a",
+                "name": "3.3.4.5 Globales Regieren",
+                "path": [
+                    "04",
+                    "05"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_05_01",
+                        "content": "unterschiedliche Formen des Regierens in den internationalen Beziehungen erl\u00e4utern (durch Staaten, mit Staaten, ohne Staaten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_05_02",
+                        "content": "Tendenzen der Weltpolitik erl\u00e4utern (Globalisierung und Fragmentierung, Entstaatlichung und Staatlichkeit, Verrechtlichung und Entrechtlichung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_05_03",
+                        "content": "die UNO als Akteur in den internationalen Beziehungen bewerten (Konfliktl\u00f6sung, Befriedung der internationalen Beziehungen, Schutz der Menschenrechte, F\u00f6rderung nachhaltiger Entwicklung)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_08",
+                    "BNE_07",
+                    "BTV_06",
+                    "BTV_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02",
+        "name": "3.1.2.2 Grundrechte",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.2.2 Grundrechte\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, welche rechtlichen Regelungen es zum Schutz der Grundrechte gibt (Recht und Regeln) und welche Bedeutung Grundrechte f\u00fcr das Zusammenleben in Deutschland und f\u00fcr den Einzelnen haben (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_a",
+                "name": "3.1.2.2 Grundrechte",
+                "path": [
+                    "02",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_01",
+                        "content": "unterschiedliche Arten von Grundrechten erl\u00e4utern (Freiheits\u2011, Gleichheits- und Anspruchsrechte, B\u00fcrger- und Menschenrechte)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_02",
+                        "content": "die besondere Stellung der Grundrechte beschreiben (Bindungswirkung, Wesensgehaltsgarantie, Ewigkeitsgarantie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_03",
+                        "content": "die Ausgestaltung des Minderheitenschutzes am Beispiel der Sinti und Roma beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_04",
+                        "content": "an einem vorgegebenen Fallbeispiel einen Grundrechtskonflikt analysieren"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_07",
+                    "BTV_04",
+                    "BTV_03",
+                    "BTV_06",
+                    "BNE_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04_04",
+                    "BP2016BW_ALLG_GYM_G_IK_9-10_02_00_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_03",
+                    "BP2016BW_ALLG_GYM_G_IK_7-8_03_00_03",
+                    "BP2016BW_ALLG_GYM_G_IK_7-8_04_00_04",
+                    "BP2016BW_ALLG_GYM_REV_IK_9-10_01_00_02",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_03_00_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_03",
+                    "BP2016BW_ALLG_GYM_G_IK_9-10_01_00_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02",
+        "name": "3.3.1.2 Ausgestaltung des Sozialstaats",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.1.2 Ausgestaltung des Sozialstaats\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, welche Regelungen das Grundgesetz zur Ausgestaltung des Sozialstaats enth\u00e4lt (Regeln und Recht), welche unterschiedlichen Vorstellungen es zur Umsetzung des Sozialstaatsgebots gibt (Interessen und Gemeinwohl), welche wohlfahrtsstaatlichen Leistungen der Staat \u00fcbernehmen soll (Privatheit und \u00d6ffentlichkeit) und wie der Sozialstaat ausgestaltet ist (Ordnung und Struktur).",
+        "path": [
+            "01",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_a",
+                "name": "3.3.1.2 Ausgestaltung des Sozialstaats",
+                "path": [
+                    "01",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_01",
+                        "content": "Aufgaben des Sozialstaats erl\u00e4utern (soziale Sicherung, sozialer Ausgleich, politische, gesellschaftliche und wirtschaftliche Teilhabe, sozialer Frieden, wirtschaftliche Stabilisierung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_02",
+                        "content": "die Ausgestaltung des Sozialstaats nach dem Versicherungs\u2011, F\u00fcrsorge- und Versorgungsprinzip charakterisieren (Zielsetzung, Anspruchsberechtigte, Finanzierung, Gestaltungsprinzip)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_03",
+                        "content": "das im Grundgesetz verankerte Spannungsverh\u00e4ltnis von individueller Freiheit und Sozialstaatsgebot erkl\u00e4ren (Art. 1, 2 Abs. 1, 20 GG)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_04",
+                        "content": "Modelle des Wohlfahrtsstaats nach Esping-Andersen (liberal, konservativ, sozialdemokratisch) vergleichen (Dekommodifizierung, Bedeutung von Familie, Markt und Staat, sozialpolitische Hauptanliegen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_05",
+                        "content": "neue soziale Risiken als Herausforderungen f\u00fcr den Sozialstaat erl\u00e4utern (demografischer Wandel, Ver\u00e4nderungen auf dem Arbeitsmarkt, Wandel der Familie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_06",
+                        "content": "eine sozialstaatliche Reformma\u00dfnahme bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06",
+                    "BNE_05",
+                    "BTV_03",
+                    "BO_01",
+                    "VB_04",
+                    "BNE_03",
+                    "BTV_06",
+                    "BTV_03",
+                    "BO_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02",
+        "name": "3.2.1.2 Frieden und Sicherheit",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.2 Frieden und Sicherheit\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie Frieden bewahrt, geschaffen und gesichert werden kann (Interessen und Gemeinwohl), welche rechtlichen Regelungen die internationalen Beziehungen bestimmen und wie Regelverletzungen geahndet werden (Regeln und Recht), wer mit welcher Legitimation Entscheidungen treffen kann (Macht und Entscheidung) und welche Akteure im Sachbereich Sicherheit die internationale Politik beeinflussen (Privatheit und \u00d6ffentlichkeit).",
+        "path": [
+            "01",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_a",
+                "name": "3.2.1.2 Frieden und Sicherheit",
+                "path": [
+                    "01",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_01",
+                        "content": "Bedrohungen f\u00fcr die internationale Sicherheit erl\u00e4utern (zum Beispiel Staatszerfall, Terrorismus, Verbreitung von Massenvernichtungswaffen, Territorialkonflikte, Ressourcenkonflikte, Klimawandel, Cyber-Angriffe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_02",
+                        "content": "den erweiterten Sicherheitsbegriff beschreiben (Sach\u2011, Referenz\u2011, Gefahren\u2011, Raumdimensionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_03",
+                        "content": "den Wandel von klassischen Kriegen zu \u201eNeuen Kriegen\u201c charakterisieren (Akteure, Ziele, Mittel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_04",
+                        "content": "die Weiterentwicklung der UN-Mandate vom klassischen Peacekeeping (\u00dcberwachung von Waffenstillst\u00e4nden) zum komplexen Peacekeeping (vor\u00fcbergehende \u00dcbernahme von Regierungsverantwortung, Aufbau funktionsf\u00e4higer staatlicher Institutionen durch zivile Fachkr\u00e4fte, St\u00e4rkung zivilgesellschaftlicher Strukturen durch NGOs) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_05",
+                        "content": "die NATO als System der kollektiven Verteidigung (Art. 5 NATO-Vertrag) beschreiben und die NATO-Strategie vor dem Hintergrund der aktuellen Sicherheitslage er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_06",
+                        "content": "das Konzept der Schutzverantwortung der Staaten im humanit\u00e4ren V\u00f6lkerrecht beschreiben (Universalit\u00e4t und Schutz von Menschenrechten, humanit\u00e4re Katastrophen als Friedensbedrohung, humanit\u00e4re Interventionen zur Sicherung der Menschenrechte)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_07",
+                        "content": "das Spannungsverh\u00e4ltnis zwischen staatlicher Souver\u00e4nit\u00e4t einerseits und Schutzverantwortung der Staatengemeinschaft sowie humanit\u00e4ren Interventionen andererseits darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_08",
+                        "content": "M\u00f6glichkeiten zum Schutz der Menschenrechte durch internationale Organisationen (UN-Sicherheitsrat, UN-Menschenrechtsrat, ein internationales Strafgericht) und durch NGOs erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_09",
+                        "content": "Ma\u00dfnahmen von UNO, NATO und NGOs zur Bewahrung, Schaffung und Sicherung des Friedens bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_07",
+                    "BNE_01",
+                    "BNE_07",
+                    "BNE_07",
+                    "BTV_06",
+                    "BTV_07",
+                    "BNE_07",
+                    "BNE_07",
+                    "BTV_07",
+                    "BTV_02",
+                    "BNE_07",
+                    "BTV_07",
+                    "BTV_02",
+                    "BTV_07",
+                    "BTV_02",
+                    "BNE_07",
+                    "BTV_06",
+                    "BTV_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_08_00_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_08",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_02",
+        "name": "3.2.4.2 Wohlstand und Wirtschaftswachstum",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.4.2 Wohlstand und Wirtschaftswachstum\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, wie Wohlstand in einer Gesellschaft gemessen und verteilt werden soll (Knappheit und Verteilung) und der Staat auf nationaler Ebene zur Wohlstands- und Wachstumsf\u00f6rderung in das wirtschaftliche Geschehen eingreifen soll (Privatheit und \u00d6ffentlichkeit).",
+        "path": [
+            "04",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_02_a",
+                "name": "3.2.4.2 Wohlstand und Wirtschaftswachstum",
+                "path": [
+                    "04",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_02_01",
+                        "content": "Konzepte zur Messung von Wachstum und Wohlstand er\u00f6rtern (BIP und ein alternatives Konzept zur Wohlstandsmessung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_02_02",
+                        "content": "die Konzepte der Angebots- und der Nachfrageorientierung zur Wachstumsf\u00f6rderung vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_02_03",
+                        "content": "Ma\u00dfnahmen der Wachstumspolitik auf nationaler Ebene bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03",
+        "name": "3.2.2.3 Gesetzgebung und Regieren",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.3 Gesetzgebung und Regieren\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, wie staatliche Macht in Deutschland sowie zwischen Deutschland und der Europ\u00e4ischen Union verteilt ist, wie staatliche Macht in Deutschland kontrolliert wird (Macht und Entscheidung), wie das politische System Deutschlands aufgebaut ist (Ordnung und Struktur) und welchen Beitrag Verfahren und Institutionen zur Regelung und zum Schutz des friedlichen Zusammenlebens in Deutschland leisten (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_a",
+                "name": "3.2.2.3 Gesetzgebung und Regieren",
+                "path": [
+                    "02",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_01",
+                        "content": "die Bedeutung der Exekutive f\u00fcr den Gesetzgebungsprozess erl\u00e4utern (Initiativrecht, Ministerialb\u00fcrokratie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_02",
+                        "content": "die Mitwirkung des Bundesrats an der Gesetzgebung erl\u00e4utern (einfache und zustimmungspflichtige Gesetze, Vermittlungsausschuss)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_03",
+                        "content": "die Europ\u00e4isierung der Gesetzgebung erl\u00e4utern (zum Beispiel EU-Verordnungen, \u2011Richtlinien, \u2011Beschl\u00fcsse und \u2011Empfehlungen, Entscheidungen des EuGH)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_04",
+                        "content": "die Entscheidungsfindung im f\u00f6deralen System Deutschlands mit der Vielzahl an Mitregenten und Vetospielern bewerten (EU, Interessenverb\u00e4nde, Bundesrat, Bundesverfassungsgericht)"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01",
+        "name": "3.3.2.1 Grundlage des politischen Systems",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.2.1 Grundlagen des politischen Systems\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, welche unterschiedlichen Formen politischer Systeme es gibt (Ordnung und Struktur), wie in den unterschiedlichen Systemen politische Entscheidungen getroffen werden (Macht und Entscheidung) und wie politische Herrschaft legitimiert wird (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_a",
+                "name": "3.3.2.1 Grundlage des politischen Systems",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_01",
+                        "content": "neuzeitliche Vertragstheorien zur Legitimation politischer Herrschaft (Hobbes, Locke und Rousseau) vergleichen (Menschenbild, Begr\u00fcndung des Vertrags, Staatsstruktur, Rechte des Einzelnen, Gemeinwohlverst\u00e4ndnis)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_02",
+                        "content": "neuere Demokratietheorien (Schumpeter, Habermas, Scharpf) in Bezug auf die Input- und Output-Legitimation vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_03",
+                        "content": "demokratische, autorit\u00e4re und totalit\u00e4re Typen politischer Systeme vergleichen (zum Beispiel Herrschaftslegitimation, \u2011zugang, \u2011anspruch, \u2011monopol, \u2011struktur und \u2011weise)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_04",
+                        "content": "Wechselwirkungen zwischen politischer Ordnung und Wirtschaftsordnung erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_05",
+                        "content": "Modelle der Demokratie charakterisieren (plebiszit\u00e4r \u2013 repr\u00e4sentativ, parlamentarisch \u2013 pr\u00e4sidentiell, Konkordanz \u2013 Konkurrenz)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_06",
+                        "content": "Staatsstrukturprinzipien nach Art. 20, 23, 24 GG erl\u00e4utern (Demokratie, Rechtsstaat, Bundesstaat, Republik, Sozialstaat, offene Staatlichkeit)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06",
+                    "BNE_05",
+                    "BTV_06",
+                    "BNE_05",
+                    "BTV_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_03_00_01",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02",
+        "name": "3.1.1.2 Zuwanderung nach Deutschland",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.1.2 Zuwanderung nach Deutschland\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, wie die Gesellschaft Deutschlands zusammengesetzt ist (Ordnung und Struktur), welche Bedeutung die Zuwanderung f\u00fcr Deutschland hat und wie die Zuwanderungspolitik gestaltet werden soll (Interessen und Gemeinwohl).",
+        "path": [
+            "01",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_a",
+                "name": "3.1.1.2 Zuwanderung nach Deutschland",
+                "path": [
+                    "01",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_01",
+                        "content": "Ursachen von Zuwanderung nach Deutschland erl\u00e4utern (Push- und Pull-Faktoren)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_02",
+                        "content": "die Zusammensetzung der Bev\u00f6lkerung in Deutschland mithilfe von Material analysieren (Migrationshintergrund, Altersstruktur)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_03",
+                        "content": "Folgen von Zuwanderung f\u00fcr Deutschland erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                        "content": "Anforderungen an die Aufnahmegesellschaft und an die Zuwanderer im Integrationsprozess erl\u00e4utern (kulturelle Offenheit und Akzeptanz, Bildung, Sprache, Gestaltung des Staatsangeh\u00f6rigkeitsrechts)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_05",
+                        "content": "die Zuwanderungspolitik Deutschlands und der EU er\u00f6rtern (Arbeitsmigration, Fl\u00fcchtlingspolitik, Familiennachzug)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BTV_08",
+                    "BTV_07",
+                    "BTV_04",
+                    "BTV_02",
+                    "BTV_08",
+                    "BTV_03",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_7-8_04_00_05",
+                    "BP2016BW_ALLG_GYM_G_IK_7-8_05_00_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_10",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_12",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01",
+        "name": "3.3.4.1 Grundlagen des internationalen Systems",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4.1 Grundlagen des internationalen Systems\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie das internationale System aufgebaut ist (Ordnung und Struktur), welche Regeln die internationale Politik bestimmen (Regeln und Recht), wie Entscheidungen in den internationalen Beziehungen getroffen werden (Macht und Entscheidung), welche Akteure die internationale Politik beeinflussen (Privatheit und \u00d6ffentlichkeit) und welche Handlungsmotive ihr Verhalten bestimmen (Interessen und Gemeinwohl).",
+        "path": [
+            "04",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_a",
+                "name": "3.3.4.1 Grundlagen des internationalen Systems",
+                "path": [
+                    "04",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_01",
+                        "content": "die Struktur des internationalen Systems beschreiben (Anarchie, Sicherheitsdilemma, Interdependenzen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_02",
+                        "content": "systemische Rahmenbedingungen erl\u00e4utern (Unipolarit\u00e4t, Bipolarit\u00e4t, Multipolarit\u00e4t, hegemoniale Herrschaft)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_03",
+                        "content": "internationale Konfliktkonstellationen spieltheoretisch erkl\u00e4ren (Sicherheits- und Wohlfahrtsdilemma)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_04",
+                        "content": "Akteure der internationalen Beziehungen beschreiben (Staaten, internationale Organisationen, transnationale Akteure) und ihre Handlungsmotive charakterisieren (Durchsetzung von Eigeninteressen, Einhaltung von Normen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_05",
+                        "content": "Rahmenbedingungen der Politik im Nationalstaat mit denen der internationalen Politik vergleichen (Gewaltmonopol, Gesetzgebung, Durchsetzung von Entscheidungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_06",
+                        "content": "unterschiedliche Konstellationen in den internationalen Beziehungen erl\u00e4utern (westf\u00e4lisches Modell, postwestf\u00e4lisches Modell, pr\u00e4westf\u00e4lisches Modell)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02",
+        "name": "3.2.3.2 Politik der Chancengleichheit",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.2 Politik der Chancengleichheit\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie sich Ungleichheit in Deutschland entwickelt und wie sich die Gesellschaft zusammensetzt (Ordnung und Struktur), ob der Staat Einkommen und Verm\u00f6gen umverteilen soll (Knappheit und Verteilung) und inwieweit es dem Staat gelingt, Chancengleichheit herzustellen (Interessen und Gemeinwohl).",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_a",
+                "name": "Verteilungspolitik",
+                "path": [
+                    "03",
+                    "02",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_01",
+                        "content": "politische, gesellschaftliche und wirtschaftliche Folgen ungleicher Einkommens- und Verm\u00f6gensverteilung erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_02",
+                        "content": "Ma\u00dfnahmen der Umverteilung durch den Staat erl\u00e4utern (Steuern, Transferzahlungen, sozial gestaltetes \u00f6ffentliches G\u00fcterangebot)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_03",
+                        "content": "er\u00f6rtern, ob durch staatliche Ma\u00dfnahmen die Verm\u00f6gensunterschiede in einer Gesellschaft reduziert werden sollen (zum Beispiel Erbschaftssteuer, Verm\u00f6genssteuer, Verm\u00f6gensabgabe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_04",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit durch Umverteilungspolitik gleiche Chancen zur politischen, gesellschaftlichen und wirtschaftlichen Teilhabe gew\u00e4hrleistet werden"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_05",
+                    "BTV_06",
+                    "BTV_03",
+                    "BTV_06",
+                    "BTV_03",
+                    "BNE_05",
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06"
+                ]
+            },
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_a",
+                "name": "Bildungspolitik",
+                "path": [
+                    "03",
+                    "02",
+                    "b"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_05",
+                        "content": "die Entwicklung der Teilnahme an Bildung und die Entwicklung der Bildungsabschl\u00fcsse sowie die Einflussfaktoren darauf (soziale Herkunft, Migrationshintergrund, Geschlecht) mithilfe von Material analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_06",
+                        "content": "politische, gesellschaftliche und wirtschaftliche Folgen von ungleichen Bildungschancen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_07",
+                        "content": "Ma\u00dfnahmen staatlicher Bildungspolitik und gesellschaftliche Initiativen zur Bildungsf\u00f6rderung erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_02_08",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit durch Bildungspolitik gleiche Bildungschancen gew\u00e4hrleistet werden"
+                    }
+                ],
+                "guidelines": [
+                    "BO_04",
+                    "BNE_05",
+                    "BNE_05",
+                    "BO_04",
+                    "BNE_05",
+                    "BTV_03",
+                    "BO_04",
+                    "BNE_05",
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_02",
+        "name": "3.3.3.2 Wohlstand und Wirtschaftswachstum",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.3.2 Wohlstand und Wirtschaftswachstum\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, wie Wohlstand in einer Gesellschaft gemessen und verteilt werden soll (Knappheit und Verteilung), inwieweit der Staat auf nationaler oder europ\u00e4ischer Ebene zur Wohlstands- und Wachstumsf\u00f6rderung in das wirtschaftliche Geschehen eingreifen soll (Privatheit und \u00d6ffentlichkeit) und wie er die Prozesse in diesen Bereichen koordinieren soll (Macht und Entscheidung).",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_02_a",
+                "name": "3.3.3.2 Wohlstand und Wirtschaftswachstum",
+                "path": [
+                    "03",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_02_01",
+                        "content": "die Bedeutung von Wachstum erkl\u00e4ren (Verteilungs\u2011, Besch\u00e4ftigungs- und Machteffekte)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_02_02",
+                        "content": "Einflussfaktoren auf das Wachstum erl\u00e4utern (politische, gesellschaftliche, wirtschaftliche, nat\u00fcrliche Rahmenbedingungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_02_03",
+                        "content": "Konzepte zur Messung von Wachstum und Wohlstand er\u00f6rtern (BIP und ein alternatives Konzept zur Wohlstandsmessung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_02_04",
+                        "content": "die Konzepte der Angebots- und der Nachfrageorientierung zur Wachstumsf\u00f6rderung vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_02_05",
+                        "content": "Ma\u00dfnahmen der Wachstumspolitik auf nationaler oder europ\u00e4ischer Ebene bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_04",
+                    "BNE_01",
+                    "BNE_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_06",
+        "name": "3.1.3.6 Probleml\u00f6sef\u00e4higkeit des politischen Systems \u2013 eine Fallstudie",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.6 Probleml\u00f6sef\u00e4higkeit des politischen Systems \u2013 eine Fallstudie \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, wer im betroffenen Problemfeld mit welcher Legitimation Entscheidungen treffen kann (Macht und Entscheidung), welche Akteure betroffen sind und welche Interessen sie verfolgen (Interessen und Gemeinwohl) und wie durch die Festlegung von rechtlichen Regelungen das Problem gel\u00f6st werden soll (Regeln und Recht).",
+        "path": [
+            "03",
+            "06"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_06_a",
+                "name": "3.1.3.6 Probleml\u00f6sef\u00e4higkeit des politischen Systems \u2013 eine Fallstudie",
+                "path": [
+                    "03",
+                    "06"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_06_01",
+                        "content": "anhand eines aktuellen politischen Konflikts (zum Beispiel Umwelt\u2011, Verbraucher\u2011, Energiepolitik, Digitalisierung, Migration, Verschuldung, demografischer Wandel, Friedenssicherung) eine Fallstudie erstellen"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BO_01",
+                    "VB_04",
+                    "BNE_07",
+                    "MB_07",
+                    "BTV_06",
+                    "MB_01",
+                    "PG_02",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_09",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_01_00_01",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_01_00_10",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_01_00",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_01",
+        "name": "3.3.3.1 Grundlagen der Wirtschaftspolitik",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.3.1 Grundlagen der Wirtschaftspolitik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, wie die Wirtschaftsordnung in Deutschland ausgestaltet ist (Ordnung und Struktur), welche Ziele staatliche Wirtschaftspolitik in Deutschland und der EU verfolgt (Interessen und Gemeinwohl), inwieweit der Staat in das wirtschaftliche Geschehen eingreifen soll (Privatheit und \u00d6ffentlichkeit) und wie wirtschaftliche Prozesse koordiniert werden sollen (Macht und Entscheidung).",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_01_a",
+                "name": "3.3.3.1 Grundlagen der Wirtschaftspolitik",
+                "path": [
+                    "03",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_01_01",
+                        "content": "die Konzepte des Ordoliberalismus, Neoliberalismus, Keynesianismus und des Marxismus vergleichen (Stellenwert des Individuums, Effizienz sowie Stabilit\u00e4t und Instabilit\u00e4t von M\u00e4rkten, Verh\u00e4ltnis von Markt und Staat)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_01_02",
+                        "content": "Formen des Marktversagens (zum Beispiel fehlende Bereitstellung \u00f6ffentlicher G\u00fcter, Fehlallokation durch externe Effekte, Gef\u00e4hrdung des Wettbewerbs, Informationsasymmetrien) und die Forderung nach wirtschaftspolitischem Handlungsbedarf erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_01_03",
+                        "content": "Markt, Hierarchien und Kooperation als Koordinationsmechanismen erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_01_04",
+                        "content": "die Ziele der deutschen Wirtschaftspolitik erl\u00e4utern (Magisches Viereck und seine Erweiterung zum Sechseck) und mit den Grundz\u00fcgen der Wirtschaftspolitik in der EU (Empfehlung des Rates) vergleichen"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_04",
+                    "BTV_06",
+                    "BNE_01",
+                    "BNE_04",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02",
+        "name": "3.3.4.2 Frieden und Sicherheit",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4.2 Frieden und Sicherheit\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie Frieden bewahrt, geschaffen und gesichert werden kann (Interessen und Gemeinwohl), welche rechtlichen Regelungen die internationalen Beziehungen bestimmen und wie Regelverletzungen geahndet werden (Regeln und Recht), wer mit welcher Legitimation Entscheidungen treffen kann (Macht und Entscheidung) und welche Akteure im Sachbereich Sicherheit die internationale Politik beeinflussen (Privatheit und \u00d6ffentlichkeit).",
+        "path": [
+            "04",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_a",
+                "name": "3.3.4.2 Frieden und Sicherheit",
+                "path": [
+                    "04",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_01",
+                        "content": "Bedrohungen f\u00fcr die internationale Sicherheit erl\u00e4utern (zum Beispiel Staatszerfall, Terrorismus, Verbreitung von Massenvernichtungswaffen, Territorialkonflikte, Ressourcenkonflikte, Klimawandel, Cyber-Angriffe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_02",
+                        "content": "den erweiterten Sicherheitsbegriff beschreiben (Sach\u2011, Referenz\u2011, Gefahren\u2011, Raumdimensionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_03",
+                        "content": "den Wandel von klassischen Kriegen zu \u201eNeuen Kriegen\u201c charakterisieren (Akteure, Ziele, Mittel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_04",
+                        "content": "die Weiterentwicklung der UN-Mandate vom klassischen Peacekeeping (\u00dcberwachung von Waffenstillst\u00e4nden) zum komplexen Peacekeeping (vor\u00fcbergehende \u00dcbernahme von Regierungsverantwortung, Aufbau funktionsf\u00e4higer staatlicher Institutionen durch zivile Fachkr\u00e4fte, St\u00e4rkung zivilgesellschaftliche Strukturen durch NGOs) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_05",
+                        "content": "M\u00f6glichkeiten er\u00f6rtern, Staaten beim Aufbau zivilgesellschaftlicher Strukturen (zivilisatorisches Hexagon) zu unterst\u00fctzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_06",
+                        "content": "die NATO als System der kollektiven Verteidigung (Art. 5 NATO-Vertrag) beschreiben und die NATO-Strategie vor dem Hintergrund der aktuellen Sicherheitslage er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_07",
+                        "content": "das Konzept der Schutzverantwortung der Staaten im humanit\u00e4ren V\u00f6lkerrecht (Universalit\u00e4t und Schutz von Menschenrechten, humanit\u00e4re Katastrophen als Friedensbedrohung, humanit\u00e4re Interventionen zur Sicherung der Menschenrechte) beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_08",
+                        "content": "das Spannungsverh\u00e4ltnis zwischen staatlicher Souver\u00e4nit\u00e4t einerseits und Schutzverantwortung der Staatengemeinschaft sowie humanit\u00e4ren Interventionen andererseits darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_09",
+                        "content": "M\u00f6glichkeiten zum Schutz der Menschenrechte durch internationale Organisationen (UN-Sicherheitsrat, UN-Menschenrechtsrat, ein internationales Strafgericht) und durch NGOs erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_10",
+                        "content": "Funktionen internationaler Strafgerichtsh\u00f6fe erl\u00e4utern (Vergeltung, Beitrag zur gesellschaftlichen Vers\u00f6hnung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_11",
+                        "content": "Ma\u00dfnahmen von UNO, NATO und NGOs zur Bewahrung, Schaffung und Sicherung des Friedens bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_07",
+                    "BNE_01",
+                    "BNE_07",
+                    "BNE_07",
+                    "BTV_06",
+                    "BTV_07",
+                    "BNE_01",
+                    "BNE_07",
+                    "BNE_07",
+                    "BNE_07",
+                    "BTV_07",
+                    "BTV_02",
+                    "BNE_07",
+                    "BTV_07",
+                    "BTV_02",
+                    "BTV_07",
+                    "BTV_02",
+                    "BTV_06",
+                    "BTV_07",
+                    "BNE_07",
+                    "BTV_06",
+                    "BTV_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_07_00_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_08",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03",
+        "name": "3.2.1.3 Deutsche Au\u00dfenpolitik",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.3 Deutsche Au\u00dfenpolitik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, inwieweit Normen die deutsche Au\u00dfenpolitik bestimmen (Interessen und Gemeinwohl), welche rechtlichen Regelungen die deutsche Au\u00dfenpolitik bestimmen (Regeln und Recht) und welche Rolle Deutschland in internationalen Organisationen spielt (Macht und Entscheidung).",
+        "path": [
+            "01",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03_a",
+                "name": "3.2.1.3 Deutsche Au\u00dfenpolitik",
+                "path": [
+                    "01",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03_01",
+                        "content": "Grundlagen der deutschen Sicherheitspolitik beschreiben (Pr\u00e4ambel, Art. 24, 26 GG, Parlamentsarmee)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03_02",
+                        "content": "die Mitwirkung Deutschlands in NATO und UNO beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03_03",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit die deutsche Au\u00dfenpolitik dem Zivilmachtskonzept entspricht (Einhegung milit\u00e4rischer Gewalt, Umsetzung international akzeptierter Normen, Entwicklung internationaler Institutionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03_04",
+                        "content": "Anti-Terror-Gesetze im Spannungsfeld von Freiheit und Sicherheit bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_07",
+                    "BNE_03",
+                    "BNE_07",
+                    "BNE_07",
+                    "BNE_03",
+                    "BTV_08",
+                    "BTV_05",
+                    "BNE_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02",
+        "name": "3.1.3.2 Politik in der Gemeinde",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.2 Politik in der Gemeinde\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, welche M\u00f6glichkeiten B\u00fcrger und Jugendliche haben, ihre Interessen in den Entscheidungsprozess in der Gemeinde einzubringen, und wie die Macht in der Gemeinde verteilt ist (Macht und Entscheidung), wie die einzelnen Organe innerhalb der Gemeinde zusammenwirken (Ordnung und Struktur), welchen Beitrag Verfahren und Institutionen zur Regelung und zum Schutz des friedlichen Zusammenlebens in der Gemeinde leisten (Interessen und Gemeinwohl) und wie die Gemeinde mit ihren begrenzten finanziellen Mitteln umgeht (Knappheit und Verteilung).",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_a",
+                "name": "3.1.3.2 Politik in der Gemeinde",
+                "path": [
+                    "03",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_01",
+                        "content": "Partizipationsm\u00f6glichkeiten Jugendlicher beschreiben (Beteiligungsverfahren nach der GemO, Einflussnahme auf die \u00f6ffentliche Meinung) und die Akzeptanz dieser M\u00f6glichkeiten unter Jugendlichen mithilfe von Material \u00fcberpr\u00fcfen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_02",
+                        "content": "Partizipationsm\u00f6glichkeiten der B\u00fcrger beschreiben (B\u00fcrgermeister- und Gemeinderatswahl mit Kumulieren und Panaschieren, B\u00fcrgerbegehren und \u2011entscheid, B\u00fcrgerinitiative, Einflussnahme auf die \u00f6ffentliche Meinung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_03",
+                        "content": "die Modelle der plebiszit\u00e4ren und der repr\u00e4sentativen Demokratie vergleichen (Formen der Entscheidungsfindung, Bedeutung des Parlaments, Legitimation politischer Entscheidungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_04",
+                        "content": "die Organe einer Gemeinde (Gemeinderat, B\u00fcrgermeister, Verwaltung) hinsichtlich ihres Zusammenwirkens beim Entscheidungsprozess darstellen (Initiative, Entscheidung, Ausf\u00fchrung) und ihre Legitimation beschreiben (Wahl, Ernennung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_02_05",
+                        "content": "an einem vorgegebenen kommunalen Konflikt den Entscheidungsprozess anhand des Politikzyklus analysieren und \u00fcber den Fall hinausgehend M\u00f6glichkeiten der Einflussnahme von B\u00fcrgern bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_06",
+                    "MB_01",
+                    "BNE_05",
+                    "MB_01",
+                    "BNE_05",
+                    "BNE_06",
+                    "BTV_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_01",
+        "name": "3.3.1.1 Gesellschaftsstruktur und gesellschaftlicher Wandel",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.1.1 Gesellschaftsstruktur und gesellschaftlicher Wandel \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie die Gesellschaft Deutschlands aufgebaut ist (Ordnung und Struktur) und wie gesellschaftliche Gleichheit oder Ungleichheit legitimiert werden kann (Interessen und Gemeinwohl).",
+        "path": [
+            "01",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_01_a",
+                "name": "3.3.1.1 Gesellschaftsstruktur und gesellschaftlicher Wandel",
+                "path": [
+                    "01",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_01_01",
+                        "content": "Modelle der sozialen Differenzierung charakterisieren (Schichtmodell, soziale Milieus, Modell von Exklusion und Inklusion)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_01_02",
+                        "content": "die Konzepte von Rawls und Nozick zu sozialer Gerechtigkeit, Gleichheit und Freiheit vergleichen (Gerechtigkeitsgrunds\u00e4tze, Rechte und Verpflichtungen der B\u00fcrger gegen\u00fcber dem Staat, Begr\u00fcndungen des zul\u00e4ssigen Ausma\u00dfes an Ungleichheit, Funktionen des Staates)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_01_03",
+                        "content": "den gesellschaftlichen Wandel mithilfe von Material analysieren (Werte, Familie, Demografie, Digitalisierung)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_05",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_01",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00_06",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03",
+        "name": "3.3.4.3 Wohlstand und Wohlstandsverteilung",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.4.3 Wohlstand und Wohlstandsverteilung \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie der globale Wohlstand verteilt ist (Knappheit und Verteilung), welche rechtlichen Regelungen die internationalen Wirtschaftsbeziehungen bestimmen und wie Regelverletzungen geahndet werden (Regeln und Recht), wer mit welcher Legitimation Entscheidungen treffen kann (Macht und Entscheidung), welche Akteure im Sachbereich Wohlfahrt die internationale Politik beeinflussen (Privatheit und \u00d6ffentlichkeit) und welche Interessen sie vertreten (Interessen und Gemeinwohl).",
+        "path": [
+            "04",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_a",
+                "name": "Welthandelsordnung",
+                "path": [
+                    "04",
+                    "03",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_01",
+                        "content": "die Entwicklung des globalen Wohlstands und die globale Verteilung des Wohlstands mithilfe von Material analysieren (BIP in Kaufkraftparit\u00e4ten, Schattenwirtschaft, ein alternatives Konzept zur Wohlstandsmessung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_02",
+                        "content": "das UN-Zielsystem zur nachhaltigen Entwicklung beschreiben und mithilfe von Material \u00fcberpr\u00fcfen, inwieweit dieses erreicht worden ist"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_03",
+                        "content": "Ursachen der Globalisierung erkl\u00e4ren (politische, sozio-kulturelle, wirtschaftliche, technologische) und die Dimensionen der Globalisierung charakterisieren (politische, gesellschaftliche, wirtschaftliche, \u00f6kologische)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_04",
+                        "content": "die Konzepte des Freihandels und des Protektionismus vergleichen (zum Beispiel theoretische Annahmen, Zugang zu M\u00e4rkten, politische Ma\u00dfnahmen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_05",
+                        "content": "Ziele (Pr\u00e4ambel) und Grunds\u00e4tze der WTO (Meistbeg\u00fcnstigung, Reziprozit\u00e4t, Inl\u00e4nderbehandlung, Allgemeine Ausnahmebestimmungen) beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_06",
+                        "content": "gesundheits\u2011, umwelt- und entwicklungspolitische sowie arbeitsrechtliche Regelungen im WTO-Vertragswerk erl\u00e4utern und ihren jeweiligen Stellenwert charakterisieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_07",
+                        "content": "das Entscheidungsverfahren in der WTO charakterisieren (Einstimmigkeit, Zweidrittel- und Dreiviertelmehrheit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_08",
+                        "content": "den Streitbeilegungsmechanismus der WTO charakterisieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_09",
+                        "content": "die Ausgestaltung der Welthandelsordnung durch die WTO bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_10",
+                        "content": "den Einfluss von NGOs auf die Gestaltung des Welthandels bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_01",
+                    "BNE_01",
+                    "BNE_07",
+                    "BNE_05",
+                    "BNE_01",
+                    "BO_01",
+                    "BTV_06",
+                    "BTV_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01",
+        "name": "3.1.1.1 Familie und Gesellschaft",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.1.1 Familie und Gesellschaft \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, welche Formen des Zusammenlebens der Staat besonders f\u00f6rdert (Privatheit und \u00d6ffentlichkeit), welche M\u00f6glichkeiten es gibt, Benachteiligungen zwischen den Geschlechtern zu \u00fcberwinden (Interessen und Gemeinwohl) und welche rechtlichen Bestimmungen dieses Ziel verfolgen (Regeln und Recht) und wie die zunehmende Pluralisierung von Lebensentw\u00fcrfen die Gesellschaft pr\u00e4gt (Ordnung und Struktur).",
+        "path": [
+            "01",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_a",
+                "name": "3.1.1.1 Familie und Gesellschaft",
+                "path": [
+                    "01",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_01",
+                        "content": "unterschiedliche Lebensformen beziehungsweise Formen des Zusammenlebens charakterisieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_02",
+                        "content": "Aufgaben der Familie erl\u00e4utern (Erziehung, wirtschaftliche Funktion, Befriedigung emotionaler Bed\u00fcrfnisse)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_03",
+                        "content": "Aufgabenverteilungen in Familien bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_04",
+                        "content": "die besondere Stellung der Familie beschreiben (Art. 6 GG) sowie Ma\u00dfnahmen des Staates zur F\u00f6rderung der Familie erl\u00e4utern (Transferzahlungen, Kinderbetreuung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_01_05",
+                        "content": "Ma\u00dfnahmen zur \u00dcberwindung spezifischer Benachteiligungen aufgrund unterschiedlicher Gender-Rollen er\u00f6rtern"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_01",
+                    "BTV_04",
+                    "VB_03",
+                    "VB_04",
+                    "BO_04",
+                    "BTV_02",
+                    "BO_04",
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_05",
+                    "BP2016BW_ALLG_GYM_REV_IK_7-8_01_00_01",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_01_03",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_02_01_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_01",
+        "name": "3.2.2.1 Grundlage des politischen Systems",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2.1 Grundlagen des politischen Systems\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, welche unterschiedlichen Formen politischer Systeme es gibt (Ordnung und Struktur), wie in den unterschiedlichen Systemen politische Entscheidungen getroffen werden (Macht und Entscheidung) und wie politische Herrschaft legitimiert wird (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_01_a",
+                "name": "3.2.2.1 Grundlage des politischen Systems",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_01_01",
+                        "content": "demokratische, autorit\u00e4re und totalit\u00e4re Typen politischer Systeme vergleichen (zum Beispiel Herrschaftslegitimation, Herrschaftszugang, Herrschaftsanspruch, Herrschaftsmonopol, Herrschaftsstruktur und Herrschaftsweise)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_01_02",
+                        "content": "Staatsstrukturprinzipien nach Art. 20, 23, 24 GG erl\u00e4utern (Demokratie, Rechtsstaat, Bundesstaat, Republik, Sozialstaat, offene Staatlichkeit)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_03_00_01",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_04_00_01",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_03",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_06_00_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_00_00",
+        "name": "3.2.0 Hinweise zum Basisfach",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "",
+        "path": [
+            "00",
+            "00"
+        ],
+        "competences": [],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03",
+        "name": "3.3.3.3 Aufgaben nationaler und europ\u00e4ischer Wirtschaftspolitik",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.3.3 Aufgaben nationaler und europ\u00e4ischer Wirtschaftspolitik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, inwieweit der Staat auf nationaler oder europ\u00e4ischer Ebene in den Bereichen der Besch\u00e4ftigungs- und Fiskalpolitik in das wirtschaftliche Geschehen eingreifen soll (Privatheit und \u00d6ffentlichkeit), wie er die Prozesse in diesen Bereichen koordinieren soll und welchen Rahmen die Geldpolitik f\u00fcr wirtschaftliches Handeln bildet (Macht und Entscheidung).",
+        "path": [
+            "03",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_a",
+                "name": "Besch\u00e4ftigungspolitik",
+                "path": [
+                    "03",
+                    "03",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_01",
+                        "content": "die Entwicklung des Arbeitsmarkts mithilfe von Material analysieren (Arbeitslosenquote, Arbeitsvolumen, Sockelarbeitslosigkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_02",
+                        "content": "strukturelle und konjunkturelle Arbeitslosigkeit erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_03",
+                        "content": "individuelle, gesellschaftliche und volkswirtschaftliche Folgen von Arbeitslosigkeit erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_04",
+                        "content": "das Prinzip der Tarifautonomie erl\u00e4utern (Art. 9 GG, Tarifpartner, Tarifverhandlungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_05",
+                        "content": "Entwicklungen auf dem Arbeitsmarkt in Deutschland (Reall\u00f6hne und Niedriglohnsektor) sowie die Entwicklung der Lohnst\u00fcckkosten im europ\u00e4ischen Vergleich mithilfe von Material analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_06",
+                        "content": "die Konzepte der Angebots- und der Nachfrageorientierung zur Bek\u00e4mpfung von Arbeitslosigkeit vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_07",
+                        "content": "Ma\u00dfnahmen zur Regulierung des Arbeitsmarkts bewerten (zum Beispiel K\u00fcndigungsschutz, Mindestlohn, Kurzarbeitergeld)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_08",
+                        "content": "politische, gesellschaftliche und wirtschaftliche Folgen des globalisierten Arbeitsmarkts f\u00fcr Deutschland erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_09",
+                        "content": "Ma\u00dfnahmen der Besch\u00e4ftigungspolitik auf nationaler oder europ\u00e4ischer Ebene bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BTV_05",
+                    "BTV_06",
+                    "BO_01",
+                    "BO_01",
+                    "BO_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            },
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_a",
+                "name": "Geldpolitik",
+                "path": [
+                    "03",
+                    "03",
+                    "b"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_10",
+                        "content": "reale (Angebots- und Nachfrageinflation) und monet\u00e4re Ursachen (Geldbasis, Geldmultiplikator, Geldmenge) von Inflation erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_11",
+                        "content": "das Prinzip der Unabh\u00e4ngigkeit der EZB, ihre Ziele, ihre Instrumente (Liquidit\u00e4ts\u2011, Zinspolitik) und ihre Legitimation beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_12",
+                        "content": "die Konzepte der restriktiven und der expansiven Geldpolitik vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_13",
+                        "content": "die Geldpolitik der EZB bewerten"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            },
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_a",
+                "name": "Fiskalpolitik",
+                "path": [
+                    "03",
+                    "03",
+                    "c"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_14",
+                        "content": "Funktionen des Staatshaushalts erl\u00e4utern (gesamtwirtschaftliche Funktion, verteilungs- und sozialpolitische Funktion, Verwirklichung politischer Ziele, Bedarfsdeckung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_15",
+                        "content": "die Konzepte der kontraktiven und der expansiven Fiskalpolitik vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_16",
+                        "content": "Ma\u00dfnahmen der Fiskalpolitik auf nationaler oder europ\u00e4ischer Ebene bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_17",
+                        "content": "m\u00f6gliche Wechselwirkungen zwischen den unterschiedlichen Politikfeldern Fiskal\u2011, Wachstums\u2011, Besch\u00e4ftigungs- und Geldpolitik darstellen"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_05"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_01",
+        "name": "3.2.4.1 Grundlagen der Wirtschaftspolitik",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.4.1 Grundlagen der Wirtschaftspolitik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, wie die Wirtschaftsordnung in Deutschland ausgestaltet ist (Ordnung und Struktur), welche Ziele staatliche Wirtschaftspolitik in Deutschland verfolgt (Interessen und Gemeinwohl) und inwieweit der Staat in das wirtschaftliche Geschehen eingreifen soll (Privatheit und \u00d6ffentlichkeit).",
+        "path": [
+            "04",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_01_a",
+                "name": "3.2.4.1 Grundlagen der Wirtschaftspolitik",
+                "path": [
+                    "04",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_01_01",
+                        "content": "die Konzepte des Ordoliberalismus, Neoliberalismus, Keynesianismus vergleichen (Stellenwert des Individuums, Effizienz sowie Stabilit\u00e4t und Instabilit\u00e4t von M\u00e4rkten, Verh\u00e4ltnis von Markt und Staat)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_01_02",
+                        "content": "Formen des Marktversagens (zum Beispiel fehlende Bereitstellung \u00f6ffentlicher G\u00fcter, Fehlallokation durch externe Effekte, Gef\u00e4hrdung des Wettbewerbs, Informationsasymmetrien) und die Forderung nach wirtschaftspolitischem Handlungsbedarf erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_01_03",
+                        "content": "die Ziele der deutschen Wirtschaftspolitik erl\u00e4utern (Magisches Viereck und seine Erweiterung zum Sechseck)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01",
+                    "BNE_04",
+                    "BNE_01",
+                    "BNE_04",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03",
+        "name": "3.1.1.3 Aufgaben und Probleme des Sozialstaats",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.1.3 Aufgaben und Probleme des Sozialstaats\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, wie das Sozialstaatsgebot des Grundgesetzes formuliert ist (Regeln und Recht), welche unterschiedlichen Vorstellungen es zur Umsetzung des Sozialstaatsgebots gibt (Interessen und Gemeinwohl) und wie der Sozialstaat ausgestaltet ist (Ordnung und Struktur).",
+        "path": [
+            "01",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_a",
+                "name": "3.1.1.3 Aufgaben und Probleme des Sozialstaats",
+                "path": [
+                    "01",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_01",
+                        "content": "das Sozialstaatsgebot des Grundgesetzes beschreiben (Art. 1, 20 GG)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_02",
+                        "content": "Aufgaben des Sozialstaats erl\u00e4utern (soziale Sicherung, sozialer Ausgleich)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_03",
+                        "content": "Gestaltungsprinzipien der sozialen Sicherung charakterisieren (Solidar\u2011, \u00c4quivalenz- und Subsidiarit\u00e4tsprinzip)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_04",
+                        "content": "die Renten- und Krankenversicherung als Beispiele f\u00fcr die gesetzlichen Sozialversicherungen vergleichen (Zielsetzung, Anspruchsberechtigte, Finanzierung, Gestaltungsprinzipen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_05",
+                        "content": "unterschiedliche Formen von Gerechtigkeit charakterisieren (Leistungs\u2011, Bedarfs\u2011, Chancengerechtigkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_06",
+                        "content": "die Konzepte der absoluten und der relativen Armut vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                        "content": "Einflussfaktoren auf das Armutsrisiko mithilfe von Material analysieren (Familienstruktur, berufliche Qualifikation, Besch\u00e4ftigungsverh\u00e4ltnis, Migrationshintergrund) sowie politische, gesellschaftliche und wirtschaftliche Folgen von Armut erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_08",
+                        "content": "das F\u00fcrsorgeprinzip am Beispiel der Grundsicherung beschreiben (Zielsetzung, Anspruchsberechtigte, Finanzierung, Gestaltungsprinzip) und die Ausgestaltung der Grundsicherung bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_03",
+                    "BTV_03",
+                    "BTV_02",
+                    "BO_01",
+                    "BNE_03",
+                    "BTV_02",
+                    "BNE_01",
+                    "BO_01",
+                    "BO_04",
+                    "BTV_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_06",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_03_00_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_01",
+                    "BP2016BW_ALLG_GYM_RRK_IK_9-10_02_00_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_02",
+                    "BP2016BW_ALLG_GYM_REV_IK_7-8_02_00_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_01_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_07",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_01_00_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_03_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_03_03_14",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_01_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03",
+        "name": "3.1.3.3 Politischer Willensbildungsprozess in Deutschland",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.3 Politischer Willensbildungsprozess in Deutschland\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, welche M\u00f6glichkeiten B\u00fcrger haben, ihre Interessen in den politischen Entscheidungsprozess einzubringen (Macht und Entscheidung), und wie das Grundgesetz die Teilhabe regelt (Regeln und Recht), welchen Beitrag die Beteiligungsverfahren zum demokratischen und gewaltfreien L\u00f6sen von Interessenkonflikten leisten, wie die Demokratie gesichert und gesch\u00fctzt werden kann (Interessen und Gemeinwohl) und welche Bedeutung Medien f\u00fcr eine demokratische Gesellschaft haben (Privatheit und \u00d6ffentlichkeit).",
+        "path": [
+            "03",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_a",
+                "name": "3.1.3.3 Politischer Willensbildungsprozess in Deutschland",
+                "path": [
+                    "03",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_01",
+                        "content": "Partizipationsm\u00f6glichkeiten beschreiben (Art. 5, 8, 9, 20, 21, 38 GG)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_02",
+                        "content": "Auswirkungen digitaler Medien auf die politische Willensbildung erl\u00e4utern (zum Beispiel Blogs, soziale Netzwerke)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_03",
+                        "content": "Parteien, Verb\u00e4nde und B\u00fcrgerinitiativen vergleichen (verfassungsrechtliche Stellung, innerer Aufbau, Zielsetzung, Dauer des politischen Engagements, vertretenes Interessenspektrum)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_04",
+                        "content": "das Wahlsystem zum Bundestag erkl\u00e4ren (personalisierte Verh\u00e4ltniswahl mit Erst- und Zweitstimme, Wahlkreis, Direktmandat, Sperrklausel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_05",
+                        "content": "Aufgaben der Parteien erl\u00e4utern (Beteiligung an Wahlen, Besetzung politischer \u00c4mter, B\u00fcndelung gesellschaftlicher Interessen, Einflussnahme auf die \u00f6ffentliche Meinung, Einflussnahme auf die politische Entwicklung in Parlament und Regierung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_06",
+                        "content": "in einem Politikfeld die von Parteien vertretenen Positionen mithilfe von Material vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_07",
+                        "content": "die Aufgaben der Medien in einer demokratischen Gesellschaft erl\u00e4utern (Information, Agenda-Setting, Herstellung von \u00d6ffentlichkeit, Erm\u00f6glichung der Teilhabe am \u00f6ffentlichen Diskurs, Kritik und Kontrolle)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_08",
+                        "content": "die Bedeutung der Pressefreiheit f\u00fcr die Demokratie erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_09",
+                        "content": "Kennzeichen von politischem Extremismus erl\u00e4utern (Ablehnung der freiheitlichen demokratischen Grundordnung, Freund-Feind-Stereotypen, ideologischer Dogmatismus, Missionsbewusstsein)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_10",
+                        "content": "die Bedeutung von Zivilcourage und zivilgesellschaftlichem Engagement f\u00fcr den Erhalt der demokratischen Gesellschaft erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_11",
+                        "content": "M\u00f6glichkeiten der B\u00fcrger, ihre Interessen in den politischen Entscheidungsprozess einzubringen, bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_06",
+                    "BNE_05",
+                    "BNE_06",
+                    "MB_01",
+                    "BNE_05",
+                    "BNE_06",
+                    "BNE_05",
+                    "BNE_05",
+                    "MB_03",
+                    "MB_01",
+                    "BNE_05",
+                    "MB_01",
+                    "BTV_05",
+                    "BNE_06",
+                    "BNE_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_9-10_02_00_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_06",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_02_02_05",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_03_00_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_01",
+                    "BP2016BW_ALLG_GYM_G_IK_9-10_02_00_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_08",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_01_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_06",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_01_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01",
+        "name": "3.1.2.1 Rechtliche Stellung des Jugendlichen und Rechtsordnung",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.2.1 Rechtliche Stellung des Jugendlichen und Rechtsordnung \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, wie der Staat Jugendliche in der \u00d6ffentlichkeit sch\u00fctzt (Privatheit und \u00d6ffentlichkeit), welche Grunds\u00e4tze ein Rechtsstaat erf\u00fcllen muss, weshalb jugendliche Straft\u00e4ter anders bestraft werden als Erwachsene (Regeln und Recht) und wie rechtliche Regelungen und Konfliktl\u00f6sungsmuster das friedliche Zusammenleben in Deutschland sch\u00fctzen (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_a",
+                "name": "3.1.2.1 Rechtliche Stellung des Jugendlichen und Rechtsordnung",
+                "path": [
+                    "02",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_01",
+                        "content": "die besondere Rechtsstellung von Kindern und Jugendlichen erkl\u00e4ren (Deliktf\u00e4higkeit, Strafm\u00fcndigkeit, Jugendschutz nach dem JuSchG)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_02",
+                        "content": "Formen von Jugendkriminalit\u00e4t beschreiben und ihre Ursachen anhand der Sozialisations- und der Entwicklungstheorie erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_03",
+                        "content": "Zwecke von Strafen erkl\u00e4ren (Vergeltung, Spezial- und Generalpr\u00e4vention, T\u00e4ter-Opfer-Ausgleich) und an vorgegebenen Fallbeispielen jugendstrafrechtliche Sanktionen bewerten (Erziehungsma\u00dfregeln, Zuchtmittel, Jugendstrafe)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_04",
+                        "content": "Prinzipien des Rechtsstaats charakterisieren (Garantie der Grundrechte, Gewaltenteilung, Gleichbehandlung vor dem Gesetz, Gesetzesvorbehalt, Verh\u00e4ltnism\u00e4\u00dfigkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_05",
+                        "content": "\u00d6ffentliches Recht und Privatrecht vergleichen (Rechtsbeziehungen, Rechtsquellen, Ablauf der Gerichtsverfahren)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_06",
+                        "content": "Straf- und Zivilprozess vergleichen (Zweck des Verfahrens, Prozessinitiative, Prozessparteien, Beweiserhebung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_02_01_07",
+                        "content": "die Bedeutung des Rechts f\u00fcr eine Gesellschaft erl\u00e4utern (Herstellung von Gerechtigkeit, Friedens\u2011, Ordnungs\u2011, Schutz- und Gestaltungsfunktion)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_06",
+                    "MB_01",
+                    "PG_07",
+                    "BTV_06",
+                    "PG_07",
+                    "BTV_06",
+                    "BTV_06",
+                    "BTV_07",
+                    "VB_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_01_00_02",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_01_00_05",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_02_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_01_06",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_04",
+        "name": "3.2.1.4 Globales Regieren",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.4 Globales Regieren\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, welche unterschiedlichen Formen des Regierens die internationalen Beziehungen bestimmen (Macht und Entscheidung) und welche Bedeutung die UNO f\u00fcr die internationale Politik hat (Interessen und Gemeinwohl).",
+        "path": [
+            "01",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_04_a",
+                "name": "3.2.1.4 Globales Regieren",
+                "path": [
+                    "01",
+                    "04"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_04_01",
+                        "content": "unterschiedliche Formen des Regierens in den internationalen Beziehungen erl\u00e4utern (durch Staaten, mit Staaten, ohne Staaten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_04_02",
+                        "content": "die UNO als Akteur in den internationalen Beziehungen bewerten (Konfliktl\u00f6sung, Befriedung der internationalen Beziehungen, Schutz der Menschenrechte, F\u00f6rderung nachhaltiger Entwicklung)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_08",
+                    "BNE_07",
+                    "BTV_06",
+                    "BTV_07"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_06_00_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01",
+        "name": "3.1.3.1 Mitwirkung in der Schule",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.1 Mitwirkung in der Schule\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, welche M\u00f6glichkeiten sie haben, ihre Interessen in den schulischen Entscheidungsprozess einzubringen, wie in der Schule Entscheidungen getroffen werden (Macht und Entscheidung), welche rechtlichen Bestimmungen das Zusammenleben in der Schule regeln (Regeln und Recht), wie die einzelnen Institutionen in der Schule zusammenwirken (Ordnung und Struktur) und welchen Beitrag Verfahren zum L\u00f6sen von Interessenkonflikten in der Schule leisten (Interessen und Gemeinwohl).",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01_a",
+                "name": "3.1.3.1 Mitwirkung in der Schule",
+                "path": [
+                    "03",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01_01",
+                        "content": "Kennzeichen demokratischer Wahlen anhand der Wahlgrunds\u00e4tze beschreiben (frei, gleich, geheim, allgemein, unmittelbar)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01_02",
+                        "content": "an einem vorgegebenen Fallbeispiel die Einhaltung der Vorgaben einer Klassensprecherwahl mithilfe von Ausz\u00fcgen aus dem Schulgesetz und der SMV-Verordnung \u00fcberpr\u00fcfen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01_03",
+                        "content": "Konfliktursachen erl\u00e4utern und M\u00f6glichkeiten der Konfliktbew\u00e4ltigung bewerten (Klassenrat, Streitschlichter)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01_04",
+                        "content": "Mitwirkungsrechte der Sch\u00fclerinnen und Sch\u00fcler beschreiben (Wahl der Sch\u00fclervertreter und Verbindungslehrer, Mitgliedschaft in der Schulkonferenz, Evaluation, Anh\u00f6rungs\u2011, Vorschlags\u2011, Beschwerde- und Informationsrecht)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01_05",
+                        "content": "Aufgaben der Sch\u00fclervertreter erl\u00e4utern (Interessenvertretung, Mitgestaltung des Schullebens)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_01_06",
+                        "content": "an einem vorgegebenen Fallbeispiel den Entscheidungsprozess in der Schule analysieren (Schulkonferenz, Gesamtlehrerkonferenz) und \u00fcber den Fall hinausgehend die Mitwirkungsrechte der Sch\u00fclerinnen und Sch\u00fcler bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_05",
+                    "BTV_06",
+                    "PG_07",
+                    "BNE_06",
+                    "BNE_05",
+                    "BTV_06",
+                    "BNE_05",
+                    "BNE_06",
+                    "BTV_06",
+                    "BNE_05"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04",
+        "name": "3.3.2.4 Kontrolle politischer Herrschaft",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.2.4 Kontrolle politischer Herrschaft\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, wie staatliche Macht in Deutschland und in der EU kontrolliert und begrenzt wird und welche Bedeutung Medien f\u00fcr eine demokratische Gesellschaft haben (Macht und Entscheidung).",
+        "path": [
+            "02",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_a",
+                "name": "3.3.2.4 Kontrolle politischer Herrschaft",
+                "path": [
+                    "02",
+                    "04"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_01",
+                        "content": "parlamentarische Kontrollrechte beschreiben (Plenarsitzung, konstruktives Misstrauensvotum, Budgetrecht, Fragerechte des Bundestags, Aktuelle Stunde, Untersuchungsaussch\u00fcsse)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_02",
+                        "content": "Formen von Gewaltenverschr\u00e4nkung in der parlamentarischen Demokratie Deutschlands erkl\u00e4ren (Opposition im Deutschen Bundestag als Kontrollinstanz, personelle und programmatische Verschmelzung von Regierungsfraktionen im Deutschen Bundestag mit der Regierung, informeller Einfluss der Regierungsfraktionen auf die Regierungsarbeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_03",
+                        "content": "mithilfe von Material \u00fcberpr\u00fcfen, inwieweit Mehrheits- und Minderheitsfraktionen ihre Kontrollfunktion wahrnehmen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_04",
+                        "content": "die Kontrollm\u00f6glichkeiten auf EU-Ebene durch das Europ\u00e4ische Parlament beschreiben (Fragerechte, Wahl des Kommissionspr\u00e4sidenten und Best\u00e4tigung der Kommission, Misstrauensvotum gegen die Kommission, Untersuchungsaussch\u00fcsse, Budgetrecht)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_05",
+                        "content": "Kontrollm\u00f6glichkeiten des Europ\u00e4ischen Parlaments mit denen des Deutschen Bundestags vergleichen (Einfluss auf die Exekutive, Rolle in der Gesetzgebung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_06",
+                        "content": "die Aufgaben des EuGH beschreiben (zum Beispiel Nichtigkeitsklagen, Vertragsverletzungsverfahren, Unt\u00e4tigkeitsklagen, Vorabentscheidungen) und an einem vorgegebenen Fallbeispiel die Kontrollfunktion des EuGH bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_07",
+                        "content": "er\u00f6rtern, ob Medien ihre Kontrollfunktion wahrnehmen (zum Beispiel Wirklichkeitsverzerrung durch Medien, Journalisten als politische Akteure, Journalismus unter wirtschaftlichen Zw\u00e4ngen, investigativer Journalismus)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06",
+                    "MB_03",
+                    "MB_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_03",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_03_00_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_01",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03_17",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03_18",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_01",
+        "name": "3.2.3.1 Gesellschaftsstruktur und gesellschaftlicher Wandel",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.1 Gesellschaftsstruktur und gesellschaftlicher Wandel\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage geben, wie die Gesellschaft Deutschlands aufgebaut ist (Ordnung und Struktur) und wie gesellschaftliche Gleichheit oder Ungleichheit legitimiert werden kann (Interessen und Gemeinwohl).",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_01_a",
+                "name": "3.2.3.1 Gesellschaftsstruktur und gesellschaftlicher Wandel",
+                "path": [
+                    "03",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_01_01",
+                        "content": "ein Modell der sozialen Differenzierung charakterisieren (z.B. Schichtmodell, soziale Milieus, Modell von Exklusion und Inklusion)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_03_01_02",
+                        "content": "die Konzepte von Rawls und Nozick zu sozialer Gerechtigkeit, Gleichheit und Freiheit vergleichen (Gerechtigkeitsgrunds\u00e4tze, Rechte und Verpflichtungen der B\u00fcrger gegen\u00fcber dem Staat, Begr\u00fcndungen des zul\u00e4ssigen Ausma\u00dfes an Ungleichheit, Funktionen des Staates)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_05"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01",
+        "name": "3.1.4.1 Frieden und Menschenrechte",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.4.1 Frieden und Menschenrechte\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, wie die Menschenrechte international gesch\u00fctzt werden k\u00f6nnen und wie Frieden bewahrt, geschaffen und gesichert werden kann (Interessen und Gemeinwohl), welche Regeln die internationale Politik bestimmen und wo sie verankert sind (Regeln und Recht) und wie die UNO Entscheidungen trifft (Macht und Entscheidung).",
+        "path": [
+            "04",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_a",
+                "name": "3.1.4.1 Frieden und Menschenrechte",
+                "path": [
+                    "04",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_01",
+                        "content": "einen vorgegebenen kriegerischen Konflikt analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_02",
+                        "content": "die Konzepte des negativen und des positiven Friedens vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_03",
+                        "content": "Hauptziele (Wahrung von Weltfrieden und internationaler Sicherheit, Durchsetzung der Menschenrechte) und Grunds\u00e4tze der UNO (staatliche Souver\u00e4nit\u00e4t, allgemeines Gewaltverbot, verbindliche Beschl\u00fcsse des Sicherheitsrats, Recht zur individuellen und kollektiven Selbstverteidigung) beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_04",
+                        "content": "die Organe der UNO (Generalversammlung, Sicherheitsrat, Generalsekret\u00e4r) hinsichtlich ihrer Legitimation beschreiben und die Aufgaben dieser Organe beschreiben (Artikulation, Wahl des Generalsekret\u00e4rs und der nichtst\u00e4ndigen Mitglieder, verbindliche und nicht verbindliche Beschl\u00fcsse, Repr\u00e4sentation)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_05",
+                        "content": "Zusammensetzung (st\u00e4ndige und nichtst\u00e4ndige Mitglieder) und Entscheidungsfindung des Sicherheitsrats beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_06",
+                        "content": "Ma\u00dfnahmen der UNO zur Konfliktbeilegung nach Kapitel VI und VII der UN-Charta erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_07",
+                        "content": "an einem vorgegebenen Konflikt Ma\u00dfnahmen der UNO zur Bewahrung, Schaffung und Sicherung des Friedens bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_08",
+                        "content": "an vorgegebenen Fallbeispielen die Einhaltung von Menschenrechten mithilfe von Ausz\u00fcgen aus der Allgemeinen Erkl\u00e4rung der Menschenrechte \u00fcberpr\u00fcfen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_01_09",
+                        "content": "M\u00f6glichkeiten zum Schutz der Menschenrechte durch internationale Organisationen (UN-Sicherheitsrat, UN-Menschenrechtsrat) und NGOs erl\u00e4utern"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_07",
+                    "BTV_06",
+                    "BNE_07",
+                    "BNE_07",
+                    "BTV_06",
+                    "BNE_07",
+                    "BTV_06",
+                    "BNE_07",
+                    "BTV_06",
+                    "BNE_07",
+                    "BTV_06",
+                    "BTV_07",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_REV_IK_9-10_07_00_02",
+                    "BP2016BW_ALLG_GYM_RRK_IK_9-10_02_00_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_03_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_04_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_03_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_11",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_05_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_04_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_06",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_10",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_02_08",
+                    "BP2016BW_ALLG_GYM_G_IK_7-8_04_00_04",
+                    "BP2016BW_ALLG_GYM_RRK_IK_9-10_07_00_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_04_05_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_04_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03",
+        "name": "3.2.4.3 Aufgaben nationaler Wirtschaftspolitik: Besch\u00e4ftigungspolitik",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.4.3 Aufgaben nationaler Wirtschaftspolitik: Besch\u00e4ftigungspolitik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, inwieweit der Staat auf nationaler Ebene im Bereich der Besch\u00e4ftigungspolitik in das wirtschaftliche Geschehen eingreifen soll (Privatheit und \u00d6ffentlichkeit).",
+        "path": [
+            "04",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_a",
+                "name": "3.2.4.3 Aufgaben nationaler Wirtschaftspolitik: Besch\u00e4ftigungspolitik",
+                "path": [
+                    "04",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_01",
+                        "content": "die Entwicklung des Arbeitsmarkts mithilfe von Material analysieren (Arbeitslosenquote, Arbeitsvolumen, Sockelarbeitslosigkeit)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_02",
+                        "content": "strukturelle und konjunkturelle Arbeitslosigkeit erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_03",
+                        "content": "individuelle, gesellschaftliche und volkswirtschaftliche Folgen von Arbeitslosigkeit erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_04",
+                        "content": "Entwicklungen auf dem Arbeitsmarkt in Deutschland (Reall\u00f6hne und Niedriglohnsektor) mithilfe von Material analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_05",
+                        "content": "die Konzepte der Angebots- und der Nachfrageorientierung zur Bek\u00e4mpfung von Arbeitslosigkeit vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_06",
+                        "content": "Ma\u00dfnahmen zur Regulierung des Arbeitsmarkts bewerten (zum Beispiel K\u00fcndigungsschutz, Mindestlohn, Kurzarbeitergeld)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_07",
+                        "content": "politische, gesellschaftliche und wirtschaftliche Folgen des globalisierten Arbeitsmarkts f\u00fcr Deutschland erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_04_03_08",
+                        "content": "Ma\u00dfnahmen der Besch\u00e4ftigungspolitik auf nationaler Ebene bewerten"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BTV_05",
+                    "BO_01",
+                    "BO_01",
+                    "BO_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_04",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_01_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02",
+        "name": "3.1.4.2 Die Europ\u00e4ische Union",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.4.2 Die Europ\u00e4ische Union \n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, welche M\u00f6glichkeiten die B\u00fcrger haben, ihre Interessen in den politischen Entscheidungsprozess in der EU einzubringen, und wie die Macht zwischen den Organen der EU verteilt ist (Macht und Entscheidung), wie die einzelnen Institutionen innerhalb der EU zusammenwirken (Ordnung und Struktur), wie sich Entscheidungen der EU auf das Leben der B\u00fcrger auswirken und ob die EU erweitert werden soll (Interessen und Gemeinwohl).",
+        "path": [
+            "04",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_a",
+                "name": "3.1.4.2 Die Europ\u00e4ische Union",
+                "path": [
+                    "04",
+                    "02"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_01",
+                        "content": "erl\u00e4utern, wie Entscheidungen der EU das t\u00e4gliche Leben der EU-B\u00fcrger beeinflussen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_02",
+                        "content": "Partizipationsm\u00f6glichkeiten der EU-B\u00fcrger beschreiben (Wahlen, Europ\u00e4ische B\u00fcrgerinitiative, Petitionen, Europ\u00e4ischer B\u00fcrgerbeauftragter)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                        "content": "die Organe der EU (Europ\u00e4ischer Rat, Europ\u00e4ische Kommission, Europ\u00e4isches Parlament, Ministerrat, EuGH) hinsichtlich ihres Zusammenwirkens beim Entscheidungsprozess darstellen (Initiative, Entscheidung, Ausf\u00fchrung, Kontrolle) und hinsichtlich ihrer Legitimation (Wahl, Ernennung, von Amts wegen) beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_04",
+                        "content": "die Organe der EU mit den Verfassungsorganen Deutschlands im Hinblick auf ihre Legitimation vergleichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_05",
+                        "content": "an einem vorgegebenem Fallbeispiel eine l\u00e4nder\u00fcbergreifende Herausforderung innerhalb der EU anhand des Politikzyklus analysieren und L\u00f6sungsm\u00f6glichkeiten er\u00f6rtern (zum Beispiel Umwelt\u2011, Verbraucher\u2011, Energiepolitik, Digitalisierung, Migration, Verschuldung, demografischer Wandel, Friedenssicherung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_06",
+                        "content": "die EU-Beitrittskriterien beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_07",
+                        "content": "an einem vorgegebenen Fallbeispiel den m\u00f6glichen Beitritt eines Staates unter Ber\u00fccksichtigung formeller und informeller Gesichtspunkte er\u00f6rtern (geostrategische, wirtschaftliche, kulturelle Interessen)"
+                    }
+                ],
+                "guidelines": [
+                    "BO_04",
+                    "BO_02",
+                    "BNE_04",
+                    "VB_06",
+                    "PG_06",
+                    "BTV_03",
+                    "VB_05",
+                    "BNE_06",
+                    "BNE_05",
+                    "BTV_06",
+                    "VB_07",
+                    "BNE_07",
+                    "MB_07",
+                    "BNE_02",
+                    "VB_05",
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_03_00_09",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_02_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_04",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_03_00_10",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_03_00_10",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_06",
+                    "BP2016BW_ALLG_GYM_G_IK_9-10_02_00_11",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_01",
+        "name": "3.2.1.1 Grundlagen des internationalen Systems",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.1.1 Grundlagen des internationalen Systems\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Frage finden, wie das internationale System aufgebaut ist (Ordnung und Struktur), welche Regeln die internationale Politik bestimmen (Regeln und Recht), wie Entscheidungen in den internationalen Beziehungen getroffen werden (Macht und Entscheidung), welche Akteure die internationale Politik beeinflussen (Privatheit und \u00d6ffentlichkeit) und welche Handlungsmotive das Verhalten der Akteure bestimmen (Interessen und Gemeinwohl).",
+        "path": [
+            "01",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_01_a",
+                "name": "3.2.1.1 Grundlagen des internationalen Systems",
+                "path": [
+                    "01",
+                    "01"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_01_01",
+                        "content": "die Struktur des internationalen Systems beschreiben (Anarchie, Sicherheitsdilemma, Interdependenzen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_01_02",
+                        "content": "Akteure der internationalen Beziehungen beschreiben (Staaten, internationale Organisationen, transnationale Akteure) und ihre Handlungsmotive charakterisieren (Durchsetzung von Eigeninteressen, Einhaltung von Normen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_01_01_03",
+                        "content": "Rahmenbedingungen der Politik im Nationalstaat mit denen der internationalen Politik vergleichen (Gewaltmonopol, Gesetzgebung, Durchsetzung von Entscheidungen)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03",
+        "name": "3.3.2.3 Gesetzgebung und Regieren",
+        "subject": "GK.V2",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.3.2.3 Gesetzgebung und Regieren\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen geben, wie staatliche Macht in Deutschland sowie zwischen Deutschland und der Europ\u00e4ischen Union verteilt ist, wie staatliche Macht in Deutschland kontrolliert wird und welchen Einfluss nicht staatliche Akteure auf Gesetzgebung und Kontrolle haben (Macht und Entscheidung), wie das politische System Deutschlands aufgebaut ist (Ordnung und Struktur) und welchen Beitrag Verfahren und Institutionen zur Regelung und zum Schutz des friedlichen Zusammenlebens in Deutschland leisten (Interessen und Gemeinwohl).",
+        "path": [
+            "02",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_a",
+                "name": "3.3.2.3 Gesetzgebung und Regieren",
+                "path": [
+                    "02",
+                    "03"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_01",
+                        "content": "die Pluralismustheorie Fraenkels charakterisieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_02",
+                        "content": "den Einfluss von Interessenverb\u00e4nden auf Parlament und Regierung er\u00f6rtern (Einfluss auf die \u00f6ffentliche Meinung, personelle und finanzielle Unterst\u00fctzung, Expertise)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_03",
+                        "content": "den Einfluss der Medien auf Gesetzgebung und Regieren erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_04",
+                        "content": "die Bedeutung der Exekutive f\u00fcr die Gesetzgebung erl\u00e4utern (Initiativrecht, Ministerialb\u00fcrokratie)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_05",
+                        "content": "die Mitwirkung des Bundesrats an der Gesetzgebung erl\u00e4utern (einfache und zustimmungspflichtige Gesetze, Vermittlungsausschuss)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_06",
+                        "content": "die Europ\u00e4isierung der Gesetzgebung erl\u00e4utern (zum Beispiel EU-Verordnungen, \u2011Richtlinien, \u2011Beschl\u00fcsse und \u2011Empfehlungen, Entscheidungen des EuGH)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_07",
+                        "content": "die Entscheidungsfindung im f\u00f6deralen System Deutschlands mit der Vielzahl an Mitregenten und Vetospielern bewerten (EU, Interessenverb\u00e4nde, Bundesrat, Bundesverfassungsgericht)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_01",
+                    "MB_01",
+                    "MB_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_03_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_08",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_04_02_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_05_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04",
+        "name": "3.1.3.4 Politischer Entscheidungsprozess in Deutschland",
+        "subject": "GK.V2",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.4 Politischer Entscheidungsprozess in Deutschland\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Antworten auf die Fragen finden, wie die Macht zwischen den Verfassungsorganen in Deutschland verteilt ist (Macht und Entscheidung), wie die einzelnen Institutionen in Deutschland zusammenwirken (Ordnung und Struktur) und welchen Beitrag Verfahren und Institutionen zur Regelung und zum Schutz des friedlichen Zusammenlebens leisten (Interessen und Gemeinwohl).",
+        "path": [
+            "03",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_a",
+                "name": "3.1.3.4 Politischer Entscheidungsprozess in Deutschland",
+                "path": [
+                    "03",
+                    "04"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_01",
+                        "content": "Aufgaben des Bundestags beschreiben (Wahl, Kontrolle, Gesetzgebung, Repr\u00e4sentation, Artikulation)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_02",
+                        "content": "die Arbeitsweise des Bundestags als Rede- und Arbeitsparlament beschreiben (Parlamentsdebatten, Aussch\u00fcsse, Fraktionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_03",
+                        "content": "Formen von Gewaltenverschr\u00e4nkung in der parlamentarischen Demokratie Deutschlands erkl\u00e4ren (Opposition im Deutschen Bundestag als Kontrollinstanz, personelle Verschmelzung von Regierungsfraktionen im Deutschen Bundestag mit der Regierung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_04",
+                        "content": "die Stellung des Abgeordneten im Spannungsverh\u00e4ltnis von freiem Mandat (Art. 38 GG) und Fraktionsdisziplin (Art. 21 GG) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_05",
+                        "content": "Aufgaben der Bundesregierung erl\u00e4utern (politische F\u00fchrung, Gesetzesinitiative, Ausf\u00fchrung von Gesetzen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_06",
+                        "content": "die Richtlinienkompetenz des Bundeskanzlers im Spannungsverh\u00e4ltnis von Verfassungsnorm (Art. 65 GG) und Verfassungsrealit\u00e4t (Parlamentsmehrheit, Koalitionskonstellation, Bundesratsmehrheiten, Interessenverb\u00e4nde) erl\u00e4utern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_07",
+                        "content": "den Gang der Gesetzgebung darstellen (Gesetzesinitiative, Lesung, Beratung in Aussch\u00fcssen, Abstimmung im Bundestag, Beratung und Abstimmung im Bundesrat, Vermittlungsausschuss, Unterzeichnung durch den Bundespr\u00e4sidenten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_08",
+                        "content": "an einem vorgegebenen Fallbeispiel den Entscheidungsprozess (Initiative, Entscheidung, Kontrolle) und dabei das Zusammenwirken von Bundesregierung, \u2011pr\u00e4sident, \u2011tag und \u2011rat bei der Gesetzgebung anhand des Politikzyklus analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_GK.V2_IK_8-9-10_03_04_09",
+                        "content": "Erweiterungen des repr\u00e4sentativen Systems Deutschlands durch plebiszit\u00e4re Elemente er\u00f6rtern"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_04_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_01",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_04_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_04",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_07",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-BF_02_03_02",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_03_05",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_01_03",
+                    "BP2016BW_ALLG_GYM_GK.V2_IK_11-12-LF_02_02_10",
+                    "BP2016BW_ALLG_GYM_GK.V2_PK_02_01"
+                ]
+            }
+        ],
+        "info": []
+    }
+]

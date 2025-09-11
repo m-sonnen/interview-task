@@ -1,0 +1,305 @@
+[
+    [
+        {
+            "name": "analysieren/untersuchen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "formale und inhaltliche Aspekte eines Textganzen oder eines Zusammenhangs unter aspektgeleiteten Fragestellungen herausarbeiten und die jeweiligen Wechselbeziehungen strukturiert und systematisiert darstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "anwenden/verwenden",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "einen bekannten Sachverhalt oder eine bekannte Methode auf eine neue Problemstellung beziehen und zu deren L\u00f6sung und zum Erreichen von Zielen nutzen",
+            "difficulty": "II"
+        },
+        {
+            "name": "auswerten",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Informationen aus vorgegebenen Materialien gewinnen und zielgerichtet verarbeiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "begr\u00fcnden",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Positionen, Auffassungen, Urteile etc. bestimmen, argumentativ herleiten und durch Argumente st\u00fctzen",
+            "difficulty": "II"
+        },
+        {
+            "name": "belegen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Aussagen durch ein explizit ausgewiesenes Zitat oder einen Verweis st\u00fctzen",
+            "difficulty": "II"
+        },
+        {
+            "name": "(be\u2011)nennen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Gegenst\u00e4nden oder Sachverhalten eine geeignete Bezeichnung zuordnen, Begriffe und Sachverhalte aufz\u00e4hlen",
+            "difficulty": "I"
+        },
+        {
+            "name": "ber\u00fccksichtigen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Bekanntes und Neues in das Herstellen von Zusammenh\u00e4ngen einbeziehen",
+            "difficulty": "II"
+        },
+        {
+            "name": "beschreiben",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Personen, Situationen, Vorg\u00e4nge, Sachverhalte oder Zusammenh\u00e4nge strukturiert und ohne Wertung mit eigenen Worten darstellen",
+            "difficulty": "I"
+        },
+        {
+            "name": "bestimmen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Sachverhalte und Inhalte pr\u00e4gnant und kriteriengeleitet feststellen",
+            "difficulty": "I"
+        },
+        {
+            "name": "beurteilen/bewerten",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Textinhalte und Textgestaltungen, Sachverhalte, Aussagen, Ma\u00dfnahmen, L\u00f6sungen etc. reflektieren und pr\u00fcfen und unter Verwendung von Wissen, Methoden und Ma\u00dfst\u00e4ben eine eigene begr\u00fcndete Position vertreten",
+            "difficulty": "III"
+        },
+        {
+            "name": "charakterisieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Sachverhalte, Vorg\u00e4nge, Personen etc. in ihren spezifischen Eigenheiten pointiert darstellen, etwas unter leitenden Gesichtspunkten kennzeichnen und gewichtend hervorheben",
+            "difficulty": "II"
+        },
+        {
+            "name": "darstellen/darlegen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Zusammenh\u00e4nge, Probleme etc. unter einer bestimmten Fragestellung strukturiert sachbezogen und neutral wiedergeben",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "diskutieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "sich argumentativ mit einem Thema, einer Frage, einem Problem auseinandersetzen",
+            "difficulty": "III"
+        },
+        {
+            "name": "einordnen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "einen Sachverhalt oder eine Aussage aspekt- und kriterienorientiert in einen Gesamtzusammenhang stellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "entnehmen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Informationen sach- und kriterienbezogen aus einem Text herausziehen",
+            "difficulty": "I"
+        },
+        {
+            "name": "erkennen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "durch Nachdenken und Untersuchen Voraussetzungen, Zusammenh\u00e4nge, Bedeutungen etc. erfassen und einordnen",
+            "difficulty": "III"
+        },
+        {
+            "name": "erkl\u00e4ren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "einen Sachverhalt in einen Begr\u00fcndungszusammenhang stellen, etwas kausal schlussfolgernd herleiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "erl\u00e4utern",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "einen Sachverhalt veranschaulichen, verdeutlichen, etwas verst\u00e4ndlich machen",
+            "difficulty": "II"
+        },
+        {
+            "name": "er\u00f6rtern",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "sich mit einem Thema kritisch, differenziert und argumentativ befassen, in schlussfolgernder Abw\u00e4gung des F\u00fcr und Wider unter Ber\u00fccksichtigung unterschiedlicher Perspektiven ein begr\u00fcndetes Urteil f\u00e4llen",
+            "difficulty": "III"
+        },
+        {
+            "name": "exzerpieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "einen schriftlichen Auszug aus einem Text erstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "formulieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "ein Ergebnis, einen Standpunkt, einen Eindruck knapp und pr\u00e4zise zum Ausdruck bringen",
+            "difficulty": "I"
+        },
+        {
+            "name": "gestalten",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Ergebnisse eigenst\u00e4ndig-kreativ in Text- und Medienprodukten oder in szenischen Darstellungsformen inhaltlich und sprachlich erarbeiten und formen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "gliedern",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "ein vorgegebenes Ganzes unter bestimmten Aspekten strukturieren und systematisierend, gleichgeordnet und/oder hierarchisiert in seinen Teilen darstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "herausarbeiten",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Strukturen, Leitgedanken, Strategien etc. aus einem Textganzen oder Sachverhalt herausl\u00f6sen und akzentuiert darstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "interpretieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Texten oder Textelementen im Rahmen eines Verstehensprozess Bedeutungen zuweisen, dazu Textform und Textinhalt in ihren Wechselwirkungen unter Verwendung analytischer und gestaltender Verfahren mit dem Ziel eines schl\u00fcssigen Gesamtverst\u00e4ndnisses untersuchen",
+            "difficulty": "III"
+        },
+        {
+            "name": "kl\u00e4ren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Verhaltensweisen, Positionen, Situationen etc. differenziert betrachten, ergr\u00fcnden, verdeutlichen, gegebenenfalls L\u00f6sungen erarbeiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "kommentieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "einen Sachverhalt kritisch erl\u00e4utern und bewerten",
+            "difficulty": "III"
+        },
+        {
+            "name": "nutzen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Informationen aus unterschiedlichen Quellen oder Texten zielgerichtet verwenden",
+            "difficulty": "I"
+        },
+        {
+            "name": "planen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "einen Arbeitsprozess vorausschauend und ergebnisorientiert in einzelne, klar umrissene und funktionale Handlungsschritte zerlegen",
+            "difficulty": "II"
+        },
+        {
+            "name": "pr\u00e4sentieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "vorbereitete Informationen zu einem Thema strukturiert, mediengest\u00fctzt und adressatengerecht vortragen",
+            "difficulty": "II"
+        },
+        {
+            "name": "problematisieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Wertekonflikte und kontroverse Positionen erfassen und benennen",
+            "difficulty": "II"
+        },
+        {
+            "name": "pr\u00fcfen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Aussagen, Behauptungen etc. auf ihre Schl\u00fcssigkeit, G\u00fcltigkeit und Berechtigung hin betrachten und bewerten",
+            "difficulty": "III"
+        },
+        {
+            "name": "reflektieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Sachverhalte, Argumente und Positionen anhand eigener oder vorgegebener Kriterien pr\u00fcfen und abw\u00e4gen",
+            "difficulty": "III"
+        },
+        {
+            "name": "sich auseinandersetzen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "sich mit einem Thema kritisch, differenziert, argumentativ und urteilend befassen",
+            "difficulty": "III"
+        },
+        {
+            "name": "skizzieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "eine Person, eine Handlung oder einen Sachverhalt akzentuiert und auf Wesentliches beschr\u00e4nkt darstellen",
+            "difficulty": "I"
+        },
+        {
+            "name": "Stellung nehmen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "sich zu einer Fragestellung argumentativ und urteilend positionieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "\u00fcberarbeiten",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "ein eigenes oder fremdes Produkt kriteriengeleitet analysieren beziehungsweise diskutieren und mit Qualit\u00e4tsgewinn weiterentwickeln",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "unterscheiden",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Unterschiede, \u00c4hnlichkeiten und Gemeinsamkeiten ermitteln",
+            "difficulty": "II"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Gemeinsames und Unterschiedliches herausarbeiten und gegen\u00fcberstellen, gewichtend ein Ergebnis formulieren",
+            "difficulty": "II"
+        },
+        {
+            "name": "visualisieren",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Inhaltliche Zusammenh\u00e4nge und Gliederungen in Bildern und Strukturen sichtbar machen",
+            "difficulty": "II"
+        },
+        {
+            "name": "wiedergeben",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "wesentliche Informationen oder einen Argumentationsgang strukturiert zusammenfassen",
+            "difficulty": "I"
+        },
+        {
+            "name": "zeigen/aufzeigen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Sachverhalte, Textinhalte oder Textformen sachbezogen, teils deskriptiv, teils analysierend darlegen",
+            "difficulty": "I/II"
+        },
+        {
+            "name": "zusammenfassen",
+            "subject": "D",
+            "school_type": "SEK1",
+            "description": "Inhalte und Zusammenh\u00e4nge von Quellen (Texte, Medien) sachbezogen, strukturiert, komprimiert und auf das Wesentliche ausgerichtet wiedergeben",
+            "difficulty": "I/II"
+        }
+    ]
+]

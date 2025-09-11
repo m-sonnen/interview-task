@@ -1,0 +1,151 @@
+[
+    [
+        {
+            "name": "ableiten",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "auf der Grundlage von Erkenntnissen sachgerechte Schl\u00fcsse ziehen",
+            "difficulty": "II"
+        },
+        {
+            "name": "anwenden",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "einen bekannten Zusammenhang oder eine bekannte Methode auf einen anderen Sachverhalt beziehen",
+            "difficulty": "II"
+        },
+        {
+            "name": "benennen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Fachbegriffe kriteriengeleitet zuordnen",
+            "difficulty": "I"
+        },
+        {
+            "name": "berechnen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "rechnerische Generierung eines Ergebnisses",
+            "difficulty": "II"
+        },
+        {
+            "name": "beschreiben",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Strukturen, Sachverhalte, Prozesse und Eigenschaften von Objekten in der Regel unter Verwendung der Fachsprache wiedergeben",
+            "difficulty": "II"
+        },
+        {
+            "name": "bewerten",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt nach fachwissenschaftlichen oder fachmethodischen Kriterien, pers\u00f6nlichem oder gesellschaftlichem Wertebezug begr\u00fcndet einsch\u00e4tzen",
+            "difficulty": "III"
+        },
+        {
+            "name": "darstellen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Zusammenh\u00e4nge, Methoden und Ergebnisse strukturiert wiedergeben",
+            "difficulty": "II"
+        },
+        {
+            "name": "durchf\u00fchren",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "eine vorgegebene oder eigene Anleitung (zum Beispiel f\u00fcr ein Experiment oder einen Arbeitsauftrag) umsetzen",
+            "difficulty": "I"
+        },
+        {
+            "name": "erkennen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "kognitiver Prozess der Abstraktion, bei dem eine Wahrnehmung einem Begriff oder Konzept zugeordnet wird, dieser Prozess ist nur durch beobachtbare Folgehandlungen operationalisierbar",
+            "difficulty": "I"
+        },
+        {
+            "name": "erkl\u00e4ren",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Strukturen, Prozesse und Zusammenh\u00e4nge eines Sachverhalts erfassen sowie auf allgemeine Aussagen und Gesetze unter Verwendung der Fachsprache zur\u00fcckf\u00fchren",
+            "difficulty": "II"
+        },
+        {
+            "name": "erl\u00e4utern",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Strukturen, Prozesse, Zusammenh\u00e4nge etc. des Sachverhaltes erfassen und auf allgemeine Aussagen/Gesetze zur\u00fcckf\u00fchren und durch zus\u00e4tzliche Informationen oder Beispiele verst\u00e4ndlich machen",
+            "difficulty": "II"
+        },
+        {
+            "name": "ermitteln",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "ein Ergebnis rechnerisch, grafisch oder experimentell bestimmen",
+            "difficulty": "II"
+        },
+        {
+            "name": "erstellen (Diagramme)",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Zusammenh\u00e4nge zwischen Gr\u00f6\u00dfen in einem Koordinatensystem darstellen",
+            "difficulty": "I"
+        },
+        {
+            "name": "experimentell aufzeichnen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Daten mit geeigneten Messger\u00e4ten (gegebenenfalls auch mit digitalen Messwerterfassungssystemen) erfassen und strukturieren",
+            "difficulty": "I"
+        },
+        {
+            "name": "interpretieren",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Zusammenh\u00e4nge in Hinblick auf Erkl\u00e4rungsm\u00f6glichkeiten untersuchen und abw\u00e4gend herausstellen",
+            "difficulty": "III"
+        },
+        {
+            "name": "klassifizieren, ordnen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Begriffe, Gegenst\u00e4nde etc. auf der Grundlage bestimmter Merkmale systematisch einteilen",
+            "difficulty": "II"
+        },
+        {
+            "name": "l\u00f6sen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Gleichungen (insbesondere Differentialgleichungen) zielorientiert mathematisch umformen",
+            "difficulty": "II"
+        },
+        {
+            "name": "messen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "experimentelle Daten unter Ber\u00fccksichtigung der Messvorschriften bestimmen",
+            "difficulty": "II"
+        },
+        {
+            "name": "nennen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Elemente, Sachverhalte, Begriffe, Daten, Fakten ohne Erl\u00e4uterung wiedergeben",
+            "difficulty": "I"
+        },
+        {
+            "name": "untersuchen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Sachverhalte oder Objekte zielorientiert erkunden, Merkmale und Zusammenh\u00e4nge herausarbeiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "PH.V2",
+            "school_type": "GYM",
+            "description": "Gemeinsamkeiten und Unterschiede herausarbeiten",
+            "difficulty": "II"
+        }
+    ]
+]

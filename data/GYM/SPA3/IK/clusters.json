@@ -1,0 +1,3291 @@
+[
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07",
+        "name": "3.2.3.7 Verf\u00fcgen \u00fcber sprachliche Mittel: Wortschatz",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.7 Verf\u00fcgen \u00fcber sprachliche Mittel: Wortschatz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler verf\u00fcgen \u00fcber ein breites Repertoire an lexikalischen Einheiten, das es ihnen erm\u00f6glicht, auch zu wenig vertrauten und abstrakten Themen verst\u00e4ndlich und weitgehend korrekt zu kommunizieren. Sie verf\u00fcgen \u00fcber Strategien zur Erschlie\u00dfung und Vernetzung lexikalischer Einheiten.",
+        "path": [
+            "03",
+            "07"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "07",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07_01",
+                        "content": "einen differenzierten Wortschatz je nach Situation und Intention angemessen und weitgehend korrekt einsetzen, um sich auch zu wenig vertrauten und abstrakten Themen zu \u00e4u\u00dfern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07_02",
+                        "content": "einen differenzierten Funktionswortschatz verstehen und weitgehend korrekt anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07_03",
+                        "content": "Verfahren zum Memorieren, Dokumentieren und Strukturieren von lexikalischen Einheiten selbstst\u00e4ndig anwenden (zum Beispiel Wortfeld, Wortfamilien, Mindmap, Visualisierung, (digitale) Vokabeltrainer)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07_04",
+                        "content": "Strategien der Umschreibung selbstst\u00e4ndig anwenden (zum Beispiel Synonyme, Definitionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07_05",
+                        "content": "neue lexikalische Einheiten selbstst\u00e4ndig erschlie\u00dfen (R\u00fcckgriff auf andere Sprachen, den Kontext, Textsorten, Illustrationen, Wortbildungsregeln)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07_06",
+                        "content": "(digitale) Hilfsmittel selbstst\u00e4ndig nutzen (zum Beispiel ein- und zweisprachige W\u00f6rterb\u00fccher, thematische Wortschatzsammlungen)"
+                    }
+                ],
+                "guidelines": [
+                    "PG_02",
+                    "PG_02",
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00",
+        "name": "3.1.4 Text- und Medienkompetenz",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.4 Text- und Medienkompetenz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Texte mithilfe unterst\u00fctzender Aufgaben verstehen, analysieren, in ihrem kulturellen Kontext deuten, zu verschiedenen weiteren kulturellen Kontexten in Beziehung setzen und die gewonnenen Kenntnisse f\u00fcr die Produktion eigener Texte nutzen. Sie nutzen die verschiedenen Medien der Informationsverarbeitung und \u2011verbreitung mit Unterst\u00fctzung kritisch und wenden Strategien der Textanalyse und Textproduktion weitgehend selbstst\u00e4ndig an.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, (fehlende) Redundanzen und Koh\u00e4renz, Textl\u00e4nge, Abstraktionsgrad, Grad der Explizitheit, Diskursstruktur, Wortschatz, kulturspezifische Begriffe, Komplexit\u00e4t der Syntax, visuelle Unterst\u00fctzung, Divergenz von Bild und Ton, Anzahl und Simultaneit\u00e4t der Sprecher, Sprechgeschwindigkeit, Stimmlage und Nebenger\u00e4usche.",
+        "path": [
+            "04",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "04",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_01",
+                        "content": "didaktisierte und authentische Texte verstehen und schriftlich oder mit Hilfestellung m\u00fcndlich strukturiert zusammenfassen (zum Beispiel anhand eines Textger\u00fcsts)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_02",
+                        "content": "diskontinuierliche Texte (zum Beispiel Bild, einfache Karikatur, Graphik, Tabelle) schriftlich und m\u00fcndlich aufgabengest\u00fctzt beschreiben, erkl\u00e4ren und in Ans\u00e4tzen dazu Stellung nehmen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_03",
+                        "content": "nichtliterarische und literarische Texte angeleitet analysieren, interpretieren und die gewonnenen Aussagen am Text belegen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_04",
+                        "content": "Texte mithilfe entsprechender Aufgaben und (bereitgestellter) Materialien in Ans\u00e4tzen in ihrem geschichtlichen und gesellschaftlichen Kontext interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_05",
+                        "content": "Aussage und Wirkung von Texten in Abh\u00e4ngigkeit vom jeweiligen Medium und mithilfe unterst\u00fctzender Aufgaben in Ans\u00e4tzen kritisch reflektieren (zum Beispiel Liedtext/Musik/Videoclip)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_06",
+                        "content": "Informationen recherchieren, dabei zunehmend selbstst\u00e4ndig die Zuverl\u00e4ssigkeit der Quellen sowie die Urheberrechte beachten, die Ergebnisse bewerten und aufgabengerecht nutzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_07",
+                        "content": "g\u00e4ngige Textsorten (zum Beispiel Lebenslauf, Bewerbungsschreiben, Inhaltsangabe, Buchvorstellung, Filmempfehlung, Comic, novela gr\u00e1fica, Blog, E-Mail, Tagebucheintrag) und deren sprachliche, kinematografische, technische und grafische Gestaltungsmittel in ihrer Wirkung identifizieren, angeleitet interpretieren und bei der eigenen Textproduktion anwenden (zum Beispiel mithilfe von Modellen, fichas de escritura)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_08",
+                        "content": "Texte durch das Verfassen eigener \u2013 auch kreativer \u2013 Texte erschlie\u00dfen und in Ans\u00e4tzen interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_09",
+                        "content": "bearbeitete literarische und nichtliterarische Textvorlagen angeleitet szenisch interpretieren und sinndarstellend vortragen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_10",
+                        "content": "Einstellungen und Handlungsmuster der Akteure und Figuren aus Textvorlagen aufgabenbezogen herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_11",
+                        "content": "verschiedene klar zu trennende Perspektiven einnehmen, vergleichen und erkl\u00e4ren und aus diesen heraus Stellung beziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_12",
+                        "content": "eine eigene Perspektive herausarbeiten und plausibel darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_13",
+                        "content": "andere begr\u00fcndete Meinungen und Deutungen identifizieren und verschiedene Interpretationen von Texten aufgabengest\u00fctzt er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_14",
+                        "content": "bei k\u00fcnstlerisch-\u00e4sthetischen Texten (Literatur, Film) die Interpretationsoffenheit nutzen, indem sie offensichtliche Handlungsalternativen f\u00fcr Figuren und Darstellungsvariationen der Handlung herausarbeiten, formulieren, vergleichen und aufgabengest\u00fctzt f\u00fcr die Interpretation heranziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_15",
+                        "content": "vertraute Hilfsmittel und Techniken zum vertieften sprachlichen, inhaltlichen, textuellen und medialen Verstehen und Produzieren von Texten weitgehend selbstst\u00e4ndig anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_16",
+                        "content": "zus\u00e4tzliche Quellen und Informationen zur Analyse und Interpretation aufgabengest\u00fctzt nutzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00_17",
+                        "content": "ihren \u00fcber das Erstverstehen hinausgehenden Rezeptionsprozess bewerten, indem sie ihre ersten Eindr\u00fccke angeleitet reflektieren, relativieren und gegebenenfalls revidieren"
+                    }
+                ],
+                "guidelines": [
+                    "VB_08",
+                    "MB_02",
+                    "BO_01",
+                    "MB_02",
+                    "MB_05",
+                    "BTV_04",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_01_03",
+                    "BP2016BW_ALLG_GYM_M_IK_7-8_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00",
+        "name": "3.5.4 Text- und Medienkompetenz",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.4 Text- und Medienkompetenz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Texte verstehen, aufgabenbezogen analysieren, in ihrem kulturellen Kontext deuten, zu verschiedenen weiteren kulturellen Kontexten in Beziehung setzen und die gewonnen Erkenntnisse f\u00fcr die Produktion eigener Texte nutzen.\nSie nutzen die verschiedenen Medien der Informationsverarbeitung und \u2011verbreitung zunehmend kritisch und wenden Strategien der Textanalyse und Textproduktion weitgehend selbstst\u00e4ndig an.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, (fehlende) Redundanzen und Koh\u00e4renz, Textl\u00e4nge, Abstraktionsgrad, Grad der Explizitheit, Diskursstruktur, Wortschatz, kulturspezifische Begriffe, Komplexit\u00e4t der Syntax, Divergenz von Bild und Ton, Anzahl und Simultaneit\u00e4t der Sprecher, Sprechgeschwindigkeit, Grad der Abweichung von der Standardsprache, Stimmlage und Nebenger\u00e4usche.",
+        "path": [
+            "04",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "04",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_01",
+                        "content": "authentische Texte verstehen und schriftlich oder m\u00fcndlich zusammenfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_02",
+                        "content": "diskontinuierliche Texte (zum Beispiel Bild, Karikatur, Graphik, Tabelle) schriftlich und m\u00fcndlich beschreiben, erkl\u00e4ren und dazu Stellung nehmen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_03",
+                        "content": "nichtliterarische und literarische Texte aufgabenbezogen analysieren, interpretieren und die gewonnenen Aussagen am Text belegen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_04",
+                        "content": "Texte mithilfe entsprechender Aufgaben und (bereitgestellter) Materialien in ihrem geschichtlichen und gesellschaftlichen, gegebenenfalls medialen Kontext interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_05",
+                        "content": "Aussage und Wirkung von Texten in Abh\u00e4ngigkeit vom jeweiligen Medium in Ans\u00e4tzen kritisch reflektieren (zum Beispiel Vergleich von Textvorlage und Verfilmung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_06",
+                        "content": "Informationen kritisch recherchieren, die Ergebnisse selbstst\u00e4ndig bewerten und aufgabengerecht nutzen (zum Beispiel Quellen und Urheberrechte)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_07",
+                        "content": "Textsorten (zum Beispiel Lebenslauf, Bewerbungsschreiben, Inhaltsangabe, Buchvorstellung, Filmempfehlung, Comic, novela gr\u00e1fica, Blog, E-Mail, Tagebucheintrag) und deren sprachliche, kinematografische, technische und grafische Gestaltungsmittel in ihrer Wirkung identifizieren und deuten und bei der eigenen Textproduktion anwenden (zum Beispiel den Aufbau, die \u00e4u\u00dfere Form und ad\u00e4quate Redemittel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_08",
+                        "content": "Texte durch das Verfassen eigener \u2013 auch kreativer \u2013 Texte erschlie\u00dfen und interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_09",
+                        "content": "bearbeitete literarische und nichtliterarische Textvorlagen szenisch interpretieren und sinndarstellend vortragen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_10",
+                        "content": "Einstellungen und Handlungsmuster der Akteure und Figuren aus Textvorlagen aufgabenbezogen herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_11",
+                        "content": "verschiedene Perspektiven einnehmen, vergleichen und kommentieren und aus diesen heraus Stellung beziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_12",
+                        "content": "eine eigene Perspektive herausarbeiten und plausibel darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_13",
+                        "content": "andere begr\u00fcndete Meinungen und Deutungen identifizieren und verschiedene Interpretationen von Texten aufgabenbezogen er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_14",
+                        "content": "bei k\u00fcnstlerisch-\u00e4sthetischen Texten (Literatur, Film) die Interpretationsoffenheit nutzen, indem sie offensichtliche Handlungsalternativen f\u00fcr Figuren und Darstellungsvariationen der Handlung herausarbeiten, formulieren, vergleichen und aufgabengest\u00fctzt f\u00fcr die Interpretation heranziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_15",
+                        "content": "vertraute Hilfsmittel und Techniken zum vertieften sprachlichen, inhaltlichen, textuellen und medialen Verstehen und Produzieren von Texten anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_16",
+                        "content": "zus\u00e4tzliche Quellen und Informationen zur Analyse und Interpretation \u00fcberwiegend selbstst\u00e4ndig nutzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00_17",
+                        "content": "ihren \u00fcber das Erstverstehen hinausgehenden vertieften Rezeptionsprozess bewerten, indem sie ihre ersten Eindr\u00fccke kritisch reflektieren, relativieren und gegebenenfalls revidieren"
+                    }
+                ],
+                "guidelines": [
+                    "VB_08",
+                    "MB_02",
+                    "MB_05",
+                    "BTV_04",
+                    "MB_02",
+                    "MB_05",
+                    "PG_02",
+                    "BO_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_INF7_IK_7_04_00",
+                    "BP2016BW_ALLG_GYM_INF7_IK_7_04_00",
+                    "BP2016BW_ALLG_GYM_INF7_IK_7_04_00",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_LUT_IK_11-12_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08",
+        "name": "3.1.3.8 Verf\u00fcgen \u00fcber sprachliche Mittel: Grammatik",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.8 Verf\u00fcgen \u00fcber sprachliche Mittel: Grammatik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ein ihnen vertrautes Repertoire grammatischer Strukturen f\u00fcr die Realisierung ihrer kommunikativen Absicht nutzen sowie einige frequente Varianten verstehen. Sie verf\u00fcgen \u00fcber Strategien zum Erschlie\u00dfen von Strukturen und zur Selbstkorrektur.",
+        "path": [
+            "03",
+            "08"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "08",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_01",
+                        "content": "Personen, Sachen, T\u00e4tigkeiten und Sachverhalte benennen und beschreiben und Fragen formulieren \u2013 Singular und Plural der Nomen \u2013 Begleiter \u2013 Pronomina \u2013 Adjektive \u2013 Adverbien \u2013 Pr\u00e4positionen \u2013 Konjunktionen \u2013 ser/estar, hay \u2013 Fragew\u00f6rter"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_02",
+                        "content": "Ort und Zeit benennen \u2013 Pr\u00e4positionen \u2013 pr\u00e4positionale Ausdr\u00fccke \u2013 Adverbien und Adverbials\u00e4tze"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_03",
+                        "content": "Besitzverh\u00e4ltnisse benennen \u2013 Possessivbegleiter \u2013 Possessivpronomina"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_04",
+                        "content": "Quantifikatoren benennen \u2013 Grund- und Ordnungszahlen \u2013 Bruchzahlen \u2013 Prozentangaben \u2013 Mengenangaben \u2013 Adverbien"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_05",
+                        "content": "verneinte Aussagen oder Einschr\u00e4nkungen formulieren \u2013 no, no ... nunca/ nada/ nadie/ ninguno \u2013 ni ... ni ... \u2013 tampoco, sin, casi, apenas"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_06",
+                        "content": "Sachverhalte, Handlungen als gegenw\u00e4rtig, vergangen, zuk\u00fcnftig darstellen \u2013 alle Tempora"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_07",
+                        "content": "Vorg\u00e4nge als gleichzeitig und in ihrer zeitlichen Abfolge und Dauer darstellen \u2013 gerundio \u2013 per\u00edfrasis verbales \u2013 Infinitivkonstruktionen (zum Beispiel antes de, despu\u00e9s de, al + infinitivo)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_08",
+                        "content": "Vergleiche formulieren \u2013 Komparativ- und Superlativformen von Adjektiven und Adverbien"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_09",
+                        "content": "M\u00f6glichkeit, Willen, Verpflichtung oder Bedingung formulieren, Sachverhalte als (un)m\u00f6glich darstellen \u2013 condicional \u2013 presente, imperfecto y pluscuamperfecto de subjuntivo \u2013 realer und irrealer Bedingungssatz"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_10",
+                        "content": "Meinungen, Aufforderungen, Bitten, W\u00fcnsche oder Gef\u00fchle formulieren \u2013 imperativo \u2013 indicativo y subjuntivo"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_11",
+                        "content": "Zusammenh\u00e4nge formulieren \u2013 kausale, temporale, konsekutive, adversative, konzessive und finale Konjunktionen \u2013 Relativsatz \u2013 Infinitivkonstruktionen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_12",
+                        "content": "\u00c4u\u00dferungen anderer wiedergeben \u2013 indirekte Rede in Pr\u00e4sens und Vergangenheit"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_13",
+                        "content": "unpers\u00f6nliche Aussagen formulieren \u2013 Ersatzkonstruktionen und pasiva refleja \u2013 Passiv"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_14",
+                        "content": "Strategien zum Erschlie\u00dfen von Strukturen zunehmend selbstst\u00e4ndig anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_15",
+                        "content": "(digitale) Hilfsmittel nutzen und Strategien zur Selbstkorrektur weitgehend selbstst\u00e4ndig einsetzen (zum Beispiel Fehlervermeidungsliste)"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "VB_03",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+        "name": "3.1.3.6 Sprachmittlung",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.6 Sprachmittlung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen wesentliche Inhalte m\u00fcndlicher oder schriftlicher Texte zu ihnen vertrauten Themen sowohl m\u00fcndlich als auch schriftlich m\u00f6glichst adressatengerecht und weitgehend situationsangemessen in die jeweils andere Sprache \u00fcbertragen. Hierzu nutzen sie grundlegende Strategien der funktionalen kommunikativen Kompetenzen.",
+        "path": [
+            "03",
+            "06"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "06",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_01",
+                        "content": "in interkulturellen Situationen wesentliche Inhalte und Absichten m\u00f6glichst adressatengerecht aufgabengest\u00fctzt in der jeweils anderen Sprache wiedergeben und gegebenenfalls auf Nachfragen reagieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_02",
+                        "content": "wesentliche Inhalte bei ihnen vertrauten Themen in der jeweils anderen Sprache m\u00f6glichst adressatengerecht und weitgehend situationsangemessen zusammenfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_03",
+                        "content": "kurze Textteile bei Bedarf sinngem\u00e4\u00df \u00fcbertragen und gegebenenfalls \u00fcbersetzen (zum Beispiel Titel, Teile von Liedtexten, Slogans)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_04",
+                        "content": "f\u00fcr das interkulturelle Verstehen Erforderliches bei Bedarf zunehmend selbstst\u00e4ndig erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_05",
+                        "content": "bei der \u00dcbertragung in die jeweils andere Sprache zunehmend selbstst\u00e4ndig interkulturelle Kompetenz nutzen und entsprechende kommunikative Strategien aufgabengest\u00fctzt ausw\u00e4hlen und anwenden (Strategien des H\u00f6r\u2011/H\u00f6rsehverstehens, Leseverstehens, Sprechens und Schreibens sowie der Text- und Medienkompetenz)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_06",
+                        "content": "bei der \u00dcbertragung von Informationen selbstst\u00e4ndig Hilfsmittel einsetzen (zum Beispiel (digitale) Nachschlagewerke, (digitale) zweisprachige W\u00f6rterb\u00fccher, selbst erstellte Mindmaps, fichas de habla, Suchmaschinen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06_07",
+                        "content": "vertraute Kompensationsstrategien weitgehend selbstst\u00e4ndig anwenden (zum Beispiel Paraphrasieren, Einsatz von Gestik und Mimik, inhaltliche und sprachliche Vereinfachung, Nachfragen oder auf Nachfragen eingehen, Einsatz von automatisierten Redewendungen, R\u00fcckgriff auf Internationalismen)"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BTV_08",
+                    "BO_02",
+                    "BNE_03",
+                    "PG_02",
+                    "PG_02",
+                    "PG_01",
+                    "MB_03",
+                    "MB_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_01_03",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_02",
+                    "BP2016BW_ALLG_GYM_E1_IK_9-10_03_06",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01",
+                    "BP2016BW_ALLG_GYM_F2_IK_9-10_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_10",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_09"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00",
+        "name": "3.5.2 Interkulturelle kommunikative Kompetenz",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.2 Interkulturelle kommunikative Kompetenz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen in direkten und medial vermittelten interkulturellen Situationen angemessen handeln. Dabei k\u00f6nnen sie zielkulturelle und eigene Vorstellungen, Erwartungen und Haltungen reflektieren und dabei ihr soziokulturelles Wissen anwenden.",
+        "path": [
+            "02",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "02",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00_01",
+                        "content": "ihr Wissen \u00fcber zielkulturelle Aspekte in vielf\u00e4ltigen Situationen und Themenbereichen anwenden (zum Beispiel bei den Themen Alltag, Bildung, Berufswelt, gegenw\u00e4rtige und historische soziopolitische Entwicklungen, globale Entwicklungen und bei literarischen Themen und Kontexten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00_02",
+                        "content": "mit den ihnen zur Verf\u00fcgung stehenden kommunikativen Mitteln interkulturelle Kommunikationssituationen gestalten und dabei fremdkulturelle Konventionen beachten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00_03",
+                        "content": "Gemeinsamkeiten und Unterschiede bei eigenen und zielkulturellen Wahrnehmungen, Einstellungen und (Vor\u2011)Urteilen erkennen und analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00_04",
+                        "content": "anhand von fiktionalen Texten (Literatur, Film, Bild) vor dem zielkulturellen Hintergrund einen Perspektivenwechsel vollziehen und verschiedene (inter\u2011/intrakulturelle) Perspektiven interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00_05",
+                        "content": "interkulturelle Missverst\u00e4ndnisse und Konfliktsituationen erkennen und kl\u00e4ren"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BTV_03",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02",
+        "name": "3.2.3.2 Leseverstehen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.2 Leseverstehen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen authentische nichtliterarische und literarische Texte auch zu abstrakten Themen verstehen. Sie verf\u00fcgen \u00fcber ein umfangreiches Repertoire an Texterschlie\u00dfungsstrategien.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, Wortschatz und Komplexit\u00e4t der Syntax, kulturspezifische Begriffe und visuelle Unterst\u00fctzung.",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "02",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_01",
+                        "content": "der Leseintention entsprechend die Hauptaussagen oder Einzelinformationen aus Texten zu allgemeinen und abstrakten Themen herausarbeiten und sie gegebenenfalls im Detail verstehen (Global\u2011, Selektiv\u2011, Detailverstehen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_02",
+                        "content": "explizite und implizite Aussagen von Texten analysieren und bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_03",
+                        "content": "ein authentisches literarisches Werk oder mehrere Textausz\u00fcge aus literarischen Werken (zum Beispiel novela, obra dram\u00e1tica, cuento, poema, novela gr\u00e1fica) verstehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_04",
+                        "content": "Texte und Textteile mit Bezug auf ein spezifisches Leseziel ausw\u00e4hlen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_05",
+                        "content": "die inhaltliche Struktur von Texten zu allgemeinen und abstrakten Themen herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_06",
+                        "content": "geeignete Rezeptionsstrategien entsprechend der Leseabsicht selbstst\u00e4ndig anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02_07",
+                        "content": "(digitale) Hilfsmittel ad\u00e4quat nutzen"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "BO_02",
+                    "BTV_01",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06",
+        "name": "3.5.3.6 Sprachmittlung",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.6 Sprachmittlung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen wesentliche Inhalte m\u00fcndlicher oder schriftlicher Texte zu vertrauten und gegebenenfalls weniger vertrauten Themen sowohl m\u00fcndlich als auch schriftlich weitgehend adressatengerecht und situationsangemessen in die jeweils andere Sprache \u00fcbertragen. Hierzu nutzen sie grundlegende Strategien der funktionalen kommunikativen Kompetenzen.",
+        "path": [
+            "03",
+            "06"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "06",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_01",
+                        "content": "in interkulturellen Situationen Inhalte und Absichten adressatengerecht in der jeweils anderen Sprache wiedergeben und gegebenenfalls auf Nachfragen reagieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_02",
+                        "content": "wesentliche Inhalte bei ihnen vertrauten Themen in der jeweils anderen Sprache adressatengerecht und situationsangemessen zusammenfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_03",
+                        "content": "kurze Textteile bei Bedarf sinngem\u00e4\u00df \u00fcbertragen (zum Beispiel f\u00fcr die Analyse/Interpretation relevante Teile von Sachtexten, literarischen Texten, Gedichten) und gegebenenfalls \u00fcbersetzen (zum Beispiel Titel, Werbespr\u00fcche)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_04",
+                        "content": "f\u00fcr das interkulturelle Verstehen Erforderliches bei Bedarf erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_05",
+                        "content": "bei der \u00dcbertragung in die jeweils andere Sprache selbstst\u00e4ndig interkulturelle Kompetenz nutzen und entsprechende kommunikative Strategien ausw\u00e4hlen und anwenden (Strategien des H\u00f6r\u2011/H\u00f6rsehverstehens, Leseverstehens, Sprechens und Schreibens sowie der Text- und Medienkompetenz)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_06",
+                        "content": "bei der \u00dcbertragung von Informationen selbstst\u00e4ndig Hilfsmittel einsetzen (zum Beispiel (digitale) Nachschlagewerke, (digitale) zweisprachige W\u00f6rterb\u00fccher, selbst erstellte Mindmaps, fichas de habla, Suchmaschinen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06_07",
+                        "content": "vertraute Kompensationsstrategien selbstst\u00e4ndig anwenden (zum Beispiel Paraphrasieren, inhaltliche und sprachliche Vereinfachung, Nachfragen oder auf Nachfragen eingehen, R\u00fcckgriff auf Internationalismen)"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BTV_08",
+                    "BNE_03",
+                    "PG_02",
+                    "PG_01",
+                    "MB_03",
+                    "MB_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_E1_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_F2_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06",
+        "name": "3.2.3.6 Sprachmittlung",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.6 Sprachmittlung\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen wesentliche Inhalte m\u00fcndlicher oder schriftlicher Texte sowohl m\u00fcndlich als auch schriftlich weitgehend adressatengerecht und situationsangemessen in die jeweils andere Sprache \u00fcbertragen. Hierzu nutzen sie grundlegende Strategien der funktionalen kommunikativen Kompetenzen.",
+        "path": [
+            "03",
+            "06"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "06",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_01",
+                        "content": "in interkulturellen Situationen Inhalte und Absichten adressatengerecht in der jeweils anderen Sprache wiedergeben und gegebenenfalls auf Nachfragen reagieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_02",
+                        "content": "wesentliche Inhalte bei ihnen vertrauten Themen in der jeweils anderen Sprache adressatengerecht und situationsangemessen zusammenfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_03",
+                        "content": "kurze Textteile bei Bedarf sinngem\u00e4\u00df \u00fcbertragen (zum Beispiel f\u00fcr die Analyse / Interpretation relevante Teile von Sachtexten, literarischen Texten, Gedichten, Rezensionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_04",
+                        "content": "f\u00fcr das interkulturelle Verstehen Erforderliches bei Bedarf erkl\u00e4ren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_05",
+                        "content": "bei der \u00dcbertragung in die jeweils andere Sprache selbstst\u00e4ndig interkulturelle Kompetenz nutzen und entsprechende kommunikative Strategien ausw\u00e4hlen und anwenden (Strategien des H\u00f6r\u2011/H\u00f6rsehverstehens, Leseverstehens, Sprechens und Schreibens sowie der Text- und Medienkompetenz)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_06",
+                        "content": "bei der \u00dcbertragung von Informationen selbstst\u00e4ndig Hilfsmittel einsetzen (zum Beispiel (digitale) Nachschlagewerke, (digitale) zweisprachige W\u00f6rterb\u00fccher, selbst erstellte Mindmaps, fichas de habla, Suchmaschinen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06_07",
+                        "content": "vertraute Kompensationsstrategien selbstst\u00e4ndig anwenden"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BTV_08",
+                    "BO_02",
+                    "BNE_03",
+                    "PG_02",
+                    "PG_01",
+                    "MB_03",
+                    "MB_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_E1_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_F2_IK_11-12-LF_03_06"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_01_00",
+        "name": "3.5.1 Soziokulturelles Orientierungswissen / Themen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_01_00_a",
+                "name": "ihre interkulturellen, sprachlichen und medialen Kompetenzen auf der Basis von Kenntnissen in folgenden Themenbereichen anwenden:",
+                "path": [
+                    "01",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_01_00_01",
+                        "content": "Individuum und Gesellschaft \u2013 sozialer Wandel (zum Beispiel demografischer Wandel, Verst\u00e4dterung, soziale Kluft, Geschlechterrollen) \u2013 Zusammenleben verschiedener Kulturen, Ethnien, sozialer Milieus und Religionen in Spanien und Hispanoamerika \u2013 Migrationsbewegungen von und nach Spanien/Hispanoamerika, Binnenmigration \u2013 Partizipation in der Zivilgesellschaft (zum Beispiel soziales und politisches Engagement, derechos humanos, Emanzipationsbestrebungen von ind\u00edgenas)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_01_00_02",
+                        "content": "Gegebenheiten und Herausforderungen der Gegenwart  \u2013 Beispiele f\u00fcr wirtschaftliche, soziale und politische Verbindungen zwischen Spanien, Hispanoamerika, Europa und den USA \u2013 nachhaltiges Wirtschaften und Leben (zum Beispiel Tourismus, \u00d6kologie, Umgang mit Ressourcen) \u2013 Umgang mit der Vergangenheit in Spanien und Hispanoamerika (Aufarbeitung des diktatorialen Erbes) \u2013 Emanzipationsprozesse (zum Beispiel Autonomiebestrebungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_01_00_03",
+                        "content": "Kulturelle Identit\u00e4t \u2013 Elemente der kulturellen Identit\u00e4t (zum Beispiel regionale Zugeh\u00f6rigkeit, Rolle der Sprache, kritischer Umgang mit Stereotypen) \u2013 \u00dcberblick \u00fcber die Epochen der Geschichte Spaniens im 20./ 21. Jahrhundert: der spanische B\u00fcrgerkrieg, Franquismo, Transici\u00f3n, Spanien als Br\u00fccke zwischen Europa und Hispanoamerika \u2013 \u00dcberblick \u00fcber die Geschichte Hispanoamerikas: Folgen der Eroberung Amerikas, Kolonisation und Emanzipation, Diktatur, Revolution, Wege in die Demokratie"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "VB_03",
+                    "BNE_02",
+                    "VB_08",
+                    "MB_01",
+                    "PG_07",
+                    "BO_07",
+                    "BNE_05",
+                    "BTV_03",
+                    "PG_01",
+                    "VB_07",
+                    "BNE_01",
+                    "VB_02",
+                    "BTV_06",
+                    "PG_07",
+                    "PG_02",
+                    "VB_01",
+                    "VB_05",
+                    "BNE_06",
+                    "MB_02",
+                    "PG_07",
+                    "BTV_04",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_E1_IK_7-8_01_00",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-LF_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_03_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_07_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04_01",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-LF_03",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00",
+                    "BP2016BW_ALLG_GYM_BK",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_01",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_03_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_07_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05",
+        "name": "3.1.3.5 Schreiben",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.5 Schreiben\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen zusammenh\u00e4ngende Texte zu ihnen vertrauten Themen textsortenad\u00e4quat und adressatengerecht verfassen. Sie verf\u00fcgen \u00fcber grundlegende Strategien zur Steuerung des Schreibprozesses.",
+        "path": [
+            "03",
+            "05"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "05",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_01",
+                        "content": "zielorientiert strukturierte Notizen und Mitteilungen auch zu auditiv, audio\u2011/visuell vermittelten Texten verfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_02",
+                        "content": "eine strukturierte Zusammenfassung eines Textes weitgehend selbstst\u00e4ndig verfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_03",
+                        "content": "ausf\u00fchrliche Berichte und Beschreibungen zunehmend selbstst\u00e4ndig verfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_04",
+                        "content": "W\u00fcnsche, Pl\u00e4ne und Vorstellungen weitgehend selbstst\u00e4ndig zusammenh\u00e4ngend darstellen und begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_05",
+                        "content": "eigene und fremde Ansichten und Meinungen weitgehend selbstst\u00e4ndig koh\u00e4rent formulieren und begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_06",
+                        "content": "formelle und pers\u00f6nliche Korrespondenz zunehmend selbstst\u00e4ndig verfassen (zum Beispiel formeller Brief, E-Mail, Blogeintrag, Chatbeitrag, Kurznachricht, Anfrage, Bewerbungsschreiben, Lebenslauf, pers\u00f6nlicher Brief)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_07",
+                        "content": "auf der Basis von Impulsen (zum Beispiel Stichw\u00f6rter, Bilder, Lieder, Videoclips, Karikaturen) zunehmend selbstst\u00e4ndig kreative Texte verfassen und gestalten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_08",
+                        "content": "Methoden zur Ideenfindung, Planung und Strukturierung von Texten weitgehend selbstst\u00e4ndig und zielgerichtet anwenden (zum Beispiel Stichw\u00f6rter, Brainstorming, Mindmap, Gliederung, Erstellen eines Schreibplans)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05_09",
+                        "content": "(digitale) Hilfsmittel (zum Beispiel einsprachiges W\u00f6rterbuch, Schulgrammatik, Checklisten mit Stichpunkten zur Selbstkorrektur hinsichtlich Textaufbau, Syntax, Lexik oder h\u00e4ufiger grammatikalischer Fehler) und Strategien zum Verfassen und \u00dcberarbeiten eigener Texte weitgehend selbstst\u00e4ndig und zielgerichtet verwenden"
+                    }
+                ],
+                "guidelines": [
+                    "MB_04",
+                    "MB_04",
+                    "BNE_05",
+                    "BO_01",
+                    "MB_04",
+                    "MB_05",
+                    "MB_05",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00",
+                    "BP2016BW_ALLG_GYM_BK_IK_9-10_01_00",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_10",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_06"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01",
+        "name": "3.5.3.1 H\u00f6r-/H\u00f6rsehverstehen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.1 H\u00f6r-/H\u00f6rsehverstehen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen authentische H\u00f6r- und H\u00f6rsehtexte zu vertrauten Themen verstehen. Sie verf\u00fcgen \u00fcber ein angemessenes Repertoire an Erschlie\u00dfungsstrategien f\u00fcr H\u00f6r- und H\u00f6rsehtexte.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, (fehlende) Redundanzen und Koh\u00e4renz, Textl\u00e4nge, Abstraktionsgrad, Grad der Explizitheit, Diskursstruktur, Wortschatz, kulturspezifische Begriffe, Komplexit\u00e4t der Syntax, visuelle Unterst\u00fctzung, Divergenz von Bild und Ton, Anzahl und Simultaneit\u00e4t der Sprecher, Sprechgeschwindigkeit, Grad der Abweichung von der Standardsprache, Stimmlage und Nebenger\u00e4usche.",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "01",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01_01",
+                        "content": "der H\u00f6r\u2011/H\u00f6rsehabsicht entsprechend die Hauptaussagen oder Detailinformationen aus H\u00f6r\u2011/ H\u00f6rsehtexten entnehmen (Global\u2011, Selektiv- und Detailverstehen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01_02",
+                        "content": "auch bei weniger vertrauter Thematik l\u00e4ngere Redebeitr\u00e4ge und komplexe Argumentationen verstehen, sofern diese, auch durch explizite Signale, klar strukturiert und artikuliert sind"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01_03",
+                        "content": "gesehene und geh\u00f6rte Informationen weitgehend selbstst\u00e4ndig zueinander in Beziehung setzen und in ihrem Zusammenhang, kulturellen Kontext und in ihrer Wirkung verstehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01_04",
+                        "content": "textinterne Informationen und textexternes Wissen selbstst\u00e4ndig in Beziehung setzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01_05",
+                        "content": "explizite und gegebenenfalls implizite Einstellungen oder Beziehungen zwischen Sprechenden herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01_06",
+                        "content": "geeignete Erschlie\u00dfungsstrategien entsprechend der H\u00f6r\u2011/H\u00f6rsehabsicht gezielt und selbstst\u00e4ndig einsetzen"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "MB_04",
+                    "PG_07",
+                    "BTV_01",
+                    "PG_02",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09",
+        "name": "3.5.3.9 Verf\u00fcgen \u00fcber sprachliche Mittel: Aussprache und Intonation",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.9 Verf\u00fcgen \u00fcber sprachliche Mittel: Aussprache und Intonation\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ein gefestigtes Repertoire typischer Aussprache- und Intonationsmuster des Kastilischen oder einer hispanoamerikanischen Variet\u00e4t verwenden. Ihre Aussprache ist klar und verst\u00e4ndlich und die Intonation angemessen. Sie verf\u00fcgen \u00fcber Strategien der Selbstkorrektur.",
+        "path": [
+            "03",
+            "09"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "09",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09_01",
+                        "content": "das Aussprache- und Intonationsmuster einer Standardvariet\u00e4t verwenden und dabei eine klar verst\u00e4ndliche Aussprache und angemessene Intonation zeigen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09_02",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09_03",
+                        "content": "repr\u00e4sentative Variet\u00e4ten der Zielsprache erkennen und einige Merkmale beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09_04",
+                        "content": "(digitale) Medien oder Hilfsmittel zur Festigung und Selbstkorrektur der Aussprache nutzen"
+                    }
+                ],
+                "guidelines": [
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09_02",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09",
+        "name": "3.1.3.9 Verf\u00fcgen \u00fcber sprachliche Mittel: Aussprache und Intonation",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.9 Verf\u00fcgen \u00fcber sprachliche Mittel: Aussprache und Intonation\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler beherrschen die Ausspracheregeln des kastilischen Spanisch oder einer Standardvariet\u00e4t des hispanoamerikanischen Spanisch und wenden sie weitgehend korrekt an. Ihre Aussprache ist klar und verst\u00e4ndlich, die Intonation ist angemessen. Sie verf\u00fcgen \u00fcber Strategien der Selbstkorrektur.",
+        "path": [
+            "03",
+            "09"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "09",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09_01",
+                        "content": "ein breites Repertoire typischer Aussprache- und Intonationsmuster verwenden und dabei eine klar verst\u00e4ndliche Aussprache und angemessene Intonation zeigen, sodass im Allgemeinen keine Missverst\u00e4ndnisse entstehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09_02",
+                        "content": "typische Laute der spanischen Sprache und ihre grafische Umsetzung identifizieren und korrekt aussprechen (r, rr, ll, ch, c, s und z, g und j, b und v, Aussprache von Diphthongen, fehlende Aspiration der Konsonanten; in der Graphie: Einschieben des u oder Wechsel von c zu z beziehungsweise qu oder g zu j zum Erhalt der Aussprache, das stumme h)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09_03",
+                        "content": "einige repr\u00e4sentative Variet\u00e4ten der Zielsprache erkennen und einige Merkmale beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09_04",
+                        "content": "(digitale) Medien oder Hilfsmittel zur Festigung und Selbstkorrektur der Aussprache nutzen"
+                    }
+                ],
+                "guidelines": [],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07",
+        "name": "3.5.3.7 Verf\u00fcgen \u00fcber sprachliche Mittel: Wortschatz",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.7 Verf\u00fcgen \u00fcber sprachliche Mittel: Wortschatz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler verf\u00fcgen \u00fcber ein breites Repertoire an lexikalischen Einheiten, das es ihnen erm\u00f6glicht, zu vertrauten und gegebenenfalls weniger vertrauten, auch abstrakten Themen verst\u00e4ndlich und weitgehend korrekt zu kommunizieren. Sie verf\u00fcgen \u00fcber Strategien zur Erschlie\u00dfung und Vernetzung lexikalischer Einheiten.",
+        "path": [
+            "03",
+            "07"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "07",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07_01",
+                        "content": "einen differenzierten Wortschatz je nach Situation und Intention angemessen und weitgehend korrekt einsetzen, um sich zu vertrauten und gegebenenfalls weniger vertrauten, auch abstrakten Themen zu \u00e4u\u00dfern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07_02",
+                        "content": "einen differenzierten Funktionswortschatz verstehen und weitgehend korrekt anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07_03",
+                        "content": "Verfahren zum Memorieren, Dokumentieren und Strukturieren von lexikalischen Einheiten selbstst\u00e4ndig anwenden (zum Beispiel Wortfeld, Wortfamilien, Mindmap, Visualisierung, (digitale) Vokabeltrainer)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07_04",
+                        "content": "Strategien der Umschreibung selbstst\u00e4ndig anwenden (zum Beispiel Synonyme, Definitionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07_05",
+                        "content": "neue lexikalische Einheiten selbstst\u00e4ndig erschlie\u00dfen (R\u00fcckgriff auf andere Sprachen, den Kontext, Textsorten, Illustrationen, Wortbildungsregeln)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07_06",
+                        "content": "(digitale) Hilfsmittel selbstst\u00e4ndig nutzen (zum Beispiel ein- und zweisprachige W\u00f6rterb\u00fccher, thematische Wortschatzsammlungen)"
+                    }
+                ],
+                "guidelines": [
+                    "PG_02",
+                    "PG_02",
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00",
+        "name": "3.2.2 Interkulturelle kommunikative Kompetenz",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.2 Interkulturelle kommunikative Kompetenz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen in direkten und medial vermittelten interkulturellen Situationen angemessen handeln. Dabei k\u00f6nnen sie zielkulturelle und eigene Vorstellungen, Erwartungen und Haltungen reflektieren und dabei ihr soziokulturelles Wissen anwenden.",
+        "path": [
+            "02",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "02",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00_01",
+                        "content": "ihr Wissen \u00fcber zielkulturelle Aspekte in vielf\u00e4ltigen Situationen und Themenbereichen anwenden (zum Beispiel bei den Themen Alltag, Bildung, Berufswelt, gegenw\u00e4rtige und historische soziopolitische Entwicklungen, globale Entwicklungen, bei literarischen Themen und Kontexten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00_02",
+                        "content": "mit den ihnen zur Verf\u00fcgung stehenden kommunikativen Mitteln interkulturelle Kommunikationssituationen gestalten und dabei fremdkulturelle Konventionen beachten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00_03",
+                        "content": "Gemeinsamkeiten und Unterschiede bei eigenen und zielkulturellen Wahrnehmungen, Einstellungen und (Vor\u2011)Urteilen erkennen und analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00_04",
+                        "content": "anhand von fiktionalen Texten (Literatur, Film, Bild) vor dem zielkulturellen Hintergrund einen Perspektivenwechsel vollziehen und verschiedene (inter\u2011/intrakulturelle) Perspektiven interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00_05",
+                        "content": "interkulturelle Missverst\u00e4ndnisse und Konfliktsituationen erkennen und kl\u00e4ren"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "BTV_03",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01",
+        "name": "3.2.3.1 H\u00f6r-/H\u00f6rsehverstehen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.1 H\u00f6r-/H\u00f6rsehverstehen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen authentische H\u00f6r- und H\u00f6rsehtexte zu vertrauten Themen verstehen. Sie verf\u00fcgen \u00fcber ein umfangreiches Repertoire an Erschlie\u00dfungsstrategien f\u00fcr H\u00f6r- und H\u00f6rsehtexte.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, (fehlende) Redundanzen und Koh\u00e4renz, Textl\u00e4nge, Abstraktionsgrad, Grad der Explizitheit, Diskursstruktur, Wortschatz, kulturspezifische Begriffe, Komplexit\u00e4t der Syntax, visuelle Unterst\u00fctzung, Divergenz von Bild und Ton, Anzahl und Simultaneit\u00e4t der Sprecher, Sprechgeschwindigkeit, Grad der Abweichung von der Standardsprache, Stimmlage und Nebenger\u00e4usche.",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "01",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01_01",
+                        "content": "der H\u00f6r\u2011/H\u00f6rsehabsicht entsprechend die Hauptaussagen oder Detailinformationen aus H\u00f6r\u2011/ H\u00f6rsehtexten entnehmen (Global\u2011, Selektiv- und Detailverstehen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01_02",
+                        "content": "auch bei weniger vertrauter Thematik l\u00e4ngere Redebeitr\u00e4ge und komplexe Argumentationen verstehen, sofern diese, auch durch explizite Signale, klar strukturiert und artikuliert sind"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01_03",
+                        "content": "gesehene und geh\u00f6rte Informationen weitgehend selbstst\u00e4ndig zueinander in Beziehung setzen und in ihrem Zusammenhang, kulturellen Kontext und in ihrer Wirkung verstehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01_04",
+                        "content": "textinterne Informationen und textexternes Wissen selbstst\u00e4ndig in Beziehung setzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01_05",
+                        "content": "explizite und implizite Einstellungen oder Beziehungen zwischen Sprechenden herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01_06",
+                        "content": "geeignete Erschlie\u00dfungsstrategien entsprechend der H\u00f6r\u2011/H\u00f6rsehabsicht gezielt und selbstst\u00e4ndig einsetzen"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "BO_02",
+                    "MB_04",
+                    "PG_07",
+                    "BTV_01",
+                    "PG_02",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_01_00",
+        "name": "3.2.1 Soziokulturelles Orientierungswissen / Themen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_01_00_a",
+                "name": "ihre interkulturellen, sprachlichen und medialen Kompetenzen auf der Basis von Kenntnissen in folgenden Themenbereichen anwenden:",
+                "path": [
+                    "01",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_01_00_01",
+                        "content": "Individuum und Gesellschaft \u2013 sozialer Wandel (zum Beispiel demographischer Wandel, Verst\u00e4dterung, soziale Kluft, Geschlechterrollen) \u2013 Migrationsbewegungen von und nach Spanien/Hispanoamerika, Binnenmigration \u2013 Zusammenleben verschiedener Kulturen, Ethnien, sozialer Milieus und Religionen in Spanien und Hispanoamerika \u2013 Chancen und Herausforderungen der Mediengesellschaft \u2013 Partizipation in der Zivilgesellschaft (zum Beispiel soziales und politisches Engagement, Emanzipationsbestrebungen von ind\u00edgenas)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_01_00_02",
+                        "content": "Gegebenheiten und Herausforderungen der Gegenwart \u2013 wirtschaftliche, soziale und politische Verbindungen zwischen Spanien, Hispanoamerika, Europa und den USA \u2013 Nachhaltiges Wirtschaften und Leben: Tourismus, \u00d6kologie, Umgang mit Ressourcen \u2013 Globalisierung und ihre Auswirkungen (zum Beispiel desigualdades, derechos humanos) \u2013 Umgang mit der Vergangenheit in Spanien (memoria hist\u00f3rica) und Hispanoamerika (Aufarbeitung des diktatorialen Erbes) \u2013 Emanzipationsprozesse (zum Beispiel Entkolonialisierung, Autonomiebestrebungen, Gewalt in politischen Auseinandersetzungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_01_00_03",
+                        "content": "Kulturelle Identit\u00e4t \u2013 Elemente der kulturellen Identit\u00e4t (zum Beispiel regionale Zugeh\u00f6rigkeit, Rolle der Sprache, kritischer Umgang mit Stereotypen) \u2013 vertiefte Auseinandersetzung mit Epochen der Geschichte Spaniens im 20./ 21. Jahrhundert: der spanische B\u00fcrgerkrieg, Franquismo, Transici\u00f3n, Spanien als Br\u00fccke zwischen Europa und Hispanoamerika \u2013 vertiefte Auseinandersetzung mit Meilensteinen der Geschichte Hispanoamerikas: Folgen der Eroberung Amerikas, Kolonisation und Emanzipation, Diktatur, Revolution, Wege in die Demokratie"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "VB_03",
+                    "BNE_02",
+                    "VB_08",
+                    "MB_01",
+                    "PG_07",
+                    "BO_07",
+                    "BNE_05",
+                    "BTV_03",
+                    "PG_01",
+                    "VB_07",
+                    "BNE_01",
+                    "VB_02",
+                    "BTV_06",
+                    "PG_07",
+                    "PG_02",
+                    "VB_01",
+                    "VB_05",
+                    "BNE_06",
+                    "MB_02",
+                    "PG_07",
+                    "BTV_04",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_E1_IK_7-8_01_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-LF_01",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_03_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_07_00",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02",
+                    "BP2016BW_ALLG_GYM_GEO_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04_01",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_01",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-BF_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_11-12-LF_03",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00",
+                    "BP2016BW_ALLG_GYM_BK",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_01",
+                    "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_03_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_05_00",
+                    "BP2016BW_ALLG_GYM_G_IK_11-12_07_00",
+                    "BP2016BW_ALLG_GYM_LUT_IK_11-12_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05",
+        "name": "3.2.3.5 Schreiben",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.5 Schreiben\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen klar strukturierte Texte zu Themen ihrer Interessengebiete und zu fachlichen Themen textsortenad\u00e4quat und adressatengerecht verfassen. Sie verf\u00fcgen \u00fcber vielf\u00e4ltige Strategien zur Steuerung des Schreibprozesses.",
+        "path": [
+            "03",
+            "05"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "05",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_01",
+                        "content": "Notizen zielorientiert und koh\u00e4rent verfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_02",
+                        "content": "Texte strukturiert zusammenfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_03",
+                        "content": "ausf\u00fchrliche Berichte und Beschreibungen selbstst\u00e4ndig verfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_04",
+                        "content": "W\u00fcnsche, Pl\u00e4ne und Vorstellungen zusammenh\u00e4ngend darstellen und begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_05",
+                        "content": "eigene und fremde Ansichten und Meinungen koh\u00e4rent darstellen und begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_06",
+                        "content": "formelle und pers\u00f6nliche Korrespondenz verfassen (zum Beispiel formeller Brief, E-Mail, Blogeintrag, Chatbeitrag, Kurznachricht, Anfrage, Bewerbungsschreiben, Lebenslauf, pers\u00f6nlicher Brief)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_07",
+                        "content": "auf der Basis von Impulsen (Stichw\u00f6rter, Bilder, Lieder, Videoclips, Karikaturen) kreative Texte verfassen und gestalten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_08",
+                        "content": "Schreibprozesse selbstst\u00e4ndig planen und umsetzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05_09",
+                        "content": "(digitale) Hilfsmittel (zum Beispiel W\u00f6rterb\u00fccher, Grammatiken, Enzyklop\u00e4dien) und Strategien zum Verfassen und \u00dcberarbeiten eigener Texte selbstst\u00e4ndig und zielgerichtet verwenden"
+                    }
+                ],
+                "guidelines": [
+                    "MB_04",
+                    "MB_04",
+                    "BO_01",
+                    "MB_04",
+                    "MB_05",
+                    "MB_05",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_BK_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+        "name": "3.1.3.3 Sprechen \u2013 an Gespr\u00e4chen teilnehmen",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.3 Sprechen \u2013 an Gespr\u00e4chen teilnehmen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen sich zunehmend fl\u00fcssig, sprachlich korrekt und adressatengerecht sowie situationsangemessen an Gespr\u00e4chen \u00fcber vertraute \u2013 pers\u00f6nlich und gesellschaftlich relevante \u2013 Themen beteiligen. Sie verf\u00fcgen \u00fcber grundlegende Strategien, um in Sprechsituationen angemessen zu interagieren.",
+        "path": [
+            "03",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "03",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_01",
+                        "content": "ein einfaches Gespr\u00e4ch \u00fcber vertraute \u2013 pers\u00f6nlich und gesellschaftlich relevante \u2013 Themen beginnen, aufrechterhalten und beenden, dabei den Gespr\u00e4chsverlauf aktiv gestalten und sich zunehmend spontan und fl\u00fcssig \u00e4u\u00dfern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_02",
+                        "content": "Diskussionen zu vertrauten Themen aufgabengest\u00fctzt f\u00fchren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_03",
+                        "content": "in Gespr\u00e4chen und Diskussionen zu aktuell bedeutsamen Sachverhalten aufgabengest\u00fctzt Stellung beziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_04",
+                        "content": "auf \u00c4u\u00dferungen, Nachfragen, Kommentare und Einw\u00e4nde anderer zunehmend sprachlich und interkulturell angemessen reagieren, indem sie gegebenenfalls Erl\u00e4uterungen geben, Gef\u00fchle, \u00dcberzeugungen und Meinungen \u00e4u\u00dfern und eigene Positionen formulieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_05",
+                        "content": "in Diskussionen \u00fcber vertraute Themen eine vorgegebene Perspektive einnehmen und zunehmend selbstst\u00e4ndig aus dieser heraus Argumente formulieren (zum Beispiel im Rollenspiel, in szenischen Verfahren)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_06",
+                        "content": "verbale und nonverbale Gespr\u00e4chskonventionen situationsangemessen zunehmend selbstst\u00e4ndig anwenden (zum Beispiel Gespr\u00e4che auf verschiedene Weise er\u00f6ffnen, fortf\u00fchren, aufrechterhalten und beenden, aktives Zuh\u00f6ren signalisieren)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03_07",
+                        "content": "geeignete kommunikative Strategien aufgabengest\u00fctzt einsetzen, um mit Nichtverstehen und Missverst\u00e4ndnissen angemessen umzugehen (Kompensationsstrategien wie zum Beispiel Nachfragen, Paraphrasieren, Beispiele hinzuf\u00fcgen, Gestik und Mimik einsetzen, Denkpausen schaffen)"
+                    }
+                ],
+                "guidelines": [
+                    "BTV_06",
+                    "BO_01",
+                    "BTV_06",
+                    "PG_01",
+                    "PG_02",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04",
+        "name": "3.5.3.4 Sprechen \u2013 zusammenh\u00e4ngendes monologisches Sprechen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.4 Sprechen \u2013 zusammenh\u00e4ngendes monologisches Sprechen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen klar strukturierte und detaillierte Darstellungen zu allgemeinen Themen geben und Positionen begr\u00fcndet darlegen und vertreten. Sie verf\u00fcgen \u00fcber verschiedene Vortrags- und Pr\u00e4sentationsstrategien, um eigene m\u00fcndliche Produktionen situations- und adressatengerecht zu planen und vorzutragen.",
+        "path": [
+            "03",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "04",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_01",
+                        "content": "Sachverhalte, bezogen auf vertraute und gegebenenfalls weniger vertraute, auch abstrakte Themen, detailliert und strukturiert darstellen und in ausgew\u00e4hlten F\u00e4llen kommentieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_02",
+                        "content": "Ansichten, Pl\u00e4ne oder Handlungen detailliert darstellen und begr\u00fcnden, und dabei Alternativen entwickeln und gegebenenfalls Zusammenh\u00e4nge herstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_03",
+                        "content": "nichtliterarische Texte sprachlich angemessen weitgehend koh\u00e4rent vorstellen, gegebenenfalls kommentieren und dabei wesentliche Aspekte und relevante unterst\u00fctzende Details hervorheben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_04",
+                        "content": "literarische Texte vorstellen und in ihren wesentlichen Merkmalen analysieren und kommentieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_05",
+                        "content": "ein selbstst\u00e4ndig erarbeitetes gesellschaftlich relevantes Thema sprachlich angemessen, klar strukturiert und weitgehend fl\u00fcssig vortragen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_06",
+                        "content": "eigene Monologe formulieren und interpretierend vortragen (zum Beispiel eine Rolle gestalten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_07",
+                        "content": "selbstst\u00e4ndig geeignete Methoden zur Ideenfindung, Planung und Strukturierung von Pr\u00e4sentationen anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_08",
+                        "content": "geeignete Vortrags- und Pr\u00e4sentationsstrategien selbstst\u00e4ndig nutzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04_09",
+                        "content": "ausgew\u00e4hlte Kompensations- und Korrekturtechniken spontan anwenden"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BNE_05",
+                    "BNE_05",
+                    "MB_02",
+                    "BO_01",
+                    "MB_05",
+                    "MB_05",
+                    "MB_05",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_01_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_07",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+        "name": "3.5.3.3 Sprechen \u2013 an Gespr\u00e4chen teilnehmen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.3 Sprechen \u2013 an Gespr\u00e4chen teilnehmen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen sich \u00fcberwiegend fl\u00fcssig, sprachlich korrekt und adressatengerecht sowie situationsangemessen an Gespr\u00e4chen \u00fcber vertraute und gegebenenfalls weniger vertraute, konkrete und abstrakte Themen beteiligen. Sie verf\u00fcgen \u00fcber verschiedene Strategien, um in Sprechsituationen angemessen zu interagieren.",
+        "path": [
+            "03",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "03",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_01",
+                        "content": "ein adressatengerechtes und situationsangemessenes Gespr\u00e4ch \u00fcber vertraute und gegebenenfalls weniger vertraute Themen beginnen, aufrechterhalten und beenden, dabei den Gespr\u00e4chsverlauf aktiv gestalten und sich weitgehend spontan und fl\u00fcssig \u00e4u\u00dfern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_02",
+                        "content": "Diskussionen zu vertrauten und gegebenenfalls weniger vertrauten, auch abstrakten Themen f\u00fchren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_03",
+                        "content": "in Gespr\u00e4chen und Diskussionen zu aktuellen wie generell bedeutsamen Sachverhalten Stellung beziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_04",
+                        "content": "auf \u00c4u\u00dferungen, Nachfragen, Kommentare und Einw\u00e4nde anderer sprachlich und interkulturell angemessen reagieren, indem sie gegebenenfalls Erl\u00e4uterungen geben, Gef\u00fchle, \u00dcberzeugungen und Meinungen \u00e4u\u00dfern oder den eigenen Standpunkt darlegen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_05",
+                        "content": "in Diskussionen eine oder auch verschiedene Perspektiven einnehmen und weitgehend selbstst\u00e4ndig sprachlich differenziert formulieren (zum Beispiel eine zugewiesene Rolle in einer Debatte)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_06",
+                        "content": "verbale und nonverbale Gespr\u00e4chskonventionen situationsangemessen weitgehend selbstst\u00e4ndig anwenden (zum Beispiel Gespr\u00e4che auf verschiedene Weise er\u00f6ffnen, fortf\u00fchren, aufrechterhalten und beenden, aktives Zuh\u00f6ren signalisieren)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03_07",
+                        "content": "geeignete kommunikative Strategien weitgehend frei einsetzen, um mit Nichtverstehen und Missverst\u00e4ndnissen angemessen umzugehen (Kompensationsstrategien wie zum Beispiel Nachfragen, Paraphrasieren, Beispiele hinzuf\u00fcgen)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_06",
+                    "BTV_06",
+                    "BO_01",
+                    "BTV_06",
+                    "BNE_05",
+                    "PG_01",
+                    "PG_02",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09",
+        "name": "3.2.3.9 Verf\u00fcgen \u00fcber sprachliche Mittel: Aussprache und Intonation",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.9 Verf\u00fcgen \u00fcber sprachliche Mittel: Aussprache und Intonation\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ein gefestigtes Repertoire typischer Aussprache- und Intonationsmuster des Kastilischen oder einer hispanoamerikanischen Variet\u00e4t verwenden. Ihre Aussprache ist klar und verst\u00e4ndlich und die Intonation angemessen. Sie verf\u00fcgen \u00fcber Strategien der Selbstkorrektur.",
+        "path": [
+            "03",
+            "09"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "09",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09_01",
+                        "content": "das Aussprache- und Intonationsmuster einer Standardvariet\u00e4t verwenden und dabei eine klar verst\u00e4ndliche Aussprache und angemessene Intonation zeigen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09_02",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09_03",
+                        "content": "repr\u00e4sentative Variet\u00e4ten der Zielsprache erkennen und einige Merkmale beschreiben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09_04",
+                        "content": "(digitale) Medien oder Hilfsmittel zur Festigung und Selbstkorrektur der Aussprache nutzen"
+                    }
+                ],
+                "guidelines": [
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09_02",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01",
+        "name": "3.1.3.1 H\u00f6r-/H\u00f6rsehverstehen",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.1 H\u00f6r-/H\u00f6rsehverstehen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen didaktisierte und authentische H\u00f6r- und H\u00f6rsehtexte zu vertrauten Themen verstehen, sofern sie in deutlich artikulierter Standardsprache gesprochen werden. Sie verf\u00fcgen \u00fcber ein Repertoire an Erschlie\u00dfungsstrategien f\u00fcr H\u00f6r- und H\u00f6rsehtexte.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, (fehlende) Redundanzen und Koh\u00e4renz, Textl\u00e4nge, Abstraktionsgrad, Grad der Explizitheit, Diskursstruktur, Wortschatz, kulturspezifische Begriffe, Komplexit\u00e4t der Syntax, visuelle Unterst\u00fctzung, Divergenz von Bild und Ton, Anzahl und Simultaneit\u00e4t der Sprecher, Sprechgeschwindigkeit, Grad der Abweichung von der Standardsprache, Stimmlage und Nebenger\u00e4usche.",
+        "path": [
+            "03",
+            "01"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "01",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01_01",
+                        "content": "der H\u00f6r\u2011/H\u00f6rsehabsicht entsprechend die Hauptaussagen oder Detailinformationen aus strukturierten H\u00f6r\u2011/H\u00f6rsehtexten weitgehend selbstst\u00e4ndig entnehmen (Global\u2011, Selektiv- und Detailverstehen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01_02",
+                        "content": "bei vertrauter Thematik l\u00e4ngere Redebeitr\u00e4ge und Argumentationen in den Hauptpunkten weitgehend selbstst\u00e4ndig verstehen, sofern diese auch durch explizite Signale klar strukturiert und artikuliert sind"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01_03",
+                        "content": "gesehene und geh\u00f6rte Informationen weitgehend selbstst\u00e4ndig zueinander in Beziehung setzen und in ihrem Zusammenhang, kulturellen Kontext, sowie in Ans\u00e4tzen in ihrer Wirkung verstehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01_04",
+                        "content": "textinterne (verbale und nonverbale) Informationen und textexternes Wissen zunehmend selbstst\u00e4ndig in Beziehung setzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01_05",
+                        "content": "weitgehend selbstst\u00e4ndig explizite und mit Hilfestellung auch implizite Einstellungen oder Beziehungen zwischen Sprechenden herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01_06",
+                        "content": "unterschiedliche Erschlie\u00dfungsstrategien entsprechend der H\u00f6r\u2011/H\u00f6rsehabsicht weitgehend selbstst\u00e4ndig einsetzen (zum Beispiel Weltwissen aktivieren, top down und bottom up Prozesse kombinieren, Wortfelder identifizieren, Mitschreibetechniken anwenden (Flussdiagramme, Gegensatztabellen, etc.), Bilder als Erg\u00e4nzung oder Ablenkung von der Botschaft identifizieren)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "BO_02",
+                    "MB_04",
+                    "PG_07",
+                    "BTV_01",
+                    "PG_02",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+        "name": "3.1.2 Interkulturelle kommunikative Kompetenz",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.2 Interkulturelle kommunikative Kompetenz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen in vertrauten direkten und medial vermittelten interkulturellen Situationen angemessen handeln. Dabei k\u00f6nnen sie zielkulturelle Vorstellungen und Erwartungen mit ihren eigenen in Beziehung setzen und ihr soziokulturelles Wissen nutzen.",
+        "path": [
+            "02",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "02",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00_01",
+                        "content": "ihr Wissen \u00fcber zielkulturelle Aspekte in verschiedenen Situationen und Themenbereichen anwenden (zum Beispiel bei den Themen Alltag, Festtraditionen, Schule, Berufswelt, Interessen und Probleme junger Menschen, politische und soziale Entwicklungen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00_02",
+                        "content": "mit den ihnen zur Verf\u00fcgung stehenden kommunikativen Mitteln vertraute interkulturelle Kommunikationssituationen weitgehend selbstst\u00e4ndig gestalten und dabei den Umgang mit grundlegenden fremdkulturellen Konventionen beachten (zum Beispiel Signalisierung von Distanz und N\u00e4he)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00_03",
+                        "content": "Gemeinsamkeiten und Unterschiede bei eigenen und zielkulturellen Wahrnehmungen, Einstellungen und (Vor\u2011)Urteilen erkennen und ansatzweise analysieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00_04",
+                        "content": "anhand von fiktionalen Texten (Literatur, Film, Bild) vor dem zielkulturellen Hintergrund einen Perspektivenwechsel vollziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00_05",
+                        "content": "interkulturelle Missverst\u00e4ndnisse erkennen und zunehmend selbstst\u00e4ndig kl\u00e4ren"
+                    }
+                ],
+                "guidelines": [
+                    "VB_07",
+                    "VB_03",
+                    "BO_02",
+                    "BTV_01",
+                    "PG_06",
+                    "BTV_08",
+                    "MB_04",
+                    "PG_01",
+                    "BNE_03",
+                    "BTV_05",
+                    "BNE_03",
+                    "BTV_04",
+                    "BNE_03",
+                    "BNE_07",
+                    "BTV_06"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_7-8_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_10",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_08",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_12"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08",
+        "name": "3.2.3.8 Verf\u00fcgen \u00fcber sprachliche Mittel: Grammatik",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.8 Verf\u00fcgen \u00fcber sprachliche Mittel: Grammatik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ein breites Repertoire grammatischer Strukturen f\u00fcr die Realisierung ihrer kommunikativen Absicht anwenden sowie frequente Varianten verstehen. Sie verf\u00fcgen \u00fcber Strategien zum Erschlie\u00dfen von Strukturen und zur Selbstkorrektur.",
+        "path": [
+            "03",
+            "08"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "08",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_01",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_02",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_03",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_04",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_05",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_06",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_07",
+                        "content": "Vorg\u00e4nge als gleichzeitig und in ihrer zeitlichen Abfolge und Dauer darstellen \u2013 gerundio \u2013 per\u00edfrasis verbales \u2013 Infinitivkonstruktionen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_08",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_09",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_10",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_11",
+                        "content": "komplexe Zusammenh\u00e4nge formulieren \u2013 Nebensatzverk\u00fcrzungen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_12",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_13",
+                        "content": "unpers\u00f6nliche Aussagen formulieren \u2013 Ersatzkonstruktionen und pasiva refleja \u2013 Zustands- und Vorgangspassiv"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_14",
+                        "content": "Strategien zum Erschlie\u00dfen von Strukturen anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08_15",
+                        "content": "(digitale) Hilfsmittel nutzen und Strategien zur Selbstkorrektur selbstst\u00e4ndig einsetzen"
+                    }
+                ],
+                "guidelines": [
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_10",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_08",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_12",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+        "name": "3.2.3.3 Sprechen \u2013 an Gespr\u00e4chen teilnehmen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.3 Sprechen \u2013 an Gespr\u00e4chen teilnehmen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen sich weitgehend fl\u00fcssig, sprachlich korrekt und adressatengerecht sowie situationsangemessen an Gespr\u00e4chen auch \u00fcber wenig vertraute und abstrakte Themen beteiligen. Sie verf\u00fcgen \u00fcber ad\u00e4quate Strategien, um in Sprechsituationen angemessen zu interagieren.",
+        "path": [
+            "03",
+            "03"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "03",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_01",
+                        "content": "ein adressatengerechtes und situationsangemessenes Gespr\u00e4ch beginnen, aufrechterhalten und beenden, dabei den Gespr\u00e4chsverlauf aktiv gestalten und sich spontan und weitgehend fl\u00fcssig \u00e4u\u00dfern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_02",
+                        "content": "Diskussionen zu vertrauten, auch abstrakten Themen f\u00fchren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_03",
+                        "content": "in Gespr\u00e4chen und Diskussionen zu aktuellen wie generell bedeutsamen Sachverhalten Stellung beziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_04",
+                        "content": "auf \u00c4u\u00dferungen, Nachfragen, Kommentare und Einw\u00e4nde anderer sprachlich und interkulturell angemessen reagieren, indem sie gegebenenfalls Erl\u00e4uterungen geben oder den eigenen Standpunkt darlegen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_05",
+                        "content": "in Diskussionen verschiedene Perspektiven einnehmen und sprachlich differenziert formulieren (zum Beispiel eine zugewiesene Rolle in einer Debatte)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_06",
+                        "content": "verbale und nonverbale Gespr\u00e4chskonventionen situationsangemessen selbstst\u00e4ndig anwenden (zum Beispiel Gespr\u00e4che auf verschiedene Weise er\u00f6ffnen, fortf\u00fchren, aufrechterhalten und beenden, aktives Zuh\u00f6ren signalisieren)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03_07",
+                        "content": "geeignete kommunikative Strategien einsetzen, um mit Nichtverstehen und Missverst\u00e4ndnissen angemessen umzugehen (zum Beispiel Kompensationsstrategien)"
+                    }
+                ],
+                "guidelines": [
+                    "BNE_06",
+                    "BTV_06",
+                    "BO_01",
+                    "BTV_06",
+                    "BNE_05",
+                    "PG_01",
+                    "PG_02",
+                    "PG_01"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08",
+        "name": "3.5.3.8 Verf\u00fcgen \u00fcber sprachliche Mittel: Grammatik",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.8 Verf\u00fcgen \u00fcber sprachliche Mittel: Grammatik\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen ein breites Repertoire grammatischer Strukturen f\u00fcr die Realisierung ihrer kommunikativen Absicht anwenden sowie frequente Varianten verstehen. Sie verf\u00fcgen \u00fcber Strategien zum Erschlie\u00dfen von Strukturen und zur Selbstkorrektur.",
+        "path": [
+            "03",
+            "08"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "08",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_01",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_02",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_03",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_04",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_05",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_06",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_07",
+                        "content": "Vorg\u00e4nge als gleichzeitig und in ihrer zeitlichen Abfolge und Dauer darstellen \u2013 gerundio  \u2013 per\u00edfrasis verbales \u2013 ausgew\u00e4hlte Infinitivkonstruktionen (zum Beispiel al + infinitivo, hasta + infinitivo, con + infinitivo, por + infinitivo)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_08",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_09",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_10",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_11",
+                        "content": "komplexe Zusammenh\u00e4nge formulieren \u2013 Nebensatzverk\u00fcrzungen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_12",
+                        "content": "[in 8/9/10]"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_13",
+                        "content": "unpers\u00f6nliche Aussagen formulieren \u2013 Ersatzkonstruktionen und pasiva refleja \u2013 Zustands- und Vorgangspassiv"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_14",
+                        "content": "Strategien zum Erschlie\u00dfen von Strukturen anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_08_15",
+                        "content": "(digitale) Hilfsmittel nutzen und Strategien zur Selbstkorrektur selbstst\u00e4ndig einsetzen"
+                    }
+                ],
+                "guidelines": [
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_10",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_08",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08_12",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04",
+        "name": "3.2.3.4 Sprechen \u2013 zusammenh\u00e4ngendes monologisches Sprechen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.3.4 Sprechen \u2013 zusammenh\u00e4ngendes monologisches Sprechen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen klar strukturierte und detaillierte Darstellungen zu allgemeinen Themen geben und Positionen begr\u00fcndet darlegen und vertreten. Sie verf\u00fcgen \u00fcber angemessene Vortrags- und Pr\u00e4sentationsstrategien, um eigene m\u00fcndliche Produktionen situations- und adressatengerecht zu planen und vorzutragen.",
+        "path": [
+            "03",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_a",
+                "name": "Strategie und Methoden",
+                "path": [
+                    "03",
+                    "04",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_01",
+                        "content": "Sachverhalte, bezogen auf ein breites Spektrum von auch abstrakten Themen, detailliert und strukturiert darstellen und gegebenenfalls kommentieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_02",
+                        "content": "Ansichten, Pl\u00e4ne oder Handlungen detailliert darstellen und begr\u00fcnden, und dabei Alternativen entwickeln und gegebenenfalls Zusammenh\u00e4nge herstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_03",
+                        "content": "komplexe nichtliterarische Texte sprachlich angemessen koh\u00e4rent vorstellen, gegebenenfalls kommentieren und dabei wesentliche Aspekte und relevante unterst\u00fctzende Details hervorheben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_04",
+                        "content": "literarische Texte vorstellen, analysieren und kommentieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_05",
+                        "content": "ein selbstst\u00e4ndig erarbeitetes gesellschaftlich relevantes Thema sprachlich angemessen, klar strukturiert und fl\u00fcssig vortragen und bei Nachfragen gegebenenfalls spontan vom vorbereiteten Konzept abweichen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_06",
+                        "content": "eigene Monologe formulieren und interpretierend vortragen (zum Beispiel eine Rolle gestalten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_07",
+                        "content": "selbstst\u00e4ndig geeignete Methoden zur Ideenfindung, Planung und Strukturierung von Pr\u00e4sentationen anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_08",
+                        "content": "geeignete Vortrags- und Pr\u00e4sentationsstrategien selbstst\u00e4ndig nutzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04_09",
+                        "content": "Kompensations- und Korrekturtechniken spontan anwenden"
+                    }
+                ],
+                "guidelines": [
+                    "BO_01",
+                    "BNE_05",
+                    "BNE_05",
+                    "MB_02",
+                    "BO_01",
+                    "MB_05",
+                    "MB_05",
+                    "MB_05",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_01_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_07",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_08",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05",
+        "name": "3.5.3.5 Schreiben",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.5 Schreiben\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen klar strukturierte Texte zu Themen ihrer Interessengebiete und zu fachlichen Themen textsortenad\u00e4quat und adressatengerecht verfassen. Sie verf\u00fcgen \u00fcber vielf\u00e4ltige Strategien zur Steuerung des Schreibprozesses.",
+        "path": [
+            "03",
+            "05"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "05",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_01",
+                        "content": "Notizen zielorientiert und koh\u00e4rent verfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_02",
+                        "content": "Texte strukturiert zusammenfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_03",
+                        "content": "ausf\u00fchrliche Berichte und Beschreibungen selbstst\u00e4ndig verfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_04",
+                        "content": "W\u00fcnsche, Pl\u00e4ne und Vorstellungen zusammenh\u00e4ngend darstellen und begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_05",
+                        "content": "eigene und fremde Ansichten und Meinungen koh\u00e4rent darstellen und begr\u00fcnden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_06",
+                        "content": "formelle und pers\u00f6nliche Korrespondenz verfassen (zum Beispiel formeller Brief, E-Mail, Blogeintrag, Chatbeitrag, Kurznachricht, Anfrage, Bewerbungsschreiben, Lebenslauf, pers\u00f6nlicher Brief)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_07",
+                        "content": "auf der Basis von Impulsen (Stichw\u00f6rter, Bilder, Lieder, Videoclips, Karikaturen) kreative Texte verfassen und gestalten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_08",
+                        "content": "Schreibprozesse selbstst\u00e4ndig planen und umsetzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_05_09",
+                        "content": "(digitale) Hilfsmittel (zum Beispiel W\u00f6rterb\u00fccher, Grammatiken, Enzyklop\u00e4dien) und Strategien zum Verfassen und \u00dcberarbeiten eigener Texte selbstst\u00e4ndig und zielgerichtet verwenden"
+                    }
+                ],
+                "guidelines": [
+                    "MB_04",
+                    "MB_04",
+                    "BO_01",
+                    "MB_04",
+                    "MB_05",
+                    "MB_05",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_BK_IK_11-12_01_00",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02",
+        "name": "3.1.3.2 Leseverstehen",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.2 Leseverstehen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen didaktisierte und authentische Texte zu allgemeinen Themen verstehen. Sie verf\u00fcgen \u00fcber ein Repertoire an grundlegenden Texterschlie\u00dfungsstrategien.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, Wortschatz und Komplexit\u00e4t der Syntax, kulturspezifische Begriffe und visuelle Unterst\u00fctzung.",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "02",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_01",
+                        "content": "der Leseintention entsprechend die Hauptaussagen oder Einzelinformationen aus Texten zu allgemeinen Themen erschlie\u00dfen und sie gegebenenfalls im Detail verstehen (Global\u2011, Selektiv\u2011, Detailverstehen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_02",
+                        "content": "explizite und implizite Aussagen in Texten zu allgemeinen Themen erschlie\u00dfen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_03",
+                        "content": "ein kurzes literarisches Werk oder eine didaktisierte Lekt\u00fcre verstehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_04",
+                        "content": "Texte und Textteile mit Bezug auf ein spezifisches Leseziel ausw\u00e4hlen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_05",
+                        "content": "die inhaltliche Struktur von Texten zu allgemeinen Themen herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_06",
+                        "content": "Rezeptionsstrategien der Leseabsicht entsprechend weitgehend selbstst\u00e4ndig anwenden (zum Beispiel Markierungs- und Gliederungstechniken, Textsortenwissen, textexterne Informationen heranziehen, Hypothesen \u00fcberpr\u00fcfen, Verstehensinseln identifizieren und verkn\u00fcpfen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_02_07",
+                        "content": "geeignete (digitale) Hilfsmittel (zum Beispiel ein- und zweisprachige W\u00f6rterb\u00fccher, Nachschlagewerke) zunehmend selbstst\u00e4ndig nutzen"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "BO_02",
+                    "BTV_01",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00",
+        "name": "3.2.4 Text- und Medienkompetenz",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "LF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.2.4 Text- und Medienkompetenz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Texte verstehen, analysieren, in ihrem kulturellen Kontext deuten, zu verschiedenen weiteren kulturellen Kontexten in Beziehung setzen und die gewonnen Erkenntnisse f\u00fcr die Produktion eigener Texte nutzen.\nSie nutzen die verschiedenen Medien der Informationsverarbeitung und \u2011verbreitung zunehmend kritisch und wenden Strategien der Textanalyse und Textproduktion weitgehend selbstst\u00e4ndig an.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, (fehlende) Redundanzen und Koh\u00e4renz, Textl\u00e4nge, Abstraktionsgrad, Grad der Explizitheit, Diskursstruktur, Wortschatz, kulturspezifische Begriffe, Komplexit\u00e4t der Syntax, Divergenz von Bild und Ton, Anzahl und Simultaneit\u00e4t der Sprecher, Sprechgeschwindigkeit, Grad der Abweichung von der Standardsprache, Stimmlage und Nebenger\u00e4usche.",
+        "path": [
+            "04",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "04",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "LF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_01",
+                        "content": "authentische Texte verstehen und schriftlich oder m\u00fcndlich zusammenfassen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_02",
+                        "content": "diskontinuierliche Texte (zum Beispiel Bild, Karikatur, Graphik, Tabelle) schriftlich und m\u00fcndlich beschreiben, erkl\u00e4ren und dazu Stellung nehmen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_03",
+                        "content": "nichtliterarische und literarische Texte aufgabenbezogen analysieren, interpretieren und die gewonnenen Aussagen am Text belegen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_04",
+                        "content": "Texte mithilfe entsprechender Aufgaben und (bereitgestellter) Materialien in ihrem geschichtlichen und gesellschaftlichen, gegebenenfalls medialen Kontext interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_05",
+                        "content": "Aussage und Wirkung von Texten in Abh\u00e4ngigkeit vom jeweiligen Medium in Ans\u00e4tzen kritisch reflektieren (zum Beispiel Vergleich von Textvorlage und Verfilmung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_06",
+                        "content": "Informationen kritisch recherchieren, die Ergebnisse selbstst\u00e4ndig bewerten und aufgabengerecht nutzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_07",
+                        "content": "Textsorten (zum Beispiel Lebenslauf, Bewerbungsschreiben, Inhaltsangabe, Buchvorstellung, Filmempfehlung, Comic, novela gr\u00e1fica, Blog, E-Mail, Tagebucheintrag) und deren sprachliche, kinematografische, technische und grafische Gestaltungsmittel in ihrer Wirkung identifizieren und deuten und bei der eigenen Textproduktion anwenden (zum Beispiel gattungsspezifischer Analysewortschatz und ad\u00e4quate Redemittel)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_08",
+                        "content": "Texte durch das Verfassen eigener \u2013 auch kreativer \u2013 Texte erschlie\u00dfen und interpretieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_09",
+                        "content": "bearbeitete literarische und nichtliterarische Textvorlagen szenisch interpretieren und sinndarstellend vortragen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_10",
+                        "content": "Einstellungen und Handlungsmuster der Akteure und Figuren aus Textvorlagen aufgabenbezogen herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_11",
+                        "content": "verschiedene Perspektiven einnehmen, vergleichen und kommentieren und aus diesen heraus Stellung beziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_12",
+                        "content": "eine eigene Perspektive herausarbeiten und plausibel darstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_13",
+                        "content": "andere begr\u00fcndete Meinungen und Deutungen identifizieren und verschiedene Interpretationen von Texten er\u00f6rtern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_14",
+                        "content": "bei k\u00fcnstlerisch-\u00e4sthetischen Texten (Literatur, Film) die Interpretationsoffenheit nutzen, indem sie offensichtliche Handlungsalternativen f\u00fcr Figuren und Darstellungsvariationen der Handlung herausarbeiten, formulieren, vergleichen und aufgabengest\u00fctzt f\u00fcr die Interpretation heranziehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_15",
+                        "content": "vertraute Hilfsmittel und Techniken zum vertieften sprachlichen, inhaltlichen, textuellen und medialen Verstehen und Produzieren von Texten anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_16",
+                        "content": "zus\u00e4tzliche Quellen und Informationen zur Analyse und Interpretation weitgehend selbstst\u00e4ndig nutzen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_04_00_17",
+                        "content": "ihren \u00fcber das Erstverstehen hinausgehenden vertieften Rezeptionsprozess bewerten, indem sie ihre ersten Eindr\u00fccke kritisch reflektieren, relativieren und gegebenenfalls revidieren"
+                    }
+                ],
+                "guidelines": [
+                    "VB_08",
+                    "MB_02",
+                    "BTV_04",
+                    "MB_02",
+                    "MB_05",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                    "BP2016BW_ALLG_GYM_LUT_IK_11-12_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_04",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_05",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-LF_03_06"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_01_00",
+        "name": "3.1.1 Soziokulturelles Orientierungswissen / Themen",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "",
+        "path": [
+            "01",
+            "00"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_01_00_a",
+                "name": "ihre interkulturellen, sprachlichen und medialen Kompetenzen auf der Basis von Kenntnissen in folgenden Themenbereichen anwenden:",
+                "path": [
+                    "01",
+                    "00",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_01_00_01",
+                        "content": "Individuum und Gesellschaft \u2013 Lebenswelten in Spanien und Hispanoamerika im Vergleich zur eigenen Lebenswelt (zum Beispiel Familie, Schule, Freunde, Freizeitverhalten, Kommunikation) \u2013 Alltagswirklichkeiten und Zukunftsperspektiven junger Menschen in Spanien und hispanoamerikanischen L\u00e4ndern (zum Beispiel Jugendarbeitslosigkeit, Leben in einer megal\u00f3polis) \u2013 Grundkenntnisse \u00fcber verschiedene Kulturen, Ethnien, soziale Milieus in Spanien und Hispanoamerika (zum Beispiel ind\u00edgenas) \u2013 Migrationsbewegungen in Spanien und Hispanoamerika (zum Beispiel hispanos, Migration nach und aus Spanien, Landflucht)\n \u2013 Chancen und Herausforderungen der Mediengesellschaft (Medien in der spanischsprachigen Welt, zum Beispiel telenovelas) \u2013 Beispiele f\u00fcr Partizipation in der Zivilgesellschaft (zum Beispiel Umweltschutz, soziales Engagement in ONGs)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_01_00_02",
+                        "content": "Gegebenheiten und Herausforderungen der Gegenwart \u2013 Kenntnisse der Geographie Spaniens und Hispanoamerikas \u2013 Grundkenntnisse \u00fcber die politische Organisation Spaniens \u2013 grundlegende Kenntnisse sozialer, politischer und wirtschaftlicher Gegebenheiten, exemplarisch an einem Land Hispanoamerikas, an einer Region Spaniens oder an Beispielen aus unterschiedlichen L\u00e4ndern und Regionen \u2013 Beispiele f\u00fcr nachhaltiges Wirtschaften und Leben: Tourismus, Umweltproblematik, comercio justo"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_01_00_03",
+                        "content": "Kulturelle Identit\u00e4t \u2013 Traditionen und Feste in Spanien und Hispanoamerika \u2013 Sprachenvielfalt Spaniens (Regionalsprachen), Merkmale von Variet\u00e4ten Hispanoamerikas (zum Beispiel voseo, Unterschiede im Wortschatz) und Entwicklungen durch Sprachkontakte (zum Beispiel spanglish und Neologismen) \u2013 erste Auseinandersetzung mit historischen Meilensteinen der Geschichte Spaniens: das maurische Spanien (Zusammenleben von Arabern, Juden und Christen), Reconquista, 20./ 21. Jahrhundert und Hispanoamerikas: culturas precolombinas, \u201eEntdeckung\u201c und Eroberung Amerikas, 20./ 21. Jahrhundert"
+                    }
+                ],
+                "guidelines": [
+                    "VB_03",
+                    "BO_02",
+                    "MB_01",
+                    "PG_07",
+                    "BTV_01",
+                    "BNE_05",
+                    "PG_01",
+                    "BNE_02",
+                    "PG_07",
+                    "VB_01",
+                    "BTV_02",
+                    "BNE_06",
+                    "VB_08",
+                    "MB_02",
+                    "BTV_04"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_01",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02",
+                    "BP2016BW_ALLG_GYM_ETH_IK_9-10_03",
+                    "BP2016BW_ALLG_GYM_GEO_IK_9-10_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_01_02",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_01_03",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_01",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_02_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00_04",
+                    "BP2016BW_ALLG_GYM_GEO_IK_9-10_01",
+                    "BP2016BW_ALLG_GYM_GEO_IK_9-10_04",
+                    "BP2016BW_ALLG_GYM_GK_IK_8-9-10_03",
+                    "BP2016BW_ALLG_GYM_BK",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_01_01",
+                    "BP2016BW_ALLG_GYM_E1_IK_5-6_01_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00",
+                    "BP2016BW_ALLG_GYM_G_IK_9-10_03_00"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04",
+        "name": "3.1.3.4 Sprechen \u2013 zusammenh\u00e4ngendes monologisches Sprechen",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.4 Sprechen \u2013 zusammenh\u00e4ngendes monologisches Sprechen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen strukturierte Darstellungen zu pers\u00f6nlich, fachlich und gesellschaftlich relevanten Themen geben und Positionen darlegen und vertreten. Sie verf\u00fcgen \u00fcber grundlegende Vortrags- und Pr\u00e4sentationsstrategien, um eigene m\u00fcndliche Textproduktionen adressatengerecht zu planen und vorzutragen.",
+        "path": [
+            "03",
+            "04"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "04",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_01",
+                        "content": "Sachverhalte, bezogen auf vertraute oder vorbereitete Themen, detailliert und strukturiert darstellen und gegebenenfalls kommentieren"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_02",
+                        "content": "Ansichten, Pl\u00e4ne oder Handlungen darstellen und begr\u00fcnden, dabei Alternativen entwickeln und gegebenenfalls Zusammenh\u00e4nge herstellen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_03",
+                        "content": "klar strukturierte nichtliterarische Texte sprachlich angemessen vorstellen und gegebenenfalls kommentieren und dabei zentrale Aspekte hervorheben"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_04",
+                        "content": "literarische Texte vorstellen und gegebenenfalls in ihren wesentlichen Merkmalen analysieren und kommentieren (zum Beispiel die zentralen Figuren hinsichtlich der markanten Merkmale beschreiben)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_05",
+                        "content": "ein selbstst\u00e4ndig, anhand unterschiedlicher Quellen erarbeitetes gesellschaftlich relevantes Thema mithilfe von Strukturhilfen zusammenh\u00e4ngend und klar strukturiert pr\u00e4sentieren und dabei die Hauptpunkte herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_06",
+                        "content": "eigene k\u00fcrzere Monologe formulieren und interpretierend vortragen (zum Beispiel eine Rolle gestalten)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_07",
+                        "content": "Methoden zur Ideenfindung, Planung und Strukturierung von Pr\u00e4sentationen weitgehend selbstst\u00e4ndig anwenden (zum Beispiel Brainstorming, Cluster, Mindmap, Schl\u00fcsselw\u00f6rter, Gliederung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_08",
+                        "content": "geeignete Vortrags- und Pr\u00e4sentationsstrategien weitgehend selbstst\u00e4ndig nutzen (zum Beispiel Blickkontakt, K\u00f6rperhaltung, Stimme, Gestik, Mimik, mediale Unterst\u00fctzung)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_04_09",
+                        "content": "einfache Kompensations- und Korrekturtechniken anwenden (zum Beispiel Paraphrasieren, Beispiele nennen, lexikalische Einheiten durch Gestik und Mimik darstellen, nach dem Stocken S\u00e4tze selbstst\u00e4ndig neu beginnen)"
+                    }
+                ],
+                "guidelines": [
+                    "BO_07",
+                    "PG_01",
+                    "MB_02",
+                    "BO_01",
+                    "MB_05",
+                    "MB_05",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_01_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_08",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_09",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_04_00",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07",
+        "name": "3.1.3.7 Verf\u00fcgen \u00fcber sprachliche Mittel: Wortschatz",
+        "subject": "SPA3",
+        "grades": [
+            "8",
+            "9",
+            "10"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.1.3.7 Verf\u00fcgen \u00fcber sprachliche Mittel: Wortschatz\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler verf\u00fcgen \u00fcber ein Repertoire an lexikalischen Einheiten, das es ihnen erm\u00f6glicht, zu vertrauten Themen verst\u00e4ndlich und weitgehend korrekt zu kommunizieren. Sie verf\u00fcgen \u00fcber grundlegende Strategien zur Erschlie\u00dfung und Vernetzung lexikalischer Einheiten.",
+        "path": [
+            "03",
+            "07"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "07",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07_01",
+                        "content": "einen allgemeinen Wortschatz je nach Situation und Intention angemessen und weitgehend korrekt einsetzen, um sich zu vertrauten Themen zu \u00e4u\u00dfern"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07_02",
+                        "content": "einen umfangreichen Funktionswortschatz verstehen und weitgehend korrekt anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07_03",
+                        "content": "Verfahren zum Memorieren, Dokumentieren und Strukturieren von lexikalischen Einheiten selbstst\u00e4ndig anwenden (zum Beispiel Wortfeld, Wortfamilien, Mindmap, Visualisierung, (digitale) Vokabeltrainer)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07_04",
+                        "content": "Strategien der Umschreibung weitgehend selbstst\u00e4ndig anwenden (zum Beispiel Synonyme, Beispiele, Gegens\u00e4tze, Vergleiche, Definitionen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07_05",
+                        "content": "neue lexikalische Einheiten weitgehend selbstst\u00e4ndig erschlie\u00dfen (R\u00fcckgriff auf andere Sprachen, den Kontext, Textsorten, Illustrationen, Wortbildungsregeln (Pr\u00e4fixe, Suffixe))"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03_07_06",
+                        "content": "(digitale) Hilfsmittel zunehmend selbstst\u00e4ndig nutzen (zum Beispiel ein- und zweisprachige W\u00f6rterb\u00fccher)"
+                    }
+                ],
+                "guidelines": [
+                    "PG_02",
+                    "PG_02",
+                    "MB_03"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_PK_01",
+                    "BP2016BW_ALLG_GYM_SPA3_PK_02",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_8-9-10_03",
+                    "BP2016BW_ALLG_GYM_D_IK_9-10_02"
+                ]
+            }
+        ],
+        "info": []
+    },
+    {
+        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02",
+        "name": "3.5.3.2 Leseverstehen",
+        "subject": "SPA3",
+        "grades": [
+            "11",
+            "12",
+            "BF"
+        ],
+        "school_type": "GYM",
+        "type": "IK",
+        "description": "3.5.3.2 Leseverstehen\n\n\n\nDie Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen authentische nichtliterarische und literarische Texte auch zu abstrakten Themen verstehen. Sie verf\u00fcgen \u00fcber ein angemessenes Repertoire an Texterschlie\u00dfungsstrategien.\nF\u00fcr den Schwierigkeitsgrad von Texten sind folgende Faktoren von Bedeutung: Vertrautheit mit dem Thema und der Textsorte, Informationsdichte, Wortschatz und Komplexit\u00e4t der Syntax, kulturspezifische Begriffe und visuelle Unterst\u00fctzung.",
+        "path": [
+            "03",
+            "02"
+        ],
+        "competences": [
+            {
+                "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_a",
+                "name": "Strategien und Methoden",
+                "path": [
+                    "03",
+                    "02",
+                    "a"
+                ],
+                "subject": "GYM",
+                "grades": [
+                    "11",
+                    "12",
+                    "BF"
+                ],
+                "school_type": "GYM",
+                "type": "IK",
+                "sub_competences": [
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_01",
+                        "content": "der Leseintention entsprechend die Hauptaussagen oder Einzelinformationen aus Texten zu allgemeinen und auch abstrakten Themen herausarbeiten und sie gegebenenfalls im Detail verstehen (Global\u2011, Selektiv\u2011, Detailverstehen)"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_02",
+                        "content": "explizite und implizite Aussagen von Texten analysieren und bewerten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_03",
+                        "content": "ein authentisches literarisches Werk oder Textausz\u00fcge aus literarischen Werken (zum Beispiel novela, cuento, poema) verstehen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_04",
+                        "content": "Texte und Textteile mit Bezug auf ein spezifisches Leseziel ausw\u00e4hlen"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_05",
+                        "content": "die inhaltliche Struktur von Texten zu allgemeinen und auch abstrakten Themen herausarbeiten"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_06",
+                        "content": "geeignete Rezeptionsstrategien entsprechend der Leseabsicht selbstst\u00e4ndig anwenden"
+                    },
+                    {
+                        "id": "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_02_07",
+                        "content": "(digitale) Hilfsmittel nutzen (zum Beispiel ein- und zweisprachige W\u00f6rterb\u00fccher, Nachschlagewerke)"
+                    }
+                ],
+                "guidelines": [
+                    "MB_03",
+                    "BTV_01",
+                    "PG_02"
+                ],
+                "referenced_competences": [
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_02_00",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_01",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_03",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_03_06",
+                    "BP2016BW_ALLG_GYM_SPA3_IK_11-12-BF_04_00"
+                ]
+            }
+        ],
+        "info": []
+    }
+]

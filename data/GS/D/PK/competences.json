@@ -1,0 +1,397 @@
+[
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_03_a",
+            "name": "Lesef\u00e4higkeiten entwickeln",
+            "path": [
+                "03",
+                "a"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_01",
+                    "content": "selbstst\u00e4ndig W\u00f6rter und S\u00e4tze sinnverstehend erlesen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_02",
+                    "content": "Texte sinnverstehend und fl\u00fcssig lesen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_03",
+                    "content": "selbstgew\u00e4hlte Texte zum Vorlesen vorbereiten und sinngestaltend vorlesen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_03_b",
+            "name": "Leseerfahrungen ausbauen",
+            "path": [
+                "03",
+                "b"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_04",
+                    "content": "lebendige Vorstellungen beim Lesen und H\u00f6ren von Texten entwickeln"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_05",
+                    "content": "bei der Besch\u00e4ftigung mit literarischen Texten Sensibilit\u00e4t und Verst\u00e4ndnis f\u00fcr Gedanken, Gef\u00fchle und zwischenmenschliche Beziehungen zeigen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_06",
+                    "content": "Texte vorbereiten und der Situation entsprechend vortragen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_07",
+                    "content": "sich in einer B\u00fccherei orientieren"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_03_c",
+            "name": "Texte erschlie\u00dfen",
+            "path": [
+                "03",
+                "c"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_08",
+                    "content": "Texte begr\u00fcndet ausw\u00e4hlen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_09",
+                    "content": "Texte genau lesen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_10",
+                    "content": "Texte mit eigenen Worten wiedergeben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_11",
+                    "content": "Verfahren zur Orientierung in einem Text nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_12",
+                    "content": "Unterschiede und Gemeinsamkeiten von Texten finden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_13",
+                    "content": "verschiedene Medien und Methoden zur Texterschlie\u00dfung zielorientiert nutzen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_03_d",
+            "name": "Texte pr\u00e4sentieren",
+            "path": [
+                "03",
+                "d"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_14",
+                    "content": "bei Lesungen und Auff\u00fchrungen mitwirken"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_03_15",
+                    "content": "verschiedene Medien f\u00fcr Pr\u00e4sentationen nutzen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_03_e",
+            "name": "das eigene Lesen dokumentieren und reflektieren",
+            "path": [
+                "03",
+                "e"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_01_a",
+            "name": "Gespr\u00e4che f\u00fchren",
+            "path": [
+                "01",
+                "a"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_01",
+                    "content": "Gespr\u00e4chsanl\u00e4sse aufgreifen, nutzen und schaffen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_02",
+                    "content": "Gespr\u00e4chsregeln entwickeln und einhalten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_03",
+                    "content": "Sprechbeitr\u00e4ge und Gespr\u00e4che situationsangemessen planen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_01_b",
+            "name": "funktionsangemessen sprechen",
+            "path": [
+                "01",
+                "b"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_04",
+                    "content": "Anliegen, Bed\u00fcrfnisse und Befindlichkeiten in angemessener Form zum Ausdruck bringen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_05",
+                    "content": "Konflikte mit anderen diskutieren und kl\u00e4ren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_06",
+                    "content": "Sprache bewusst einsetzen und reflektieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_07",
+                    "content": "\u00fcber Lernerfahrungen sprechen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_08",
+                    "content": "sich an der gesprochenen Standardsprache orientieren und artikuliert sprechen, zwischen Dialekten und Standardsprache unterscheiden und beide Sprachformen passend einsetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_09",
+                    "content": "Sprache als Mittel f\u00fcr verschiedene Funktionen nutzen: erz\u00e4hlen, informieren, argumentieren, appellieren, Feedback geben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_10",
+                    "content": "Fachbegriffe nutzen (siehe Anhang)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_01_c",
+            "name": "ausdrucksvoll sprechen, etwas vortragen, szenisch spielen",
+            "path": [
+                "01",
+                "c"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_11",
+                    "content": "sich in eine Rolle hineinversetzen und sie gestalten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_12",
+                    "content": "Situationen in verschiedenen Spielformen szenisch entfalten, verbale und nonverbale Ausdrucksmittel erproben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_13",
+                    "content": "verstehend zuh\u00f6ren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_14",
+                    "content": "Beobachtungen wiedergeben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_15",
+                    "content": "Verstehen zum Ausdruck bringen und bei Nichtverstehen nachfragen (prosodische Hilfen, Mimik, Gestik, Handzeichensysteme)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_01_16",
+                    "content": "aktiv zuh\u00f6ren und dabei gesprochene Sprache reflektieren"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_01_d",
+            "name": "Medien f\u00fcr den Austausch nutzen und bewusst w\u00e4hlen",
+            "path": [
+                "01",
+                "d"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_02_a",
+            "name": "Texte verfassen",
+            "path": [
+                "02",
+                "a"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_01",
+                    "content": "eine Schreibidee entwickeln, planen und aufschreiben und auf die logische Reihenfolge achten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_02",
+                    "content": "je nach Schreibanlass verst\u00e4ndlich, strukturiert, adressaten- und funktionsgerecht schreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_03",
+                    "content": "Texte an der Schreibaufgabe \u00fcberpr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_04",
+                    "content": "einen Text inhaltlich und sprachlich \u00fcberarbeiten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_05",
+                    "content": "Texte auf Verst\u00e4ndlichkeit und Wirkung pr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_06",
+                    "content": "Texte in Bezug auf sprachliche Gestaltung und auf die sprachliche Richtigkeit hin \u00fcberpr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_07",
+                    "content": "Texte in Bezug auf die \u00e4u\u00dfere Gestaltung hin optimieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_08",
+                    "content": "Texte zweckm\u00e4\u00dfig und \u00fcbersichtlich gestalten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_09",
+                    "content": "Texte auf orthografische Richtigkeit \u00fcberpr\u00fcfen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_02_b",
+            "name": "richtig schreiben",
+            "path": [
+                "02",
+                "b"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_10",
+                    "content": "Rechtschreibstrategien verwenden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_11",
+                    "content": "\u00fcber Fehlersensibilit\u00e4t und Rechtschreibgesp\u00fcr verf\u00fcgen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_12",
+                    "content": "Arbeitstechniken nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_13",
+                    "content": "\u00dcbungsformen selbstst\u00e4ndig nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_14",
+                    "content": "Rechtschreibregeln nutzen"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_02_c",
+            "name": "fl\u00fcssig schreiben",
+            "path": [
+                "02",
+                "c"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_PK_02_15",
+                    "content": "ausgehend von der Druckschrift eine verbundene Schrift schreiben, die sich zu einer gut lesbaren Handschrift entwickelt"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": []
+        },
+        {
+            "id": "BP2016BW_ALLG_GS_D_PK_02_d",
+            "name": "elektronische Medien \u2013 sobald vorhanden \u2013 nutzen",
+            "path": [
+                "02",
+                "d"
+            ],
+            "subject": "GS",
+            "grades": [],
+            "school_type": "GS",
+            "type": "PK",
+            "sub_competences": [],
+            "guidelines": [],
+            "referenced_competences": []
+        }
+    ]
+]

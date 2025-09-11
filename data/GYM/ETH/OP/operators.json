@@ -1,0 +1,235 @@
+[
+    [
+        {
+            "name": "abw\u00e4gen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Argumente und Positionen anhand eigener oder vorgegebener Kriterien pr\u00fcfen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "analysieren, untersuchen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Begriffe bestimmen, formale und inhaltliche Aspekte eines Textganzen oder eines Zusammenhangs unter aspektgeleiteten Fragestellungen herausarbeiten und den argumentativen Aufbau oder Wechselbeziehungen strukturiert und systematisiert darstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "anwenden",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "einen bekannten Sachverhalt oder eine bekannte Methode auf eine neue Problemstellung beziehen und zu deren L\u00f6sung und zum Erreichen von Zielen nutzen",
+            "difficulty": "II"
+        },
+        {
+            "name": "argumentieren",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "eine Meinung, Position im Kontext ethisch-moralischer Fragestellungen begr\u00fcnden und vertreten",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "aufzeigen, zeigen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Zusammenh\u00e4nge, Textinhalte und/oder Textformen sachbezogen, teils deskriptiv, teils analysierend darlegen",
+            "difficulty": "I"
+        },
+        {
+            "name": "begr\u00fcnden",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Positionen, Auffassungen, Urteile bestimmen, argumentativ herleiten und durch Argumente st\u00fctzen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "belegen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Aussagen durch ein explizit ausgewiesenes Zitat oder einen Verweis st\u00fctzen",
+            "difficulty": "II"
+        },
+        {
+            "name": "(be\u2011)nennen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Gegenst\u00e4nde oder Sachverhalte einer Bezeichnung zuordnen; Begriffe und Sachverhalte aufz\u00e4hlen",
+            "difficulty": "I"
+        },
+        {
+            "name": "ber\u00fccksichtigen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Bekanntes und Neues in das Herstellen von Zusammenh\u00e4ngen einbeziehen",
+            "difficulty": "II"
+        },
+        {
+            "name": "beschreiben",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Personen, Situationen, Vorg\u00e4nge, Sachverhalte oder Zusammenh\u00e4nge (strukturiert, nicht wertend) mit eigenen Worten darstellen",
+            "difficulty": "I"
+        },
+        {
+            "name": "bestimmen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Begriffe festlegen, voneinander abgrenzen oder Sachverhalte, Positionen und Perspektiven pr\u00e4gnant und kriteriengeleitet feststellen",
+            "difficulty": "I"
+        },
+        {
+            "name": "beurteilen, bewerten",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Textinhalte und Textgestaltungen, Sachverhalte, Aussagen, Ma\u00dfnahmen, L\u00f6sungen reflektieren und pr\u00fcfen und gegebenenfalls unter Verwendung von Wissen, Methoden und Ma\u00dfst\u00e4ben eine eigene begr\u00fcndete Position vertreten",
+            "difficulty": "III"
+        },
+        {
+            "name": "charakterisieren",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Vorg\u00e4nge, Personen in ihren spezifischen Eigenheiten pointiert darstellen; etwas unter leitenden Gesichtspunkten kennzeichnen und gewichtend hervorheben",
+            "difficulty": "II"
+        },
+        {
+            "name": "darlegen, darstellen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Zusammenh\u00e4nge, Probleme unter einer bestimmten Fragestellung strukturiert, sachbezogen und objektiv wiedergeben",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "diskutieren",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "sich argumentativ mit einem Thema, einer Frage, einem Problem auseinandersetzen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "einordnen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt oder eine Aussage aspekt- und kriterienorientiert in einen Gesamtzusammenhang stellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "entwickeln",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Wissen, Analyseergebnisse und eigene Ideen zusammenf\u00fchren und zu einem eigenst\u00e4ndigen Konzept, Verfahren, einer Deutung oder Vorstellung gelangen",
+            "difficulty": "III"
+        },
+        {
+            "name": "erfassen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Erkenntnisse, Verh\u00e4ltnisse, Sichtweisen oder Informationen aus einem Kontext oder aus Materialien herleiten",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "erkennen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "durch Nachdenken und Untersuchen Voraussetzungen, Zusammenh\u00e4nge, Bedeutungen erfassen und einordnen",
+            "difficulty": "III"
+        },
+        {
+            "name": "erkl\u00e4ren",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt in einen Begr\u00fcndungszusammenhang stellen; etwas kausal schlussfolgernd herleiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "erl\u00e4utern",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Begriffe oder einen Sachverhalt auch durch zus\u00e4tzliche Informationen veranschaulichen, verdeutlichen; etwas verst\u00e4ndlich machen",
+            "difficulty": "II"
+        },
+        {
+            "name": "er\u00f6rtern",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "sich mit einem Thema, einer These oder Perspektive kritisch, differenziert und argumentativ befassen; in schlussfolgernder Abw\u00e4gung des F\u00fcr und Wider unter Ber\u00fccksichtigung unterschiedlicher Perspektiven ein begr\u00fcndetes Urteil f\u00e4llen",
+            "difficulty": "III"
+        },
+        {
+            "name": "erschlie\u00dfen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt oder Text f\u00fcr die weitere Bearbeitung methodengest\u00fctzt aufbereiten; neue Informationen, Erkenntnisse und Sichtweisen herleiten",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "erarbeiten",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Positionen, Argumente selbstst\u00e4ndig entwickeln, gegebenenfalls kriteriengeleitet",
+            "difficulty": "II"
+        },
+        {
+            "name": "herausarbeiten",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Strukturen, Leitgedanken, Strategien aus einem Textganzen/Sachverhalt herausl\u00f6sen und akzentuiert darstellen",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "identifizieren",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Positionen, Perspektiven oder kontroverse Aspekte aus einem gegebenen Kontext erschlie\u00dfen und darstellen",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "problematisieren",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Wertekonflikte und kontroverse Positionen erfassen und benennen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "pr\u00fcfen/\u00fcberpr\u00fcfen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Aussagen, Behauptungen auf ihre Schl\u00fcssigkeit, G\u00fcltigkeit und Berechtigung hin betrachten und bewerten",
+            "difficulty": "III"
+        },
+        {
+            "name": "sich auseinandersetzen mit",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "sich mit einem Thema, einer Sachlage, Position kritisch, differenziert, argumentativ und urteilend befassen",
+            "difficulty": "III"
+        },
+        {
+            "name": "Stellung nehmen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "sich zu einer Fragestellung argumentativ und urteilend positionieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "unterscheiden",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Unterschiede, \u00c4hnlichkeiten und Gemeinsamkeiten ermitteln",
+            "difficulty": "II"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "Gemeinsames und Unterschiedliches herausarbeiten und gegen\u00fcberstellen; gewichtend ein Ergebnis formulieren",
+            "difficulty": "II"
+        },
+        {
+            "name": "wiedergeben",
+            "subject": "ETH",
+            "school_type": "GYM",
+            "description": "wesentliche Informationen, Sachverhalte oder einen Argumentationsgang strukturiert zusammenfassen",
+            "difficulty": "I"
+        }
+    ]
+]

@@ -1,0 +1,1453 @@
+[
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_a",
+            "name": "3.2.2.4 Grundlegende sprachliche Strukturen und Begriffe reflektieren und anwenden",
+            "path": [
+                "02",
+                "04"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_01",
+                    "content": "Wie erhalten die Kinder die Gelegenheit, in Sprachspielen Strukturen zu entdecken?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_02",
+                    "content": "W\u00f6rter sammeln und ordnen (zum Beispiel Wortschatzlisten, individueller oder themenorientierter Wortschatz, Zuordnungen nach Wortfamilien und Wortfeldern, Wortsammlungen zu verschiedenen Rechtschreibph\u00e4nomenen, auch unter Einbeziehung digitaler Medien \u2013 sobald vorhanden)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_03",
+                    "content": "Welche Hilfen unterst\u00fctzen die Kinder beim Bestimmen von Wortarten?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_04",
+                    "content": "sprachliche Formen erkennen und bilden:"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_05",
+                    "content": "Satzzeichen setzen: Punkt, Komma bei Aufz\u00e4hlungen, Fragezeichen, Ausrufezeichen, Doppelpunkt"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_06",
+                    "content": "Zeichen bei der w\u00f6rtlichen Rede setzen: vorangestellt, nachgestellt M\u00f6glichkeiten des Redebegleitsatzes beachten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_07",
+                    "content": "sprachliche Operationen anwenden und auch bei eigenen Texten nutzen: umstellen, ersetzen, erg\u00e4nzen, weglassen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_08",
+                    "content": "das Pr\u00e4dikat als Kern des Satzes erkennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_04_09",
+                    "content": "Satzglieder bestimmen: Subjekt als Wer- oder Was-Erg\u00e4nzung, Objekt als Wen- oder Was-Erg\u00e4nzung, Objekt als Wem-Erg\u00e4nzung"
+                }
+            ],
+            "guidelines": [
+                "MB_03"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_02_10",
+                "BP2016BW_ALLG_GS_D_PK_02_06",
+                "BP2016BW_ALLG_GS_D_PK_02_13"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_07_a",
+            "name": "3.1.1.7 Texterschlie\u00dfungsstrategien kennenlernen und anwenden",
+            "path": [
+                "01",
+                "07"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_07_01",
+                    "content": "Texte lesefreundlich aufbereiten entsprechend der Bed\u00fcrfnisse der Kinder (zum Beispiel Zeilennummerierung zur Orientierung geben, Zeilenabstand ber\u00fccksichtigen, leicht lesbare Schriftart w\u00e4hlen)."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_07_02",
+                    "content": "in kurzen Texten Informationen finden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_07_03",
+                    "content": "bei Verst\u00e4ndnisschwierigkeiten Verstehenshilfen anwenden (nachfragen, nachlesen, W\u00f6rter nachschlagen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_07_04",
+                    "content": "Verfahren zur ersten Orientierung in Texten nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_07_05",
+                    "content": "erste Lesestrategien anwenden (antizipieren, unbekannte W\u00f6rter kl\u00e4ren, auf W-Fragen Antworten finden, Schl\u00fcsselw\u00f6rter finden)"
+                }
+            ],
+            "guidelines": [
+                "MB_05",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_03_09",
+                "BP2016BW_ALLG_GS_D_PK_03_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_a",
+            "name": "3.1.1.1 Texte verfassen \u2013 Texte planen, schreiben und \u00fcberarbeiten",
+            "path": [
+                "01",
+                "01"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_01",
+                    "content": "Die Kinder dazu anregen, Ideen und sprachliche Mittel zu sammeln und diese als Schreibanl\u00e4sse zu nutzen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_02",
+                    "content": "Welche Gedanken und Geschichten werden den Kindern angeboten?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_03",
+                    "content": "Schreibabsichten erkennen (zum Beispiel f\u00fcr sich schreiben, f\u00fcr andere schreiben, Geschichten und Gedichte verfassen, nach Vorgaben schreiben, einen Text fortsetzen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_04",
+                    "content": "nach Anregungen erste eigene Texte schreiben (zum Beispiel Texte, Bilder, Musik)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_05",
+                    "content": "Wie ist eine f\u00f6rdernde Lernumgebung ausgestaltet, damit sie zum freien Schreiben anregt?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_06",
+                    "content": "Welche konkreten Anl\u00e4sse werden genutzt, bei denen die Kinder ihre Texte ver\u00f6ffentlichen k\u00f6nnen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_07",
+                    "content": "Texte f\u00fcr die Ver\u00f6ffentlichung aufbereiten und dabei auch mit Schrift gestalten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_01_08",
+                    "content": "Woran erkennen die Kinder, dass ihr Schreibprodukt wichtig ist?"
+                }
+            ],
+            "guidelines": [
+                "VB_03",
+                "PG_02",
+                "MB_03",
+                "MB_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_01_01",
+                "BP2016BW_ALLG_GS_D_PK_02_01",
+                "BP2016BW_ALLG_GS_D_PK_02_05",
+                "BP2016BW_ALLG_GS_D_PK_02_03",
+                "BP2016BW_ALLG_GS_D_PK_02_05",
+                "BP2016BW_ALLG_GS_D_PK_02_07"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_a",
+            "name": "3.1.2.4 Grundlegende sprachliche Strukturen und Begriffe wahrnehmen",
+            "path": [
+                "02",
+                "04"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_01",
+                    "content": "Welche verschiedenen Ordnungskriterien erm\u00f6glichen den Kindern, Entdeckungen zu machen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_02",
+                    "content": "W\u00f6rter in Silben strukturieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_03",
+                    "content": "Selbstlaute, Mitlaute (Vokale, Konsonanten) unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_04",
+                    "content": "Umlaute erkennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_05",
+                    "content": "Besonderheiten im lautlichen Bereich wahrnehmen (zum Beispiel x-Laut, st, sp am Wortanfang, wiederkehrende Strukturen von Silben)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_06",
+                    "content": "wiederkehrende Elemente entdecken (zum Beispiel Wortbausteine, Wortst\u00e4mme)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_07",
+                    "content": "Wie legen die Kinder einen ersten Wortschatz an?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_08",
+                    "content": "Welche Situationen erm\u00f6glichen den Kindern den spielerischen Umgang mit Wortarten?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_09",
+                    "content": "Satzarten erkennen und unterscheiden: Aussagesatz, Fragesatz, Aufforderungssatz"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_04_10",
+                    "content": "Zeichensetzung beachten: Punkt, Fragezeichen, Ausrufezeichen (zum Beispiel bei theatralem Handeln, unterschiedliche Betonung, Interviews, Fragen formulieren)"
+                }
+            ],
+            "guidelines": [
+                "MB_03"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_MUS_IK_1-2_01",
+                "BP2016BW_ALLG_GS_D_PK_02_10",
+                "BP2016BW_ALLG_GS_D_PK_02_09",
+                "BP2016BW_ALLG_GS_D_PK_02_13",
+                "BP2016BW_ALLG_GS_D_PK_02_12",
+                "BP2016BW_ALLG_GS_D_PK_02_13"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_a",
+            "name": "3.2.1.3 Texte verfassen \u2013 richtig schreiben",
+            "path": [
+                "01",
+                "03"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_01",
+                    "content": "eigene Texte unter zunehmender Beachtung von Rechtschreibmustern schreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_02",
+                    "content": "selbstgeschriebene Texte nach einer Vorlage oder mithilfe von Nachschlagewerken \u00fcberarbeiten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_03",
+                    "content": "Regelm\u00e4\u00dfigkeiten der normgerechten Schreibung nutzen: lautentsprechende Schreibweise Verl\u00e4ngerungsregel d \u2013 t, b \u2013 p, g \u2013 k Ableitung \u00e4 \u2013 a, \u00e4u \u2013 au W\u00f6rter mit betontem kurzen Selbstlaut W\u00f6rter mit betontem langen Selbstlaut Gro\u00dfschreibung von Nomen und Satzanf\u00e4ngen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_04",
+                    "content": "Rechtschreibstrategien anwenden: mitsprechen, ableiten, verl\u00e4ngern, merken"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_05",
+                    "content": "Wie werden Fehlschreibungen als Anl\u00e4sse zu Rechtschreibgespr\u00e4chen mit F\u00f6rderhinweisen genutzt?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_06",
+                    "content": "Unterschiedliche Rechtschreibniveaus der Kinder ber\u00fccksichtigen (siehe Anhang Modellwortschatz)."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_03_07",
+                    "content": "einen individuell angepassten Rechtschreibwortschatz nach \u00dcbung richtig schreiben"
+                }
+            ],
+            "guidelines": [
+                "MB_05",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_02_12",
+                "BP2016BW_ALLG_GS_D_PK_02_10",
+                "BP2016BW_ALLG_GS_D_PK_02_13"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_02_a",
+            "name": "3.1.2.2 Unterschiede von gesprochener und geschriebener Sprache erkennen",
+            "path": [
+                "02",
+                "02"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_02_01",
+                    "content": "Zeiten und Wortformen in gesprochener und geschriebener Sprache unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_02_02",
+                    "content": "unterschiedliche Satzstrukturen in gesprochener und geschriebener Sprache erkennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_02_03",
+                    "content": "Welche theatralen Spielformen eignen sich?"
+                }
+            ],
+            "guidelines": [
+                "BTV_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_BSS_IK_1-2_01_00",
+                "BP2016BW_ALLG_GS_D_PK_01_09",
+                "BP2016BW_ALLG_GS_D_PK_01_08"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_02_a",
+            "name": "3.1.1.2 Texte verfassen \u2013 Handschrift entwickeln",
+            "path": [
+                "01",
+                "02"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_02_01",
+                    "content": "Welche Gelegenheiten zur Erprobung von Schrift sind gegeben?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_02_02",
+                    "content": "Welche unterschiedlichen Schriftvorbilder finden die Kinder vor?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_02_03",
+                    "content": "Vielf\u00e4ltige Materialien zur Verf\u00fcgung stellen, damit die Kinder im Schreibprozess ihre eigene Schrift finden k\u00f6nnen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_02_04",
+                    "content": "Welche Schreibanl\u00e4sse auf der Wort\u2011/Satz\u2011/Textebene gibt es?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_02_05",
+                    "content": "verschiedene Lineaturen nutzen"
+                }
+            ],
+            "guidelines": [
+                "MB_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_BSS_IK_1-2_01_00",
+                "BP2016BW_ALLG_GS_D_PK_01_05",
+                "BP2016BW_ALLG_GS_D_PK_02_15",
+                "BP2016BW_ALLG_GS_KUW_IK_1-2_01",
+                "BP2016BW_ALLG_GS_D_PK_02_08"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_a",
+            "name": "3.2.1.1 Texte verfassen \u2013 Texte planen, schreiben und \u00fcberarbeiten",
+            "path": [
+                "01",
+                "01"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_01",
+                    "content": "sprachliche und gestalterische Mittel und Schreibideen sammeln: W\u00f6rter, Wortfelder, Formulierungen, Textmodelle"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_02",
+                    "content": "Eine schreibf\u00f6rdernde Lernumgebung gestalten."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_03",
+                    "content": "Erlebtes, Erfundenes, Gedanken, Gef\u00fchle, Bitten, W\u00fcnsche, Aufforderungen, Vereinbarungen, Erfahrungen und Sachverhalte als Schreibanl\u00e4sse nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_04",
+                    "content": "Welche in digitalen Medien verwendeten Textformen werden als Schreibanl\u00e4sse ber\u00fccksichtigt?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_05",
+                    "content": "freie Schreibzeiten nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_06",
+                    "content": "Texte auf inhaltlichen Aufbau, Vollst\u00e4ndigkeit und logische Reihenfolge \u00fcberarbeiten (zum Beispiel Schreibkonferenzen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_07",
+                    "content": "Texte sprachlich hinsichtlich der Wortwahl, der Satzanf\u00e4nge, der Satzgrenzen, der Zeitstufen, der Rechtschreibung \u00fcberarbeiten (zum Beispiel Schreibkonferenzen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_08",
+                    "content": "verschiedene Medien \u2013 dem Schreibanlass entsprechend \u2013 nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_09",
+                    "content": "Korrekturzeichen vereinbaren."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_10",
+                    "content": "einfache Korrekturzeichen selbstst\u00e4ndig anwenden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_11",
+                    "content": "Konkrete Anl\u00e4sse schaffen, bei denen die Kinder merken, dass die Ver\u00f6ffentlichung ihrer Arbeit wichtig ist und sie deshalb rechtschriftlich korrekt sein sollte."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_01_12",
+                    "content": "Lernergebnisse geordnet festhalten, diese auch f\u00fcr eine Ver\u00f6ffentlichung verwenden"
+                }
+            ],
+            "guidelines": [
+                "VB_03",
+                "PG_01",
+                "VB_03",
+                "MB_04",
+                "VB_08",
+                "PG_02",
+                "MB_03",
+                "MB_05",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_02_02",
+                "BP2016BW_ALLG_GS_D_PK_02_03",
+                "BP2016BW_ALLG_GS_D_PK_02_05",
+                "BP2016BW_ALLG_GS_D_PK_02_07",
+                "BP2016BW_ALLG_GS_D_PK_02_06"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_04_a",
+            "name": "3.2.1.4 Lesef\u00e4higkeit erweitern",
+            "path": [
+                "01",
+                "04"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_04_01",
+                    "content": "In welcher Weise wird abwechslungsreiches, vielf\u00e4ltiges und individuelles \u00dcben im Leseunterricht gew\u00e4hrleistet?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_04_02",
+                    "content": "satz\u00fcbergreifend semantische und syntaktische Bez\u00fcge herstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_04_03",
+                    "content": "Texte fl\u00fcssig und sinnverstehend lesen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_04_04",
+                    "content": "Texte leise f\u00fcr sich lesen und verstehen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_04_05",
+                    "content": "Texte gestaltend vorlesen (zum Beispiel szenisches Lesen)"
+                }
+            ],
+            "guidelines": [
+                "MB_05",
+                "PG_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_03_02",
+                "BP2016BW_ALLG_GS_D_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_08_a",
+            "name": "3.2.1.8 Pr\u00e4sentieren",
+            "path": [
+                "01",
+                "08"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_08_01",
+                    "content": "Welche Gelegenheiten haben die Kinder, ihre Texte vor Publikum vorzutragen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_08_02",
+                    "content": "ausgew\u00e4hlte Texte frei wiedergeben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_08_03",
+                    "content": "regelm\u00e4\u00dfig auswendig vortragen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_08_04",
+                    "content": "Nonverbale Darstellungsformen mit den Kindern entwickeln."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_08_05",
+                    "content": "Gemeinsam mit den Kindern Kriterien f\u00fcr eine Buchpr\u00e4sentation erarbeiten."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_08_06",
+                    "content": "Kinderb\u00fccher ausw\u00e4hlen und vorstellen: Buchpr\u00e4sentation"
+                }
+            ],
+            "guidelines": [
+                "PG_01",
+                "BTV_01",
+                "PG_01",
+                "BTV_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_01_06",
+                "BP2016BW_ALLG_GS_D_PK_03_14",
+                "BP2016BW_ALLG_GS_D_PK_03_03",
+                "BP2016BW_ALLG_GS_D_PK_03_15"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_a",
+            "name": "3.2.1.7 Texterschlie\u00dfungsstrategien nutzen",
+            "path": [
+                "01",
+                "07"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_01",
+                    "content": "Die Anwendung von Lesestrategien bei den Kindern kontinuierlich f\u00f6rdern."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_02",
+                    "content": "Texte entsprechend den Bed\u00fcrfnissen der Kinder aufbereiten: Zeilen- und Textl\u00e4nge k\u00fcrzen, Zeilennummerierung zur Orientierung geben, Zeilenabstand ber\u00fccksichtigen, Bilder als Verstehenshilfen, Schriftart"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_03",
+                    "content": "Inhalte anhand von Stichw\u00f6rtern wiedergeben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_04",
+                    "content": "Informationen vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_05",
+                    "content": "Aussagen mit Textstellen belegen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_06",
+                    "content": "gezielt Fragen stellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_07",
+                    "content": "sachgerecht ihre Meinung begr\u00fcnden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_08",
+                    "content": "aus Gebrauchstexten Anweisungen entnehmen und diese umsetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_07_09",
+                    "content": "gezielt nachfragen, um Verst\u00e4ndigungsprobleme zu l\u00f6sen"
+                }
+            ],
+            "guidelines": [
+                "VB_03",
+                "BO_03",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01",
+                "BP2016BW_ALLG_GS_D_PK_03_08",
+                "BP2016BW_ALLG_GS_D_PK_03_11",
+                "BP2016BW_ALLG_GS_D_PK_03_05"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_05_a",
+            "name": "3.1.1.5 Lesef\u00e4higkeit und Leseerfahrung sichtbar machen",
+            "path": [
+                "01",
+                "05"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_05_01",
+                    "content": "Den Kindern vielf\u00e4ltige Gelegenheiten bieten, ihr Leseinteresse und ihre Leseerfahrungen zu dokumentieren."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_05_02",
+                    "content": "die eigene Lesef\u00e4higkeit einsch\u00e4tzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_05_03",
+                    "content": "die eigene Lesef\u00e4higkeit sichtbar machen (zum Beispiel mithilfe von Reflexionsb\u00f6gen, Lesepass)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_05_04",
+                    "content": "ihre fortschreitenden Leseerfahrungen mitteilen (zum Beispiel Leseportfolio)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_05_05",
+                    "content": "ihre Leseinteressen \u00e4u\u00dfern"
+                }
+            ],
+            "guidelines": [
+                "MB_04",
+                "BO_03",
+                "PG_02",
+                "BNE_03",
+                "BTV_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_03_16",
+                "BP2016BW_ALLG_GS_D_PK_03_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_01_a",
+            "name": "3.2.2.1 Gemeinsamkeiten und Unterschiede von Sprachen reflektieren",
+            "path": [
+                "02",
+                "01"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_01_01",
+                    "content": "In verschiedenen Situationen Unterschiede zwischen Dialekt und Standardsprache sichtbar machen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_01_02",
+                    "content": "Standardsprache und Dialekt situations- und adressatenbezogen einsetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_01_03",
+                    "content": "Texte in verschiedenen Dialekten (Mundartdichtung, Volkslieder) vortragen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_01_04",
+                    "content": "In welcher Form und in welchen Situationen wird den Kindern mit anderen Herkunftssprachen Gelegenheit gegeben, Geschichten ihrer Heimat einzubringen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_01_05",
+                    "content": "Gemeinsamkeiten und Unterschiede von Sprachen erkennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_01_06",
+                    "content": "gebr\u00e4uchliche Fremdw\u00f6rter und Abk\u00fcrzungen aus der Erfahrungswelt der Kinder untersuchen (zum Beispiel SMS, Abk\u00fcrzungen)"
+                }
+            ],
+            "guidelines": [
+                "MB_03",
+                "BTV_01",
+                "BTV_03",
+                "BNE_03",
+                "MB_03",
+                "BTV_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_01_08",
+                "BP2016BW_ALLG_GS_E_IK_3-4_01",
+                "BP2016BW_ALLG_GS_E_IK_3-4_03",
+                "BP2016BW_ALLG_GS_F_IK_3-4_01",
+                "BP2016BW_ALLG_GS_F_IK_3-4_03",
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01_01",
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01_01",
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01_03",
+                "BP2016BW_ALLG_GS_E_IK_3-4_01_02",
+                "BP2016BW_ALLG_GS_E_IK_3-4_01",
+                "BP2016BW_ALLG_GS_E_IK_3-4_03",
+                "BP2016BW_ALLG_GS_F_IK_3-4_01_02",
+                "BP2016BW_ALLG_GS_F_IK_3-4_01",
+                "BP2016BW_ALLG_GS_F_IK_3-4_03",
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01_01",
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_05_a",
+            "name": "3.2.1.5 Lesef\u00e4higkeit und Leseerfahrung dokumentieren",
+            "path": [
+                "01",
+                "05"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_05_01",
+                    "content": "Wie wird die freie Lesezeit verankert?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_05_02",
+                    "content": "die Lesef\u00e4higkeit weiterentwickeln"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_05_03",
+                    "content": "ihre Leseinteressen reflektieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_05_04",
+                    "content": "ihr eigenes Leseinteresse sichtbar machen und sich dar\u00fcber austauschen (zum Beispiel durch Reflexionsb\u00f6gen, Leseportfolio, Lesepass, Lesetagebuch, Lesebegleitheft, Lesekiste, Online-Leseportal \u2013 sobald vorhanden)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_05_05",
+                    "content": "unterschiedliche Formen der Dokumentation anwenden"
+                }
+            ],
+            "guidelines": [
+                "BO_03",
+                "MB_03",
+                "BTV_01",
+                "PG_02",
+                "PG_01",
+                "BNE_03"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_03_16"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_03_a",
+            "name": "3.1.2.3 Sprache als Mittel zur Kommunikation und Information kennen",
+            "path": [
+                "02",
+                "03"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_03_01",
+                    "content": "Welche Anl\u00e4sse regen die Kinder an, Gespr\u00e4che miteinander zu f\u00fchren?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_03_02",
+                    "content": "Welche Situationen bieten sich an, damit die Kinder lernen, ihre Impulse zu kontrollieren?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_03_03",
+                    "content": "Welchen sprachlichen Vorbildern begegnen die Kinder in Gespr\u00e4chs- und Diskussionssituationen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_03_04",
+                    "content": "Situationen schaffen, in denen die Kinder Wahrnehmung, Emotion und Imagination spielerisch ausprobieren und als einen pers\u00f6nlichen Ausdruck erfahren."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_03_05",
+                    "content": "Wie erfahren die Kinder unterschiedliche Rollen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_03_06",
+                    "content": "sich in verschiedenen Rollen erproben"
+                }
+            ],
+            "guidelines": [
+                "PG_02",
+                "PG_01",
+                "PG_02",
+                "BTV_06",
+                "MB_04",
+                "BTV_01",
+                "PG_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_SU_IK_1-2_01_01",
+                "BP2016BW_ALLG_GS_MUS_IK_1-2_03_00",
+                "BP2016BW_ALLG_GS_D_PK_01_04",
+                "BP2016BW_ALLG_GS_D_PK_01_02",
+                "BP2016BW_ALLG_GS_D_PK_01_12",
+                "BP2016BW_ALLG_GS_D_PK_01_11"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_02_a",
+            "name": "3.2.2.2 Unterschiede von gesprochener und geschriebener Sprache kennen",
+            "path": [
+                "02",
+                "02"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_02_01",
+                    "content": "Welche Situationen erfordern die gesprochene, welche die geschriebene Sprache?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_02_02",
+                    "content": "Vergangenheitsformen ad\u00e4quat anwenden (gesprochene und geschriebene Vergangenheit: Perfekt, Pr\u00e4teritum)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_02_03",
+                    "content": "Erfahrungen der Kinder mit digitalen Medien einbeziehen."
+                }
+            ],
+            "guidelines": [
+                "MB_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_01_08",
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01_02",
+                "BP2016BW_ALLG_GS_D_PK_01_09"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_02_a",
+            "name": "3.2.1.2 Texte verfassen \u2013 Handschrift weiterentwickeln",
+            "path": [
+                "01",
+                "02"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_02_01",
+                    "content": "Gestaltungsformen von Buchstaben formstabil, gel\u00e4ufig und lesbar ausf\u00fchren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_02_02",
+                    "content": "Die Kinder erhalten Hilfen, um in ihrer individuellen Handschrift zu schreiben."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_02_03",
+                    "content": "Die Kompetenzen der mehrsprachigen Kinder nutzen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_02_04",
+                    "content": "mit Schrift gestalten, unterschiedliche Schrifttr\u00e4ger, Schreibwerkzeuge und Schriftzeichen erproben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_02_05",
+                    "content": "verschiedene Lineaturen nutzen"
+                }
+            ],
+            "guidelines": [
+                "MB_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_KUW_IK_1-2_01",
+                "BP2016BW_ALLG_GS_D_PK_02_08",
+                "BP2016BW_ALLG_GS_D_PK_02_15"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_a",
+            "name": "3.1.1.6 Leseverstehen entwickeln",
+            "path": [
+                "01",
+                "06"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_01",
+                    "content": "Welches schulinterne Lesekonzept unterst\u00fctzt die Kinder?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_02",
+                    "content": "Wie kann im Alltag eine regelm\u00e4\u00dfige freie Lesezeit verankert werden?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_03",
+                    "content": "Vorstellungswelten zu Texten entwickeln"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_04",
+                    "content": "\u201eRund um das Buch\u201c schulische und au\u00dferschulische Programme, Projekte, Aktionen, Auff\u00fchrungen, Wettbewerbe durchf\u00fchren und besuchen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_05",
+                    "content": "Welche geeigneten Aufgaben werden angeboten, die den kreativen und produktiven Umgang mit Texten anregen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_06",
+                    "content": "Informationen in Medien suchen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_07",
+                    "content": "sich erste Eindr\u00fccke von der Vielf\u00e4ltigkeit aktueller Medien verschaffen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_06_08",
+                    "content": "eigene Medienerfahrungen beschreiben"
+                }
+            ],
+            "guidelines": [
+                "BTV_01",
+                "BNE_05",
+                "MB_03",
+                "MB_05",
+                "VB_08"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_03_12",
+                "BP2016BW_ALLG_GS_D_PK_03_08",
+                "BP2016BW_ALLG_GS_D_PK_03_03",
+                "BP2016BW_ALLG_GS_BSS_IK_1-2_06_00",
+                "BP2016BW_ALLG_GS_D_PK_03_04",
+                "BP2016BW_ALLG_GS_SU_IK_1-2_01_02_01",
+                "BP2016BW_ALLG_GS_SU_IK_1-2_01_02_02",
+                "BP2016BW_ALLG_GS_D_PK_03_13"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_01_a",
+            "name": "3.1.2.1 Gemeinsamkeiten und Unterschiede von Sprachen entdecken",
+            "path": [
+                "02",
+                "01"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_01_01",
+                    "content": "Wie und zu welchen Gelegenheiten werden Dialekte aufgenommen und wertgesch\u00e4tzt?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_02_01_02",
+                    "content": "M\u00f6glichkeiten der integrierten Sprachf\u00f6rderung einbinden (zum Beispiel handlungsbegleitendes Sprechen)."
+                }
+            ],
+            "guidelines": [
+                "MB_03",
+                "BTV_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_MUS_IK_1-2_01",
+                "BP2016BW_ALLG_GS_D_PK_01_08",
+                "BP2016BW_ALLG_GS_E_IK_1-2_01_02",
+                "BP2016BW_ALLG_GS_E_IK_1-2_01",
+                "BP2016BW_ALLG_GS_F_IK_1-2_01_01",
+                "BP2016BW_ALLG_GS_F_IK_3-4_01_02",
+                "BP2016BW_ALLG_GS_SU_IK_1-2_01_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_a",
+            "name": "3.2.2.3 Sprache als Mittel zur Kommunikation und Information nutzen",
+            "path": [
+                "02",
+                "03"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_01",
+                    "content": "Welche vielf\u00e4ltigen Sprechanl\u00e4sse unterst\u00fctzen das Sprachhandeln der Kinder?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_02",
+                    "content": "Gespr\u00e4che f\u00fchren und vereinbarte Gespr\u00e4chsregeln anwenden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_03",
+                    "content": "zuh\u00f6ren und sich aktiv und themenbezogen in das Gespr\u00e4ch einbringen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_04",
+                    "content": "sich zu Sachverhalten strukturiert \u00e4u\u00dfern und dabei einen situationsangemessenen Wortschatz nutzen, auch unter Verwendung digitaler Kommunikationsmedien \u2013 sobald vorhanden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_05",
+                    "content": "Strategien entwickeln, um Konflikte zu kl\u00e4ren, zu versachlichen und zu l\u00f6sen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_06",
+                    "content": "Welche Sprachvorbilder regen die Kinder an?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_07",
+                    "content": "auf den Zusammenhang von Sprache und K\u00f6rpersprache achten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_08",
+                    "content": "Sprachmittel in der Werbung untersuchen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_09",
+                    "content": "verschiedene Rollen in der Kommunikation nutzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_10",
+                    "content": "die Mehrdeutigkeit der Sprache nutzen (zum Beispiel anhand von Geschichten, deren Inhalte sich auf Missverst\u00e4ndnisse, Doppeldeutigkeiten beziehen, von Witzen und Sprachspielen wie Teekesselchen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_02_03_11",
+                    "content": "\u00fcber Verstehens- und Verst\u00e4ndigungsprobleme sprechen"
+                }
+            ],
+            "guidelines": [
+                "PG_02",
+                "PG_01",
+                "PG_02",
+                "MB_04",
+                "PG_01",
+                "BTV_02",
+                "BNE_06",
+                "BTV_06",
+                "PG_02",
+                "PG_01",
+                "BTV_01",
+                "BTV_03",
+                "BNE_06",
+                "BTV_05",
+                "MB_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01",
+                "BP2016BW_ALLG_GS_D_PK_01_01",
+                "BP2016BW_ALLG_GS_D_PK_01_05",
+                "BP2016BW_ALLG_GS_BSS_IK_3-4_01_00",
+                "BP2016BW_ALLG_GS_D_PK_01_03",
+                "BP2016BW_ALLG_GS_D_PK_01_11",
+                "BP2016BW_ALLG_GS_E_IK_3-4_01_01_01",
+                "BP2016BW_ALLG_GS_F_IK_3-4_01_01_01",
+                "BP2016BW_ALLG_GS_KUW_IK_3-4_05_00",
+                "BP2016BW_ALLG_GS_D_PK_01_15"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_a",
+            "name": "3.1.1.3 Texte verfassen \u2013 richtig schreiben",
+            "path": [
+                "01",
+                "03"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_01",
+                    "content": "Wie werden Schriftspracherwerbsmodelle ber\u00fccksichtigt?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_02",
+                    "content": "W\u00f6rter silbisch durchgliedern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_03",
+                    "content": "W\u00f6rter in Wortbausteine zerlegen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_04",
+                    "content": "Durch Sammeln und Sortieren aus rechtschriftlichen Regelm\u00e4\u00dfigkeiten Strategien ableiten und zu diesen weiteres Wortmaterial finden."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_05",
+                    "content": "Wie \u00fcben die Kinder die Schreibweise der W\u00f6rter ein?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_06",
+                    "content": "weitreichende Regeln finden und sich Ausnahmen merken"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_07",
+                    "content": "Fehlschreibungen als Anl\u00e4sse zu ersten Rechtschreibgespr\u00e4chen mit F\u00f6rderhinweisen nutzen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_08",
+                    "content": "Wie werden die Kinder f\u00fcr Fehlschreibungen sensibilisiert?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_09",
+                    "content": "Hilfen f\u00fcr das richtige Abschreiben anbieten und M\u00f6glichkeiten des Kontrollierens einsetzen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_10",
+                    "content": "Welche M\u00f6glichkeiten bieten sich an, damit die Kinder mit dem W\u00f6rterbuch umgehen?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_03_11",
+                    "content": "beim Schreiben von eigenen Texten zunehmend Rechtschreibmuster beachten"
+                }
+            ],
+            "guidelines": [
+                "MB_05",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_02_10",
+                "BP2016BW_ALLG_GS_D_PK_02_13",
+                "BP2016BW_ALLG_GS_D_PK_02_08",
+                "BP2016BW_ALLG_GS_D_PK_02_12",
+                "BP2016BW_ALLG_GS_D_PK_02_09"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_a",
+            "name": "3.1.1.4 Lesef\u00e4higkeit erwerben",
+            "path": [
+                "01",
+                "04"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_01",
+                    "content": "Wie k\u00f6nnen beim Aufbau und bei der Festigung von Buchstaben-Laut-Beziehung verschiedene Wahrnehmungsbereiche beziehungsweise Sinneskan\u00e4le einbezogen werden?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_02",
+                    "content": "W\u00f6rter in Silben gliedern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_03",
+                    "content": "W\u00f6rter in Wortbausteine zerlegen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_04",
+                    "content": "erlesene W\u00f6rter verstehen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_05",
+                    "content": "Abwechslungsreiches, vielf\u00e4ltiges und individuelles \u00dcben im Leseunterricht anbieten."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_06",
+                    "content": "Lernprogramme und Lernsoftware \u2013 wenn vorhanden \u2013 zur Unterst\u00fctzung von Leselernprozessen nutzen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_04_07",
+                    "content": "einfache Texte lesen und verstehen"
+                }
+            ],
+            "guidelines": [
+                "PG_01",
+                "MB_03"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_BSS_IK_1-2_01_00",
+                "BP2016BW_ALLG_GS_MUS_IK_1-2_01",
+                "BP2016BW_ALLG_GS_MUS_IK_1-2_03_00",
+                "BP2016BW_ALLG_GS_BSS_IK_1-2_01_00",
+                "BP2016BW_ALLG_GS_MUS_IK_1-2_03_00",
+                "BP2016BW_ALLG_GS_D_PK_03_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_08_a",
+            "name": "3.1.1.8 Pr\u00e4sentieren",
+            "path": [
+                "01",
+                "08"
+            ],
+            "subject": "GS",
+            "grades": [
+                "1",
+                "2"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_08_01",
+                    "content": "Welche Gelegenheiten ergreifen die Kinder, um Texte vor kleinem Publikum vorzutragen, zu verklanglichen, zu illustrieren?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_08_02",
+                    "content": "Gemeinsam mit den Kindern Kriterien f\u00fcr die Buchvorstellung entwickeln."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_08_03",
+                    "content": "Die Kinder probieren nonverbale Darstellungs- und Kommunikationsformen aus."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_08_04",
+                    "content": "Wie sind theatrale Formen dauerhaft und wiederkehrend im Schulcurriculum verankert?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_1-2_01_08_05",
+                    "content": "Spielszenen zu ausgew\u00e4hlten Texten gestalten"
+                }
+            ],
+            "guidelines": [
+                "BTV_01",
+                "PG_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_03_03",
+                "BP2016BW_ALLG_GS_D_PK_01_09",
+                "BP2016BW_ALLG_GS_D_PK_03_15",
+                "BP2016BW_ALLG_GS_D_PK_01_03",
+                "BP2016BW_ALLG_GS_BSS_IK_1-2_05_00",
+                "BP2016BW_ALLG_GS_KUW_IK_1-2_05_00",
+                "BP2016BW_ALLG_GS_MUS_IK_1-2_03_00",
+                "BP2016BW_ALLG_GS_D_PK_03_14",
+                "BP2016BW_ALLG_GS_SU_IK_1-2_01_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_a",
+            "name": "3.2.1.6 Leseverstehen vertiefen",
+            "path": [
+                "01",
+                "06"
+            ],
+            "subject": "GS",
+            "grades": [
+                "3",
+                "4"
+            ],
+            "school_type": "GS",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_01",
+                    "content": "Den Kindern Zugang zu B\u00fcchern mit unterschiedlichen Textsorten und Schwierigkeitsgraden erm\u00f6glichen und dabei m\u00f6gliche Interessen ber\u00fccksichtigen."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_02",
+                    "content": "Erz\u00e4hltexte, lyrische und szenische Texte erkennen und diese unterscheiden: M\u00e4rchen, Kinderromane, Gedichte, Theaterst\u00fccke, Comics"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_03",
+                    "content": "textspezifische Merkmale erfassen und deren Gebrauchswert erkennen und benennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_04",
+                    "content": "In welchem Umfang werden Angebote von \u00f6ffentlichen Bibliotheken, Schulbibliotheken, Medienzentren und des Internets in der Schule integriert und mit dem schulischen Lesekonzept verbunden?"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_05",
+                    "content": "zu Textvorlagen Szenen und Spielideen entwickeln"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_06",
+                    "content": "Die Kinder erhalten einen Einblick in die aktuelle und klassische Kinderliteratur, in Geschichten und M\u00e4rchen eigener und anderer Kulturen und in H\u00f6rb\u00fccher."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_07",
+                    "content": "wesentliche Elemente des Inhalts von selbst gew\u00e4hlten B\u00fcchern schl\u00fcssig wiedergeben: Buchpr\u00e4sentation"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_08",
+                    "content": "Vorstellungswelten zu Texten aufbauen und beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_09",
+                    "content": "literarische Handlungsstr\u00e4nge nachvollziehen und auf ihre pers\u00f6nliche Lebenswirklichkeit beziehen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_10",
+                    "content": "sich mit Protagonisten kritisch auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_11",
+                    "content": "Textproduktive, bildproduktive, inszenierende Verfahren mit den Kindern entwickeln."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_12",
+                    "content": "sich \u00fcber Struktur, Inhalt und Wirkung von Texten austauschen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_13",
+                    "content": "Informationen in Druckmedien und \u2013 sobald vorhanden \u2013 elektronischen Medien recherchieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_14",
+                    "content": "sich in Grundz\u00fcgen die Vielfalt der aktuellen Medien erschlie\u00dfen (zum Beispiel Printmedien, Filme, Videoclips, H\u00f6rb\u00fccher, H\u00f6rspiele, Radio, TV, Computer, Internet-Hypertexte)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_15",
+                    "content": "Nutzen und Gefahren von Medien thematisieren."
+                },
+                {
+                    "id": "BP2016BW_ALLG_GS_D_IK_3-4_01_06_16",
+                    "content": "sich zum Nutzen von Medien im Alltag \u00e4u\u00dfern"
+                }
+            ],
+            "guidelines": [
+                "VB_07",
+                "BO_03",
+                "MB_03",
+                "BNE_03",
+                "BTV_05",
+                "MB_05",
+                "VB_03",
+                "PG_01",
+                "MB_03",
+                "VB_08",
+                "MB_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GS_D_PK_01_12",
+                "BP2016BW_ALLG_GS_MUS_IK_3-4_01",
+                "BP2016BW_ALLG_GS_MUS_IK_3-4_02_00",
+                "BP2016BW_ALLG_GS_KUW_IK_3-4_03_00",
+                "BP2016BW_ALLG_GS_BSS_IK_3-4_05_00",
+                "BP2016BW_ALLG_GS_MUS_IK_3-4_01",
+                "BP2016BW_ALLG_GS_MUS_IK_3-4_02_00",
+                "BP2016BW_ALLG_GS_D_PK_03_05",
+                "BP2016BW_ALLG_GS_SU_IK_3-4_01_02_01"
+            ]
+        }
+    ]
+]

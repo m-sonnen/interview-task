@@ -1,0 +1,144 @@
+[
+    [
+        {
+            "name": "ableiten",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "auf der Grundlage von Erkenntnissen sachgerechte Schl\u00fcsse ziehen",
+            "difficulty": "II"
+        },
+        {
+            "name": "anwenden",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "einen bekannten Zusammenhang oder eine bekannte Methode auf einen anderen Sachverhalt beziehen",
+            "difficulty": "II"
+        },
+        {
+            "name": "aufstellen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "eine chemische Formel oder eine Reaktionsgleichung in Symbolschreibweise formulieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "auswerten",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Daten, Einzelergebnisse oder andere Aspekte in einen Zusammenhang stellen, um daraus Schlussfolgerungen zu ziehen",
+            "difficulty": "III"
+        },
+        {
+            "name": "begr\u00fcnden",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Sachverhalte auf Regeln, Gesetzm\u00e4\u00dfigkeiten beziehungsweise kausale Zusammenh\u00e4nge zur\u00fcckf\u00fchren",
+            "difficulty": "III"
+        },
+        {
+            "name": "benennen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Fachbegriffe kriteriengeleitet zuordnen",
+            "difficulty": "I"
+        },
+        {
+            "name": "beschreiben",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Strukturen, Sachverhalte, Prozesse und Eigenschaften von Objekten in der Regel unter Verwendung der Fachsprache wiedergeben",
+            "difficulty": "II"
+        },
+        {
+            "name": "bewerten",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt nach fachwissenschaftlichen oder fachmethodischen Kriterien, pers\u00f6nlichem oder gesellschaftlichem Wertebezug begr\u00fcndet einsch\u00e4tzen",
+            "difficulty": "III"
+        },
+        {
+            "name": "darstellen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Zusammenh\u00e4nge, Methoden und Ergebnisse strukturiert wiedergeben",
+            "difficulty": "I"
+        },
+        {
+            "name": "diskutieren",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Argumente zu einer Aussage oder These einander gegen\u00fcberstellen und abw\u00e4gen",
+            "difficulty": "III"
+        },
+        {
+            "name": "durchf\u00fchren",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "eine vorgegebene oder eigene Anleitung (zum Beispiel f\u00fcr ein Experiment oder einen Arbeitsauftrag) umsetzen",
+            "difficulty": "I"
+        },
+        {
+            "name": "erkl\u00e4ren",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Strukturen, Prozesse und Zusammenh\u00e4nge eines Sachverhalts erfassen sowie auf allgemeine Aussagen oder Gesetze unter Verwendung der Fachsprache zur\u00fcckf\u00fchren",
+            "difficulty": "II"
+        },
+        {
+            "name": "erl\u00e4utern",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Strukturen, Prozesse und Zusammenh\u00e4nge eines Sachverhalts erfassen sowie auf allgemeine Aussagen und Gesetze zur\u00fcckf\u00fchren und durch zus\u00e4tzliche Informationen oder Beispiele verst\u00e4ndlich machen",
+            "difficulty": "II"
+        },
+        {
+            "name": "ermitteln",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "ein Ergebnis rechnerisch, grafisch oder experimentell bestimmen",
+            "difficulty": "II"
+        },
+        {
+            "name": "nennen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Elemente, Sachverhalte, Begriffe, Daten, Fakten ohne Erl\u00e4uterung wiedergeben",
+            "difficulty": "I"
+        },
+        {
+            "name": "nutzen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "fachgerecht einsetzen",
+            "difficulty": "I"
+        },
+        {
+            "name": "ordnen, einordnen, zuordnen, klassifizieren",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Begriffe, Gegenst\u00e4nde auf der Grundlage bestimmter Merkmale systematisch einteilen",
+            "difficulty": "II"
+        },
+        {
+            "name": "planen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "zu einem vorgegebenen Problem L\u00f6sungswege entwickeln",
+            "difficulty": "II"
+        },
+        {
+            "name": "untersuchen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Sachverhalte oder Objekte zielorientiert erkunden, Merkmale und Zusammenh\u00e4nge herausarbeiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "CH",
+            "school_type": "GYM",
+            "description": "Gemeinsamkeiten und Unterschiede herausarbeiten",
+            "difficulty": "II"
+        }
+    ]
+]

@@ -1,0 +1,3229 @@
+[
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_06_01_a",
+            "name": "3.1.6.1 Glaubensgrunds\u00e4tze und Achtung des Religi\u00f6sen",
+            "path": [
+                "06",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_06_01_01",
+                    "content": "die Bedeutung der monotheistischen Weltreligionen als kulturelles Ph\u00e4nomen (zum Beispiel Stadtbild, Kalender, Kunst, Medien) darstellen und sich damit auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_06_01_02",
+                    "content": "den Stellenwert des Glaubens f\u00fcr das Leben der Gl\u00e4ubigen im Christentum, Islam und Judentum wiedergeben (zum Beispiel Spiritualit\u00e4t, religi\u00f6se Riten, Orientierung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_06_01_03",
+                    "content": "die Achtung des Glaubens Anderer als grundlegendes ethisches Prinzip untersuchen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_06_01_04",
+                    "content": "sich mit weiteren religi\u00f6sen Erscheinungsformen auseinandersetzen und im Hinblick auf Grenzen der Toleranz bewerten (zum Beispiel Fanatismus, Sekten)"
+                }
+            ],
+            "guidelines": [
+                "VB_03",
+                "PG_01",
+                "BTV_08",
+                "MB_07"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01",
+                "BP2016BW_ALLG_GYM_BK_IK_7-8_01_00",
+                "BP2016BW_ALLG_GYM_RAK_IK_7-8_06_00",
+                "BP2016BW_ALLG_GYM_RALE_IK_7-8_04_00",
+                "BP2016BW_ALLG_GYM_REV_IK_7-8_02_00",
+                "BP2016BW_ALLG_GYM_RISL_IK_7-8_01_00",
+                "BP2016BW_ALLG_GYM_RJUED_IK_7-8_03_00",
+                "BP2016BW_ALLG_GYM_RRK_IK_7-8_06_00",
+                "BP2016BW_ALLG_GYM_RSYR_IK_7-8_07_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02_a",
+            "name": "3.3.5.2 Religion und Religionskritik",
+            "path": [
+                "05",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02_01",
+                    "content": "Funktionen von Religion f\u00fcr Individuum und Gesellschaft in einer s\u00e4kularisierten Welt darstellen und diskutieren (zum Beispiel Kontingenzbew\u00e4ltigung, Identit\u00e4tsbildung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02_02",
+                    "content": "Gemeinsamkeiten, Differenzen und Konflikte zwischen einer religi\u00f6sen und einer s\u00e4kularen Sichtweise des Menschen erarbeiten und zu daraus resultierenden Konflikten Stellung nehmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02_03",
+                    "content": "das Spannungsverh\u00e4ltnis von Glauben und Wissen, Religion und Vernunft analysieren und er\u00f6rtern (zum Beispiel Moralbegr\u00fcndung, moralische Motivation, Theodizee-Problem)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02_04",
+                    "content": "eine Position der Religionskritik darstellen und beurteilen (zum Beispiel Feuerbach, Marx, Nietzsche, Freud)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02_05",
+                    "content": "Beispiele m\u00f6glicher Instrumentalisierung von Religion identifizieren, analysieren und Stellung dazu nehmen (zum Beispiel Fundamentalismus)"
+                }
+            ],
+            "guidelines": [
+                "BTV_08",
+                "VB_03"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02",
+                "BP2016BW_ALLG_GYM_RAK_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_RALE_IK_11-12_03_00",
+                "BP2016BW_ALLG_GYM_RALE_IK_11-12_06_00",
+                "BP2016BW_ALLG_GYM_REV_IK_11-12-BF_03_00",
+                "BP2016BW_ALLG_GYM_RISL_IK_11-12_05_00",
+                "BP2016BW_ALLG_GYM_RJUED_IK_11-12-BF_04_00",
+                "BP2016BW_ALLG_GYM_RRK_IK_11-12-BF_03_00",
+                "BP2016BW_ALLG_GYM_RSYR_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_a",
+            "name": "3.4.3.1 Tugendethik",
+            "path": [
+                "03",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_01",
+                    "content": "zentrale philosophische Begriffe der Tugendethik von Aristoteles (Eudaimonie, Telos, Tugend, ethische und dianoetische Tugenden, Phronesis, Logos, Praxis und Poeisis) bestimmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_02",
+                    "content": "den Zusammenhang von Eudaimonie, Logos und Telos f\u00fcr die Begr\u00fcndung der aristotelischen Ethik (Mensch als sprach- und vernunftbegabtes Sozialwesen, Gl\u00fcckseligkeit als h\u00f6chstes Ziel) erl\u00e4utern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_03",
+                    "content": "den Begriff der Eudaimonie im Zusammenhang mit Teleologie, Lebensformen und Seelenlehre bei Aristoteles erl\u00e4utern und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_04",
+                    "content": "den aristotelischen Tugendbegriff erarbeiten und anhand von Beispielen pr\u00fcfen (zum Beispiel Freundschaft, Wahrhaftigkeit, Sanftmut)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_05",
+                    "content": "dianoetische Tugenden von ethischen Tugenden unterscheiden und die Rolle der Phronesis in der Mesotes-Lehre erl\u00e4utern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_06",
+                    "content": "die gesellschaftliche Bedeutung verschiedener Tugenden bei Aristoteles erarbeiten (zum Beispiel Gerechtigkeit, Tapferkeit) und hinsichtlich ihres historischen Kontextes und ihrer Aktualit\u00e4t er\u00f6rtern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_07",
+                    "content": "die Tugendethik von Aristoteles mit einem anderen gl\u00fccks- oder strebensethischen Ansatz (zum Beispiel Stoa, Nussbaum) vergleichen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_08",
+                    "content": "auf der Grundlage der aristotelischen Ethik Entscheidungs- und Handlungsm\u00f6glichkeiten f\u00fcr verschiedene Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) erarbeiten, diskutieren und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01_09",
+                    "content": "M\u00f6glichkeiten und Grenzen der Tugendethik von Aristoteles (zum Beispiel bezogen auf Menschenbild, Mesoteslehre, Lebensformen) auch im Vergleich zu anderen Positionen der Moralphilosophie untersuchen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "PG_02",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_a",
+            "name": "3.0.2.3 Wahrhaftigkeit und L\u00fcge",
+            "path": [
+                "02",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_01",
+                    "content": "Beispiele f\u00fcr Wahrhaftigkeit und L\u00fcge beschreiben und deren Motive und Folgen erfassen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_02",
+                    "content": "Wahrhaftigkeit und L\u00fcge von bedeutungs\u00e4hnlichen Begriffen (zum Beispiel T\u00e4uschung, Irrtum, Verschweigen, Wahrheit, Richtigkeit) abgrenzen und deren Auswirkungen auf das Miteinander darstellen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_03",
+                    "content": "Konfliktsituationen zwischen Wahrhaftigkeit und L\u00fcge (zum Beispiel Notl\u00fcge) analysieren und die dabei zugrundeliegenden Normen und Werte (zum Beispiel Freundschaft, H\u00f6flichkeit, Gerechtigkeit) herausarbeiten und abw\u00e4gen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_04",
+                    "content": "Handlungsm\u00f6glichkeiten f\u00fcr Konfliktsituationen entwickeln und sich mit verschiedenen Einstellungen zu Wahrhaftigkeit und L\u00fcge auseinandersetzen"
+                }
+            ],
+            "guidelines": [
+                "VB_07",
+                "VB_03",
+                "VB_08",
+                "MB_02",
+                "VB_06",
+                "BNE_04",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_04",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_04",
+                "BP2016BW_ALLG_GYM_BK_IK_5-6_04_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_03",
+                "BP2016BW_ALLG_GYM_D_IK_5-6_01_01_09",
+                "BP2016BW_ALLG_GYM_D_IK_5-6_02_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02_a",
+            "name": "3.2.2.2 Pluralismus und Toleranz (*)",
+            "path": [
+                "02",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02_01",
+                    "content": "Merkmale einer pluralistischen Gesellschaft beschreiben (zum Beispiel unterschiedliche Lebensstile, Vielfalt der Weltanschauungen und Weltbilder, Relativit\u00e4t von Wahrheitsanspr\u00fcchen, Interkulturalit\u00e4t)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02_02",
+                    "content": "einige Merkmale einer pluralistischen Gesellschaft analysieren, miteinander vergleichen und in ihrer Bedeutung diskutieren (zum Beispiel verschiedene Weltbilder, Weltanschauungen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02_03",
+                    "content": "verschiedene Auffassungen von Toleranz darlegen und in ihrer Bedeutung f\u00fcr das Zusammenleben vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02_04",
+                    "content": "Orientierungshilfen f\u00fcr einen gerechten und verantwortungsvollen Umgang mit Andersheit und Fremdheit erl\u00e4utern und an Beispielen ihre Wirksamkeit \u00fcberpr\u00fcfen (zum Beispiel Grundgesetz, Werte, Menschenrechte, rechtliche Normen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02_05",
+                    "content": "ethisch-moralische Probleme des Zusammenlebens in einer pluralistischen Gesellschaft erfassen, Handlungsm\u00f6glichkeiten auf der Grundlage von freiheits- und gerechtigkeitsorientierten Normen entwerfen und sich damit auseinandersetzen"
+                }
+            ],
+            "guidelines": [
+                "BTV_03",
+                "BTV_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_a",
+            "name": "3.4.2.1 Grundlagen des Zusammenlebens",
+            "path": [
+                "02",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_01",
+                    "content": "ethisch-moralische Konflikte in einer pluralistischen Gesellschaft identifizieren und m\u00f6gliche Ursachen erarbeiten (zum Beispiel Vielfalt der kulturellen Lebensformen, Wertewandel, S\u00e4kularisierung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_02",
+                    "content": "Grundlagen und Voraussetzungen f\u00fcr ein gutes und gerechtes Zusammenleben erarbeiten und pr\u00fcfen (zum Beispiel Toleranz, Menschenw\u00fcrde, Menschenrechte, Partizipation, Rechtsstaatlichkeit, Bereitschaft zum Diskurs)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_03",
+                    "content": "verschiedene Konzeptionen von Toleranz untersuchen, vergleichen und m\u00f6gliche Grenzen von Toleranz diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_04",
+                    "content": "die Bedeutung der Menschenrechte und die Achtung der Menschenw\u00fcrde f\u00fcr ein gutes und gerechtes Zusammenleben beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_05",
+                    "content": "verschiedene Begr\u00fcndungen von Menschenrechten (zum Beispiel Natur, Vertrag, Vernunft) unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_06",
+                    "content": "sich mit dem Geltungsanspruch der Menschenrechte (zum Beispiel Partikularismus, Kulturrelativismus, Universalismus) auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01_07",
+                    "content": "L\u00f6sungsans\u00e4tze f\u00fcr ethisch-moralische Konflikte in einer pluralistischen Gesellschaft er\u00f6rtern."
+                }
+            ],
+            "guidelines": [
+                "BTV_06",
+                "BTV_03",
+                "BNE_06",
+                "BNE_07"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_02_a",
+            "name": "3.2.6.2 Vernunft, Vertrag, Gef\u00fchl, Nutzen (*)",
+            "path": [
+                "06",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_02_01",
+                    "content": "a) die Bedeutung vern\u00fcnftiger Argumente zur \u00dcberpr\u00fcfung von Behauptungen beschreiben und Merkmale einer vernunftgeleiteten Argumentation darstellen (zum Beispiel Sokrates)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_02_02",
+                    "content": "die Bedeutung von Vernunft, Vertrag, Gef\u00fchl und Nutzen f\u00fcr die Motivation moralischen Handelns erl\u00e4utern und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_02_03",
+                    "content": "das zugrundeliegende Menschenbild der unterschiedlichen Positionen herausarbeiten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_02_04",
+                    "content": "die verschiedenen Zug\u00e4nge zur Begr\u00fcndung von Moral voneinander abgrenzen, vergleichen und mit ihnen argumentieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_02_05",
+                    "content": "zur \u00dcberzeugungskraft dieser Begr\u00fcndungen in Ans\u00e4tzen Stellung nehmen"
+                }
+            ],
+            "guidelines": [
+                "BNE_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_a",
+            "name": "3.1.1.1 Identit\u00e4t, Individualit\u00e4t und Rolle",
+            "path": [
+                "01",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_01",
+                    "content": "ausgehend von der eigenen Person identit\u00e4tsstiftende Merkmale herausarbeiten und sich zu ihrem Einfluss auf die Individualit\u00e4t \u00e4u\u00dfern (zum Beispiel Begabungen, St\u00e4rken, Schw\u00e4chen, Einschr\u00e4nkungen, Wertvorstellungen, Interessen, Herkunft, soziales Umfeld, Alter, Geschlecht)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_02",
+                    "content": "unterschiedliche Rollenerwartungen an die Einzelne oder den Einzelnen in der Vielfalt sozialer Beziehungen beschreiben und sich daraus ergebende Rollenkonflikte im Kontext von Freiheit und Abh\u00e4ngigkeit untersuchen und bewerten (beispielsweise Familie, Freunde, Gruppe, Gemeinde)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_03",
+                    "content": "Begriffe wie Identit\u00e4t, Individualit\u00e4t und Rolle erl\u00e4utern und voneinander abgrenzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_04",
+                    "content": "M\u00f6glichkeiten und Gefahren f\u00fcr die Einzelne oder den Einzelnen innerhalb verschiedener sozialer Beziehungen identifizieren und bewerten (zum Beispiel Freundschaften, Peergroups, Familie, Verein, Klasse)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01_05",
+                    "content": "allgemeine Bedingungen f\u00fcr ein verantwortliches Miteinander erl\u00e4utern und begr\u00fcnden (zum Beispiel Respekt, Achtung, Fairness, Gerechtigkeit)"
+                }
+            ],
+            "guidelines": [
+                "BTV_04",
+                "VB_03",
+                "MB_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_GK_IK_8-9-10_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01_a",
+            "name": "3.4.4.1 Verantwortungsethik",
+            "path": [
+                "04",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01_01",
+                    "content": "Dimensionen des Verantwortungsbegriffs (Relationen, Formen) erfassen und bestimmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01_02",
+                    "content": "Grundz\u00fcge der verantwortungsethischen Position von Jonas erarbeiten und ansatzweise bewerten (Seinsverantwortung, verantwortungsethische Imperative, Heuristik der Furcht)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01_03",
+                    "content": "Jonas\u00b4 Verst\u00e4ndnis von Verantwortung mit weiteren Verantwortungskonzeptionen (zum Beispiel Zimmerli, Ropohl, Lenk) vergleichen und im Hinblick auf die L\u00f6sung von Verantwortungsproblemen bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01_04",
+                    "content": "Orientierungshilfen f\u00fcr verantwortliches Handeln in ethisch relevanten Entscheidungssituationen aufzeigen und pr\u00fcfen (zum Beispiel Nachhaltigkeits\u00fcberlegungen, Folgenabsch\u00e4tzung, Vorrangregeln, Berufsethos)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01_05",
+                    "content": "auf der Grundlage einer Verantwortungskonzeption Entscheidungsm\u00f6glichkeiten f\u00fcr Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) exemplarisch erarbeiten, diskutieren und beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01_06",
+                    "content": "M\u00f6glichkeiten und Grenzen einer Verantwortungskonzeption (zum Beispiel bezogen auf Menschenbild, Nachhaltigkeit, Gerechtigkeit) auch im Vergleich zu Positionen der Moralphilosophie untersuchen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "BNE_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_a",
+            "name": "3.3.2.1 Grundlagen des Zusammenlebens",
+            "path": [
+                "02",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_01",
+                    "content": "ethisch-moralische Konflikte in einer pluralistischen Gesellschaft identifizieren und m\u00f6gliche Ursachen erarbeiten (zum Beispiel Vielfalt der kulturellen Lebensformen, Wertewandel, S\u00e4kularisierung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_02",
+                    "content": "Grundlagen und Voraussetzungen f\u00fcr ein gutes und gerechtes Zusammenleben erarbeiten und pr\u00fcfen (zum Beispiel Toleranz, Menschenw\u00fcrde, Menschenrechte, Partizipation, Rechtsstaatlichkeit, Bereitschaft zum Diskurs)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_03",
+                    "content": "verschiedene Konzeptionen von Toleranz untersuchen, vergleichen und m\u00f6gliche Grenzen von Toleranz diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_04",
+                    "content": "die Bedeutung der Menschenrechte und die Achtung der Menschenw\u00fcrde f\u00fcr ein gutes und gerechtes Zusammenleben beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_05",
+                    "content": "verschiedene Begr\u00fcndungen von Menschenrechten (zum Beispiel Natur, Vertrag, Vernunft) unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_06",
+                    "content": "sich mit dem Geltungsanspruch der Menschenrechte (zum Beispiel Partikularismus, Kulturrelativismus, Universalismus) auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01_07",
+                    "content": "L\u00f6sungsans\u00e4tze f\u00fcr ethisch-moralische Konflikte in einer pluralistischen Gesellschaft er\u00f6rtern"
+                }
+            ],
+            "guidelines": [
+                "BTV_06",
+                "BTV_03",
+                "BNE_06",
+                "BNE_07"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_04_01_a",
+            "name": "3.0.4.1 Natur und Umwelt",
+            "path": [
+                "04",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_04_01_01",
+                    "content": "Beispiele f\u00fcr die Bedeutung der Natur (zum Beispiel Sch\u00f6nheit, Erholung, Lebensraum, Ressource) und den Umgang des Menschen mit der Natur (zum Beispiel in verschiedenen L\u00e4ndern, zu verschiedenen Zeiten) beschreiben und Auswirkungen dieses Umgangs aufzeigen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_04_01_02",
+                    "content": "das Naturverst\u00e4ndnis des Menschen und zugrundeliegende Motive f\u00fcr seinen Umgang mit der Natur (zum Beispiel Gleichg\u00fcltigkeit, Egoismus, Achtung) herausarbeiten und bewerten (zum Beispiel bezogen auf Wohlstand, Gesundheit, Verantwortung, Gerechtigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_04_01_03",
+                    "content": "ausgehend von der eigenen Lebenssituation M\u00f6glichkeiten eines verantwortungsvollen Umgangs mit der Natur (zum Beispiel Nachhaltigkeit im Umgang mit Ressourcen, Nahrungsmitteln, Technik) entwickeln und diskutieren"
+                }
+            ],
+            "guidelines": [
+                "VB_03",
+                "PG_03",
+                "BNE_01",
+                "BO_03",
+                "BNE_04",
+                "PG_02",
+                "VB_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_07",
+                "BP2016BW_ALLG_GYM_GEO_IK_5-6_05_01_02",
+                "BP2016BW_ALLG_GYM_RRK_IK_5-6_02_00_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_02_a",
+            "name": "3.1.5.2 Mensch, Natur, Technik",
+            "path": [
+                "05",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_02_01",
+                    "content": "die Bedeutung der Natur f\u00fcr den Menschen an Beispielen differenziert beschreiben und vergleichen (zum Beispiel Freizeit, Ressource, Sch\u00f6nheit, Bedrohung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_02_02",
+                    "content": "den Stellenwert der Technik f\u00fcr den Menschen an Beispielen differenziert beschreiben und vergleichen (zum Beispiel bezogen auf Freizeit, Haushalt, Mobilit\u00e4t, Arbeit, Kommunikation)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_02_03",
+                    "content": "Auswirkungen der Technik auf Mensch und Natur und die Folgen zunehmender Technisierung im Hinblick auf m\u00f6gliche Wertekonflikte darstellen und diskutieren (zum Beispiel Selbstbestimmung, Komfort, Nachhaltigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_02_04",
+                    "content": "Aspekte von Freiheit und Verantwortung im Umgang des Menschen mit Natur und Technik an Beispielen untersuchen, M\u00f6glichkeiten eines verantwortungsvollen und nachhaltigen Umgangs mit Technik und Natur entwickeln (zum Beispiel Schutz der Biodiversit\u00e4t, Schonung der Ressourcen) und f\u00fcr diese argumentieren"
+                }
+            ],
+            "guidelines": [
+                "BO_01",
+                "BNE_04",
+                "MB_02",
+                "VB_07",
+                "PG_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_01_a",
+            "name": "3.2.5.1 Ethisch-moralische Werte und Glaubensgrunds\u00e4tze",
+            "path": [
+                "05",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_01_01",
+                    "content": "den moralischen und ethischen Gehalt aus Glaubensgrunds\u00e4tzen und religi\u00f6sen Regeln an Beispielen herausarbeiten und darstellen (zum Beispiel Pflicht, Armen zu helfen; L\u00fcgenverbot; N\u00e4chstenliebe)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_01_02",
+                    "content": "die Goldene Regel in ihrer Bedeutung f\u00fcr das Zusammenleben beschreiben und er\u00f6rtern (zum Beispiel Projekt Weltethos)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_01_03",
+                    "content": "einige religi\u00f6se Regeln erl\u00e4utern und mit moralischen Werten und Normen vergleichen (zum Beispiel Menschenw\u00fcrde, Menschenrechte)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_01_04",
+                    "content": "zu religi\u00f6s bedingten Konflikten im Alltag (zum Beispiel aufgrund von Kleidung, Festen, Regeln, Symbolen) Stellung nehmen und Handlungsm\u00f6glichkeiten zur L\u00f6sung dieser Probleme auf der Grundlage von Selbstbestimmung, Gerechtigkeit und Verantwortung pr\u00fcfen"
+                }
+            ],
+            "guidelines": [
+                "BTV_08",
+                "BTV_08",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BKPROFIL_IK_9-10_01_00",
+                "BP2016BW_ALLG_GYM_RAK_IK_9-10_02_00",
+                "BP2016BW_ALLG_GYM_RALE_IK_7-8_06_00",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01",
+                "BP2016BW_ALLG_GYM_REV_IK_9-10_07_00",
+                "BP2016BW_ALLG_GYM_RISL_IK_9-10_05_00",
+                "BP2016BW_ALLG_GYM_RJUED_IK_9-10_06_00",
+                "BP2016BW_ALLG_GYM_RRK_IK_9-10_07_00",
+                "BP2016BW_ALLG_GYM_RSYR_IK_9-10_07_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_a",
+            "name": "3.1.7.1 Ethisch-moralische Grundlagen des Handelns",
+            "path": [
+                "07",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_01",
+                    "content": "eigene Wertvorstellungen anhand von Beispielsituationen erschlie\u00dfen und mit moralischen Werten vergleichen (zum Beispiel Freiheit, Gerechtigkeit, Toleranz)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_02",
+                    "content": "Werte von Normen unterscheiden und deren Bedeutung f\u00fcr die Einzelne oder den Einzelnen und das Zusammenleben an selbst gew\u00e4hlten F\u00e4llen erl\u00e4utern (zum Beispiel rechtliche und moralische Normen, Konventionen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_03",
+                    "content": "Grundbegriffe der Ethik erkl\u00e4ren und voneinander abgrenzen (zum Beispiel ethisch, moralisch, Begriff des Guten, Wert, Norm, Gewissen, Vernunft) und diese anhand von Beispielen in ihren Verwendungsm\u00f6glichkeiten erschlie\u00dfen und bezogen auf ihre ethisch-moralische Relevanz differenzieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_04",
+                    "content": "den Begriff des Guten anhand von Beispielen in seinen Verwendungsm\u00f6glichkeiten erschlie\u00dfen und erl\u00e4utern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_05",
+                    "content": "unterschiedliche Wert- und Normvorstellungen erschlie\u00dfen und vergleichen (zum Beispiel altersbezogen, historisch, inter\u2011, intrakulturell)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_06",
+                    "content": "Motive ethischen Handelns analysieren (zum Beispiel bezogen auf Gef\u00fchle, Vernunft, Gewissen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01_07",
+                    "content": "sich mit Konfliktsituationen auseinandersetzen und Entscheidungsm\u00f6glichkeiten mit Bezug auf Normen und ethische Prinzipien ansatzweise begr\u00fcnden"
+                }
+            ],
+            "guidelines": [
+                "BTV_08",
+                "BTV_01",
+                "BTV_04",
+                "BTV_06",
+                "BTV_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_06_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_03_a",
+            "name": "3.4.1.3 Freiheit und digitale Welt",
+            "path": [
+                "01",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_03_01",
+                    "content": "Grundz\u00fcge der digitalen Revolution beschreiben und ethisch relevante Probleme der Digitalisierung identifizieren (zum Beispiel K\u00fcnstliche Intelligenz, Big Data, Cyberwar, Post-Privacy)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_03_02",
+                    "content": "Formen der Machtaus\u00fcbung und Spielr\u00e4ume der Freiheit in der digitalen Welt anhand von Beispielen (Arbeitswelt, Technik, Mobilit\u00e4t, Medizin) identifizieren und mit Bezug auf ein selbstbestimmtes Leben er\u00f6rtern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_03_03",
+                    "content": "Auswirkungen der Digitalisierung und Virtualisierung auf das Menschenbild der Moderne untersuchen und diskutieren (zum Beispiel Cyborg, digitales Selbst, Transhumanismus)"
+                }
+            ],
+            "guidelines": [
+                "BO_01",
+                "MB_07"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_01_a",
+            "name": "3.2.1.1 Liebe und Sexualit\u00e4t",
+            "path": [
+                "01",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_01_01",
+                    "content": "anhand von Beispielen Liebe und Sexualit\u00e4t als Grundbed\u00fcrfnisse des Menschen darstellen und verschiedene Lebensformen daraufhin erl\u00e4utern (zum Beispiel Ehe, Familie)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_01_02",
+                    "content": "die Bedeutung von Liebe und Sexualit\u00e4t anhand von Beispielen beschreiben und Deutungen und Erscheinungsformen von Liebe und Sexualit\u00e4t in zwischenmenschlichen Beziehungen diskutieren (zum Beispiel Partnerschaft)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_01_03",
+                    "content": "sich mit verschiedenen Formen und Auffassungen von Liebe und Sexualit\u00e4t im Spannungsfeld von Freiheit, Verantwortung und Selbstbestimmung auseinandersetzen (zum Beispiel durch Rollenbilder von Partnerschaft, Ehe, Familie, sexueller Identit\u00e4t, Gender)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_01_04",
+                    "content": "M\u00f6glichkeiten eines verantwortungsvollen und selbstbestimmten Umgangs mit Liebe und Sexualit\u00e4t im Sinne gelingender Beziehungen erarbeiten und er\u00f6rtern"
+                }
+            ],
+            "guidelines": [
+                "BTV_04",
+                "VB_03",
+                "MB_01",
+                "BTV_04",
+                "PG_04",
+                "BTV_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01",
+                "BP2016BW_ALLG_GYM_BIO_IK_9-10_02_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_08"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_a",
+            "name": "3.0.2.2 Regeln und Regelkonflikte",
+            "path": [
+                "02",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_01",
+                    "content": "Situationen (zum Beispiel Klassengemeinschaft, Sportverein, Spiele) beschreiben, in denen Regeln befolgt werden, und erkl\u00e4ren, was Regeln im jeweiligen Kontext bewirken sollen (zum Beispiel Verantwortung, Fairness, Gleichheit, Respekt)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_02",
+                    "content": "an Beispielen Folgen von Regelverst\u00f6\u00dfen diskutieren und zugrundeliegende Motive bewerten (zum Beispiel sich einen Vorteil verschaffen, Mitgef\u00fchl, Freundschaft)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_03",
+                    "content": "sich widerstreitende Interessen und Regeln aus Konfliktsituationen (zum Beispiel in der Schule, Familie oder unter Freunden) herausarbeiten, verschiedene Handlungsm\u00f6glichkeiten diskutieren und im Hinblick auf Werte (zum Beispiel Erfolg, Ehrlichkeit, Gerechtigkeit) abw\u00e4gen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_04",
+                    "content": "die Goldene Regel anhand eines Beispiels erfassen, auf Regelkonflikte anwenden und ihre moralische Geltung \u00fcberpr\u00fcfen"
+                }
+            ],
+            "guidelines": [
+                "BTV_06",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_04",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_04",
+                "BP2016BW_ALLG_GYM_REV_IK_5-6_02_00_02",
+                "BP2016BW_ALLG_GYM_RRK_IK_5-6_02_00_04",
+                "BP2016BW_ALLG_GYM_SPO_IK_5-6_01_01_07",
+                "BP2016BW_ALLG_GYM_SPO_IK_5-6_01_01_08",
+                "BP2016BW_ALLG_GYM_SPO_IK_5-6_01_01_10",
+                "BP2016BW_ALLG_GYM_SPO_IK_5-6_01_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_03_05"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03_a",
+            "name": "3.4.2.3 Gerechtigkeit und globalisierte Welt",
+            "path": [
+                "02",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03_01",
+                    "content": "Formen interkultureller Begegnung exemplarisch beschreiben und Ursachen m\u00f6glicher Probleme identifizieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03_02",
+                    "content": "Bedingungen der M\u00f6glichkeit interkultureller Verst\u00e4ndigung erarbeiten und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03_03",
+                    "content": "exemplarisch transnationale beziehungsweise intergenerationelle Gerechtigkeitsprobleme einer globalisierten Welt beschreiben (zum Beispiel Lebens- und Arbeitswelt, Flucht, wirtschaftliche Ausbeutung, Umweltzerst\u00f6rung, Weltarmut)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03_04",
+                    "content": "sich mit L\u00f6sungsans\u00e4tzen (zum Beispiel globale Rechts- und Staatsordnung, internationales Strafrecht, Weltwirtschaftsordnung, Verantwortung f\u00fcr zuk\u00fcnftige Generationen) und Ma\u00dfnahmen (zum Beispiel humanit\u00e4re Intervention, V\u00f6lkerrecht, \u201egerechter Krieg\u201c, Weltwirtschaftsordnung) zur Durchsetzung einer gerechten Weltordnung auseinandersetzen"
+                }
+            ],
+            "guidelines": [
+                "BTV_08",
+                "BNE_01",
+                "BNE_07",
+                "BTV_07",
+                "BTV_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02",
+                "BP2016BW_ALLG_GYM_WI_IK_11-12_03_00",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01",
+                "BP2016BW_ALLG_GYM_G_IK_11-12_05_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_a",
+            "name": "3.0.1.1 Ich und mein Leben",
+            "path": [
+                "01",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_01",
+                    "content": "sich selbst in ihrem Lebensumfeld beschreiben (zum Beispiel Familie, Hobbys, Sorgen) und mit der Wahrnehmung anderer vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_02",
+                    "content": "Vorstellungen dar\u00fcber, was das Selbst ausmacht (zum Beispiel Begabungen, Gef\u00fchle), erfassen und den Einfluss verschiedener Faktoren (zum Beispiel Geschlecht, Erziehung, Gruppen, Religion) auf das Selbst herausarbeiten und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_03",
+                    "content": "verschiedene Handlungsm\u00f6glichkeiten entwickeln, um selbst gesetzte Ziele zu erreichen, und sich mit diesen im Kontext von Vorstellungen eines gelungenen Zusammenlebens (zum Beispiel bezogen auf Gerechtigkeit, Verantwortung) auseinandersetzen"
+                }
+            ],
+            "guidelines": [
+                "PG_01",
+                "BO_04",
+                "VB_01",
+                "PG_02",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BK_IK_5-6_01_00_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_04",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_04",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_07",
+                "BP2016BW_ALLG_GYM_MUS_IK_5-6_03_00_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_02_a",
+            "name": "3.2.5.2 Erscheinungsformen und Bedeutung des Religi\u00f6sen (*)",
+            "path": [
+                "05",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_02_01",
+                    "content": "religi\u00f6se Ph\u00e4nomene systematisierend darstellen (zum Beispiel Polytheismus, Monotheismus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_02_02",
+                    "content": "unterschiedliche Funktionen von Religion beschreiben (Innen- und Au\u00dfenperspektive)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_02_03",
+                    "content": "exemplarisch ein religi\u00f6ses mit einem anderen Menschen- und Weltbild vergleichen (zum Beispiel philosophisch, naturwissenschaftlich) und f\u00fcr einzelne Menschen- und Weltbilder argumentieren"
+                }
+            ],
+            "guidelines": [
+                "BTV_08",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BK_IK_7-8_01_00",
+                "BP2016BW_ALLG_GYM_RAK_IK_9-10_02_00",
+                "BP2016BW_ALLG_GYM_RALE_IK_7-8_06_00",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01",
+                "BP2016BW_ALLG_GYM_REV_IK_9-10_07_00",
+                "BP2016BW_ALLG_GYM_RISL_IK_9-10_05_00",
+                "BP2016BW_ALLG_GYM_RJUED_IK_9-10_06_00",
+                "BP2016BW_ALLG_GYM_RRK_IK_9-10_07_00",
+                "BP2016BW_ALLG_GYM_RSYR_IK_9-10_02_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02_a",
+            "name": "3.2.4.2 Mensch als Kulturwesen (*)",
+            "path": [
+                "04",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02_01",
+                    "content": "den Menschen als Kulturwesen beschreiben und sich mit m\u00f6glichen Auswirkungen auf sein Selbstverst\u00e4ndnis (zum Beispiel Leiblichkeit, Moralit\u00e4t) auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02_02",
+                    "content": "relevante Aspekte des Tier-Mensch-Vergleichs darstellen und reflektieren (zum Beispiel Sprache, Moral, Kultur)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02_03",
+                    "content": "den unterschiedlichen Umgang des Menschen mit Natur und Umwelt unter Ber\u00fccksichtigung verschiedener Menschenbilder (zum Beispiel Prometheus, homo faber, homo oeconomicus, homo symbolicus, Gesch\u00f6pf Gottes) untersuchen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02_04",
+                    "content": "exemplarisch verschiedene Zukunfts- und Fortschrittsentw\u00fcrfe im Hinblick auf Vorstellungen eines guten Lebens (unter anderem Freiheit, Gerechtigkeit und Verantwortung) untersuchen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02_05",
+                    "content": "die Verantwortung des Menschen als Kulturwesen f\u00fcr Natur und Umwelt er\u00f6rtern"
+                }
+            ],
+            "guidelines": [
+                "BTV_04",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_02",
+                "BP2016BW_ALLG_GYM_GEO_IK_9-10_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01_a",
+            "name": "3.2.3.1 Werte und Normen in der medial vermittelten Welt",
+            "path": [
+                "03",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01_01",
+                    "content": "die welterschlie\u00dfende und weltver\u00e4ndernde Wirkung von Medien in einer zunehmend digitalisierten Welt beschreiben und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01_02",
+                    "content": "Begriffe wie Digitalisierung, virtuelle Welt, medial konstruierte Wirklichkeit und Lebenswelt erl\u00e4utern und unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01_03",
+                    "content": "mediale Darstellungen unter ethisch relevanten Fragestellungen analysieren und beurteilen (zum Beispiel bezogen auf Meinungsfreiheit, Pers\u00f6nlichkeitsrechte, Privatsph\u00e4re, Menschenw\u00fcrde, Gerechtigkeit, Wahrhaftigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01_04",
+                    "content": "den Stellenwert von moralischen Werten und Normen f\u00fcr mediale Darstellungen aus verschiedenen Perspektiven beschreiben und diskutieren (zum Beispiel Produktion, Vertrieb, Rezeption)"
+                }
+            ],
+            "guidelines": [
+                "MB_01",
+                "VB_08",
+                "PG_07",
+                "VB_02",
+                "MB_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_D_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01_a",
+            "name": "3.1.3.1 Handeln in der medial vermittelten Welt",
+            "path": [
+                "03",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01_01",
+                    "content": "den Einfluss der Medien und der medialen Vernetzung auf ihr Leben und das anderer selbstst\u00e4ndig untersuchen und bewerten (zum Beispiel Alltagsgestaltung, soziale Beziehungen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01_02",
+                    "content": "Chancen und Risiken der Mediennutzung herausarbeiten und diskutieren (beispielsweise Lernangebote, Informationszuwachs, Kommunikation, Unterhaltung, Cybermobbing, Sucht, Privatsph\u00e4re)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01_03",
+                    "content": "Interessen und Bed\u00fcrfnisse von Beteiligten und Betroffenen bei der Mediennutzung identifizieren und bewerten (beispielsweise bezogen auf Privatsph\u00e4re, Datenschutz, Information, Unterhaltung, Wissen, Respekt)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01_04",
+                    "content": "die Relevanz rechtlicher Bestimmungen f\u00fcr den Umgang mit Medien erl\u00e4utern und die Verantwortung des Einzelnen und von Gruppen aufzeigen und begr\u00fcnden (zum Beispiel Meinungs- und Pressefreiheit, Grundrechte, Datenschutz, Jugendschutzgesetz)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01_05",
+                    "content": "Handlungsm\u00f6glichkeiten f\u00fcr einen verantwortlichen und selbstbestimmten Umgang mit Medien darstellen und bewerten (zum Beispiel bezogen auf Unterhaltung, Datenschutz, Nutzung, Entsorgung)"
+                }
+            ],
+            "guidelines": [
+                "MB_03",
+                "VB_02",
+                "MB_07",
+                "PG_06",
+                "BNE_01",
+                "MB_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_03_a",
+            "name": "3.2.1.3 Umgang mit Endlichkeit",
+            "path": [
+                "01",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_03_01",
+                    "content": "Formen der Lebensgestaltung und Lebensf\u00fchrung im Hinblick auf Selbstbestimmung und Verantwortung in verschiedenen Lebensphasen untersuchen und vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_03_02",
+                    "content": "sich mit Vorstellungen von Alter und m\u00f6glichen Auswirkungen auf die Lebensqualit\u00e4t der Betroffenen auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_03_03",
+                    "content": "Unterschiede im Umgang mit Altern, Sterben und Tod herausarbeiten und diskutieren (zum Beispiel bezogen auf Kulturen, Epochen, Religionen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_03_04",
+                    "content": "zentrale rechtliche und ethisch relevante Aspekte einer Konfliktsituation oder Lebenskrise an Fallbeispielen erschlie\u00dfen, Positionen dazu erarbeiten und unter Ber\u00fccksichtigung von Wertekollisionen begr\u00fcnden (zum Beispiel Autonomie versus Schadensvermeidung, Lebensqualit\u00e4t versus Lebenszeit, Verteilungsgerechtigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_03_05",
+                    "content": "Vorstellungen eines menschenw\u00fcrdigen Alterns und Sterbens anhand von Beispielen erarbeiten, vergleichen und diskutieren"
+                }
+            ],
+            "guidelines": [
+                "BTV_04",
+                "PG_02",
+                "BTV_03",
+                "BTV_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_01_a",
+            "name": "3.4.5.1 Grundlagen philosophischer Ethik",
+            "path": [
+                "05",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_01_01",
+                    "content": "deskriptive Ethik, normative Ethik und Metaethik hinsichtlich ihrer Funktionen und Arbeitsweisen unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_01_02",
+                    "content": "Argumentationsformen und \u2011strukturen im Kontext von Ethik und Moral anhand von Beispielen identifizieren und veranschaulichen (praktischer Syllogismus, Toulmin-Schema, Sein-Sollen-Fehlschluss)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_01_03",
+                    "content": "Aufgaben und Grenzen philosophischer Ethik in einer pluralistischen Gesellschaft beschreiben und diskutieren (zum Beispiel Pr\u00fcfung von Geltungsanspr\u00fcchen, ethisch-moralische Reflexion, Relativismus und Universalismus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_01_04",
+                    "content": "eine Position der Moralkritik in ihren Grundz\u00fcgen darstellen und bewerten (zum Beispiel Marx, Nietzsche, Freud)"
+                }
+            ],
+            "guidelines": [
+                "BNE_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01_a",
+            "name": "3.3.1.1 Freiheit und Naturalismus",
+            "path": [
+                "01",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01_01",
+                    "content": "Freiheitsspielr\u00e4ume in der Lebenswelt identifizieren und mithilfe unterschiedlicher Freiheitsbegriffe (Wahl\u2011, Willens- und Handlungsfreiheit, negative/positive Freiheit) analysieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01_02",
+                    "content": "biologische, psychische und soziale Faktoren, die menschliches Handeln beeinflussen, benennen und in Bezug auf Selbst- und Fremdbestimmung diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01_03",
+                    "content": "Positionen in der Debatte um Freiheit (Kompatibilismus, Inkompatibilismus) in Grundz\u00fcgen erarbeiten und im Hinblick auf Willensfreiheit, Moralit\u00e4t und Verantwortung er\u00f6rtern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01_04",
+                    "content": "eine naturalistische Konzeption des Menschen darstellen und unter Ber\u00fccksichtigung ihrer Implikationen problematisieren (zum Beispiel Reduktionismus, Determinismus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01_05",
+                    "content": "sich mit dem Wert der Freiheit f\u00fcr das eigene Leben auseinandersetzen (zum Beispiel hinsichtlich Sicherheit, Selbstbeschr\u00e4nkung, Identit\u00e4ten, Konventionen, Gerechtigkeit)"
+                }
+            ],
+            "guidelines": [
+                "VB_02",
+                "BTV_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_02",
+                "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03_a",
+            "name": "3.3.3.3 Pflichtethik",
+            "path": [
+                "03",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03_01",
+                    "content": "zentrale philosophische Begriffe der kantischen Pflichtethik (zum Beispiel Aufkl\u00e4rung, Vernunft, Freiheit, guter Wille, Pflicht, Neigung, Maxime, Imperative) bestimmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03_02",
+                    "content": "den argumentativen Zusammenhang von Kants Begr\u00fcndung der Moralphilosophie durch Freiheit und Vernunft erl\u00e4utern (Mensch als Sinnes- und Vernunftwesen, Autonomie des Willens, Pflicht und Neigung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03_03",
+                    "content": "den Kategorischen Imperativ als Pr\u00fcfverfahren des Moralischen erarbeiten und von der Goldenen Regel abgrenzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03_04",
+                    "content": "Kants Konzeption von Menschenw\u00fcrde darstellen und anhand von Beispielen pr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03_05",
+                    "content": "auf der Grundlage von Kants Pflichtethik Entscheidungs- und Handlungsm\u00f6glichkeiten f\u00fcr verschiedene Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) exemplarisch erarbeiten, diskutieren und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03_06",
+                    "content": "M\u00f6glichkeiten und Grenzen der Pflichtethik von Kant (zum Beispiel bezogen auf Menschenbild, guter Wille, Pflicht, Folgen, Gef\u00fchle) auch im Vergleich zu anderen Positionen der Moralphilosophie untersuchen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "BTV_04",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_a",
+            "name": "3.4.3.2 Utilitarismus",
+            "path": [
+                "03",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_01",
+                    "content": "zentrale Begriffe verschiedener utilitaristischer Ethiken (Gl\u00fcck, N\u00fctzlichkeit, Regeln, Interessen) bestimmen und erl\u00e4utern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_02",
+                    "content": "den klassischen Utilitarismus (Bentham, Mill) in Grundz\u00fcgen erl\u00e4utern und diskutieren (Menschenbild, Freude und Leid, hedonistisches Kalk\u00fcl, quantitativer und qualitativer Hedonismus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_03",
+                    "content": "Handlungs- und Regelutilitarismus analysieren und miteinander vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_04",
+                    "content": "das Utilit\u00e4tsprinzip darlegen und hinsichtlich seiner Anwendbarkeit auch im Vergleich mit anderen Regeln und Imperativen (Goldene Regel, Kategorischer Imperativ, verantwortungsethische Imperative) pr\u00fcfen und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_05",
+                    "content": "den Pr\u00e4ferenzutilitarismus von Singer als Variante des modernen Utilitarismus erarbeiten und mit dem klassischen Utilitarismus vergleichen (Interessenbegriff)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_06",
+                    "content": "den Personenbegriff bei Singer bestimmen und hinsichtlich seiner ethisch-moralischen Implikationen diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_07",
+                    "content": "Entscheidungs- und Handlungsm\u00f6glichkeiten f\u00fcr verschiedene Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) auf der Grundlage der utilitaristischen Ethik exemplarisch erarbeiten, diskutieren und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_02_08",
+                    "content": "M\u00f6glichkeiten und Grenzen des Utilitarismus (zum Beispiel Folgenabsch\u00e4tzung, Gerechtigkeit, Wertmonismus, Interessenabw\u00e4gung) auch im Vergleich zu anderen Positionen der Moralphilosophie untersuchen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_02_a",
+            "name": "3.4.1.2 Freiheit und Anthropologie",
+            "path": [
+                "01",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_02_01",
+                    "content": "Grundlagen philosophischer Anthropologie (zum Beispiel Weltoffenheit, Selbstbewusstsein, Institutionen) darstellen und deren Beitrag f\u00fcr das jeweilige Selbstverst\u00e4ndnis des Menschen untersuchen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_02_02",
+                    "content": "die Bedingungen der M\u00f6glichkeit von Freiheit aus verschiedenen Menschenbildern (zum Beispiel religi\u00f6se, philosophische, einzelwissenschaftliche) herausarbeiten und vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_02_03",
+                    "content": "eine einzelwissenschaftliche und eine philosophische Konzeption des Menschen (zum Beispiel naturalistische, psychologische, soziologische) in ihren Grundz\u00fcgen beschreiben und hinsichtlich ihrer Implikationen vergleichen und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_02_04",
+                    "content": "die Bedeutung von Erziehung, Bildung und Sozialisation f\u00fcr die individuelle Lebensgestaltung im Hinblick auf Selbstbestimmung und Fremdbestimmung untersuchen und problematisieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_02_05",
+                    "content": "das Selbstverst\u00e4ndnis des Menschen in der Moderne (zum Beispiel Aufkl\u00e4rung, Fortschritt) erarbeiten und sich damit auseinandersetzen (zum Beispiel bezogen auf Selbstoptimierung, Beschleunigung, Rationalisierung)"
+                }
+            ],
+            "guidelines": [
+                "BTV_01",
+                "BTV_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_01",
+                "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_a",
+            "name": "3.0.1.2 Ich und meine Freundschaften",
+            "path": [
+                "01",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_01",
+                    "content": "verschiedene Formen von Freundschaft beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_02",
+                    "content": "Merkmale von Freundschaft aufzeigen, diese von anderen Beziehungsformen (zum Beispiel Familie, Schulklasse, Verein) abgrenzen und ihre Bedeutung f\u00fcr das eigene Leben charakterisieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_03",
+                    "content": "m\u00f6gliche Bedingungen und Grenzen von Freundschaft erarbeiten und sich damit auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_02_04",
+                    "content": "Situationen, in denen Freundschaft mit Werten (zum Beispiel Selbstbestimmung, Gerechtigkeit, Verantwortung, Ehrlichkeit) in Konflikt ger\u00e4t, beschreiben, analysieren und verschiedene L\u00f6sungsm\u00f6glichkeiten aufzeigen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "PG_01",
+                "BTV_06",
+                "PG_02",
+                "BTV_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_04",
+                "BP2016BW_ALLG_GYM_D_IK_5-6_01_03_13",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_03",
+                "BP2016BW_ALLG_GYM_SPO_IK_5-6_01_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_a",
+            "name": "3.3.3.1 Tugendethik",
+            "path": [
+                "03",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_01",
+                    "content": "zentrale philosophische Begriffe der Tugendethik von Aristoteles (zum Beispiel Eudaimonie, Telos, Tugend, ethische und dianoetische Tugenden, Phronesis, Logos) bestimmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_02",
+                    "content": "den Zusammenhang von Eudaimonie, Logos und Telos f\u00fcr die Begr\u00fcndung der aristotelischen Ethik (zum Beispiel Mensch als sprach- und vernunftbegabtes Sozialwesen, Gl\u00fcckseligkeit als h\u00f6chstes Ziel) erl\u00e4utern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_03",
+                    "content": "den Begriff der Eudaimonie (zum Beispiel im Zusammenhang mit Teleologie, Lebensformen, Seelenlehre) bei Aristoteles erl\u00e4utern und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_04",
+                    "content": "den aristotelischen Tugendbegriff auch unter Ber\u00fccksichtigung der Mesoteslehre erarbeiten und anhand von Beispielen (zum Beispiel Tapferkeit, Sanftmut, Wahrhaftigkeit) pr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_05",
+                    "content": "die Tugendethik von Aristoteles mit einem anderen gl\u00fccks- oder strebensethischen Ansatz (zum Beispiel Stoa, Martha Nussbaum) vergleichen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_06",
+                    "content": "auf der Grundlage der aristotelischen Ethik Entscheidungs- und Handlungsm\u00f6glichkeiten f\u00fcr verschiedene Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) beispielhaft erarbeiten, diskutieren und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_01_07",
+                    "content": "M\u00f6glichkeiten und Grenzen der Tugendethik von Aristoteles (zum Beispiel bezogen auf Menschenbild, Mesoteslehre, Lebensformen) auch im Vergleich zu anderen Positionen der Moralphilosophie untersuchen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "PG_02",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_02_a",
+            "name": "3.1.2.2 Verantwortung im Umgang mit Konflikten und Gewalt",
+            "path": [
+                "02",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_02_01",
+                    "content": "die Sichtweisen von Betroffenen und Beteiligten in Konfliktsituationen herausarbeiten und bewerten (zum Beispiel Elternhaus, Schule, soziale Netzwerke)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_02_02",
+                    "content": "Erkl\u00e4rungsans\u00e4tze f\u00fcr Gewalt anhand von Beispielsituationen herausarbeiten und beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_02_03",
+                    "content": "selbstst\u00e4ndig Strategien zu gewaltfreien und verantwortungsbewussten Konfliktl\u00f6sungen entwickeln und \u00fcberpr\u00fcfen (zum Beispiel Kompromiss, Mediation, Konsens)"
+                }
+            ],
+            "guidelines": [
+                "MB_04",
+                "BTV_01",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01_a",
+            "name": "3.2.6.1 Gl\u00fcck und Moral",
+            "path": [
+                "06",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01_01",
+                    "content": "Lebens- und Gl\u00fccksvorstellungen wiedergeben und unter verschiedenen Aspekten vergleichen (zum Beispiel Gl\u00fccksversprechen, Sinnsuche, Freiheit, Hedonismus, Utopien)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01_02",
+                    "content": "Werte und Normen als konstitutiv f\u00fcr das Zusammenleben darlegen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01_03",
+                    "content": "Lebens- und Gl\u00fccksvorstellungen im Kontext von Selbstbestimmung und Verantwortung erl\u00e4utern und deren Vereinbarkeit mit Werten, gesellschaftlichen Konventionen und Pflichten pr\u00fcfen und bewerten (zum Beispiel bezogen auf Ergebnisse der Gl\u00fccksforschung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01_04",
+                    "content": "Vorstellungen eines gelungenen Lebens entwerfen und ihre Vereinbarkeit mit Anforderungen der Moral \u00fcberpr\u00fcfen und diskutieren"
+                }
+            ],
+            "guidelines": [
+                "VB_03",
+                "PG_01",
+                "BO_03",
+                "MB_07",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_05_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_01_a",
+            "name": "3.1.5.1 Verantwortung f\u00fcr Tiere",
+            "path": [
+                "05",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_01_01",
+                    "content": "verschiedene Auffassungen vom Umgang mit Tieren (zum Beispiel als Haus\u2011, Nutz- und Wildtier) herausarbeiten und dabei zugrundeliegende Interessen und Werte analysieren und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_01_02",
+                    "content": "rechtliche Regelungen zum Schutz der Tiere erl\u00e4utern (zum Beispiel Tierschutzgesetz, Grundgesetz)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_01_03",
+                    "content": "Argumente unterscheiden und abw\u00e4gen, die sich im Sinne des Tierschutzes eher auf den Nutzen f\u00fcr den Menschen oder das zu vermeidende Leid der Tiere st\u00fctzen, und sich damit auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_01_04",
+                    "content": "verschiedene Handlungsm\u00f6glichkeiten zum Schutz der Tiere erarbeiten und bewerten (zum Beispiel bezogen auf Umsetzungsm\u00f6glichkeiten, Reichweite)"
+                }
+            ],
+            "guidelines": [
+                "BNE_02",
+                "VB_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_a",
+            "name": "3.4.4.2 Angewandte Ethik",
+            "path": [
+                "04",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_01",
+                    "content": "Bereiche der Angewandten Ethik in ihren Grundlagen und ihrer ethischen Relevanz beschreiben (zum Beispiel Naturethik, Technikethik, Medizinethik, Medienethik, Wissenschaftsethik, Wirtschaftsethik) und im Zusammenhang mit Vorstellungen eines guten Lebens diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_02",
+                    "content": "zentrale Begriffe oder Aspekte verschiedener Bereiche der Angewandten Ethik benennen und erl\u00e4utern (zum Beispiel naturethische Positionen, Risiko, Wirklichkeit, Wahrheit, Wachstum)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_03",
+                    "content": "anhand von ethisch relevanten Problemf\u00e4llen der Angewandten Ethik Ziele und Interessen der Beteiligten und Betroffenen herausarbeiten, vergleichen und erl\u00e4utern (zum Beispiel Energieversorgung, Arbeitserleichterung, Gesundheit, Information, Fortschritt)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_04",
+                    "content": "in Problemf\u00e4llen der Angewandten Ethik (zum Beispiel bezogen auf Klimawandel, Digitalisierung, Entfremdung, Genetik, Selbstoptimierung) die den verschiedenen Interessen und Zielen zugrundeliegenden Werte herausarbeiten und zuordnen (instrumentelle, moralische, eudaimonistische Werte)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_05",
+                    "content": "im Kontext der Angewandten Ethik relevante Werte im Hinblick auf ihren ethisch-moralischen Gehalt untersuchen, vergleichen und bewerten (zum Beispiel Naturschutz, Leben, W\u00fcrde, Selbstbestimmung, Gerechtigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_06",
+                    "content": "Beurteilungsma\u00dfst\u00e4be der Angewandten Ethik auf Beispielf\u00e4lle anwenden und \u00fcberpr\u00fcfen (zum Beispiel Nachhaltigkeitsvorstellungen, Folgenabsch\u00e4tzung, Vorrangregeln, Berufsethos)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_07",
+                    "content": "bei der Auseinandersetzung mit Problemf\u00e4llen der Angewandten Ethik mit moralphilosophischen Begr\u00fcndungsans\u00e4tzen oder ethischen Positionen argumentieren sowie diese bei der Urteils- und Entscheidungsfindung ber\u00fccksichtigen (zum Beispiel Tugendethik, Utilitarismus, Pflichtethik, verantwortungs- oder naturethische Positionen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02_08",
+                    "content": "eigene Stellungnahmen zu Entscheidungssituationen der Angewandten Ethik erarbeiten und reflektiert begr\u00fcnden"
+                }
+            ],
+            "guidelines": [
+                "MB_07",
+                "BNE_05",
+                "BNE_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_WI_IK_11-12_06_00",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_03",
+                "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03",
+                "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_02_a",
+            "name": "3.2.1.2 Arbeit und Selbstbestimmung",
+            "path": [
+                "01",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_02_01",
+                    "content": "Formen von Arbeit (zum Beispiel Erwerbsarbeit, Hausarbeit, Engagement) in ihrer jeweiligen Bedeutung f\u00fcr das Leben der Einzelnen und des Einzelnen (zum Beispiel Lebenserhalt, Bed\u00fcrfnisbefriedigung, Abh\u00e4ngigkeit, Selbstverwirklichung, soziale Anerkennung, Sinnstiftung) erfassen und vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_02_02",
+                    "content": "Probleme der Arbeitswelt (zum Beispiel Entfremdung, Verletzung der Menschenw\u00fcrde, Beeintr\u00e4chtigung der Gesundheit, Verknappung von Zeit) unter ethisch relevanten Gesichtspunkten analysieren, diskutieren und L\u00f6sungsvorschl\u00e4ge erarbeiten (zum Beispiel bezogen auf Solidarit\u00e4t, verantwortungsvoller Konsum, Unternehmensethik)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_02_03",
+                    "content": "sich mit dem Stellenwert von Arbeit bezogen auf Lebensziele und Vorstellungen eines guten Lebens auseinandersetzen"
+                }
+            ],
+            "guidelines": [
+                "BO_07",
+                "BO_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_WBS_IK_8-9-10_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02_a",
+            "name": "3.3.1.2 Freiheit und Anthropologie",
+            "path": [
+                "01",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02_01",
+                    "content": "Grundlagen philosophischer Anthropologie (zum Beispiel Weltoffenheit, Selbstbewusstsein) darstellen und deren Beitrag f\u00fcr das jeweilige Selbstverst\u00e4ndnis des Menschen untersuchen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02_02",
+                    "content": "die Bedingungen der M\u00f6glichkeit von Freiheit aus verschiedenen Menschenbildern (zum Beispiel religi\u00f6se, philosophische, einzelwissenschaftliche) herausarbeiten und vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02_03",
+                    "content": "die Bedeutung von Erziehung, Bildung und Sozialisation f\u00fcr die individuelle Lebensgestaltung im Hinblick auf Selbstbestimmung und Fremdbestimmung untersuchen und problematisieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02_04",
+                    "content": "das Selbstverst\u00e4ndnis des Menschen in der Moderne (zum Beispiel bezogen auf Vernunft, Freiheit, Aufkl\u00e4rung) anhand von Beispielen aus der Lebenswelt beschreiben und sich damit auseinandersetzen"
+                }
+            ],
+            "guidelines": [
+                "BTV_01",
+                "BTV_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01",
+                "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01_a",
+            "name": "3.2.2.1 Konfliktregelung und Friedensbildung",
+            "path": [
+                "02",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01_01",
+                    "content": "Erkl\u00e4rungsans\u00e4tze f\u00fcr Aggressionen und Gewalt darlegen und systematisierend voneinander abgrenzen und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01_02",
+                    "content": "Gewalt und gewaltloses Handeln als Mittel zur Konfliktregelung und Friedensbildung untersuchen und er\u00f6rtern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_01_03",
+                    "content": "M\u00f6glichkeiten einer gerechten und verantwortungsvollen Konfliktregelung gem\u00e4\u00df allgemeinen Prinzipien guten Handelns beschreiben und beurteilen (zum Beispiel Menschenrechte, W\u00fcrde, Toleranz, Freiheit, Verantwortung, Zivilcourage, auch mit Bezug auf philosophische Begr\u00fcndungen der Moral)"
+                }
+            ],
+            "guidelines": [
+                "PG_07",
+                "BNE_07"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_02_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01",
+                "BP2016BW_ALLG_GYM_BIO_IK_9-10_01_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02_a",
+            "name": "3.4.5.2 Religion und Religionskritik",
+            "path": [
+                "05",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02_01",
+                    "content": "Funktionen von Religion f\u00fcr Individuum und Gesellschaft in einer s\u00e4kularisierten Welt darstellen und diskutieren (zum Beispiel Kontingenzbew\u00e4ltigung, Identit\u00e4tsbildung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02_02",
+                    "content": "Gemeinsamkeiten, Differenzen und Konflikte zwischen einer religi\u00f6sen und einer s\u00e4kularen Sichtweise des Menschen erarbeiten und zu daraus resultierenden Konflikten Stellung nehmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02_03",
+                    "content": "das Spannungsverh\u00e4ltnis von Glauben und Wissen, Religion und Vernunft analysieren und er\u00f6rtern (zum Beispiel Moralbegr\u00fcndung, moralische Motivation, Theodizee-Problem)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02_04",
+                    "content": "eine Position der Religionskritik darstellen und beurteilen (zum Beispiel Feuerbach, Marx, Nietzsche, Freud)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02_05",
+                    "content": "Beispiele m\u00f6glicher Instrumentalisierung von Religion identifizieren, analysieren und Stellung dazu nehmen (zum Beispiel Fundamentalismus)"
+                }
+            ],
+            "guidelines": [
+                "BTV_08",
+                "VB_03"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02",
+                "BP2016BW_ALLG_GYM_RAK_IK_11-12-LF_06_00",
+                "BP2016BW_ALLG_GYM_RALE_IK_11-12_03_00",
+                "BP2016BW_ALLG_GYM_RALE_IK_11-12_06_00",
+                "BP2016BW_ALLG_GYM_REV_IK_11-12-LF_03_00",
+                "BP2016BW_ALLG_GYM_RISL_IK_11-12_05_00",
+                "BP2016BW_ALLG_GYM_RJUED_IK_11-12-LF_04_00",
+                "BP2016BW_ALLG_GYM_RSYR_IK_11-12-LF_06_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01_a",
+            "name": "3.4.1.1 Freiheit und Naturalismus",
+            "path": [
+                "01",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01_01",
+                    "content": "Freiheitsspielr\u00e4ume in der Lebenswelt identifizieren und mithilfe unterschiedlicher Freiheitsbegriffe (Wahl\u2011, Willens- und Handlungsfreiheit, negative/positive Freiheit) analysieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01_02",
+                    "content": "biologische, psychische und soziale Faktoren, die menschliches Handeln beeinflussen, benennen und in Bezug auf Selbst- und Fremdbestimmung diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01_03",
+                    "content": "Positionen in der Debatte um Freiheit (Kompatibilismus, Inkompatibilismus) in Grundz\u00fcgen erarbeiten und im Hinblick auf Willensfreiheit, Moralit\u00e4t und Verantwortung er\u00f6rtern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01_04",
+                    "content": "eine naturalistische Konzeption des Menschen darstellen und unter Ber\u00fccksichtigung ihrer Implikationen problematisieren (zum Beispiel Reduktionismus, Determinismus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01_05",
+                    "content": "sich mit dem Wert der Freiheit f\u00fcr das eigene Leben auseinandersetzen (zum Beispiel hinsichtlich Sicherheit, Selbstbeschr\u00e4nkung, Identit\u00e4ten, Konventionen, Gerechtigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01_01_06",
+                    "content": "den Stellenwert von Freiheit in gesellschaftlichen Kontroversen (zum Beispiel in Kulturen, Medien, Medizin, Religion, Wirtschaft) herausarbeiten und diskutieren"
+                }
+            ],
+            "guidelines": [
+                "VB_02",
+                "BTV_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_05_02",
+                "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_a",
+            "name": "3.3.4.2 Angewandte Ethik",
+            "path": [
+                "04",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_01",
+                    "content": "Bereiche der Angewandten Ethik (zum Beispiel Naturethik, Technikethik, Medizinethik, Medienethik, Wissenschaftsethik und Wirtschaftsethik) in ihren Grundlagen und ihrer ethischen Bedeutung beschreiben und im Zusammenhang mit Vorstellungen eines guten Lebens diskutieren (zum Beispiel bezogen auf naturethische Positionen, Nachhaltigkeit, homo faber, W\u00fcrde, Information, Wahrheit, Wachstum, Gerechtigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_02",
+                    "content": "anhand von ethisch relevanten Problemf\u00e4llen der Angewandten Ethik Ziele und Interessen der Beteiligten und Betroffenen herausarbeiten, vergleichen und erl\u00e4utern (zum Beispiel Energieversorgung, Arbeitserleichterung, Gesundheit, Information, Fortschritt, Wachstum)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_03",
+                    "content": "in Problemf\u00e4llen der Angewandten Ethik (zum Beispiel Klimawandel, Digitalisierung, Entfremdung, Genetik, Selbstoptimierung) die den verschiedenen Interessen und Zielen zugrundeliegenden Werte herausarbeiten und benennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_04",
+                    "content": "im Kontext der Angewandten Ethik relevante Werte im Hinblick auf ihren ethisch-moralischen Gehalt untersuchen, vergleichen und bewerten (zum Beispiel Naturschutz, Leben, W\u00fcrde, Selbstbestimmung, Gerechtigkeit, Freiheit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_05",
+                    "content": "Beurteilungsma\u00dfst\u00e4be der Angewandten Ethik auf Beispielf\u00e4lle anwenden und \u00fcberpr\u00fcfen (zum Beispiel Nachhaltigkeit, Folgenabsch\u00e4tzung, Vorrangregeln, Berufsethos)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_06",
+                    "content": "bei der Auseinandersetzung mit Problemf\u00e4llen der Angewandten Ethik mit moralphilosophischen Begr\u00fcndungsans\u00e4tzen oder ethischen Positionen argumentieren sowie diese bei der Urteils- und Entscheidungsfindung ber\u00fccksichtigen (zum Beispiel Tugendethik, Utilitarismus, Pflichtethik, verantwortungs- oder naturethische Positionen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_02_07",
+                    "content": "eigene Stellungnahmen zu Entscheidungssituationen der Angewandten Ethik erarbeiten und reflektiert begr\u00fcnden"
+                }
+            ],
+            "guidelines": [
+                "MB_07",
+                "BNE_05",
+                "VB_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_WI_IK_11-12_06_00",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03",
+                "BP2016BW_ALLG_GYM_BIO_IK_11-12-BF_06_00",
+                "BP2016BW_ALLG_GYM_D_IK_11-12-LF_01_03",
+                "BP2016BW_ALLG_GYM_GEO_IK_11-12-BF_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_a",
+            "name": "3.1.1.2 Freiheit und Verantwortung",
+            "path": [
+                "01",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_01",
+                    "content": "Faktoren, die sie bei ihren Entscheidungen und in ihrem Handeln beeinflussen, gewichten und sich mit M\u00f6glichkeiten selbstbestimmten Entscheidens und Handelns auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_02",
+                    "content": "Formen von Freiheit bestimmen und voneinander abgrenzen (zum Beispiel Handlungsfreiheit, Willensfreiheit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_03",
+                    "content": "die Spannung zwischen Abh\u00e4ngigkeit und Freiheit in der Adoleszenz darlegen und dazu Stellung nehmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_04",
+                    "content": "Verantwortung in ihren verschiedenen Dimensionen benennen (zum Beispiel wer, wem gegen\u00fcber, wof\u00fcr, weswegen, wann)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_05",
+                    "content": "anhand von Beispielen den Zusammenhang zwischen Freiheit und Verantwortung aufzeigen und eigene Verantwortlichkeiten benennen (zum Beispiel soziale Beziehungen, Nachhaltigkeit)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02_06",
+                    "content": "Aspekte eines selbstbestimmten und gl\u00fccklichen Lebens erl\u00e4utern und bewerten (zum Beispiel bezogen auf Berufsziel, Formen der Beteiligung, Beziehungen, sexuelle Identit\u00e4t, Gesundheit, Medien)"
+                }
+            ],
+            "guidelines": [
+                "BTV_04",
+                "MB_07",
+                "BO_02",
+                "BTV_04",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01",
+                "BP2016BW_ALLG_GYM_GK_IK_8-9-10_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_06_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_a",
+            "name": "3.1.1.3 Gerechtigkeit",
+            "path": [
+                "01",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_01",
+                    "content": "ihr Verst\u00e4ndnis von Gerechtigkeit und Ungerechtigkeit an Beispielen darstellen und erl\u00e4utern (beispielsweise bezogen auf Schulleben, Familie, Freundschaft, Bildung, Sport)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_02",
+                    "content": "unterschiedliche Formen von Gerechtigkeit vergleichen und er\u00f6rtern (zum Beispiel Chancengleichheit, Verh\u00e4ltnism\u00e4\u00dfigkeit, Gleichberechtigung, Nachteilsausgleich)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_03",
+                    "content": "die Bedeutung grundlegender Rechte zur Sicherung von Gerechtigkeit aufzeigen und erkl\u00e4ren (beispielsweise Menschenrechte, UN-Konvention, Kinderrechte)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_04",
+                    "content": "die wechselseitige Achtung als wesentliche Grundlage der Gerechtigkeit herausarbeiten und darlegen (zum Beispiel Inklusion, Integration, Partizipation)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03_05",
+                    "content": "verantwortliches Handeln im Hinblick auf gerechte Lebensverh\u00e4ltnisse entwerfen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "BO_04",
+                "PG_07",
+                "BNE_06",
+                "MB_03"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01",
+                "BP2016BW_ALLG_GYM_GK_IK_8-9-10_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_05_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_a",
+            "name": "3.0.3.1 (Selbst-)Darstellung in Medien",
+            "path": [
+                "03",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_01",
+                    "content": "unterschiedliche Formen medialer (Selbst\u2011)Darstellung (zum Beispiel in sozialen Netzwerken, Foren, Spielen) beschreiben und vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_02",
+                    "content": "Wirkungen verschiedener medialer (Selbst\u2011)Darstellungen identifizieren und im Hinblick auf W\u00fcnsche und Interessen von Rezipienten (zum Beispiel Zugeh\u00f6rigkeit, Idol) untersuchen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_03",
+                    "content": "m\u00f6gliche Interessen und Absichten (zum Beispiel Beliebtheit, Profit) bei der Produktion medialer (Selbst\u2011)Darstellungen (zum Beispiel Bildbearbeitung, Sprache) erschlie\u00dfen und sich damit auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_03_01_04",
+                    "content": "Hinweise f\u00fcr einen verantwortungsvollen und selbstbestimmten Umgang mit medialen (Selbst\u2011)Darstellungen erarbeiten und begr\u00fcnden"
+                }
+            ],
+            "guidelines": [
+                "PG_01",
+                "VB_07",
+                "BNE_01",
+                "VB_08",
+                "MB_02",
+                "MB_05",
+                "VB_06",
+                "BO_03",
+                "MB_07",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_01",
+                "BP2016BW_ALLG_GYM_BK_IK_5-6_01_00_01",
+                "BP2016BW_ALLG_GYM_BK_IK_5-6_01_00_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_D_IK_5-6_01_03_08",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01_a",
+            "name": "3.3.4.1 Verantwortungsethik",
+            "path": [
+                "04",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01_01",
+                    "content": "Dimensionen des Verantwortungsbegriffs (Relationen, Formen) erfassen und bestimmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01_02",
+                    "content": "eine verantwortungsethische Position (zum Beispiel Jonas) in Grundz\u00fcgen erl\u00e4utern und mit einer anderen Verantwortungskonzeption in Ans\u00e4tzen vergleichen und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01_03",
+                    "content": "Werte funktional zuordnen (zum Beispiel als instrumentell, moralisch, eudaimonistisch) und sich mit Wertekonflikten im Kontext verantwortlichen Handelns auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01_04",
+                    "content": "Orientierungshilfen f\u00fcr verantwortliches Handeln in ethisch relevanten Entscheidungssituationen aufzeigen und pr\u00fcfen (zum Beispiel Nachhaltigkeitskonzept, Folgenabsch\u00e4tzung, Vorrangregeln, Berufsethos)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01_05",
+                    "content": "auf der Grundlage einer Verantwortungskonzeption Entscheidungsm\u00f6glichkeiten f\u00fcr Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) exemplarisch erarbeiten, diskutieren und beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04_01_06",
+                    "content": "M\u00f6glichkeiten und Grenzen einer Verantwortungskonzeption (zum Beispiel bezogen auf Menschenbild, Nachhaltigkeit, Gerechtigkeit) auch im Vergleich zu Positionen der Moralphilosophie reflektieren und bewerten"
+                }
+            ],
+            "guidelines": [
+                "BNE_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_a",
+            "name": "3.0.2.1 Gl\u00fcckliches und gutes Leben",
+            "path": [
+                "02",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_01",
+                    "content": "aus verschiedenen Quellen (zum Beispiel M\u00e4rchen, Werbung) Vorstellungen von Gl\u00fcck differenziert herausarbeiten und eigene Gl\u00fccksvorstellungen darstellen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_02",
+                    "content": "Gl\u00fccksvorstellungen im Hinblick auf verschiedene Aspekte (zum Beispiel Voraussetzungen, Folgen, Realisierbarkeit) vergleichend untersuchen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_03",
+                    "content": "sich mit der Vereinbarkeit eigener Gl\u00fccksvorstellungen mit denen anderer auseinandersetzen und die darin realisierten Werte (zum Beispiel Reichtum, Erfolg, Freundschaft, Gerechtigkeit, Selbstbestimmung) herausarbeiten und problematisieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_04",
+                    "content": "Vorstellungen eines gl\u00fccklichen und guten (Zusammen\u2011)Lebens f\u00fcr ihre Zukunft entwerfen und beurteilen"
+                }
+            ],
+            "guidelines": [
+                "VB_07",
+                "VB_02",
+                "VB_08",
+                "VB_06",
+                "PG_01",
+                "VB_07",
+                "BNE_01",
+                "VB_03",
+                "BNE_04",
+                "VB_01",
+                "MB_07",
+                "BTV_04",
+                "PG_02",
+                "BTV_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_D_IK_5-6_01_01_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_01_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_a",
+            "name": "3.3.2.2 Gerechtigkeit und Recht",
+            "path": [
+                "02",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_01",
+                    "content": "individuelle und institutionelle Gerechtigkeitsprobleme in der Lebenswelt identifizieren und mithilfe verschiedener Formen der Gerechtigkeit (zum Beispiel Verteilungs\u2011, Bildungs\u2011, Generationengerechtigkeit) analysieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_02",
+                    "content": "die Gerechtigkeitstheorie von John Rawls mit einer weiteren Theorie der Gerechtigkeit (zum Beispiel Frankfurt, von Hayek, Nussbaum, Walzer) in Grundz\u00fcgen vergleichen und das zugrundeliegende Verst\u00e4ndnis von Gerechtigkeit herausarbeiten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_03",
+                    "content": "die Tragf\u00e4higkeit dieser Theorien f\u00fcr die L\u00f6sung von Gerechtigkeitsfragen (zum Beispiel bezogen auf Bildung, Generationengerechtigkeit, Einkommen) untersuchen und problematisieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_04",
+                    "content": "die Bedeutung des Rechtspositivismus und seiner Kritik (zum Beispiel Vernunft\u2011, Naturrecht) diskutieren und das Verh\u00e4ltnis von Legalit\u00e4t und Legitimit\u00e4t (Recht und Moral) an konkreten F\u00e4llen er\u00f6rtern (zum Beispiel ziviler Ungehorsam)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02_05",
+                    "content": "Funktionen des Rechts und Merkmale eines gerechten Strafrechts diskutieren (Strafzwecktheorien, Alternativen zur Strafe, zugrundeliegendes Menschenbild)"
+                }
+            ],
+            "guidelines": [
+                "BTV_06",
+                "BNE_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02_a",
+            "name": "3.3.3.2 Utilitarismus",
+            "path": [
+                "03",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02_01",
+                    "content": "zentrale Begriffe des klassischen Utilitarismus (zum Beispiel Gl\u00fcck und Leid, hedonistisches Kalk\u00fcl, Utilit\u00e4tsprinzip) bestimmen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02_02",
+                    "content": "den klassischen Utilitarismus in Grundz\u00fcgen erl\u00e4utern und diskutieren (Menschenbild, quantitativer und qualitativer Hedonismus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02_03",
+                    "content": "den klassischen Utilitarismus mit einer Variante des modernen Utilitarismus (zum Beispiel Regelutilitarismus, Pr\u00e4ferenzutilitarismus) vergleichen und problematisieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02_04",
+                    "content": "Entscheidungs- und Handlungsm\u00f6glichkeiten f\u00fcr verschiedene Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) auf der Grundlage der utilitaristischen Ethik exemplarisch erarbeiten, diskutieren und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03_02_05",
+                    "content": "M\u00f6glichkeiten und Grenzen des Utilitarismus (zum Beispiel Folgenabsch\u00e4tzung, Gerechtigkeit, Wertmonismus) auch im Vergleich zu anderen Positionen der Moralphilosophie untersuchen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_02_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01_a",
+            "name": "3.2.4.1 Mensch und Umwelt",
+            "path": [
+                "04",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "9",
+                "10"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01_01",
+                    "content": "verschiedene Auffassungen von Natur erl\u00e4utern und vergleichen (zum Beispiel Sch\u00f6pfung, Ressource, Gegenstand der Wissenschaften)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01_02",
+                    "content": "unterschiedliche Sichtweisen vom Verh\u00e4ltnis des Menschen zur Natur auch im Hinblick auf Aspekte von Freiheit, Gerechtigkeit und Verantwortung identifizieren (zum Beispiel Abh\u00e4ngigkeit, Herrschaft, Achtung), voneinander abgrenzen und im Hinblick auf Vorstellungen eines guten, gerechten und verantwortungsvollen Lebens \u00fcberpr\u00fcfen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01_03",
+                    "content": "verschiedene Ans\u00e4tze der Naturethik bestimmen, unterscheiden und an Beispielen er\u00f6rtern (zum Beispiel anthropozentrisch, physiozentrisch)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01_04",
+                    "content": "exemplarisch Chancen und Risiken moderner Techniken analysieren und diskutieren (zum Beispiel Gentechnik, Energietechnologien, Medizintechnik)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_01_05",
+                    "content": "Aspekte ethisch-moralischer Verantwortung des Menschen f\u00fcr den Schutz der Natur und den nachhaltigen Umgang mit Technik erl\u00e4utern und diskutieren (zum Beispiel Ressourcen- und Mediennutzung, Biodiversit\u00e4t)"
+                }
+            ],
+            "guidelines": [
+                "VB_03",
+                "BO_03",
+                "PG_01",
+                "BNE_01",
+                "VB_02",
+                "BNE_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_04_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_9-10_06_01",
+                "BP2016BW_ALLG_GYM_BIO_IK_9-10_03_00",
+                "BP2016BW_ALLG_GYM_GEO_IK_9-10_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_03_a",
+            "name": "3.0.1.3 Ich und die Anderen",
+            "path": [
+                "01",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_03_01",
+                    "content": "verschiedene Beziehungsformen beschreiben (zum Beispiel Familie, Freundeskreis, Schulklasse, Verein), voneinander abgrenzen und sich mit der Bedeutung sozialer Beziehungen f\u00fcr ihr Leben und das anderer auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_03_02",
+                    "content": "Erfahrungen von Andersheit und Fremdheit beschreiben und vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_03_03",
+                    "content": "Ursachen f\u00fcr Erfahrungen von Andersheit und Fremdheit (zum Beispiel k\u00f6rperliche, religi\u00f6se, kulturelle) herausarbeiten und m\u00f6gliche Folgen (zum Beispiel Erkenntnisgewinn, Freundschaft, Verunsicherung, Ausgrenzung) darlegen und diskutieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_03_04",
+                    "content": "im Zusammenhang mit Erfahrungen von Andersheit und Fremdheit die Rolle von Vorurteilen identifizieren und pr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_01_03_05",
+                    "content": "m\u00f6gliche Handlungsweisen (zum Beispiel Ausgrenzung, Sprachgebrauch, Hilfsbereitschaft) im Hinblick auf einen wertorientierten Umgang miteinander (zum Beispiel Achtung, Gerechtigkeit, Kinderrechte) diskutieren und bewerten"
+                }
+            ],
+            "guidelines": [
+                "PG_01",
+                "BNE_04",
+                "BTV_05",
+                "BTV_03",
+                "BTV_04",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_D_IK_5-6_01_02_13",
+                "BP2016BW_ALLG_GYM_E1_IK_5-6_02_00_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_F1_IK_5-6_02_00_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_02_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_a",
+            "name": "3.0.5.1 Mythologische, religi\u00f6se und wissenschaftliche Erkl\u00e4rungen von Mensch und Welt",
+            "path": [
+                "05",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_01",
+                    "content": "Entstehungsmythen und \u2011geschichten aus unterschiedlichen Quellen (zum Beispiel Mythen, G\u00f6ttersagen, religi\u00f6se Schriften) erfassen und charakteristische Merkmale herausarbeiten (zum Beispiel \u00fcbernat\u00fcrliche M\u00e4chte, Erz\u00e4hlform, Form der \u00dcberlieferung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_02",
+                    "content": "verschiedene Entstehungsmythen und \u2011geschichten in ihrer Bedeutung f\u00fcr das Selbstverst\u00e4ndnis des Menschen und f\u00fcr sein Verst\u00e4ndnis von Welt (zum Beispiel Weltentstehung, Menschenbild, G\u00f6tter- oder Gottesbild, Ursprung von Gut und B\u00f6se) erfassen und vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_03",
+                    "content": "Entstehungsmythen und \u2011geschichten im Hinblick auf eine m\u00f6gliche Orientierung im Handeln (zum Beispiel Regeln, Werte) untersuchen und beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_04",
+                    "content": "Beispiele wissenschaftlicher Erkl\u00e4rungen von Mensch und Welt (zum Beispiel Urknalltheorie, Evolutionstheorie) wiedergeben und deren Merkmale aufzeigen (zum Beispiel Rolle der Erfahrungen, argumentative Struktur)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_5-6_05_01_05",
+                    "content": "Gemeinsamkeiten und Unterschiede (zum Beispiel Sinnfrage, Herkunft, Lebenshilfe) zwischen mythologischen, religi\u00f6sen und wissenschaftlichen Erkl\u00e4rungen von Mensch und Welt erfassen und diskutieren"
+                }
+            ],
+            "guidelines": [
+                "BTV_08"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_04_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_03",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_04",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_02_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_5-6_04_01_02",
+                "BP2016BW_ALLG_GYM_D_IK_5-6_01_01_04",
+                "BP2016BW_ALLG_GYM_REV_IK_5-6_01_00_01",
+                "BP2016BW_ALLG_GYM_RRK_IK_5-6_02_00_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_01_a",
+            "name": "3.3.5.1 Grundlagen philosophischer Ethik",
+            "path": [
+                "05",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "BF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_01_01",
+                    "content": "deskriptive Ethik, normative Ethik und Metaethik hinsichtlich ihrer Funktionen und Arbeitsweisen unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_01_02",
+                    "content": "Argumentationsformen und \u2011strukturen im Kontext von Ethik und Moral anhand von Beispielen identifizieren und veranschaulichen (zum Beispiel praktischer Syllogismus, Toulmin-Schema, naturalistischer Fehlschluss)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_01_03",
+                    "content": "Aufgaben und Grenzen philosophischer Ethik in einer pluralistischen Gesellschaft beschreiben und diskutieren (zum Beispiel Pr\u00fcfung von Geltungsanspr\u00fcchen, ethisch-moralische Reflexion, Relativismus und Universalismus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_05_01_04",
+                    "content": "eine Position der Moralkritik in ihren Grundz\u00fcgen darstellen und bewerten (zum Beispiel Marx, Nietzsche, Freud)"
+                }
+            ],
+            "guidelines": [
+                "BNE_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-BF_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_a",
+            "name": "3.4.3.3 Pflichtethik",
+            "path": [
+                "03",
+                "03"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_01",
+                    "content": "Kants Programm der Aufkl\u00e4rung anhand seiner grundlegenden Ideen erarbeiten und reflektieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_02",
+                    "content": "zentrale philosophische Begriffe der kantischen Pflichtethik (Autonomie, Vernunft, Freiheit, guter Wille, Pflicht, Neigung, Maxime, Imperative) bestimmen und erl\u00e4utern"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_03",
+                    "content": "die Vorstellung Kants vom Menschen als Sinnes- und Vernunftwesen darstellen und im Zusammenhang von Kants Moralbegr\u00fcndung erkl\u00e4ren (B\u00fcrger zweier Welten, Heteronomie, Autonomie)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_04",
+                    "content": "Kants Begr\u00fcndung der Moralphilosophie durch Freiheit und Vernunft erschlie\u00dfen und darlegen (Autonomie des Willens, Pflicht und Neigung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_05",
+                    "content": "den Gegensatz von Pflicht und Neigung erkennen und Handeln aus Pflicht von pflichtgem\u00e4\u00dfem Handeln unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_06",
+                    "content": "Handeln aus Pflicht als Ausdruck des guten Willens erl\u00e4utern und sich damit auseinandersetzen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_07",
+                    "content": "Maxime, hypothetische Imperative und den Kategorischen Imperativ bestimmen und den Kategorischen Imperativ als Pr\u00fcfverfahren des Moralischen erfassen (Universalisierung) und von der Goldenen Regel unterscheiden"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_08",
+                    "content": "Kants Konzeption der Menschenw\u00fcrde darstellen und anhand von Beispielen pr\u00fcfen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_09",
+                    "content": "auf der Grundlage von Kants Pflichtethik Entscheidungs- und Handlungsm\u00f6glichkeiten f\u00fcr verschiedene Problemstellungen der Angewandten Ethik (zum Beispiel in Alltagssituationen, Medizin, Medien, \u00d6kologie) exemplarisch erarbeiten, diskutieren und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_03_10",
+                    "content": "M\u00f6glichkeiten und Grenzen der Pflichtethik von Kant (zum Beispiel bezogen auf Menschenbild, guter Wille, Pflicht, Folgen, Gef\u00fchle) auch im Vergleich zu anderen Positionen der Moralphilosophie untersuchen und bewerten"
+                }
+            ],
+            "guidelines": [
+                "BTV_04",
+                "BNE_05"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_08",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_10",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_02_a",
+            "name": "3.4.2.2 Gerechtigkeit und Recht",
+            "path": [
+                "02",
+                "02"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "11",
+                "12",
+                "LF"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_02_01",
+                    "content": "individuelle und institutionelle Gerechtigkeitsprobleme in der Lebenswelt identifizieren und mithilfe verschiedener Formen der Gerechtigkeit (zum Beispiel Verteilungs\u2011, Bildungs\u2011, Generationengerechtigkeit) analysieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_02_02",
+                    "content": "die Gerechtigkeitstheorie von John Rawls mit einer weiteren Theorie der Gerechtigkeit (zum Beispiel Frankfurt, von Hayek, Nussbaum, Walzer) in Grundz\u00fcgen vergleichen und das zugrundeliegende Verst\u00e4ndnis von Gerechtigkeit herausarbeiten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_02_03",
+                    "content": "die Tragf\u00e4higkeit dieser Theorien f\u00fcr die L\u00f6sung von Gerechtigkeitsfragen (zum Beispiel bezogen auf Bildung, Generationengerechtigkeit, Einkommen) untersuchen und problematisieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_02_04",
+                    "content": "die Bedeutung des Rechtspositivismus und seiner Kritik (zum Beispiel Vernunft\u2011, Naturrecht) diskutieren und das Verh\u00e4ltnis von Legalit\u00e4t und Legitimit\u00e4t (Recht und Moral) an konkreten F\u00e4llen er\u00f6rtern (zum Beispiel ziviler Ungehorsam)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_02_02_05",
+                    "content": "Funktionen des Rechts und Merkmale eines gerechten Strafrechts diskutieren (Strafzwecktheorien, Alternativen zur Strafe, zugrundeliegendes Menschenbild)"
+                }
+            ],
+            "guidelines": [
+                "BTV_06",
+                "BNE_06"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_11-12-LF_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_03",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_01_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01_a",
+            "name": "3.1.4.1 Menschenw\u00fcrdiges Leben in Armut und Reichtum",
+            "path": [
+                "04",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01_01",
+                    "content": "Erscheinungsformen und Ursachen von Armut und Reichtum erfassen und beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01_02",
+                    "content": "unterschiedliche Auffassungen von Armut und Reichtum erl\u00e4utern und voneinander abgrenzen (beispielsweise Geschichte, Kulturen, Religionen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01_03",
+                    "content": "Auswirkungen von Armut und Reichtum auf die M\u00f6glichkeiten eines selbstbestimmten Lebens beschreiben und im Hinblick auf Gerechtigkeitsvorstellungen beurteilen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01_04",
+                    "content": "grundlegende Menschenrechte benennen und die Relevanz ihrer Achtung f\u00fcr ein menschenw\u00fcrdiges Leben erkl\u00e4ren (zum Beispiel Kinderrechte)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_04_01_05",
+                    "content": "Handlungsm\u00f6glichkeiten zur Sicherung menschenw\u00fcrdiger und gerechter Lebensverh\u00e4ltnisse im eigenen Lebensumfeld darlegen und diskutieren (beispielsweise bezogen auf Konsum, soziales Engagement, Fair Trade)"
+                }
+            ],
+            "guidelines": [
+                "PG_05",
+                "BNE_01",
+                "BNE_07",
+                "VB_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_02",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_07_01",
+                "BP2016BW_ALLG_GYM_G_IK_7-8_02_00",
+                "BP2016BW_ALLG_GYM_G_IK_7-8_03_00",
+                "BP2016BW_ALLG_GYM_GK_IK_8-9-10_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_07",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_04_02"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_a",
+            "name": "3.1.2.1 Friedliches Zusammenleben und die Bedeutung von Konflikten",
+            "path": [
+                "02",
+                "01"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "7",
+                "8"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_01",
+                    "content": "Ursachen und Folgen von Konflikten an Beispielen herausarbeiten und im Zusammenhang mit Vorstellungen eines friedlichen Zusammenlebens untersuchen (zum Beispiel bezogen auf Intoleranz, Ungerechtigkeit, Wertekollision, Vorurteile, Diskriminierung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_02",
+                    "content": "Formen von Gewalt in ihrer eigenen Lebenswelt identifizieren, unterscheiden und diskutieren (zum Beispiel physische, psychische, individuelle, kollektive Gewalt)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_ETH_IK_7-8_02_01_03",
+                    "content": "moralische Werte und Normen als Voraussetzung und Grundlage eines friedlichen Zusammenlebens beschreiben, in ihrer Bedeutung erl\u00e4utern und altersgem\u00e4\u00df dazu Stellung nehmen (zum Beispiel Toleranz, Achtung, Gerechtigkeit, Menschenrechte, Grundgesetz)"
+                }
+            ],
+            "guidelines": [
+                "BTV_06",
+                "PG_07"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_01",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_01_03",
+                "BP2016BW_ALLG_GYM_ETH_IK_7-8_03_01",
+                "BP2016BW_ALLG_GYM_GK_IK_8-9-10_04_01",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_05",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_04",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_06",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_02",
+                "BP2016BW_ALLG_GYM_ETH_PK_02_09",
+                "BP2016BW_ALLG_GYM_ETH_PK_03_01"
+            ]
+        }
+    ]
+]

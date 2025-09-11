@@ -1,0 +1,298 @@
+[
+    [
+        {
+            "name": "(sich) \u00e4u\u00dfern, ausdr\u00fccken",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Aussagen zu einem Thema machen, Gedanken zum Ausdruck bringen, auch ungeordnet oder unvollst\u00e4ndig",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "analysieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "inhaltliche und/oder sprachliche Aspekte eines Textes (zum Beispiel Strukturen, Motive, Intention) herausarbeiten und erkl\u00e4ren",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "an\u2011/verwenden, nutzen, einsetzen, beachten",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "sprachliche und inhaltliche Kenntnisse sowie Methoden und Lernstrategien durch Abstraktion und Transfer in anderen Kontexten nutzbar machen, Regeln und Konventionen zur Kenntnis nehmen und bewusst einhalten",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "(korrekt) aussprechen, schreiben, vortragen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Aussprache, Intonationsmuster und Schreibweise von W\u00f6rtern und S\u00e4tzen korrekt umsetzen",
+            "difficulty": "I"
+        },
+        {
+            "name": "austauschen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "sich im Gespr\u00e4ch gegenseitig Fragen stellen und Informationen \u00fcber Sachverhalte, Meinungen, Positionen geben",
+            "difficulty": "I, II, III"
+        },
+        {
+            "name": "ein Gespr\u00e4ch / eine Diskussion beginnen, aufrechterhalten (fortf\u00fchren) und beenden",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "ein Gespr\u00e4ch / eine Diskussion unter Anwendung soziokulturellen Wissens sowie unter Verwendung geeigneter sprachlicher Mittel (auch Floskeln und Wendungen) und Gespr\u00e4chsstrategien adressatengerecht f\u00fchren",
+            "difficulty": "III"
+        },
+        {
+            "name": "begr\u00fcnden",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Positionen, Auffassungen oder Urteile durch Argumente st\u00fctzen oder widerlegen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "belegen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "eine Deutungshypothese durch Verweis auf spezifische Textstellen nachweisen",
+            "difficulty": "I"
+        },
+        {
+            "name": "(be\u2011)nennen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Sachverhalte pr\u00e4zise bezeichnen, aufz\u00e4hlen oder auflisten",
+            "difficulty": "I"
+        },
+        {
+            "name": "beschreiben",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Gegenst\u00e4nde, Personen und Vorg\u00e4nge sachlich und pr\u00e4zise darstellen",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "bewerten",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Aussagen, Positionen, Ma\u00dfnahmen, L\u00f6sungen auf ihre Vor- und Nachteile hin pr\u00fcfen und darauf basierend zu einem begr\u00fcndeten Urteil gelangen",
+            "difficulty": "III"
+        },
+        {
+            "name": "in Beziehung setzen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt, ein Zitat oder ein Argument aspekt- und kriterienorientiert mit einem anderen kombinieren oder in einen neuen (gegebenenfalls \u00fcbergeordneten) Zusammenhang stellen",
+            "difficulty": "III"
+        },
+        {
+            "name": "darstellen, darlegen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Positionen sachbezogen ausf\u00fchren",
+            "difficulty": "II"
+        },
+        {
+            "name": "erkennen, identifizieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "(gelernte) sprachliche oder inhaltliche Sachverhalte (auch Strukturen und Sprechintentionen) in Texten erfassen",
+            "difficulty": "I"
+        },
+        {
+            "name": "erkl\u00e4ren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Sachverhalte so darstellen, dass Zusammenh\u00e4nge (wie Ursache, Folge) klar werden, auch unter Verwendung geeigneter Beispiele",
+            "difficulty": "II"
+        },
+        {
+            "name": "er\u00f6rtern",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "eine vorgegebene Problemstellung unter Abw\u00e4gung von Argumenten diskutieren und zu einem begr\u00fcndeten Urteil kommen",
+            "difficulty": "III"
+        },
+        {
+            "name": "erschlie\u00dfen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einen sprachlichen oder inhaltlichen Sachverhalt aus dem Kontext heraus und/oder unter Anwendung textexternen Wissens herleiten",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "(nach\u2011)erz\u00e4hlen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Erlebtes, Erdachtes, Geh\u00f6rtes oder Gelesenes mit narrativer Struktur ausf\u00fchren",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "formulieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Inhalte, Sachverhalte mit eigenen Worten und unter Beachtung sprachlicher Regeln zum Ausdruck bringen",
+            "difficulty": "I"
+        },
+        {
+            "name": "herausarbeiten",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Teilaspekte (zum Beispiel Strukturen, Leitgedanken, Strategien) aus einem Textganzen herausl\u00f6sen und auf Wesentliches konzentriert darlegen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "Informationen entnehmen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "explizite oder implizite Aussagen in einem Text erfassen",
+            "difficulty": "I, II, III"
+        },
+        {
+            "name": "interpretieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "den Sinngehalt eines Textes unter Ber\u00fccksichtigung des Inhalts, des Aufbaus, der sprachlichen Mittel sowie textexterner Aspekte (zum Beispiel historischer, sozialer) erkl\u00e4ren",
+            "difficulty": "III"
+        },
+        {
+            "name": "kommentieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt oder eine Fragestellung kritisch beleuchten beziehungsweise Anmerkungen zu einem Sachverhalt machen",
+            "difficulty": "III"
+        },
+        {
+            "name": "Leerstellen f\u00fcllen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "fiktionale Texte sach\u2011, textsorten- und/oder aufgabengerecht erweitern",
+            "difficulty": "III"
+        },
+        {
+            "name": "nachschlagen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Informationen (lexikalische Einheiten, grammatische Ph\u00e4nomene, Aussprache) zur Texterschlie\u00dfung oder zur Textproduktion gezielt in ad\u00e4quaten Nachschlagewerken auffinden und nutzbar machen",
+            "difficulty": "I"
+        },
+        {
+            "name": "eine Perspektive \u00fcbernehmen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "sich in eine bestimmte Person oder Rolle hineinversetzen",
+            "difficulty": "III"
+        },
+        {
+            "name": "pr\u00e4sentieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Sachverhalte unterschiedlicher Komplexit\u00e4t der Klasse oder einem Publikum vorstellen, gegebenenfalls unter Einsatz geeigneter Pr\u00e4sentationstechniken und \u2011medien",
+            "difficulty": "III"
+        },
+        {
+            "name": "reagieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "\u00c4u\u00dferungen eines Gespr\u00e4chspartners angemessen verbal und/oder nonverbal begegnen",
+            "difficulty": "I, II, III"
+        },
+        {
+            "name": "eine Rolle gestalten",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "eine Rolle sprachlich und inhaltlich erarbeiten und ausf\u00fcllen (szenische Interpretation einer Figur, ausgehend von einer Textvorlage oder einer von Sch\u00fclerinnen und Sch\u00fclern ausgearbeiteten Gestaltung einer Leerstelle)",
+            "difficulty": "III"
+        },
+        {
+            "name": "Stellung beziehen, den eigenen Standpunkt vertreten",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "den eigenen Standpunkt mit geeigneten Argumenten begr\u00fcndet darlegen beziehungsweise in einer Diskussion verteidigen",
+            "difficulty": "III"
+        },
+        {
+            "name": "strukturieren",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "nach vorgegebenen oder eigenen Kriterien ordnen",
+            "difficulty": "II"
+        },
+        {
+            "name": "\u00fcberarbeiten",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einen Text anhand bekannter Kriterien und Regeln auf seine Richtigkeit und/oder auf seine stilistische Qualit\u00e4t hin pr\u00fcfen und gegebenenfalls verbessern",
+            "difficulty": "II"
+        },
+        {
+            "name": "\u00fcbersetzen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Sachverhalte in einer anderen Sprache pr\u00e4zise wiedergeben",
+            "difficulty": "II"
+        },
+        {
+            "name": "\u00fcbertragen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Inhalte von Texten sach\u2011, adressaten- und situationsgerecht zusammenfassen und sinngem\u00e4\u00df in der jeweils anderen Sprache wiedergeben",
+            "difficulty": "II"
+        },
+        {
+            "name": "einen Text umgestalten",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einen Text textsortengerecht umschreiben (zum Beispiel anderer Schluss) oder in eine andere Textsorte \u00fcberf\u00fchren",
+            "difficulty": "III"
+        },
+        {
+            "name": "einen Text verfassen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einen Text unter Anwendung der erforderlichen Textsortenmerkmale schreiben (zum Beispiel innerer Monolog, Tagebucheintrag, Brief)",
+            "difficulty": "III"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Gemeinsamkeiten und Unterschiede zwischen Sachverhalten, Standpunkten und Personen feststellen und Schl\u00fcsse ziehen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "versprachlichen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "diskontinuierliche Texte, Bilder und Bildsequenzen unter Verwendung angemessener Redemittel pr\u00e4zise und sachbezogen in kontinuierliche Texte \u00fcbertragen",
+            "difficulty": "III"
+        },
+        {
+            "name": "(global, detailliert, selektiv) verstehen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einem Text \u2013 je nach Lese- oder H\u00f6rabsicht \u2013 Informationen entnehmen, die aus dem Textganzen, aus f\u00fcr das Textverst\u00e4ndnis relevanten Details oder aus ausgew\u00e4hlten Einzeltextstellen hervorgehen",
+            "difficulty": "I"
+        },
+        {
+            "name": "wiedergeben",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Textinhalte mit eigenen Worten ausf\u00fchren",
+            "difficulty": "I"
+        },
+        {
+            "name": "zuordnen, unterscheiden",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "einzelne Inhalte (zum Beispiel Laute) einer vorgegebenen Kategorie zuweisen",
+            "difficulty": "I"
+        },
+        {
+            "name": "zusammenfassen",
+            "subject": "E1",
+            "school_type": "GYM",
+            "description": "Texte beziehungsweise einzelne Textaspekte sachbezogen, strukturiert und auf das Wesentliche begrenzt wiedergeben",
+            "difficulty": "II"
+        }
+    ]
+]

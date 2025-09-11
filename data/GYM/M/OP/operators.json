@@ -1,0 +1,151 @@
+[
+    [
+        {
+            "name": "angeben",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Ergebnisse numerisch oder verbal formulieren, ohne Darstellung des L\u00f6sungsweges und ohne Begr\u00fcndungen",
+            "difficulty": "I"
+        },
+        {
+            "name": "anwenden, durchf\u00fchren",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "nach bekannten Regeln oder Anweisungen von einer Aufgabenstellung zu einem definierten Ziel gelangen",
+            "difficulty": "II"
+        },
+        {
+            "name": "auswerten",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Daten, Einzelergebnisse oder sonstige Sachverhalte zu einer abschlie\u00dfenden, begr\u00fcndeten Gesamtaussage zusammenf\u00fchren",
+            "difficulty": "II"
+        },
+        {
+            "name": "begr\u00fcnden",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "eine Aussage, einen Sachverhalt durch Berechnungen, nach g\u00fcltigen Schlussregeln, durch Herleitungen oder inhaltliche Argumentation verifizieren oder falsifizieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "berechnen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Ergebnisse von einem Ansatz oder einer Formel ausgehend durch Rechenoperationen gewinnen",
+            "difficulty": "I"
+        },
+        {
+            "name": "beschreiben, formulieren",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt oder ein Verfahren in vollst\u00e4ndigen S\u00e4tzen unter Verwendung der Fachsprache mit eigenen Worten wiedergeben (hier sind auch Einschr\u00e4nkungen m\u00f6glich: \u201eBeschreiben Sie in Stichworten\u201c) beziehungsweise in einer vorgeschriebenen Form darstellen (zum Beispiel: \u201eBeschreiben Sie als Term\u201c)",
+            "difficulty": "II"
+        },
+        {
+            "name": "bestimmen, erschlie\u00dfen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "L\u00f6sungen, L\u00f6sungswege beziehungsweise Zusammenh\u00e4nge auf der Basis von Vorkenntnissen oder Verfahren finden und darstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "beurteilen, bewerten",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt nach fachwissenschaftlichen oder fachmethodischen Kriterien, pers\u00f6nlichem oder gesellschaftlichem Wertebezug begr\u00fcndet einsch\u00e4tzen und ein selbstst\u00e4ndiges Urteil formulieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "beweisen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Aussagen unter Verwendung von bekannten mathematischen S\u00e4tzen, logischen Schl\u00fcssen und \u00c4quivalenzumformungen und unter Beachtung formaler Kriterien verifizieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "darstellen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "mathematische Objekte in einer fachlich \u00fcblichen oder in einer vorgeschriebenen Form wiedergeben graphisch darstellen: Anfertigen einer zeichengenauen, graphischen Darstellung auf der Basis der genauen Wiedergabe wesentlicher Punkte beziehungsweise ma\u00dfgetreues oder ma\u00dfst\u00e4bliches zeichnerisches Darstellen eines Objekts",
+            "difficulty": "I"
+        },
+        {
+            "name": "deuten, interpretieren",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Ph\u00e4nomene, Strukturen oder Ergebnisse in eine andere mathematische Sichtweise umdeuten oder r\u00fcck\u00fcbersetzen auf das urspr\u00fcngliche Problem",
+            "difficulty": "II"
+        },
+        {
+            "name": "entnehmen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "aus vorgegebenen Darstellungen Daten zur Beantwortung von Fragen oder zur Weiterbearbeitung aufbereiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "erkennen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Muster ohne ausf\u00fchrliche Begr\u00fcndung feststellen beziehungsweise feststellen, dass in einer Situation bestimmte fachliche Definitionen zutreffen",
+            "difficulty": "I"
+        },
+        {
+            "name": "erkl\u00e4ren, erl\u00e4utern",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Sachverhalte auf der Grundlage von Vorkenntnissen so darlegen und veranschaulichen, dass sie verst\u00e4ndlich werden",
+            "difficulty": "II"
+        },
+        {
+            "name": "identifizieren",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "mathematische Objekte und die zugeh\u00f6rigen Fachbegriffe begr\u00fcndet miteinander verbinden",
+            "difficulty": "I"
+        },
+        {
+            "name": "nutzen, umgehen mit, verwenden",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Fachbegriffe, Regeln, mathematische S\u00e4tze, Zusammenh\u00e4nge oder Verfahren auf einen anderen Sachverhalt beziehen",
+            "difficulty": "II"
+        },
+        {
+            "name": "skizzieren",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "die wesentlichen Eigenschaften eines Objekts graphisch vereinfacht darstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "\u00fcberpr\u00fcfen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "durch Anwendung mathematischer Regeln oder Kenntnisse in einer ergebnisoffenen Situation einen vorgegebenen Sachverhalt verifizieren oder falsifizieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "untersuchen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Probleme, Fragestellungen nach bestimmten, fachlich \u00fcblichen beziehungsweise sinnvollen Kriterien zielorientiert erkunden",
+            "difficulty": "II"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "Gemeinsamkeiten und Unterschiede herausarbeiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "zuordnen",
+            "subject": "M.V2",
+            "school_type": "GYM",
+            "description": "einen begr\u00fcndeten Zusammenhang zwischen Objekten oder Darstellungen herstellen",
+            "difficulty": "II"
+        }
+    ]
+]

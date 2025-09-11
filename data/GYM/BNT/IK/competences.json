@@ -1,0 +1,810 @@
+[
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_a",
+            "name": "3.1.4 Energie effizient nutzen",
+            "path": [
+                "04",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_01",
+                    "content": "Energie\u00fcbertragungsketten in Natur und Technik beschreiben (von der Sonne \u00fcber Pflanzen bis zum Menschen, von fossilen und regenerativen Energietr\u00e4gern bis zum Haushalt) und Gr\u00fcnde f\u00fcr den sorgsamen Umgang mit Energie erkennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_02",
+                    "content": "die energetische Bedeutung von Nutzpflanzen f\u00fcr den Menschen beschreiben (zum Beispiel Kartoffel, Sonnenblume, H\u00fclsenfr\u00fcchte)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_03",
+                    "content": "die Verwendung von Nutzpflanzen f\u00fcr die Energiewirtschaft beschreiben (zum Beispiel Holz, Mais)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_04",
+                    "content": "Verbrennungen unter dem Aspekt der Energieabgabe beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_05",
+                    "content": "brennbare Materialien (zum Beispiel Kerzenwachs, Brennergas) im Zusammenhang mit der Anwesenheit von Sauerstoff als Energietr\u00e4ger beschreiben (Sauerstoff als Luftbestandteil)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_06",
+                    "content": "das Entz\u00fcnden eines Stoffes bei Temperaturerh\u00f6hung untersuchen (zum Beispiel Z\u00fcndtemperatur, Flammtemperatur)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_07",
+                    "content": "Methoden des Feuerl\u00f6schens durchf\u00fchren und erkl\u00e4ren (Verbrennungsbedingungen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_08",
+                    "content": "thermische Ph\u00e4nomene beobachten und die drei thermischen Energietransportarten untersuchen und beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_09",
+                    "content": "Materialien und Gegenst\u00e4nde im Hinblick auf deren Aufnahme von W\u00e4rmestrahlung untersuchen und Anwendungen in Natur und Technik erkl\u00e4ren (zum Beispiel Sonnenkollektor)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_10",
+                    "content": "untersuchen, welche Materialien in Natur und Technik zur W\u00e4rmed\u00e4mmung geeignet sind"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_11",
+                    "content": "einfache Experimente zum sorgsamen Umgang mit Energie durchf\u00fchren und daraus Verhaltensregeln f\u00fcr den Alltag in der Schule und zu Hause ableiten (zum Beispiel Kochen, Sto\u00dfl\u00fcften, Beleuchtung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_12",
+                    "content": "die jahreszeitlich bedingten Angepasstheiten von heimischen Tieren in Bezug auf den Energiehaushalt erkl\u00e4ren (zum Beispiel Fellwechsel, Winterspeck, Winterruhe, Winterschlaf, K\u00e4ltestarre, Vogelzug)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_13",
+                    "content": "Angepasstheit bei Tieren im Hinblick auf eine energieoptimierte Fortbewegung im Wasser oder in der Luft beschreiben und untersuchen (zum Beispiel Vogelskelett, Federn, Gestalt bei Fischen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_14",
+                    "content": "an einem einfachen Beispiel beschreiben, wie Energie zielgerichtet in einem technischen Prozess genutzt werden kann (zum Beispiel Gummibandantrieb, Elektromotor, einfacher Sonnenkollektor, einfache photovoltaische Anwendung, Fahrrad, Weihnachtspyramide)"
+                }
+            ],
+            "guidelines": [
+                "BNE_04",
+                "PG_05",
+                "BO_01",
+                "PG_08",
+                "BNE_01",
+                "BNE_04",
+                "PG_02",
+                "BO_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_04_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_10"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_a",
+            "name": "3.1.1 Denk- und Arbeitsweisen der Naturwissenschaften und der Technik",
+            "path": [
+                "01",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_01",
+                    "content": "wichtige Arbeitsger\u00e4te sicher nutzen und deren bestimmungsgem\u00e4\u00dfen Einsatz erl\u00e4utern (unter anderem Gasbrenner, Thermometer, Lupe oder Stereolupe, Werkzeuge)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_02",
+                    "content": "an Naturph\u00e4nomenen Beobachtungen sammeln, zielgerichtet zuordnen und auswerten sowie an geeigneten Beispielen beschreiben, wie man dabei vorgeht (zum Beispiel anhand von Schwimmen und Sinken, thermischem Energietransport, Fortbewegung, Wachstum)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_03",
+                    "content": "an Beispielen die Vorteile der fachsprachlichen Beschreibung von Ph\u00e4nomenen gegen\u00fcber der Alltagssprache darstellen (zum Beispiel anhand von Schwereempfinden, Masse, Dichte, W\u00e4rmeempfinden, Temperatur, Brennen, Erhitzen, Schmelzen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_04",
+                    "content": "an Beispielen die naturwissenschaftliche Arbeitsweise durchf\u00fchren und erl\u00e4utern (Beobachtung eines Ph\u00e4nomens, Vermutung, Experiment, \u00dcberpr\u00fcfung der Vermutung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_05",
+                    "content": "Experimente planen und durchf\u00fchren, Messwerte erfassen und Ergebnisse protokollieren sowie erl\u00e4utern, wie man dabei vorgeht (Tabellen, Diagramme und Skizzen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_06",
+                    "content": "wirbellose Tiere fangen und untersuchen, Pflanzen klassifizieren und archivieren sowie beschreiben, wie man dabei vorgeht"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_07",
+                    "content": "Wachstum und Entwicklung von Lebewesen beobachten und erl\u00e4utern (zum Beispiel Keimung von Samen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_08",
+                    "content": "verschiedene Lebewesen aufgrund gemeinsamer Merkmale kriteriengeleitet vergleichen und die Bedeutung des systematischen Ordnens beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_09",
+                    "content": "an einem Sachmodell die Unterschiede zwischen den Eigenschaften des Originals und denen des Modells beschreiben und Grenzen des Modells beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_10",
+                    "content": "zu einer vorher festgelegten Problemstellung ein technisches Produkt (zum Beispiel Lastkahn, Fahrzeug) herstellen und die Herstellungsschritte erl\u00e4utern (Planung, Skizze, Materialliste)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_11",
+                    "content": "ein selbst hergestelltes technisches Produkt bewerten und den Herstellungsprozess beschreiben (zum Beispiel Funktionalit\u00e4t, Fertigungsqualit\u00e4t, \u00c4sthetik, Ans\u00e4tze zur Optimierung)"
+                }
+            ],
+            "guidelines": [
+                "PG_02",
+                "PG_08",
+                "MB_08",
+                "MB_03",
+                "PG_02"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_GEO_IK_5-6_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_04_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_04",
+                "BP2016BW_ALLG_GYM_SPO_IK_5-6_01_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_02",
+                "BP2016BW_ALLG_GYM_GEO_IK_5-6_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_04",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_M_IK_5-6_02_00",
+                "BP2016BW_ALLG_GYM_M_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_03",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_08",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_04_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_14",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_04_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_04_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_04_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_05"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_a",
+            "name": "3.1.5 Wirbeltiere",
+            "path": [
+                "05",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_01",
+                    "content": "die Kennzeichen der Lebewesen beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_02",
+                    "content": "die Lebensweise und den K\u00f6rperbau von mehreren S\u00e4ugetieren, die als Haus- oder Nutztiere gehalten werden, beschreiben und vergleichen (zum Beispiel Hund, Katze, Rind, Schwein, Pferd)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_03",
+                    "content": "die typischen S\u00e4ugetiermerkmale beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_04",
+                    "content": "angemessene Haltungsbedingungen von Haus- und Nutztieren anhand ausgew\u00e4hlter Beispiele erkl\u00e4ren (zum Beispiel unter dem Aspekt des Tierschutzes)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_05",
+                    "content": "verschiedene Formen der Tierhaltung beschreiben und bewerten (zum Beispiel artgerechte H\u00fchnerhaltung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_06",
+                    "content": "den K\u00f6rperbau und die Lebensweise heimischer S\u00e4ugetiere als Angepasstheit erl\u00e4utern (zum Beispiel Eichh\u00f6rnchen, Igel, Maulwurf, Fledermaus)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_07",
+                    "content": "die Ver\u00e4nderung der Lebensweise von Wirbeltieren als Folge der Einfl\u00fcsse des Menschen erl\u00e4utern und bewerten (zum Beispiel Kulturfolger)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_08",
+                    "content": "die Angepasstheit der Reptilien an das Leben an Land an zwei verschiedenen Beispielen erkl\u00e4ren (innere Befruchtung, verhornte Haut, Lungenatmung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_09",
+                    "content": "die typischen Merkmale der Amphibien als Angepasstheit beschreiben (Atmung, Fortpflanzung, Entwicklung im Wasser, Metamorphose der Froschlurche)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_10",
+                    "content": "die Ursachen der Gef\u00e4hrdung von Amphibien erl\u00e4utern und Schutzma\u00dfnahmen beschreiben und bewerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_11",
+                    "content": "die Fortpflanzung und Entwicklung bei Fischen, Amphibien, Reptilien, V\u00f6geln und S\u00e4ugetieren vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_12",
+                    "content": "den Jungentypus (Nesthocker, Nestfl\u00fcchter) bei Wirbeltieren vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_13",
+                    "content": "typische Merkmale der Wirbeltiergruppen (unter anderem im Hinblick auf die stammesgeschichtliche Verwandtschaft) erl\u00e4utern und Tierarten begr\u00fcndet den f\u00fcnf Wirbeltiergruppen zuordnen und vergleichen"
+                }
+            ],
+            "guidelines": [
+                "MB_03",
+                "BNE_03",
+                "BNE_03",
+                "MB_03",
+                "MB_05",
+                "BNE_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_07",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_13",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_12",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_12",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_07",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_08",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00_12",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_07",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00_a",
+            "name": "3.1.9 \u00d6kologie",
+            "path": [
+                "09",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00_01",
+                    "content": "mehrere typische Organismen eines einheimischen Lebensraums mit einfachen Bestimmungshilfen im Freiland klassifizieren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00_02",
+                    "content": "jahreszeitliche Ver\u00e4nderungen innerhalb eines schulnahen Lebensraums (zum Beispiel Baum, Hecke, Wiese) beobachten, protokollieren und mit ver\u00e4nderten Umweltfaktoren begr\u00fcnden"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_03"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_06_00_a",
+            "name": "3.1.6 Entwicklung des Menschen",
+            "path": [
+                "06",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_06_00_01",
+                    "content": "die Geschlechtsorgane des Menschen unter Verwendung der Fachsprache benennen und ihre Funktion beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_06_00_02",
+                    "content": "die physischen und psychischen Ver\u00e4nderungen w\u00e4hrend der Pubert\u00e4t beschreiben und als Ursache die Geschlechtshormone nennen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_06_00_03",
+                    "content": "die Grundlagen der geschlechtlichen Fortpflanzung beim Menschen beschreiben (Geschlechtszellen, Zeugung, innere Befruchtung, Schwangerschaft, Geburt)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_06_00_04",
+                    "content": "den Ablauf und die Periodik des Menstruationszyklus beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_06_00_05",
+                    "content": "Ma\u00dfnahmen der Intimhygiene nennen und begr\u00fcnden"
+                }
+            ],
+            "guidelines": [
+                "MB_06",
+                "PG_04"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_07",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_04"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_a",
+            "name": "3.1.2 Materialien trennen \u2013 Umwelt sch\u00fctzen",
+            "path": [
+                "02",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_01",
+                    "content": "die Bestandteile des Hausm\u00fclls im Modellversuch verschiedenen Wertstofffraktionen zuordnen (zum Beispiel Biom\u00fcll, Papier, Glas, Metalle, Kunststoffe, Verbundstoffe, Problemm\u00fcll)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_02",
+                    "content": "aufgrund der Eigenschaften von Materialien (Aussehen, elektrisch leitend, ferromagnetisch, Dichte) geeignete Methoden zu deren Trennung beschreiben und durchf\u00fchren (Auslesen, elektrische Leitf\u00e4higkeitspr\u00fcfung, Magnettrennung, Schwimmtrennung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_03",
+                    "content": "einen Verbundstoff als aus mehreren Materialien aufgebaut erkennen und in seine Bestandteile trennen (zum Beispiel Getr\u00e4nkeverpackung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_04",
+                    "content": "die Notwendigkeit der fachgerechten Entsorgung von Problemm\u00fcll begr\u00fcnden (zum Beispiel Batterien, Energiesparlampen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_05",
+                    "content": "M\u00f6glichkeiten des Recyclings aufgrund der Materialeigenschaften beschreiben und exemplarisch durchf\u00fchren (zum Beispiel Joghurtbecher umformen, Papier sch\u00f6pfen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_06",
+                    "content": "Recyclingverfahren in der Natur beschreiben und untersuchen (Laubfall, Abbau durch Destruenten, exemplarische Untersuchung eines Destruenten)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_07",
+                    "content": "das eigene Verbraucherverhalten im Sinne einer Ressourcenschonung kritisch bewerten (M\u00fcllvermeidung, M\u00fclltrennung)"
+                }
+            ],
+            "guidelines": [
+                "VB_07",
+                "BNE_01",
+                "BNE_01",
+                "VB_07",
+                "BNE_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_PK_02_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_05"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_a",
+            "name": "3.1.8 Pflanzen",
+            "path": [
+                "08",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_01",
+                    "content": "die typischen Organe einer Bl\u00fctenpflanze nennen und deren Funktion beschreiben"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_02",
+                    "content": "Keimungsexperimente planen, durchf\u00fchren und auswerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_03",
+                    "content": "den Aufbau von Bl\u00fcten untersuchen (zum Beispiel Legebild)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_04",
+                    "content": "aufgrund des Bl\u00fctenbaus Vertreter von vier Pflanzenfamilien aus ihrem Lebensumfeld ermitteln und begr\u00fcndet zuordnen (zum Beispiel Herbarium anlegen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_05",
+                    "content": "die geschlechtliche Fortpflanzung bei Pflanzen (Best\u00e4ubung, Befruchtung, Fruchtentwicklung) beschreiben und mit der ungeschlechtlichen Fortpflanzung vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_06",
+                    "content": "verschiedene M\u00f6glichkeiten der Ausbreitung von Samen und Fr\u00fcchten beschreiben und Experimente hierzu planen, durchf\u00fchren, protokollieren und auswerten"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_07",
+                    "content": "einheimische Laub- und Nadelb\u00e4ume nennen und mit Bestimmungshilfen zuordnen (je vier bis f\u00fcnf Arten)"
+                }
+            ],
+            "guidelines": [],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_05",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_07",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_a",
+            "name": "3.1.3 Wasser \u2013 ein lebenswichtiger Stoff",
+            "path": [
+                "03",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_01",
+                    "content": "Ph\u00e4nomene beim Erw\u00e4rmen und Abk\u00fchlen von Wasser beschreiben (Aggregatzustand, Volumen\u00e4nderung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_02",
+                    "content": "den Temperaturverlauf beim Erhitzen von Wasser dokumentieren und dabei die Siedetemperatur ermitteln (Celsiusskala)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_03",
+                    "content": "w\u00e4ssrige L\u00f6sungen untersuchen und dabei Wasser als L\u00f6sungsmittel beschreiben (Mineralwasser, Salzwasser, S\u00fc\u00dfwasser)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_04",
+                    "content": "Eigenschaften von K\u00f6rpern ermitteln (Masse, Volumen)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_05",
+                    "content": "die Schwimmf\u00e4higkeit von K\u00f6rpern in Wasser mithilfe eines qualitativen Dichtebegriffs erkl\u00e4ren (Schwimmen, Schweben, Sinken)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_06",
+                    "content": "die typischen Kennzeichen der Fische untersuchen (K\u00f6rperform, Flossen, Schuppen, Kiemen, Schwimmblase) und als Angepasstheit an den Lebensraum beschreiben und erkl\u00e4ren (Atmung, Fortbewegung, Schweben)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_07",
+                    "content": "Experimente zur Trennung von Gemischen planen, durchf\u00fchren, dokumentieren (L\u00f6sen, Filtrieren, Dekantieren, Eindampfen) und technische Anwendungen erkl\u00e4ren (Wasserreinigung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_03_00_08",
+                    "content": "die Bedeutung des Wassers f\u00fcr alle Lebewesen erkl\u00e4ren (unter anderem Wasser als L\u00f6sungsmittel)"
+                }
+            ],
+            "guidelines": [
+                "BO_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_M_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_04",
+                "BP2016BW_ALLG_GYM_M_IK_5-6_02_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_03",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_01_00_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_07",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_04_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_10",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_02",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_07",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_06_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06"
+            ]
+        }
+    ],
+    [
+        {
+            "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_a",
+            "name": "3.1.7 Wirbellose",
+            "path": [
+                "07",
+                "00"
+            ],
+            "subject": "GYM",
+            "grades": [
+                "5",
+                "6"
+            ],
+            "school_type": "GYM",
+            "type": "IK",
+            "sub_competences": [
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_01",
+                    "content": "verschiedene Vertreter der wirbellosen Tiere nennen und einer Gruppe der Wirbellosen zuordnen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_02",
+                    "content": "den K\u00f6rperbau der Insekten an einem Beispiel beschreiben (zum Beispiel Biene, Maik\u00e4fer, Waldameise)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_03",
+                    "content": "den K\u00f6rperbau und innere Organe (zum Beispiel Kreislauf, Atmungsorgane) von Insekten und Wirbeltieren vergleichen"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_04",
+                    "content": "die vollst\u00e4ndige und unvollst\u00e4ndige Verwandlung beschreiben und die Metamorphose als Angepasstheit erkl\u00e4ren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_05",
+                    "content": "eine Angepasstheit bei Insekten beschreiben (zum Beispiel Insektenbeine, Mundwerkzeuge, Flugmuskulatur, Staatenbildung)"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_06",
+                    "content": "die Bedeutung der Insekten f\u00fcr die Best\u00e4ubung von Pflanzen und umgekehrt die Abh\u00e4ngigkeit der Insekten von den Pflanzen erkl\u00e4ren"
+                },
+                {
+                    "id": "BP2016BW_ALLG_GYM_BNT_IK_5-6_07_00_07",
+                    "content": "vier Gruppen von Wirbellosen nennen und heimische Vertreter begr\u00fcndet zuordnen"
+                }
+            ],
+            "guidelines": [
+                "BNE_01"
+            ],
+            "referenced_competences": [
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00_09",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_06",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_05_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_01",
+                "BP2016BW_ALLG_GYM_BNT_PK_02_04",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_07",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_03",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_03",
+                "BP2016BW_ALLG_GYM_BNT_PK_03_02",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_08_00_05",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_09_00",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_08",
+                "BP2016BW_ALLG_GYM_BNT_IK_5-6_02_00_06",
+                "BP2016BW_ALLG_GYM_BNT_PK_01_09"
+            ]
+        }
+    ]
+]

@@ -1,0 +1,214 @@
+[
+    [
+        {
+            "name": "anwenden",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "eine bestimmte Technik, ein Material, ein Wissen oder ein Konzept verwenden",
+            "difficulty": "II"
+        },
+        {
+            "name": "auseinandersetzen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "ergebnisoffen Argumente, Aspekte, Eindr\u00fccke oder Sachverhalte strukturieren",
+            "difficulty": "II"
+        },
+        {
+            "name": "begr\u00fcnden",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "komplexe Gedanken schl\u00fcssig entwickeln, im Zusammenhang darstellen und durch Argumente st\u00fctzen",
+            "difficulty": "II"
+        },
+        {
+            "name": "benennen, nennen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt oder Bezeichnungen zielgerichtet begrifflich anf\u00fchren oder Informationen aus vorgegebenem Material entnehmen",
+            "difficulty": "I"
+        },
+        {
+            "name": "beschreiben, erfassen, erkennen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "wesentliche Informationen aus vorgegebenem Material oder aus Kenntnissen zusammenh\u00e4ngend und schl\u00fcssig mit eigenen Worten oder in anderer Form wiedergeben",
+            "difficulty": "I"
+        },
+        {
+            "name": "beurteilen, Beurteilungen vornehmen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "ein durch Fakten gest\u00fctztes selbstst\u00e4ndiges Urteil zu einem Sachverhalt formulieren, wobei die Kriterien und die wesentlichen Gr\u00fcnde f\u00fcr die Beurteilung offengelegt werden",
+            "difficulty": "III"
+        },
+        {
+            "name": "bewerten",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt oder ein Material nach selbst gew\u00e4hlten und begr\u00fcndeten Normen oder Kriterien beurteilen, wobei diese pers\u00f6nlichen Wertbez\u00fcge offenbart werden",
+            "difficulty": "III"
+        },
+        {
+            "name": "darstellen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Sachverhalte, Zusammenh\u00e4nge, Probleme etc. ausf\u00fchrlich objektiv wiedergeben",
+            "difficulty": "I, II"
+        },
+        {
+            "name": "diskutieren",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "ein Bewertungsproblem erfassen, unterschiedliche Positionen auf ihre Stichhaltigkeit und ihren Wert beziehungsweise das F\u00fcr und Wider gegeneinander abw\u00e4gen und zu einem begr\u00fcndeten Urteil kommen",
+            "difficulty": "II, III"
+        },
+        {
+            "name": "dokumentieren",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "etwas schriftlich darstellen",
+            "difficulty": "I"
+        },
+        {
+            "name": "erkunden",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "kriterienorientiert beschreiben und strukturiert darstellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "einordnen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Aussagen \u00fcber Musik, Sachverhalte, H\u00f6rerlebnisse oder Problemstellungen in einen Kontext stellen",
+            "difficulty": "II"
+        },
+        {
+            "name": "einsetzen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Modelle, Theorien, Regeln auf Sachverhalte oder Materialien \u00fcbertragen",
+            "difficulty": "II"
+        },
+        {
+            "name": "entwerfen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "eine musikalische Idee konzipieren",
+            "difficulty": "II"
+        },
+        {
+            "name": "erarbeiten",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "aus gegebenem Material bestimmte musikalische Sachverhalte erkennen und anwenden",
+            "difficulty": "II"
+        },
+        {
+            "name": "erfinden, verklanglichen, vertonen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Aufgabenstellungen produktorientiert bearbeiten sowie eigene Gestaltungsideen entwickeln und umsetzen",
+            "difficulty": "III"
+        },
+        {
+            "name": "erkl\u00e4ren",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Sachverhalte fachsprachlich in einen Zusammenhang stellen und Hintergr\u00fcnde beziehungsweise Ursachen aufzeigen",
+            "difficulty": "II"
+        },
+        {
+            "name": "erl\u00e4utern",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "einen Sachverhalt oder ein Material und seine Hintergr\u00fcnde verdeutlichen, in einen Zusammenhang einordnen und anschaulich und verst\u00e4ndlich machen",
+            "difficulty": "II"
+        },
+        {
+            "name": "gestalten",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Musik vokal oder instrumental realisieren und interpretieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "h\u00f6rend erfassen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "musikalische Sachverhalte und (Verlaufs\u2011)Strukturen h\u00f6rend erkennen und in Worte fassen",
+            "difficulty": "I"
+        },
+        {
+            "name": "interpretieren (Material)",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Elemente, Sinnzusammenh\u00e4nge und strukturelle Kennzeichen aus Materialien oder Sachverhalten unter gegebener Fragestellung herausarbeiten",
+            "difficulty": "III"
+        },
+        {
+            "name": "interpretieren (Musik)",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Musik vokal oder instrumental nach ausgew\u00e4hlten und nachvollziehbaren Wertma\u00dfst\u00e4ben pr\u00e4sentieren",
+            "difficulty": "III"
+        },
+        {
+            "name": "pr\u00e4sentieren, vortragen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Arbeitsergebnisse darbieten",
+            "difficulty": "II"
+        },
+        {
+            "name": "produzieren",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "ein Musikst\u00fcck medial aufnehmen und gegebenenfalls technisch bearbeiten",
+            "difficulty": "II"
+        },
+        {
+            "name": "reflektieren",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Sinnzusammenh\u00e4nge mit unterschiedlichen Erfahrungen und Fakten in Beziehung setzen und \u00fcberdenken",
+            "difficulty": "III"
+        },
+        {
+            "name": "umsetzen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Material in andere Ausdruckformen (zum Beispiel Bewegung) \u00fcberf\u00fchren",
+            "difficulty": "II"
+        },
+        {
+            "name": "unterscheiden, zuordnen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Sachverhalte und H\u00f6rerlebnisse miteinander in Beziehung setzen",
+            "difficulty": "II"
+        },
+        {
+            "name": "verfolgen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "eine oder mehrere Stimmen einer Notation w\u00e4hrend des H\u00f6rens mitlesen",
+            "difficulty": "II"
+        },
+        {
+            "name": "vergleichen",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "Gemeinsamkeiten und Unterschiede gewichtend einander gegen\u00fcberstellen und ein Ergebnis formulieren",
+            "difficulty": "II"
+        },
+        {
+            "name": "wahrnehmen und dar\u00fcber sprechen/sich \u00e4u\u00dfern",
+            "subject": "MUS",
+            "school_type": "GYM",
+            "description": "subjektive H\u00f6reindr\u00fccke verst\u00e4ndlich machen",
+            "difficulty": "I"
+        }
+    ]
+]
