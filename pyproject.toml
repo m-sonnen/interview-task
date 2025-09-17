@@ -1,0 +1,16 @@
+[project]
+name = "interview-task"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "huggingface-hub[hf-xet]>=0.34.4",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchain-huggingface>=0.3.1",
+    "notebook>=7.4.5",
+    "pymupdf>=1.26.4",
+    "qu>=1.2.5",
+    "sentence-transformers>=5.1.0",
+]
